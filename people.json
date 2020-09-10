@@ -8,6 +8,12 @@
 			"email": "axz@cs.uw.edu",
 			"github": "amyxzhang",
 			"twitter": "amyxzh"
+		},
+		{
+			"homepage": "https://homes.cs.washington.edu/~axz",
+			"person_img": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6b9307f268a90053360c608af77072d1d5ec3a1f/images/twitter3.png",
+			"name": "PERSON 2",
+			"position": "PSITION TEWTW"
 		}
 	]
 }
