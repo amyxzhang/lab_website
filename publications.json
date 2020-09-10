@@ -1,0 +1,30 @@
+{
+	"paper": [
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b4226190ee16d62f64f2c7b099f45fd9f01af40e/images/email3.png",
+			"title": "OOOOOOOO",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference url": "fjfjfjfj",
+			"conference": "fefafafewaf",
+			"short_description": "fefawf eaftetwa ea tea3t weatew"
+		}
+	],
+	"conferences": [
+		{
+			"id": "CHI",
+			"name": "ACM Conference on Human Factors in Computing Systems"
+		},
+		{
+			"id": "UIST",
+			"name": "ACM User Interface Software and Technology Symposium"
+		},
+		{
+			"id": "CSCW",
+			"name": "ACM Conference on Computer Supported Cooperative Work and Social Computing"
+		}
+	]
+}
