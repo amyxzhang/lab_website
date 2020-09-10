@@ -1,0 +1,13 @@
+{
+	"person": [
+		{
+			"homepage": "https://homes.cs.washington.edu/~axz",
+			"person_img": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7877ddf21aa0b6eeaf021391d34589f40e414c49/images/amyz.png",
+			"name": "Amy Zhang",
+			"position": "Assistant Professor",
+			"email": "axz@cs.uw.edu",
+			"github": "amyxzhang",
+			"twitter": "amyxzh"
+		}
+	]
+}
