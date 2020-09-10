@@ -1,0 +1,30 @@
+{
+	"paper": [
+		{
+			"picture": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5bf8a3282ac1e5f943301fe4a28f797bd884b844/images/email3.png",
+			"paper_title": "POLICYKIT",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference url": "null",
+			"conference": "UIST",
+			"short_description": "fafeafafafaf scription",
+			"pdf": "null",
+			"website_url": "null",
+			"code_url": "null"
+		},
+		{
+			"picture": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7dbae1edaaf10f569198bdcf9ec19362634d04b8/images/twitter3.png",
+			"paper_title": "DAFAFFFAFA",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference": "CSCW",
+			"short_description": "FAFWEWFWEWEFEWE"
+		}
+	]
+}
