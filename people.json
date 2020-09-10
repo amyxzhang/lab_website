@@ -1,0 +1,11 @@
+{
+	"member": [
+		{
+			"homepage": "hommmmme",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@964f36f935a61685ea9c201f628ef31866dfd55f/images/amyz.png",
+			"name": "Amy Zhang",
+			"jobTitle": "pi",
+			"@type": "Person"
+		}
+	]
+}
