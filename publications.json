@@ -1,0 +1,15 @@
+{
+	"paper": [
+		{
+			"picture": "img/policykit.gif",
+			"paper_title": " Title",
+			"paper_abstract": " Abstract ",
+			"website_url": "https://policykit.org",
+			"code_url": "https://github.com/amyxzhang/policykit"
+		},
+		{
+			"paper_title": "TITLE",
+			"paper_abstract": "ABSTRACTTTTT"
+		}
+	]
+}
