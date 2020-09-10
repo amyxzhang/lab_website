@@ -4,7 +4,9 @@
 			"homepage": "https://homes.cs.washington.edu/~axz",
 			"person_img": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e4d814ab1fd01801e7ce88d347561bbf0934d2c7/images/amyz.png",
 			"name": "Amy Zhang",
-			"position": "Assistant Professor"
+			"position": "Assistant Professor",
+			"twitter": "amyxzh",
+			"github": "amyxzhang"
 		}
 	]
 }
