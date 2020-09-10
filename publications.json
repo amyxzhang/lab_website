@@ -1,0 +1,25 @@
+{
+	"paper": [
+		{
+			"picture": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@16f457c190d3c1b7d9cdb430b4d735139d5feb75/images/uist_policykit_logo.gif",
+			"paper_title": "PolicyKit: Building Governance in Online Communities",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Grant Hugh"
+				},
+				{
+					"author_name": "Michael Bernstein"
+				}
+			],
+			"conference url": "https://uist.acm.org/uist2020/",
+			"conference": "UIST 2020",
+			"short_description": "PolicyKit!",
+			"pdf": "something",
+			"website_url": "policykit.org",
+			"code_url": "something"
+		}
+	]
+}
