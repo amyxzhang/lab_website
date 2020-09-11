@@ -28,7 +28,8 @@
 				"slides_url": "ffff"
 			},
 			"year": "2018",
-			"award": 0
+			"award": 0,
+			"abstract": "AAAAA"
 		},
 		{
 			"title": "fafaafafa",
@@ -43,7 +44,8 @@
 				"pdf_url": "fafafafa"
 			},
 			"year": "2019",
-			"award": 0
+			"award": 0,
+			"abstract": "AAAA"
 		}
 	],
 	"conferences": [
