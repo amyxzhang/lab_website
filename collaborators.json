@@ -1,0 +1,18 @@
+{
+	"member": [
+		{
+			"homepage": "https://homes.cs.washington.edu/~reinecke/",
+			"name": "Katharina Reinecke",
+			"jobTitle": "Professor",
+			"affiliation": "UW CSE",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://www.cs.washington.edu/people/faculty/weld",
+			"name": "Dan Weld",
+			"jobTitle": "Professor",
+			"affiliation": "UW CSE",
+			"@type": "Person"
+		}
+	]
+}
