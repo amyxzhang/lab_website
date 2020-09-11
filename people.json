@@ -61,6 +61,11 @@
 			"jobTitle": "undergrad",
 			"@type": "Person",
 			"links": {}
+		},
+		{
+			"jobTitle": "phd",
+			"links": {},
+			"@type": "Person"
 		}
 	]
 }
