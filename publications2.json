@@ -1,0 +1,25 @@
+{
+	"paper": [
+		{
+			"image": "null",
+			"title": "Paper Title",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{}
+			],
+			"conference url": "null",
+			"conference": "Conference",
+			"year": "Year",
+			"award": "Award",
+			"abstract": "Abstract",
+			"links": {
+				"pdf_url": "null",
+				"website_url": "null",
+				"code_url": "null",
+				"slides_url": "null"
+			}
+		}
+	]
+}
