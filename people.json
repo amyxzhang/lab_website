@@ -6,6 +6,13 @@
 			"name": "Amy Zhang",
 			"jobTitle": "pi",
 			"@type": "Person"
+		},
+		{
+			"homepage": "ffff",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@23ce27a65667b55f89f937d2210f71d70eec3367/images/twitter2.png",
+			"name": "PPPPP",
+			"jobTitle": "phd",
+			"@type": "Person"
 		}
 	]
 }
