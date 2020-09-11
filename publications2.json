@@ -1,6 +1,35 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e7bc6b765f0e2a35b2be5ddc6b9ed6455a2b5955/images/scrolling.png",
+			"title": "Content-Aware Kinetic Scrolling for Supporting Web Page Navigation",
+			"author": [
+				{
+					"author_name": "Juho Kim"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Jihee Kim"
+				},
+				{
+					"author_name": "Robert Miller"
+				},
+				{
+					"author_name": "Krzysztof Gajos"
+				}
+			],
+			"conference url": "https://uist.acm.org/uist2014/",
+			"conference": "UIST",
+			"year": "2014",
+			"abstract": "To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page. This allows users to quickly find interesting content while exploring without further cluttering the limited visual space.",
+			"links": {
+				"pdf_url": "https://juhokim.com/files/UIST2014-CAKS.pdf",
+				"video_url": "https://youtu.be/MZXsrl3csQs"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d1806ef1d641bd002800391dcd122c86b6b829f5/images/climate.png",
 			"title": "Identifying and Analyzing Moral Evaluation Frames in Climate Change Blog Discourse",
 			"author": [
