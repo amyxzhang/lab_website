@@ -1,0 +1,33 @@
+{
+	"paper": [
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6ca6ec2f1adb0fce81bb280349ae940561dca122/images/diurnal.png",
+			"title": "On the Study of Diurnal Urban Routines on Twitter",
+			"author": [
+				{
+					"author_name": "Mor Naaman"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Samuel Brody"
+				},
+				{
+					"author_name": "Gilad Lotan"
+				}
+			],
+			"conference url": "https://www.icwsm.org/2012/",
+			"conference": "ICWSM",
+			"year": "2012",
+			"award": "Award",
+			"abstract": "We study and characterize diurnal patterns in social media data for different urban areas, with the goal of providing context and framing for reasoning about such patterns at different scales. Using one of the largest datasets to date of Twitter content associated with different locations, we examine within-day variability and across-day variability of diurnal keyword patterns for different locations.",
+			"links": {
+				"pdf_url": "https://d1wqtxts1xzle7.cloudfront.net/30608684/naaman-twitterpatterns-icwsm2012.pdf?1361181077=&response-content-disposition=inline%3B+filename%3DOn_the_Study_of_Diurnal_Urban_Routines_o.pdf&Expires=1599858402&Signature=O2t2kLom3YixIfxjkb0tk-OsnrD5v3p8-WKzKKfLNsb6schcqcUcFPYI37SnoTqAjer35PvYJtj7DthGEQDaEzbRdMLN--rTGb3aWrqSh6aMCLQwqH5G2Z0F~B-pQ7C~TnNjXEGYp6Z7i0Vc8w9yZ9Av-W6Xz1qidJ6C17DdEG31X-J~gQXVH9z9mWNMnosQWzmd7w24VEk6FfO8QMcJZUj7BgShtFOBQPw8~0SCGpsGQ7Dkw6IXXoJP-xxU6akRjO4RRaJentw2F9mBv5TGGIeASZGf61FR54DgKfwR7zp-D8DwhlUleQHDnIoUtbJ2M54sb6fzbPc~cdICDsrh4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+				"website_url": "",
+				"code_url": "",
+				"slides_url": ""
+			}
+		}
+	]
+}
