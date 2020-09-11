@@ -1,0 +1,18 @@
+{
+	"member": [
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba8817e4aa7f4f844265753ce2597b610e5e0318/images/amyz.png",
+			"homepage": "https://homes.cs.washington.edu/~axz",
+			"name": "Amy Zhang",
+			"jobTitle": "pi",
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
+			"homepage": "https://shagunjhaver.com/",
+			"name": "Shagun Jhaver",
+			"jobTitle": "postdoc",
+			"@type": "Person"
+		}
+	]
+}
