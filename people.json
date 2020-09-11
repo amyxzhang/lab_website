@@ -13,6 +13,13 @@
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
+			"homepage": "https://homes.cs.washington.edu/~cqz/",
+			"name": "Quan Ze (Jim) Chen",
+			"jobTitle": "phd",
+			"@type": "Person"
 		}
 	]
 }
