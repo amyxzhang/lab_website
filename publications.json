@@ -1,11 +1,17 @@
 {
 	"paper": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b4226190ee16d62f64f2c7b099f45fd9f01af40e/images/email3.png",
-			"title": "OOOOOOOO",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@89104a1d0cf1140360fb655dc63e0db92c3b97ed/images/uist_policykit_logo.gif",
+			"title": "PolicyKit: Building Governance in Online Communities",
 			"author": [
 				{
 					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Grant Hugh"
+				},
+				{
+					"author_name": "Michael Bernstein"
 				}
 			],
 			"conference url": "fjfjfjfj",
