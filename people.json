@@ -20,6 +20,13 @@
 			"name": "Quan Ze (Jim) Chen",
 			"jobTitle": "phd",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
+			"homepage": "https://scholar.google.com/citations?user=CoG7C_YAAAAJ&hl=en",
+			"name": "Ruotong Wang",
+			"jobTitle": "phd",
+			"@type": "Person"
 		}
 	]
 }
