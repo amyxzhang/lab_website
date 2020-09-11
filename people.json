@@ -6,49 +6,61 @@
 			"name": "Amy Zhang",
 			"jobTitle": "pi",
 			"@type": "Person",
-			"bio": "Amy X. Zhang is an assistant professor at University of Washington's Allen School of Computer Science and Engineering. Previously, she was a 2019-20 postdoctoral researcher at Stanford University's Computer Science Department after completing her Ph.D. at MIT CSAIL in 2019,. During her Ph.D., she was an affiliate and 2018-19 Fellow at the Berkman Klein Center at Harvard University, a Google Ph.D. Fellow, and an NSF Graduate Research Fellow."
+			"bio": "Amy X. Zhang is an assistant professor at University of Washington's Allen School of Computer Science and Engineering. Previously, she was a 2019-20 postdoctoral researcher at Stanford University's Computer Science Department after completing her Ph.D. at MIT CSAIL in 2019,. During her Ph.D., she was an affiliate and 2018-19 Fellow at the Berkman Klein Center at Harvard University, a Google Ph.D. Fellow, and an NSF Graduate Research Fellow.",
+			"links": {
+				"website_url": "https://homes.cs.washington.edu/~axz",
+				"scholar_url": "https://scholar.google.com/citations?user=thZJZaYAAAAJ&hl=en",
+				"github_url": "http://github.com/amyxzhang",
+				"twitter_url": "https://twitter.com/amyxzh"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"homepage": "https://shagunjhaver.com/",
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
-			"@type": "Person"
+			"@type": "Person",
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
 			"homepage": "https://homes.cs.washington.edu/~cqz/",
 			"name": "Quan Ze (Jim) Chen",
 			"jobTitle": "phd",
-			"@type": "Person"
+			"@type": "Person",
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
 			"homepage": "https://scholar.google.com/citations?user=CoG7C_YAAAAJ&hl=en",
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
-			"@type": "Person"
+			"@type": "Person",
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fde781477b75652e36b3ab74a7a707f7d9a2b3d8/images/person-male.png",
 			"homepage": "http://social.cs.washington.edu/",
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
-			"@type": "Person"
+			"@type": "Person",
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
 			"homepage": "http://social.cs.washington.edu/",
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
-			"@type": "Person"
+			"@type": "Person",
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4482a6db4d37271a1f81adf0a684dd4be8bdbc6f/images/person-male.png",
 			"homepage": "social.cs.washington.edu",
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
-			"@type": "Person"
+			"@type": "Person",
+			"links": {}
 		}
 	]
 }
