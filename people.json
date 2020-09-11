@@ -41,6 +41,13 @@
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4482a6db4d37271a1f81adf0a684dd4be8bdbc6f/images/person-male.png",
+			"homepage": "social.cs.washington.edu",
+			"name": "Emelia May Hughes",
+			"jobTitle": "undergrad",
+			"@type": "Person"
 		}
 	]
 }
