@@ -98,7 +98,7 @@
 			"conference url": "http://www.scienceengineeringacademy.org/asesite/",
 			"conference": "SocialCom",
 			"year": "2013",
-			"abstract": "Information garnered from activity on location-based social networks can be harnessed to characterize urban spaces and organize them into neighborhoods. We adopt a data-driven approach to the identification and modeling of urban neighborhoods using location-based social networks.",
+			"abstract": "Information  garnered from activity on location-based social networks can be harnessed to characterize urban spaces and organize them into neighborhoods. We adopt a data-driven approach to the identification and modeling of urban neighborhoods using location-based social networks.",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/1308.3657v1.pdf",
 				"code_url": "https://github.com/amyxzhang/OPTICS-Automatic-Clustering",
