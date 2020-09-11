@@ -13,6 +13,12 @@
 			"name": "Person Two",
 			"jobTitle": "phd",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5748bd6fd00efe5f5f565ffb8081721bc6f07b9f/images/email3.png",
+			"name": "Person threee",
+			"jobTitle": "phd",
+			"@type": "Person"
 		}
 	]
 }
