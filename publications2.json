@@ -1,6 +1,33 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba299556ce1baf77194d787fbc45009d5b2c3a9b/images/hoodsquare.png",
+			"title": "Hoodsquare: Modeling and Recommending Neighborhoods in Location-based Social Networks",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Anastasios Noulas"
+				},
+				{
+					"author_name": "Salvatore Scellato"
+				},
+				{
+					"author_name": "Cecilia Mascolo"
+				}
+			],
+			"conference url": "http://www.scienceengineeringacademy.org/asesite/",
+			"conference": "SocialCom",
+			"year": "2013",
+			"abstract": "Information garnered from activity on location-based social networks can be harnessed to characterize urban spaces and organize them into neighborhoods. We adopt a data-driven approach to the identification and modeling of urban neighborhoods using location-based social networks.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/1308.3657v1.pdf",
+				"code_url": "https://github.com/amyxzhang/OPTICS-Automatic-Clustering",
+				"slides_url": "https://homes.cs.washington.edu/~axz/hoodsquare.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6ca6ec2f1adb0fce81bb280349ae940561dca122/images/diurnal.png",
 			"title": "On the Study of Diurnal Urban Routines on Twitter",
 			"author": [
