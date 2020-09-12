@@ -74,7 +74,7 @@
 		},
 		{
 			"title": "Data Science Collaboration",
-			"description": "<span style=\"font-size: 14px;\">Data science is increasingly done by large groups of people working together with different skill sets and domain expertise. We design new tools for data exploration and model building that support collaboration, education, and translation out of the box.</span>",
+			"description": "<span style=\"font-size: 14px;\">Data science is increasingly done by groups of people working together with different skill sets and domain expertise. We design new tools for data exploration and model building that support collaboration, education, and translation out of the box.</span>",
 			"project": [
 				{
 					"@type": "item",
