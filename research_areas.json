@@ -43,7 +43,7 @@
 		},
 		{
 			"title": "End User Empowerment and Localized Tools",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"font-family: -webkit-standard; font-size: 14px;\">Technologists have great power to build applications and models that scale to millions of people. Yet there are many situations when a one-size-fits-all approach can leave people out, particularly when it comes to minorities and disadvantaged groups. Instead, we consider tools that give power back to individuals and small groups to be able to develop solutions that suit them without programming skills. And we design new tools that can take into account the nuances and different contexts that exist in varied social settings.</span>",
+			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Technologists have great power to build applications and models that scale to millions of people. Yet there are many situations when a one-size-fits-all approach can leave people out, particularly when it comes to minorities and disadvantaged groups. Instead, we consider tools that give power back to individuals and small groups to be able to develop solutions that suit them without programming skills. And we design new tools that can take into account the nuances and different contexts that exist in varied social settings.</span>",
 			"project": [
 				{
 					"@type": "item"
