@@ -2,7 +2,7 @@
 	"area": [
 		{
 			"title": "New Mediums for Discourse",
-			"description": "<span style=\"font-size: 14px;\">The systems we use for online discussion have changed little from the early mediums of forums, chat, and bulletin boards. But these designs bake in many assumptions about discussion that limit our capabilities for collaboration and that also lead to problems. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
+			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little from the early mediums of forums, chat, and bulletin boards. But these designs bake in many assumptions about discussion that limit our capabilities for collaboration and that also lead to problems. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
 			"author2": [
 				{
 					"author_name2": "Amy Zhang"
@@ -24,7 +24,7 @@
 		},
 		{
 			"title": "Community Resilience and Governance",
-			"description": "<span style=\"font-size: 14px;\">Online communities have grown to fill an important part of people's everyday lives. Yet the tools that online communities have to shape their own norms and rules are limited, resulting in top-down governance structures that easily fall apart or lead people to burn out. We design democratic structures to support community resilience as well as tools for self-governance.</span><br />",
+			"description": "<span style=\"font-size: 14px;\">Online communities have grown to fill an important part of people's everyday lives. Yet the tools that online communities have to shape their own norms and rules are limited, resulting in top-down governance structures that easily fall apart or lead people to burn out. We design democratic structures that support community resilience as well as new tools for self-governance.</span>",
 			"project": [
 				{
 					"project_url": "http://policykit.org/",
@@ -43,7 +43,7 @@
 		},
 		{
 			"title": "End User Empowerment and Localized Tools",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Technologists have great power to build applications and models that scale to millions of people. Yet there are many situations when a one-size-fits-all approach can leave people out, particularly when it comes to minorities and disadvantaged groups. Instead, we consider tools that give power back to individuals and small groups to be able to develop solutions that suit them without programming skills. And we design new tools that can take into account the nuances and different contexts that exist in varied social settings.</span>",
+			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">A one-size-fits-all approach to building models and applications can leave people out, particularly minority groups. Instead, we consider tools that give power back to end users to build solutions that suit them without programming skills. And we design new systems that can take into account the nuances and different contexts that exist in varied social settings.</span>",
 			"project": [
 				{
 					"@type": "item"
