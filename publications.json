@@ -1,6 +1,33 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d9101e59b297f94b22f07f533b6c6cd43026ca70/images/wikipedia.png",
+			"title": "Deliberation and Resolution on Wikipedia: A Case Study of Requests for Comments",
+			"author": [
+				{
+					"author_name": "Jane Im"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Christopher Schilling"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2018",
+			"conference": "CSCW",
+			"year": "2018",
+			"abstract": "We collected an exhaustive dataset of 7,316 RfCs on English Wikipedia over the course of 7 years and conducted a qualitative and quantitative analysis into what issues affect the RfC process. We found that a major issue affecting the RfC process is the prevalence of RfCs that could have benefited from formal closure but that linger indefinitely without one.",
+			"links": {
+				"pdf_url": "https://trusttri.github.io/papers/final_version_CSCW_2018.pdf",
+				"slides_url": "https://figshare.com/articles/rfc_sql/7038575",
+				"video_url": "https://youtu.be/OY8vZ6wES9o"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b5d2f990a5a9803c9324837603f1d90a4ca917f1/images/discourse.jpg",
 			"title": "Characterizing Online Discussion Using Coarse Discourse Sequences",
 			"author": [
