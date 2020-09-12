@@ -13,8 +13,8 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@724ee9dd7abc246709bda5fe8aebbe404cf26908/images/wikiux.png",
 			"date": "July 2020",
-			"title": "We won a grant from WikiCred. ",
-			"description": "WikiCred is a partnership between MisinfoCon, The Credibility Coalition, and the Wikimedian communities that started with WikiConference North America 2019. Funders include Craig Newmark’s Philanthropies, Microsoft and Facebook.",
+			"title": "We won a micro-grant from WikiCred. ",
+			"description": "WikiCred is a partnership between MisinfoCon, The Credibility Coalition, and the Wikimedian communities that started with WikiConference North America 2019. Funders include Craig Newmark&rsquo;s Philanthropies, Microsoft and Facebook. The project examines how end-users respond to different types of credibility signals such as the page structure, tone of writing, and placement of citations within Wikipedia articles, as well as Wikipedia content that exists elsewhere on the web, like information cards on the search and social platforms.",
 			"link": {
 				"link_url": "https://misinfocon.com/introducing-the-second-round-of-wikicred-grantees-6aa788dc0850",
 				"link_text": "MisinfoCon Blog"
@@ -22,11 +22,12 @@
 		},
 		{
 			"date": "\t\t\t\t\t\t\t\tSept 2019",
-			"title": "Amy accepts a position at UW CSE beginning in fall 2020.",
+			"title": "Amy accepts a position at UW CSE.",
 			"link": {
 				"link_url": "https://news.cs.washington.edu/2019/08/16/allen-schools-latest-faculty-additions-will-strengthen-uws-leadership-in-robotics-machine-learning-human-computer-interaction-and-more/",
 				"link_text": "UW CSE News"
-			}
+			},
+			"description": "She will be conducting research at UW on social computing and HCI."
 		}
 	],
 	"image": ""
