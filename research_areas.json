@@ -11,7 +11,10 @@
 				{
 					"project_name": "Tilda"
 				}
-			]
+			],
+			"peoples": {
+				"author2": []
+			}
 		}
 	]
 }
