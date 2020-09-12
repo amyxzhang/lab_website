@@ -17,6 +17,16 @@
 			"peoples": {
 				"author2": []
 			}
+		},
+		{
+			"title": "Community Resilience and Self-Governance",
+			"description": "<span style=\"font-family: -webkit-standard;\"><span style=\"font-size: 14px;\">Online communities have grown to fill an important part of people's everyday lives. Yet the tools that online communities have to shape their own norms and rules are limited, resulting in top-down governance structures that easily fall apart or lead people to burn out. We design democratic structures to support community resilience as well as tools for self-governance.</span></span>",
+			"project": [
+				{}
+			],
+			"author2": [
+				{}
+			]
 		}
 	]
 }
