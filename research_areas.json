@@ -14,7 +14,8 @@
 			"project": [
 				{
 					"project_name": "Tilda",
-					"project_url": "http://tildachat.com/"
+					"project_url": "http://tildachat.com/",
+					"@type": "item"
 				}
 			],
 			"peoples": {
@@ -22,16 +23,18 @@
 			}
 		},
 		{
-			"title": "Community Resilience and Self-Governance",
+			"title": "Community Resilience and Governance",
 			"description": "<span style=\"font-size: 14px;\">Online communities have grown to fill an important part of people's everyday lives. Yet the tools that online communities have to shape their own norms and rules are limited, resulting in top-down governance structures that easily fall apart or lead people to burn out. We design democratic structures to support community resilience as well as tools for self-governance.</span><br />",
 			"project": [
 				{
 					"project_url": "http://policykit.org/",
-					"project_name": "PolicyKit"
+					"project_name": "PolicyKit",
+					"@type": "item"
 				},
 				{
 					"project_url": "http://digitaljuries.com/",
-					"project_name": "Digital Juries"
+					"project_name": "Digital Juries",
+					"@type": "item"
 				}
 			],
 			"author2": [
