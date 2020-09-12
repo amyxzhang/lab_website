@@ -1,6 +1,28 @@
 {
 	"paper": [
 		{
+			"title": "Spreadsheet Driven Web Applications",
+			"author": [
+				{
+					"author_name": "Edward Benson"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://uist.acm.org/uist2014/",
+			"conference": "UIST",
+			"year": "2014",
+			"abstract": "We present a system for creating basic web applications using such spreadsheets in place of a server and using HTML to describe the client UI. Authors connect the two by placing spreadsheet references inside HTML attributes. Data computation is provided by spreadsheet formulas. The result is a reactive read-write-compute web page without a single line of Javascript code.",
+			"links": {
+				"pdf_url": "http://edwardbenson.com/papers/uist2014-spreadsheet-driven-web-apps.pdf",
+				"video_url": "https://youtu.be/9KudDZWu2uk"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e7bc6b765f0e2a35b2be5ddc6b9ed6455a2b5955/images/scrolling.png",
 			"title": "Content-Aware Kinetic Scrolling for Supporting Web Page Navigation",
 			"author": [
