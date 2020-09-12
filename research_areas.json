@@ -67,7 +67,7 @@
 		},
 		{
 			"title": "Platform Design and Healthy Information Ecosystems",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"font-family: -webkit-standard; font-size: 14px;\">Online social platforms host social interactions between millions of people today. But these sites are also host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we alter or reimagine social media to push back against bad actors and promote pro-social interaction and credible information? How do we determine if what we&rsquo;ve designed will not have negative emergent properties?</span>",
+			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online social platforms host social interactions between millions of people today. But these sites are also host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we alter or reimagine social media to push back against bad actors and promote pro-social interaction and credible information? How do we determine if what we&rsquo;ve designed will not have negative emergent properties?</span>",
 			"project": [
 				{
 					"@type": "item"
