@@ -1,0 +1,17 @@
+{
+	"area": [
+		{
+			"title": "New Mediums for Discourse",
+			"description": "<span style=\"font-family: -webkit-standard; font-size: 14px;\">The systems we use for online discussion have changed little from the early mediums of forums, chat, and bulletin boards. But these designs bake in many assumptions about discussion that limit our capabilities for collaboration and that also lead to problems. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
+			"author2": [],
+			"project": [
+				{
+					"project_name": "Wikum"
+				},
+				{
+					"project_name": "Tilda"
+				}
+			]
+		}
+	]
+}
