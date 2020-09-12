@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7d5b49e3e7e0a1692a8c58564ee8682aec35d001/images/las_emoji1.png",
+			"title": "Using Student Annotated Hashtags and Emojis to Collect Nuanced Affective States",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Michele Igo"
+				},
+				{
+					"author_name": "Marc Facciotti"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"publication_type": "Poster Paper",
+			"conference url": "https://learningatscale.acm.org/las2017/",
+			"conference": "Learning@Scale",
+			"year": "2017",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/las_emojis.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1ea3a8c211a1c20bf519b8956309eaf97be098bf/images/confer.png",
 			"title": "Confer: A Conference Recommendation and Meetup Tool",
 			"author": [
@@ -47,13 +72,8 @@
 			"conference url": "null",
 			"conference": "TextVis @ IUI",
 			"year": "2015",
-			"award": "",
 			"links": {
-				"pdf_url": "http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Visualizing-Text-Corpora-to-Compare-Media-Frames_final.pdf",
-				"website_url": "",
-				"code_url": "",
-				"slides_url": "",
-				"video_url": ""
+				"pdf_url": "http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Visualizing-Text-Corpora-to-Compare-Media-Frames_final.pdf"
 			}
 		}
 	]
