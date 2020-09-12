@@ -82,7 +82,8 @@
 			"project": [
 				{
 					"@type": "item",
-					"project_name": "DS Collaboration"
+					"project_name": "DS Collaboration",
+					"project_url": "https://arxiv.org/pdf/2001.06684.pdf"
 				}
 			],
 			"author2": [
