@@ -93,12 +93,17 @@
 		},
 		{
 			"title": "Platform Design for Healthy Information Ecosystems",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online social platforms find themselves host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we reimagine social media to push back against bad actors and promote pro-social interaction and credible information? How do we guard against negative emergent properties?</span>",
+			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online social platforms find themselves host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we reimagine social media to push back against bad actors, promote pro-social interaction and credible information, and respect privacy? How do we guard against negative emergent properties?</span>",
 			"project": [
 				{
 					"@type": "item",
 					"project_url": "https://credibilitycoalition.org/",
 					"project_name": "Credibility Coalition"
+				},
+				{
+					"project_url": "http://eyebrowse.csail.mit.edu/",
+					"project_name": "Eyebrowse",
+					"@type": "item"
 				}
 			],
 			"author2": [
