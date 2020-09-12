@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9e25b1ce0b67fcdd78d927e80831eb0d060aaba4/images/youps.png",
+			"title": "Opportunities for Automating Email Processing: A Need-Finding Study",
+			"author": [
+				{
+					"author_name": "Soya Park"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Luke Murray"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://chi2019.acm.org/",
+			"conference": "CHI",
+			"year": "2019",
+			"abstract": "Email management consumes significant effort from senders and recipients. Some of this work might be automatable. We performed a mixed-methods need-finding study to learn: (i) what sort of automatic email handling users want, and (ii) what kinds of information and computation are needed to support that automation.",
+			"links": {
+				"pdf_url": "https://people.csail.mit.edu/soya/papers/mailbot.pdf",
+				"video_url": "https://youtu.be/gQUIl3DMoyk"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b0c0a9012e16402c21610402aa277de655460a6c/images/tildachat22.png",
 			"title": "Making Sense of Group Chat through Collaborative Tagging and Summarization",
 			"author": [
