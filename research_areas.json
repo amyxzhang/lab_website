@@ -84,6 +84,11 @@
 					"@type": "item",
 					"project_url": "https://credibilitycoalition.org/",
 					"project_name": "Credibility Coalition"
+				},
+				{
+					"project_url": "http://digitaljuries.com/",
+					"project_name": "Digital Juries",
+					"@type": "item"
 				}
 			],
 			"author2": [
