@@ -1,0 +1,37 @@
+{
+	"paper": [
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@604a3d67a93713344447b732b24cf2630154711f/images/comparecloud.png",
+			"title": "Compare Clouds: Visualizing Text Corpora to Compare Media Frames",
+			"author": [
+				{
+					"author_name": "Nick Diakopolous"
+				},
+				{
+					"author_name": "Dag Elgesem"
+				},
+				{
+					"author_name": "Andrew Salway"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Knuf Hofland"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "null",
+			"conference": "TextVis @ IUI",
+			"year": "2015",
+			"award": "",
+			"links": {
+				"pdf_url": "http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Visualizing-Text-Corpora-to-Compare-Media-Frames_final.pdf",
+				"website_url": "",
+				"code_url": "",
+				"slides_url": "",
+				"video_url": ""
+			}
+		}
+	]
+}
