@@ -64,6 +64,8 @@ body {
     vertical-align: text-bottom;
 }
 
+
+
 [property="project"]:not(:first-of-type)::before {
     content: ", ";
 }
@@ -91,6 +93,36 @@ body {
 	display: block;
 	margin-top: 10px;
 }
+
+
+[property="website_url"] img {
+    width: 21px;
+    height: 21px;
+}
+
+[property="data_url"] img {
+    width: 21px;
+    height: 21px;
+}
+
+[property="video_url"] img {
+    height: 23px;
+}
+
+[property="code_url"] img {
+    height: 24px;
+}
+
+[property="slides_url"] img {
+    height: 23px;
+}
+
+[mv-app]:not([mv-mode=edit]) .hide-on-read {
+	display: none;
+}
+
+
+
 
 
 [property="author_name"]  {
