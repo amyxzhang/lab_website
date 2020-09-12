@@ -1,44 +1,6 @@
 {
 	"paper": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d18426828c1883608c4be2f8c1f03a0d4fe5038d/images/las_emoji1.png",
-			"title": "#Confused and Beyond: Detecting Confusion in Course Forums using Student Annotated Hashtags",
-			"author": [
-				{
-					"author_name": "Shay Geller"
-				},
-				{
-					"author_name": "Nicholas Hoernle"
-				},
-				{
-					"author_name": "Kobi Gal"
-				},
-				{
-					"author_name": "Avi Segal"
-				},
-				{
-					"author_name": "Amy Zhang"
-				},
-				{
-					"author_name": "David Karger"
-				},
-				{
-					"author_name": "Marc Facciotti"
-				},
-				{
-					"author_name": "Michele Igo"
-				}
-			],
-			"conference url": "https://lak20.solaresearch.org/",
-			"conference": "LAK",
-			"year": "2020",
-			"abstract": "<span id=\"mce_25\" class=\"tinymce mv-pending-edit\" style=\"position: relative;\" spellcheck=\"false\" aria-label=\"Abstract\">This paper provides a new approach for confusion detection in online forums that is based on harnessing the power of students' self-reported affective states (reported using a set of pre-defined hashtags). It presents a rule for labeling confusion, based on students' hashtags in their posts, that is shown to align with teachers' judgement.</span>&nbsp;",
-			"links": {
-				"pdf_url": "https://dl.acm.org/doi/10.1145/3375462.3375485",
-				"video_url": "https://video01.uni-frankfurt.de/Mediasite/Showcase/lak2020/Presentation/6f0e3e65559140f68711ab917923d5631d"
-			}
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
 			"title": "PolicyKit: Building Governance in Online Communities",
 			"author": [
@@ -55,7 +17,7 @@
 			"conference url": "https://uist.acm.org/uist2020/",
 			"conference": "UIST",
 			"year": "2020",
-			"abstract": "In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute. Actions that can be governed by policies encompass everyday activities such as posting or moderating a message, but actions can also encompass changes to the policies themselves, enabling the evolution of governance over time.",
+			"abstract": "In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/policykit.pdf",
 				"website_url": "https://policykit.org/",
@@ -158,6 +120,44 @@
 				"website_url": "https://scrapir.org/",
 				"code_url": "https://github.com/tarfahalrashed/ScrAPIr",
 				"video_url": "https://youtu.be/SSj_msJvRwo"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d18426828c1883608c4be2f8c1f03a0d4fe5038d/images/las_emoji1.png",
+			"title": "#Confused and Beyond: Detecting Confusion in Course Forums using Student Annotated Hashtags",
+			"author": [
+				{
+					"author_name": "Shay Geller"
+				},
+				{
+					"author_name": "Nicholas Hoernle"
+				},
+				{
+					"author_name": "Kobi Gal"
+				},
+				{
+					"author_name": "Avi Segal"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				},
+				{
+					"author_name": "Marc Facciotti"
+				},
+				{
+					"author_name": "Michele Igo"
+				}
+			],
+			"conference url": "https://lak20.solaresearch.org/",
+			"conference": "LAK",
+			"year": "2020",
+			"abstract": "<span id=\"mce_25\" class=\"tinymce mv-pending-edit\" style=\"position: relative;\" spellcheck=\"false\" aria-label=\"Abstract\">This paper provides a new approach for confusion detection in online forums that is based on harnessing the power of students' self-reported affective states (reported using a set of pre-defined hashtags). It presents a rule for labeling confusion, based on students' hashtags in their posts, that is shown to align with teachers' judgement.</span>&nbsp;",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/10.1145/3375462.3375485",
+				"video_url": "https://video01.uni-frankfurt.de/Mediasite/Showcase/lak2020/Presentation/6f0e3e65559140f68711ab917923d5631d"
 			}
 		},
 		{
