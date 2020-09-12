@@ -23,7 +23,8 @@
 				"website_url": "https://policykit.org/",
 				"code_url": "https://github.com/amyxzhang/policykit",
 				"video_url": "https://player.vimeo.com/video/446531759"
-			}
+			},
+			"id": "policykit-building-governance-in-online-communities"
 		},
 		{
 			"title": "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria",
@@ -49,7 +50,8 @@
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/credco_cscw.pdf",
 				"data_url": "https://data.world/credibilitycoalition/credibility-factors2020/"
 			},
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@866f9a879e5612c06f68a78cd9e5eda7c5f85583/images/credco3.png"
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@866f9a879e5612c06f68a78cd9e5eda7c5f85583/images/credco3.png",
+			"id": "investigating-differences-in-crowdsourced-news-credibility-assessment-raters-tasks-and-expert-criteria"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4034249a301db59d5fd5003f2ca0133353b3c38d/images/datasci1.png",
@@ -71,7 +73,8 @@
 			"abstract": "In this work, we conducted an online survey with 183 participants who work in various aspects of data science. We focused on their reported interactions with each other (e.g., managers with engineers) and with different tools (e.g., Jupyter Notebook). We found that data science teams are extremely collaborative and work with a variety of stakeholders and tools during the six common steps of a data science workflow.",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/2001.06684.pdf"
-			}
+			},
+			"id": "how-do-data-science-workers-collaborate-roles-workflows-and-tools"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7761ddede302062398be1f18b9d0b26c8cb830fe/images/juries1.png",
@@ -92,7 +95,8 @@
 				"pdf_url": "http://digitaljuries.com/static/juries/Digital_Juries__CHI2020.pdf",
 				"website_url": "http://digitaljuries.com/",
 				"video_url": "https://youtu.be/sQ2idlzSdas"
-			}
+			},
+			"id": "digital-juries-a-civics-oriented-approach-to-platform-governance"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4721e2f8deb64168d91781fdb347906078564475/images/scrapir.png",
@@ -120,7 +124,8 @@
 				"website_url": "https://scrapir.org/",
 				"code_url": "https://github.com/tarfahalrashed/ScrAPIr",
 				"video_url": "https://youtu.be/SSj_msJvRwo"
-			}
+			},
+			"id": "scrapir-making-web-data-apis-accessible-to-end-users"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d18426828c1883608c4be2f8c1f03a0d4fe5038d/images/las_emoji1.png",
@@ -158,7 +163,8 @@
 			"links": {
 				"pdf_url": "https://dl.acm.org/doi/10.1145/3375462.3375485",
 				"video_url": "https://video01.uni-frankfurt.de/Mediasite/Showcase/lak2020/Presentation/6f0e3e65559140f68711ab917923d5631d"
-			}
+			},
+			"id": "confused-and-beyond-detecting-confusion-in-course-forums-using-student-annotated-hashtags"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9e25b1ce0b67fcdd78d927e80831eb0d060aaba4/images/youps.png",
@@ -184,7 +190,8 @@
 			"links": {
 				"pdf_url": "https://people.csail.mit.edu/soya/papers/mailbot.pdf",
 				"video_url": "https://youtu.be/gQUIl3DMoyk"
-			}
+			},
+			"id": "opportunities-for-automating-email-processing-a-need-finding-study"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b0c0a9012e16402c21610402aa277de655460a6c/images/tildachat22.png",
@@ -207,7 +214,8 @@
 				"website_url": "https://tildachat.com/",
 				"code_url": "https://github.com/Microsoft/tilda",
 				"slides_url": "https://homes.cs.washington.edu/~axz/tilda.html"
-			}
+			},
+			"id": "making-sense-of-group-chat-through-collaborative-tagging-and-summarization"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2d62bbae1035902156cb58f9fa4b338abd6951b4/images/squadbox.png",
@@ -233,7 +241,8 @@
 				"code_url": "https://github.com/amyxzhang/squadbox",
 				"slides_url": "https://homes.cs.washington.edu/~axz/squadbox.html",
 				"video_url": "https://youtu.be/mZrmoi5D7g0"
-			}
+			},
+			"id": "squadbox-a-tool-to-combat-email-harassment-using-friendsourced-moderation"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b95249a5423a0629c593e1f2887099dfbaf7910a/images/credco.png",
@@ -292,7 +301,8 @@
 				"slides_url": "https://docs.google.com/presentation/d/1hGNqM_aO6U3gtryqqLZ_fTKreE940KIWlMnrfV5ooXU/edit?usp=sharing",
 				"video_url": "https://youtu.be/SndnDE_ExHg",
 				"data_url": "https://data.world/credibilitycoalition/webconf-2018"
-			}
+			},
+			"id": "a-structured-response-to-misinformation-defining-and-annotating-credibility-indicators-in-news-articles"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4f5423bf96277cdba1e7654f844648b20ab23dce/images/google-play-app2.png",
@@ -321,7 +331,8 @@
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/tiis_cluster.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/clusters.html"
-			}
+			},
+			"id": "evaluation-and-refinement-of-clustered-search-results-with-the-crowd"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d9101e59b297f94b22f07f533b6c6cd43026ca70/images/wikipedia.png",
@@ -349,7 +360,8 @@
 				"slides_url": "https://figshare.com/articles/rfc_sql/7038575",
 				"video_url": "https://youtu.be/OY8vZ6wES9o",
 				"data_url": "https://figshare.com/articles/rfc_sql/7038575"
-			}
+			},
+			"id": "deliberation-and-resolution-on-wikipedia-a-case-study-of-requests-for-comments"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b5d2f990a5a9803c9324837603f1d90a4ca917f1/images/discourse.jpg",
@@ -373,7 +385,8 @@
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/discourse.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/discourse.html",
 				"data_url": "https://github.com/google-research-datasets/coarse-discourse"
-			}
+			},
+			"id": "characterizing-online-discussion-using-coarse-discourse-sequences"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b79d2d4dcea0e0ad6ba0eb5a6796bb2cd07607b7/images/wikum1.png",
@@ -399,7 +412,8 @@
 				"code_url": "https://github.com/amyxzhang/wikum",
 				"slides_url": "https://homes.cs.washington.edu/~axz/wikum.html",
 				"video_url": "https://youtu.be/fTDkVeqjw80"
-			}
+			},
+			"id": "wikum-bridging-discussion-forums-and-wikis-using-recursive-summarization"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@402cae1991ba18aa063af9ca4800e303e2716107/images/uist3160-file2.jpg",
@@ -423,7 +437,8 @@
 				"pdf_url": "http://dl.acm.org/citation.cfm?id=2984551",
 				"website_url": "http://mavo.io/",
 				"code_url": "https://github.com/mavoweb/mavo"
-			}
+			},
+			"id": "mavo-creating-interactive-data-driven-web-applications-by-authoring-html"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f920bd95d94f790c7255ec6e27ad318522977401/images/eyebrowse1.jpg",
@@ -448,7 +463,8 @@
 				"website_url": "http://eyebrowse.csail.mit.edu/",
 				"code_url": "https://github.com/haystack/eyebrowse-server",
 				"slides_url": "https://homes.cs.washington.edu/~axz/eyebrowse.html"
-			}
+			},
+			"id": "opportunities-and-challenges-around-a-tool-for-social-and-public-web-activity-tracking"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cda8574bb4dfdbf3477be1cea3352b6b2af428ee/images/abortion.png",
@@ -468,7 +484,8 @@
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/msr-abortion.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/abortion.html"
-			}
+			},
+			"id": "gender-and-ideology-in-the-spread-of-anti-abortion-policy"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@abbce34aac4e4c53b7595d808a5c4f5807163fa0/images/murmur1.png",
@@ -491,7 +508,8 @@
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/mailinglists.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/mailinglists.html"
-			}
+			},
+			"id": "mailing-lists-why-are-they-still-here-whats-wrong-with-them-and-how-can-we-fix-them"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ffd06255a2565104803b780243edbfb6600c3de0/images/dendogram3.png",
@@ -512,7 +530,8 @@
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/msr-publicpolicy.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/ideology.html"
-			}
+			},
+			"id": "modeling-ideology-and-predicting-policy-change-with-social-media-case-of-same-sex-marriage"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a6a45a9f9cdf21f3f8f79c0c3d0652ceabd00db4/images/google-spreadsheets-oct08.png",
@@ -535,7 +554,8 @@
 			"links": {
 				"pdf_url": "http://edwardbenson.com/papers/uist2014-spreadsheet-driven-web-apps.pdf",
 				"video_url": "https://youtu.be/9KudDZWu2uk"
-			}
+			},
+			"id": "spreadsheet-driven-web-applications"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e7bc6b765f0e2a35b2be5ddc6b9ed6455a2b5955/images/scrolling.png",
@@ -564,7 +584,8 @@
 			"links": {
 				"pdf_url": "https://juhokim.com/files/UIST2014-CAKS.pdf",
 				"video_url": "https://youtu.be/MZXsrl3csQs"
-			}
+			},
+			"id": "content-aware-kinetic-scrolling-for-supporting-web-page-navigation"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d1806ef1d641bd002800391dcd122c86b6b829f5/images/climate.png",
@@ -589,7 +610,8 @@
 			"abstract": "In this work we develop a novel operationalization of moral evaluation frames and study their use within a corpus of blogs discussing climate change. We develop a text visualization tool called Lingoscope that allows the user to observe and filter the contextual terms that convey moral framing across large volumes of text, as well as to drill down to specific examples.",
 			"links": {
 				"pdf_url": "http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Identifying-and-analyzing-moral-evaluation-frames-in-cc-blog-discourse_FINAL.pdf"
-			}
+			},
+			"id": "identifying-and-analyzing-moral-evaluation-frames-in-climate-change-blog-discourse"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@be1440bef6879ee4d6d27fb98b9ab6f1873c592e/images/sentinews.png",
@@ -613,7 +635,8 @@
 			"abstract": "In this work, we take a data-driven approach to understand how controversy interplays with emotional expression and biased language in the news. We begin by introducing a new dataset of controversial and noncontroversial terms collected using crowdsourcing. Then, focusing on 15 major U.S. news outlets, we compare millions of articles discussing controversial and non-controversial issues over a span of 7 months.",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/1409.8152v1.pdf"
-			}
+			},
+			"id": "controversy-and-sentiment-in-online-news"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba299556ce1baf77194d787fbc45009d5b2c3a9b/images/hoodsquare.png",
@@ -640,7 +663,8 @@
 				"pdf_url": "https://arxiv.org/pdf/1308.3657v1.pdf",
 				"code_url": "https://github.com/amyxzhang/OPTICS-Automatic-Clustering",
 				"slides_url": "https://homes.cs.washington.edu/~axz/hoodsquare.html"
-			}
+			},
+			"id": "hoodsquare-modeling-and-recommending-neighborhoods-in-location-based-social-networks"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6ca6ec2f1adb0fce81bb280349ae940561dca122/images/diurnal.png",
@@ -665,7 +689,8 @@
 			"abstract": "We study and characterize diurnal patterns in social media data for different urban areas, with the goal of providing context and framing for reasoning about such patterns at different scales. Using one of the largest datasets to date of Twitter content associated with different locations, we examine within-day variability and across-day variability of diurnal keyword patterns for different locations.",
 			"links": {
 				"pdf_url": "https://d1wqtxts1xzle7.cloudfront.net/30608684/naaman-twitterpatterns-icwsm2012.pdf?1361181077=&response-content-disposition=inline%3B+filename%3DOn_the_Study_of_Diurnal_Urban_Routines_o.pdf&Expires=1599858402&Signature=O2t2kLom3YixIfxjkb0tk-OsnrD5v3p8-WKzKKfLNsb6schcqcUcFPYI37SnoTqAjer35PvYJtj7DthGEQDaEzbRdMLN--rTGb3aWrqSh6aMCLQwqH5G2Z0F~B-pQ7C~TnNjXEGYp6Z7i0Vc8w9yZ9Av-W6Xz1qidJ6C17DdEG31X-J~gQXVH9z9mWNMnosQWzmd7w24VEk6FfO8QMcJZUj7BgShtFOBQPw8~0SCGpsGQ7Dkw6IXXoJP-xxU6akRjO4RRaJentw2F9mBv5TGGIeASZGf61FR54DgKfwR7zp-D8DwhlUleQHDnIoUtbJ2M54sb6fzbPc~cdICDsrh4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
-			}
+			},
+			"id": "on-the-study-of-diurnal-urban-routines-on-twitter"
 		}
 	]
 }
