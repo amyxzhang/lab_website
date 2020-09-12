@@ -1,6 +1,26 @@
 {
 	"paper": [
 		{
+			"title": "Modeling Ideology and Predicting Policy Change with Social Media: Case of Same-Sex Marriage",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Scott Counts"
+				}
+			],
+			"conference url": "chi2015.acm.org",
+			"conference": "CHI",
+			"year": "2015",
+			"award": "Honorable Mention",
+			"abstract": "We study the many voices discussing an issue within a constituency and how they reflect ideology and may signal the outcome of important policy decisions. Focusing on the issue of same-sex marriage legalization, we examine almost 2 million public Twitter posts related to same-sex marriage in the U.S. states over the course of 4 years starting from 2011.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/msr-publicpolicy.pdf",
+				"slides_url": "https://homes.cs.washington.edu/~axz/ideology.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a6a45a9f9cdf21f3f8f79c0c3d0652ceabd00db4/images/google-spreadsheets-oct08.png",
 			"title": "Spreadsheet Driven Web Applications",
 			"author": [
