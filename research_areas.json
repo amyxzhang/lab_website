@@ -52,12 +52,16 @@
 					"project_name": "Goldilocks"
 				},
 				{
-					"author_name2": "Quan Ze (Jim) Chen"
+					"author_name2": "Quan Ze (Jim) Chen",
+					"@type": "item"
 				}
 			],
 			"author2": [
 				{
 					"author_name2": "Shagun Jhaver"
+				},
+				{
+					"author_name2": "Quan Ze (Jim) Chen"
 				}
 			]
 		},
