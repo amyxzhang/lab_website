@@ -3,7 +3,11 @@
 		{
 			"title": "New Mediums for Discourse",
 			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little from the early mediums of forums, chat, and bulletin boards. But these designs bake in many assumptions about discussion that limit our capabilities for collaboration and that also lead to problems. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
-			"author2": [],
+			"author2": [
+				{
+					"author_name2": "Ruotong Wang"
+				}
+			],
 			"project": [
 				{
 					"project_name": "Tilda",
