@@ -1,6 +1,64 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b95249a5423a0629c593e1f2887099dfbaf7910a/images/credco.png",
+			"title": "A Structured Response to Misinformation: Defining and Annotating Credibility Indicators in News Articles",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Aditya Ranganathan"
+				},
+				{
+					"author_name": "Sarah Emlen Metz"
+				},
+				{
+					"author_name": "Scott Appling"
+				},
+				{
+					"author_name": "Connie Moon Sehat"
+				},
+				{
+					"author_name": "Norman Gilmore"
+				},
+				{
+					"author_name": "Nick B. Adams"
+				},
+				{
+					"author_name": "Emmanuel Vincent"
+				},
+				{
+					"author_name": "Jennifer 8. Lee"
+				},
+				{
+					"author_name": "Martin Robbins"
+				},
+				{
+					"author_name": "Ed Bice"
+				},
+				{
+					"author_name": "Sandro Hawke"
+				},
+				{
+					"author_name": "David Karger"
+				},
+				{
+					"author_name": "An Xiao Mina"
+				}
+			],
+			"conference url": "https://www2018.thewebconf.org/",
+			"conference": "WWW Companion",
+			"year": "2018",
+			"abstract": "Given the variety of approaches to combat misinformation, collective agreement on the indicators that signify credible content could allow for greater collaboration and data-sharing across initiatives. We present an initial set of indicators for article credibility defined by a diverse coalition of experts.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/webconf_credco.pdf",
+				"website_url": "https://credibilitycoalition.org/",
+				"slides_url": "https://docs.google.com/presentation/d/1hGNqM_aO6U3gtryqqLZ_fTKreE940KIWlMnrfV5ooXU/edit?usp=sharing",
+				"video_url": "https://youtu.be/SndnDE_ExHg"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4f5423bf96277cdba1e7654f844648b20ab23dce/images/google-play-app2.png",
 			"title": "Evaluation and Refinement of Clustered Search Results with the Crowd",
 			"author": [
