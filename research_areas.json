@@ -55,7 +55,7 @@
 		},
 		{
 			"title": "Data Science Collaboration",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"font-family: -webkit-standard; font-size: 14px;\">Many data science tools assume that users are skilled at programming and work alone. Yet data science is increasingly done by groups of people working together with different skill sets and domain expertise. We design new tools for data exploration that support collaboration, education, and translation out of the box.</span>",
+			"description": "<span style=\"font-size: 14px;\">Many data science tools assume that users are skilled at programming and work alone. Yet data science is increasingly done by groups of people working together with different skill sets and domain expertise. We design new tools for data exploration that support collaboration, education, and translation out of the box.</span>",
 			"project": [
 				{
 					"@type": "item"
