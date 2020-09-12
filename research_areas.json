@@ -43,7 +43,7 @@
 		},
 		{
 			"title": "End User Empowerment and Localized Tools",
-			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">A one-size-fits-all approach to building ML models and applications can leave people out with little recourse, particularly already-disadvantaged groups. Instead, we consider tools that give power back to end users to build solutions that suit them without programming skills. And we design new models and applications that can take into account the nuances and different contexts that exist in varied social settings.</span>",
+			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">A one-size-fits-all approach to building ML models and applications can leave people out with little recourse, particularly already-disadvantaged groups. Instead, we consider tools that give power back to end users to build solutions that suit them, without needing programming skills. And we design new models and applications that can take into account the nuances and different contexts that exist in varied social settings.</span>",
 			"project": [
 				{
 					"@type": "item"
