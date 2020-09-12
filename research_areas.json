@@ -2,7 +2,7 @@
 	"area": [
 		{
 			"title": "New Mediums for Discourse and Remote Collaboration",
-			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little from the early mediums of forums, chat, and bulletin boards. But these designs bake in many assumptions about discussion that limit our capabilities for collaboration and that also lead to problems. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
+			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for collaboration and that also lead to problems. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
 			"author2": [
 				{
 					"author_name2": "Ruotong Wang"
@@ -26,7 +26,7 @@
 		},
 		{
 			"title": "Community Resilience and Self-Governance",
-			"description": "<span style=\"font-size: 14px;\">Online communities have grown to fill an important part of people's everyday lives. Yet the tools that online communities have to shape their own norms and rules are limited, resulting in top-down governance structures that easily fall apart or lead people to burn out. We design democratic structures that support community resilience as well as new tools for self-governance.</span>",
+			"description": "<span style=\"font-size: 14px;\">Despite their growth, online communities have few tools to shape their own norms and rules, resulting in top-down governance structures that cause burn out. We design democratic structures that support community resilience as well as tools for self-governance.</span>",
 			"project": [
 				{
 					"project_url": "http://policykit.org/",
@@ -47,7 +47,7 @@
 		},
 		{
 			"title": "End User Empowerment and Localized Tools",
-			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">A one-size-fits-all approach to building ML models and applications can leave people out with little recourse, particularly already-disadvantaged groups. Instead, we consider tools that give power back to end users to build solutions that suit them, without needing programming skills. And we design new models and applications that can take into account the nuances and different contexts that exist in varied social settings.</span>",
+			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Many applications and ML models today follow a one-size-fits-all approach, leaving marginalized groups with no recourse. Instead, we consider tools that give power back to end users so they can build solutions that suit them. And we design new models and applications that can take into account social nuances and different contexts.</span>",
 			"project": [
 				{
 					"@type": "item",
@@ -78,7 +78,7 @@
 		},
 		{
 			"title": "Data Science Collaboration",
-			"description": "<span style=\"font-size: 14px;\">Many computational tools assume that users work alone and are skilled at programming. Yet data analysis and model building is increasingly done by large groups of people working together with different skill sets and domain expertise. We design new tools for data exploration and model building that support collaboration, explanation, and translation out of the box.</span>",
+			"description": "<span style=\"font-size: 14px;\">Many computational tools assume that users work alone and are skilled at programming. Yet data analysis and model building is increasingly done by large groups of people working together with different skill sets and domain expertise. We design new tools for data exploration and model building that support collaboration out of the box.</span>",
 			"project": [
 				{
 					"@type": "item",
@@ -93,17 +93,12 @@
 		},
 		{
 			"title": "Platform Design for Healthy Information Ecosystems",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online social platforms host social interactions between millions of people today. But these sites are also host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we alter or reimagine social media to push back against bad actors and promote pro-social interaction and credible information? How do we determine if what we&rsquo;ve designed will not have negative emergent properties?</span>",
+			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online social platforms find themselves host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we reimagine social media to push back against bad actors and promote pro-social interaction and credible information? How do we guard against negative emergent properties?</span>",
 			"project": [
 				{
 					"@type": "item",
 					"project_url": "https://credibilitycoalition.org/",
 					"project_name": "Credibility Coalition"
-				},
-				{
-					"project_url": "http://digitaljuries.com/",
-					"project_name": "Digital Juries",
-					"@type": "item"
 				}
 			],
 			"author2": [
