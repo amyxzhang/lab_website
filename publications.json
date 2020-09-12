@@ -1,6 +1,30 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b5d2f990a5a9803c9324837603f1d90a4ca917f1/images/discourse.jpg",
+			"title": "Characterizing Online Discussion Using Coarse Discourse Sequences",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Bryan Culbertson"
+				},
+				{
+					"author_name": "Praveen Paritosh"
+				}
+			],
+			"conference url": "https://www.icwsm.org/2017/",
+			"conference": "ICWSM",
+			"year": "2017",
+			"abstract": "We present a novel method for classifying comments in online discussions into a set of coarse discourse acts towards the goal of better understanding discussions at scale. We collect and release a corpus of over 9,000 threads comprising over 100,000 comments. We demonstrate how the analysis of discourse acts can characterize different types of discussions. Finally, we conduct experiments finding that structured prediction models such as conditional random fields can achieve an F1 score of 75%.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/discourse.pdf",
+				"code_url": "https://github.com/google-research-datasets/coarse-discourse",
+				"slides_url": "https://homes.cs.washington.edu/~axz/discourse.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b79d2d4dcea0e0ad6ba0eb5a6796bb2cd07607b7/images/wikum1.png",
 			"title": "Wikum: Bridging Discussion Forums and Wikis using Recursive Summarization",
 			"author": [
