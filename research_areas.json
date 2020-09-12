@@ -98,18 +98,18 @@
 					"project_name": "Credibility Coalition"
 				},
 				{
-					"project_url": "http://eyebrowse.csail.mit.edu/",
-					"project_name": "Eyebrowse",
-					"@type": "item"
-				}
-			],
-			"author2": [
-				{
 					"author_name2": "Emelia May Hughes"
 				},
 				{
-					"author_name2": "Wenjia Hu"
+					"project_url": "http://eyebrowse.csail.mit.edu/",
+					"project_name": "Eyebrowse",
+					"@type": "item"
 				},
+				{
+					"author_name2": "Wenjia Hu"
+				}
+			],
+			"author2": [
 				{
 					"author_name2": "Shagun Jhaver"
 				}
