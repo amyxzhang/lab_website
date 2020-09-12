@@ -1,6 +1,55 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7761ddede302062398be1f18b9d0b26c8cb830fe/images/juries1.png",
+			"title": "Digital Juries: A Civics-Oriented Approach to Platform Governance",
+			"author": [
+				{
+					"author_name": "Jenny Fan"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference url": "chi2020.acm.org",
+			"conference": "CHI",
+			"year": "2020",
+			"abstract": "Drawing inspiration from constitutional jury trials in many legal systems, this paper proposes digital juries as a civics-oriented approach for adjudicating content moderation cases. Building on existing theoretical models of jury decision-making, we outline a 5-stage model characterizing the space of design considerations in a digital jury process. We implement two examples of jury designs involving blind-voting and deliberation.",
+			"links": {
+				"pdf_url": "http://digitaljuries.com/static/juries/Digital_Juries__CHI2020.pdf",
+				"website_url": "http://digitaljuries.com/",
+				"video_url": "https://youtu.be/sQ2idlzSdas"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4721e2f8deb64168d91781fdb347906078564475/images/scrapir.png",
+			"title": "ScrAPIr: Making Web Data APIs Accessible to End Users",
+			"author": [
+				{
+					"author_name": "Tarfah Alrashed"
+				},
+				{
+					"author_name": "Jumana Almahmoud"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "chi2020.acm.org",
+			"conference": "CHI",
+			"year": "2020",
+			"abstract": "In this work, we empower users to access APIs without programming. We evolve a schema for declaratively specifying how to interact with a data API. We then develop ScrAPIr: a standard query GUI that enables users to fetch data through any API for which a specification exists, and a second GUI that lets users author and share the specification for a given API.",
+			"links": {
+				"pdf_url": "http://people.csail.mit.edu/tarfah/papers/scrapir.pdf",
+				"website_url": "https://scrapir.org/",
+				"code_url": "https://github.com/tarfahalrashed/ScrAPIr",
+				"video_url": "https://youtu.be/SSj_msJvRwo"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9e25b1ce0b67fcdd78d927e80831eb0d060aaba4/images/youps.png",
 			"title": "Opportunities for Automating Email Processing: A Need-Finding Study",
 			"author": [
