@@ -1,6 +1,29 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1ea3a8c211a1c20bf519b8956309eaf97be098bf/images/confer.png",
+			"title": "Confer: A Conference Recommendation and Meetup Tool",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				},
+				{
+					"author_name": "Anant Bhardwaj"
+				}
+			],
+			"publication_type": "Demo Paper",
+			"conference url": "https://cscw.acm.org/2016",
+			"conference": "CSCW",
+			"year": "2016",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/demo_confer.pdf",
+				"website_url": "http://confer.csail.mit.edu/"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@604a3d67a93713344447b732b24cf2630154711f/images/comparecloud.png",
 			"title": "Compare Clouds: Visualizing Text Corpora to Compare Media Frames",
 			"author": [
