@@ -1,6 +1,30 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@402cae1991ba18aa063af9ca4800e303e2716107/images/uist3160-file2.jpg",
+			"title": "Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML",
+			"author": [
+				{
+					"author_name": "Lea Verou"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://uist.acm.org/uist2016/",
+			"conference": "UIST",
+			"year": "2016",
+			"abstract": "Mavo extends the declarative syntax of HTML to describe Web applications that manage, store and transform data. Using Mavo, authors with basic HTML knowledge define complex data schemas implicitly as they design their HTML layout. They need only add a few attributes and expressions to their HTML elements to transform their static design into a persistent, data-driven web application whose data can be edited by direct manipulation of the content in the browser.",
+			"links": {
+				"pdf_url": "http://dl.acm.org/citation.cfm?id=2984551",
+				"website_url": "http://mavo.io/",
+				"code_url": "https://github.com/mavoweb/mavo"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f920bd95d94f790c7255ec6e27ad318522977401/images/eyebrowse1.jpg",
 			"title": "Opportunities and Challenges Around a Tool for Social and Public Web Activity Tracking",
 			"author": [
