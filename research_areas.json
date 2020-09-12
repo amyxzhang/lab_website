@@ -57,6 +57,11 @@
 					"project_url": "https://squadbox.org/",
 					"project_name": "Squadbox",
 					"@type": "item"
+				},
+				{
+					"project_url": "http://murmur.csail.mit.edu/",
+					"project_name": "Murmur",
+					"@type": "item"
 				}
 			],
 			"author2": [
