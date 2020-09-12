@@ -1,6 +1,28 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b0eb946907c9a7e5dfe0dd952cf4d5f4ed79b146/images/lingo.png",
+			"title": "Visual Analytics of Media Frames in Online News and Blogs",
+			"author": [
+				{
+					"author_name": "Nick Diakopolous"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Andrew Salway"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "http://ieeevis.org/",
+			"conference": "TextVis @ VIS",
+			"year": "2013",
+			"links": {
+				"pdf_url": "http://vialab.science.uoit.ca/textvis2013/papers/Diakopoulos-TextVis2013.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@39211d1a81f06c130cfc13d94cb8dc62e65e9c4d/images/xrds1.png",
 			"title": "Considering Social Factors in New Technologies",
 			"author": [
