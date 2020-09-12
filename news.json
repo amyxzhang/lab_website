@@ -1,8 +1,18 @@
 {
 	"news_item": [
 		{
-			"date": "\t\t\t\t\t\t\t\t9/1/2019",
-			"title": "Amy accepts a position at UW CSE to start the lab, beginning in fall 2020.",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@724ee9dd7abc246709bda5fe8aebbe404cf26908/images/wikiux.png",
+			"date": "July 2020",
+			"title": "We won a grant from WikiCred to work on Wikipedia and credibility signals. ",
+			"description": "WikiCred is a partnership between MisinfoCon, The Credibility Coalition, and the Wikimedian communities that started with WikiConference North America 2019. Funders include Craig Newmark’s Philanthropies, Microsoft and Facebook.",
+			"link": {
+				"link_url": "https://misinfocon.com/introducing-the-second-round-of-wikicred-grantees-6aa788dc0850",
+				"link_text": "MisinfoCon Blog"
+			}
+		},
+		{
+			"date": "\t\t\t\t\t\t\t\tSept 2019",
+			"title": "Amy accepts a position at UW CSE beginning in fall 2020.",
 			"description": "",
 			"link": {
 				"link_url": "https://news.cs.washington.edu/2019/08/16/allen-schools-latest-faculty-additions-will-strengthen-uws-leadership-in-robotics-machine-learning-human-computer-interaction-and-more/",
