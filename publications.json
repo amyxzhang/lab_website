@@ -1,6 +1,28 @@
 {
 	"paper": [
 		{
+			"title": "Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Mark Ackerman"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "chi2015.acm.org",
+			"conference": "CHI",
+			"year": "2015",
+			"abstract": "Mailing lists have existed since the early days of email and are still widely used today, even as more sophisticated online forums and social media websites proliferate. We explore why members prefer mailing lists to other group communication tools. But we also identify several tensions around mailing list usage that appear to contribute to dissatisfaction with them.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/mailinglists.pdf",
+				"slides_url": "https://homes.cs.washington.edu/~axz/mailinglists.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ffd06255a2565104803b780243edbfb6600c3de0/images/dendogram3.png",
 			"title": "Modeling Ideology and Predicting Policy Change with Social Media: Case of Same-Sex Marriage",
 			"author": [
