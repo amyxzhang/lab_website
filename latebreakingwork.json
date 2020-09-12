@@ -1,6 +1,28 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1663d93996e9cfa4c876608486f2b820448a8f6c/images/clerkbot1.png",
+			"title": "Post-literate Programming: Linking Discussion and Code in Software Development Teams",
+			"author": [
+				{
+					"author_name": "Soya Park"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"publication_type": "Poster Paper",
+			"conference url": "https://uist.acm.org/uist2018/",
+			"conference": "UIST",
+			"year": "2018",
+			"links": {
+				"pdf_url": "https://people.csail.mit.edu/soya/papers/post-literate-programming.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7d5b49e3e7e0a1692a8c58564ee8682aec35d001/images/las_emoji1.png",
 			"title": "Using Student Annotated Hashtags and Emojis to Collect Nuanced Affective States",
 			"author": [
