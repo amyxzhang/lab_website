@@ -2,7 +2,7 @@
 	"area": [
 		{
 			"title": "New Mediums for Discourse and Remote Collaboration",
-			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for collaboration and that also lead to problems. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
+			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for collaboration. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
 			"author2": [
 				{
 					"author_name2": "Ruotong Wang"
@@ -26,7 +26,7 @@
 		},
 		{
 			"title": "Community Resilience and Self-Governance",
-			"description": "<span style=\"font-size: 14px;\">Despite their growth, online communities have few tools to shape their own norms and rules, resulting in top-down governance structures that cause burn out. We design democratic structures that support community resilience as well as tools for self-governance.</span>",
+			"description": "<span style=\"font-size: 14px;\">Despite their growth, online communities have few tools to shape their own norms and rules, resulting in top-down governance structures that cause burn out and strife. We design democratic structures that support community resilience as well as tools for self-governance.</span>",
 			"project": [
 				{
 					"project_url": "http://policykit.org/",
@@ -47,12 +47,8 @@
 		},
 		{
 			"title": "End User Empowerment and Localized Tools",
-			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Many applications and ML models today follow a one-size-fits-all approach, leaving marginalized groups with no recourse. Instead, we consider tools that give power back to end users so they can build solutions that suit them. And we design new models and applications that can take into account social nuances and different contexts.</span>",
+			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Many software applications and ML models today follow a one-size-fits-all approach, leaving marginalized groups with no recourse. Instead, we consider tools that give power back to end users so they can build solutions that suit them. And we design new models and applications that can take into account social nuances and different perspectives.</span>",
 			"project": [
-				{
-					"@type": "item",
-					"project_name": "Goldilocks"
-				},
 				{
 					"project_url": "https://squadbox.org/",
 					"project_name": "Squadbox",
@@ -78,7 +74,7 @@
 		},
 		{
 			"title": "Data Science Collaboration",
-			"description": "<span style=\"font-size: 14px;\">Many computational tools assume that users work alone and are skilled at programming. Yet data analysis and model building is increasingly done by large groups of people working together with different skill sets and domain expertise. We design new tools for data exploration and model building that support collaboration out of the box.</span>",
+			"description": "<span style=\"font-size: 14px;\">Data science is increasingly done by large groups of people working together with different skill sets and domain expertise. We design new tools for data exploration and model building that support collaboration out of the box.</span>",
 			"project": [
 				{
 					"@type": "item",
@@ -94,7 +90,7 @@
 		},
 		{
 			"title": "Platform Design for Healthy Information Ecosystems",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online social platforms find themselves host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we reimagine social media to push back against bad actors, promote pro-social interaction and credible information, and respect privacy? How do we guard against negative emergent properties?</span>",
+			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online platforms find themselves host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we reimagine social media to push back against bad actors, promote pro-social interaction and credible information, and respect privacy? How do we guard against negative emergent properties?</span>",
 			"project": [
 				{
 					"@type": "item",
