@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
+			"title": "PolicyKit: Building Governance in Online Communities",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Grant Hugh"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://uist.acm.org/uist2020/",
+			"conference": "UIST",
+			"year": "2020",
+			"abstract": "In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute. Actions that can be governed by policies encompass everyday activities such as posting or moderating a message, but actions can also encompass changes to the policies themselves, enabling the evolution of governance over time.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/policykit.pdf",
+				"website_url": "https://policykit.org/",
+				"code_url": "https://github.com/amyxzhang/policykit",
+				"video_url": "https://player.vimeo.com/video/446531759"
+			}
+		},
+		{
 			"title": "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria",
 			"author": [
 				{
@@ -25,31 +50,6 @@
 				"data_url": "https://data.world/credibilitycoalition/credibility-factors2020/"
 			},
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@866f9a879e5612c06f68a78cd9e5eda7c5f85583/images/credco3.png"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
-			"title": "PolicyKit: Building Governance in Online Communities",
-			"author": [
-				{
-					"author_name": "Amy Zhang"
-				},
-				{
-					"author_name": "Grant Hugh"
-				},
-				{
-					"author_name": "David Karger"
-				}
-			],
-			"conference url": "https://uist.acm.org/uist2020/",
-			"conference": "UIST",
-			"year": "2020",
-			"abstract": "In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute. Actions that can be governed by policies encompass everyday activities such as posting or moderating a message, but actions can also encompass changes to the policies themselves, enabling the evolution of governance over time.",
-			"links": {
-				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/policykit.pdf",
-				"website_url": "https://policykit.org/",
-				"code_url": "https://github.com/amyxzhang/policykit",
-				"video_url": "https://player.vimeo.com/video/446531759"
-			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4034249a301db59d5fd5003f2ca0133353b3c38d/images/datasci1.png",
