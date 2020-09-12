@@ -1,6 +1,28 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4034249a301db59d5fd5003f2ca0133353b3c38d/images/datasci1.png",
+			"title": "How do Data Science Workers Collaborate? Roles, Workflows, and Tools",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Michael Muller"
+				},
+				{
+					"author_name": "Dakuo Wang"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2020",
+			"conference": "CSCW",
+			"year": "2020",
+			"abstract": "In this work, we conducted an online survey with 183 participants who work in various aspects of data science. We focused on their reported interactions with each other (e.g., managers with engineers) and with different tools (e.g., Jupyter Notebook). We found that data science teams are extremely collaborative and work with a variety of stakeholders and tools during the six common steps of a data science workflow.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2001.06684.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7761ddede302062398be1f18b9d0b26c8cb830fe/images/juries1.png",
 			"title": "Digital Juries: A Civics-Oriented Approach to Platform Governance",
 			"author": [
