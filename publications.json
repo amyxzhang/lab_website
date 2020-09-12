@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2d62bbae1035902156cb58f9fa4b338abd6951b4/images/squadbox.png",
+			"title": "Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation",
+			"author": [
+				{
+					"author_name": "Kaitlin Mahar"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://chi2018.acm.org/",
+			"conference": "CHI",
+			"year": "2018",
+			"abstract": "We conducted interviews with 18 recipients of online harassment to understand their strategies for coping, finding that they often resorted to asking friends for help. Inspired by these findings, we explore the feasibility of <em>friendsourced moderation</em>&nbsp;as a technique for combating online harassment. We present Squadbox, a tool to help recipients of email harassment coordinate a \"squad\" of friend moderators to shield and support them during attacks.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/squadbox.pdf",
+				"website_url": "http://squadbox.org/",
+				"code_url": "https://github.com/amyxzhang/squadbox",
+				"slides_url": "https://homes.cs.washington.edu/~axz/squadbox.html",
+				"video_url": "https://youtu.be/mZrmoi5D7g0"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b95249a5423a0629c593e1f2887099dfbaf7910a/images/credco.png",
 			"title": "A Structured Response to Misinformation: Defining and Annotating Credibility Indicators in News Articles",
 			"author": [
