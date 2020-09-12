@@ -1,6 +1,35 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4f5423bf96277cdba1e7654f844648b20ab23dce/images/google-play-app2.png",
+			"title": "Evaluation and Refinement of Clustered Search Results with the Crowd",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Wei Chai"
+				},
+				{
+					"author_name": "Jinjun Xu"
+				},
+				{
+					"author_name": "Lichan Hong"
+				},
+				{
+					"author_name": "Ed Chi"
+				}
+			],
+			"conference url": "https://dl.acm.org/toc/tiis/2018/8/2",
+			"conference": "TiiS",
+			"year": "2018",
+			"abstract": "We investigate using crowd-based human evaluation to inspect, evaluate, and improve clusters to create high-quality clustered search results at scale. We evaluate this workflow on 120 top search queries from the Google Play Store.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/tiis_cluster.pdf",
+				"slides_url": "https://homes.cs.washington.edu/~axz/clusters.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d9101e59b297f94b22f07f533b6c6cd43026ca70/images/wikipedia.png",
 			"title": "Deliberation and Resolution on Wikipedia: A Case Study of Requests for Comments",
 			"author": [
