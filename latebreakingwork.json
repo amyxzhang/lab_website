@@ -1,6 +1,19 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@39211d1a81f06c130cfc13d94cb8dc62e65e9c4d/images/xrds1.png",
+			"title": "Considering Social Factors in New Technologies",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "XRDS: Crossroads, The ACM Magazine for Students",
+			"links": {
+				"pdf_url": "https://people.csail.mit.edu/axz/papers/p28-zhang.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1663d93996e9cfa4c876608486f2b820448a8f6c/images/clerkbot1.png",
 			"title": "Post-literate Programming: Linking Discussion and Code in Software Development Teams",
 			"author": [
