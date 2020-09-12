@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f93fa65f5e2c9ccc1391f8b8909863295288f300/images/ADL-logo.png",
+			"date": "Aug 2020",
+			"title": "Amy named a Belfer Fellow by the Anti-Defamation League.",
+			"description": "The Belfer Fellowship program advances ADL’s work by promoting cyberhate awareness and digital citizenship, as well as implementing these projects for the wider social good.",
+			"link": {
+				"link_url": "https://www.adl.org/news/press-releases/adls-center-for-technology-and-society-announces-third-class-of-belfer-fellows",
+				"link_text": "ADL Press Release"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@724ee9dd7abc246709bda5fe8aebbe404cf26908/images/wikiux.png",
 			"date": "July 2020",
 			"title": "We won a grant from WikiCred. ",
