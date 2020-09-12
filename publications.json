@@ -1,6 +1,30 @@
 {
 	"paper": [
 		{
+			"title": "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria",
+			"author": [
+				{
+					"author_name": "MD Momen Bhuiyan"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Connie Moon Sehat"
+				},
+				{
+					"author_name": "Tanushree Mitra"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2020",
+			"conference": "CSCW",
+			"year": "2020",
+			"abstract": "In this work, we investigate news credibility assessments by crowds versus experts to understand when and how ratings between them differ. We gather a dataset of over 4,000 credibility assessments taken from 2 crowd groups&mdash;journalism students and Upwork workers&mdash;as well as 2 expert groups&mdash;journalists and scientists&mdash;on a varied set of 50 news articles related to climate science.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/credco_cscw.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
 			"title": "PolicyKit: Building Governance in Online Communities",
 			"author": [
