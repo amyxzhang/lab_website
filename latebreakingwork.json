@@ -8,10 +8,11 @@
 					"author_name": "Amy Zhang"
 				}
 			],
-			"publication_type": "XRDS: Crossroads, The ACM Magazine for Students",
+			"publication_type": "",
 			"links": {
 				"pdf_url": "https://people.csail.mit.edu/axz/papers/p28-zhang.pdf"
-			}
+			},
+			"conference": "XRDS: Crossroads, The ACM Magazine for Students"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1663d93996e9cfa4c876608486f2b820448a8f6c/images/clerkbot1.png",
