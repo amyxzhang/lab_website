@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b79d2d4dcea0e0ad6ba0eb5a6796bb2cd07607b7/images/wikum1.png",
+			"title": "Wikum: Bridging Discussion Forums and Wikis using Recursive Summarization",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Lea Verou"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2017",
+			"conference": "CSCW",
+			"year": "2017",
+			"abstract": "In this article, we describe a workflow called <em>recursive summarization</em>, implemented in our&nbsp;<em>Wikum</em>&nbsp;prototype, that enables a large population of readers or editors to work in small doses to refine out the main points of the discussion. More than just a single summary, our workflow produces a&nbsp;<em>summary tree</em>&nbsp;that enables a reader to explore distinct subtopics at multiple levels of detail based on their interests.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/wikum.pdf",
+				"website_url": "http://wikum.org/",
+				"code_url": "https://github.com/amyxzhang/wikum",
+				"slides_url": "https://homes.cs.washington.edu/~axz/wikum.html",
+				"video_url": "https://youtu.be/fTDkVeqjw80"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@402cae1991ba18aa063af9ca4800e303e2716107/images/uist3160-file2.jpg",
 			"title": "Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML",
 			"author": [
