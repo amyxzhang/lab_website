@@ -1,6 +1,29 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b0c0a9012e16402c21610402aa277de655460a6c/images/tildachat22.png",
+			"title": "Making Sense of Group Chat through Collaborative Tagging and Summarization",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Justin Cranshaw"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2018",
+			"conference": "CSCW",
+			"year": "2018",
+			"award": "Best Paper Award",
+			"abstract": "We investigate ways to enrich the representation of chat conversations, using techniques such as tagging and summarization, to enable users to better make sense of chat. Through needfinding interviews with 15 active group chat users, we found the importance of structured representations, including signals such as discourse acts. We then developed Tilda, a prototype system that enables people to collaboratively enrich their chat conversation while conversing.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/cscw_tilda.pdf",
+				"website_url": "https://tildachat.com/",
+				"code_url": "https://github.com/Microsoft/tilda",
+				"slides_url": "https://homes.cs.washington.edu/~axz/tilda.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2d62bbae1035902156cb58f9fa4b338abd6951b4/images/squadbox.png",
 			"title": "Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation",
 			"author": [
