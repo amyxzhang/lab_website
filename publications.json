@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f920bd95d94f790c7255ec6e27ad318522977401/images/eyebrowse1.jpg",
+			"title": "Opportunities and Challenges Around a Tool for Social and Public Web Activity Tracking",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Joshua Blum"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference url": "https://cscw.acm.org/2016",
+			"conference": "CSCW",
+			"year": "2016",
+			"abstract": "While the web contains many social websites, people are generally left in the dark about the activities of other people traversing the web as a whole. We explore the potential benefits and privacy considerations around generating a real-time, publicly accessible stream of web activity where users can publish chosen parts of their web browsing data.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/eyebrowse.pdf",
+				"website_url": "http://eyebrowse.csail.mit.edu/",
+				"code_url": "https://github.com/haystack/eyebrowse-server",
+				"slides_url": "https://homes.cs.washington.edu/~axz/eyebrowse.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cda8574bb4dfdbf3477be1cea3352b6b2af428ee/images/abortion.png",
 			"title": "Gender and Ideology in the Spread of Anti-Abortion Policy",
 			"author": [
