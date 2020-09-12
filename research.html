@@ -1,0 +1,336 @@
+<html>
+
+<head>
+	<title>Social Futures Lab - UW CSE</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="The Social Futures Lab at UW CSE studies, designs, and builds the social computing systems of the future.">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,600|Work+Sans:300,400,600&display=swap" rel="stylesheet">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/mavo.min.css">
+	<script src="js/mavo.es5.min.js"></script>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon"> </head>
+
+<body>
+	<div class="container-fluid">
+		<div class="row">
+			<BR></div>
+		
+		<div class="row justify-content-md-center">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 line"> 
+			<a class="mini-header3" href="index.html">Social Futures Lab</a>
+			</div>
+			
+			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7 line">
+				
+			<span style="font-size: 18px;">
+				<a href="research.html">Research</a> - 
+				<a href="members.html">Team</a> - 
+				<a href="news.html">News</a>
+        	</span>
+        	<BR>
+					
+			</div>
+			</div>
+			<hr>
+	</div>
+	<div class="container-fluid">
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 line">
+				
+				
+				<div mv-bar="none" mv-app="people" mv-source="https://github.com/amyxzhang/lab_website" style="display:none;">
+					<div class="row">
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pubbody">
+							
+							<article class="member-index" property="member" typeof="Person" mv-multiple>
+								<a href="" property="homepage">
+									<img src="null" class="person-img" property="image" alt=""><BR>
+									<span property="name">Name</span><BR>
+									</a>
+									<meta property="id" content="[name]">
+									
+									<p property="jobTitle">
+										<select>
+											<option value="pi">Assistant Professor</option>
+											<option value="postdoc" selected>Postdoctoral Researcher</option>
+											<option value="phd" selected>PhD Student</option>
+											<option value="visiting">Visiting Researcher</option>
+											<option value="masters">Masters Student</option>
+											<option value="undergrad">Undergraduate Student</option>
+										</select>
+									</p>
+									
+							</article>
+										
+								<div hidden>
+									<datalist id="memberList">
+										<option property="person" mv-multiple mv-value="name"></option>
+									</datalist>
+								</div>
+									
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				<span class="mini-header">
+							<h2>Research Areas</h2></span> <BR>
+								
+				
+								
+				<div mv-bar="no-login" mv-app="research_areas" mv-plugins="tinymce" mv-storage="https://github.com/amyxzhang/lab_website">
+					<article property="area" mv-multiple>
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" style="margin-bottom: 20px;"> 
+							<b>
+								<span property="title" style="line-height: 100%"></span></b>
+								<BR>
+							 <p property="description" class="tinymce"></p> 
+						
+							<B>Projects:</B>
+							
+								 <div property="project" mv-multiple typeof="item" style="display: inline-block;">
+								<a href="null" property="project_url">
+									<div property="project_name" style="display: inline-block;">Project Name</div>
+									</a>
+								</div>
+								
+							<BR>
+								
+								<span property="author2" mv-multiple>
+									<meta property="authorData2" mv-value="get(people.member, 'id=' & author_name2)" />
+									<img src="[authorData2.image]" alt="" mv-if="authorData2 != ''">
+									<span property="author_name2" mv-edit-list="memberList">Author Name</span></span>
+							
+						</div>
+					</article>
+					
+				</div>
+								
+				
+			</div>
+		</div>
+		
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-8 line">
+				
+						<span class="mini-header">
+							<h2>Publications</h2></span> <BR>
+								
+								
+				
+								
+								
+								
+				<div mv-bar="no-login" mv-app="publications" mv-permissions="read login edit add delete" mv-plugins="tinymce" mv-storage="https://github.com/amyxzhang/lab_website">
+					
+					<div class="mv-bar mv-ui"></div>
+					
+					<article class="row" property="paper" mv-multiple mv-order="desc">
+						
+						<div class="col-xs-8 col-sm-2 col-md-2 col-lg-2"> 
+							<img class="alignleft img-responsive center-block" property="image" src="null" alt="img alt" / style="border: 1px #737373 solid; margin-top: 6px; max-width:100%">
+						</div>
+						
+						
+						<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10 pubbody">
+							
+							<B><span class="mini-header2" property="title">Paper Title</span></B><BR>
+							
+							<span property="author" mv-multiple>
+									<meta property="authorData" mv-value="get(people.member, 'id=' & author_name)" />
+									<img src="[authorData.image]" alt="" mv-if="authorData != ''">
+									<span property="author_name" mv-edit-list="memberList">Author Name</span></span>
+							<BR>
+								<a href="null" property="conference url">
+									<span property="conference">Conference</span>
+									<span property="year">Year</span>
+								</a>
+								
+								<span class="btn btn-xs btn-warning" property="award">Award</span>
+								
+								<BR>
+								<span property="abstract" class="tinymce">Abstract</span>
+							<BR>
+								
+							<span property="links">
+								<a href="null" property="pdf_url" class="button">
+									<img src="img/pdf.png"><span>PDF</span>
+								</a>
+								
+								<a href="null" property="website_url" class="button">
+									<img src="img/earth.png"><span>Website</span>
+								</a>
+								
+								<a href="null" property="code_url" class="button">
+									<img src="img/github5.png"><span> Code</span>
+								</a>
+								
+								<a href="null" property="data_url" class="button">
+									<img src="img/data.png"><span> Data</span>
+								</a>
+								
+								<a href="null" property="slides_url" class="button">
+									<img src="img/slides.png"><span> Slides</span>
+								</a>
+								
+								<a href="null" property="video_url" class="button">
+									<img src="img/youtube.jpg"><span> Video</span>
+								</a>
+								
+								<BR><BR>
+							</span>
+								
+								
+						</article>
+						
+						
+					</div>
+					
+						
+		</div>
+		
+		
+		<div class="col-xs-12 col-sm-4 col-md-4 line" style="float: right">
+				
+						<span class="mini-header">
+							<h2>Late-Breaking Work</h2></span> <BR>
+								
+								
+				
+								
+								
+								
+				<div mv-bar="no-login" mv-app="latebreakingwork" mv-permissions="read login edit add delete" mv-storage="https://github.com/amyxzhang/lab_website">
+					
+					
+					<article class="row" property="paper" mv-multiple mv-order="desc">
+						
+						<div class="col-xs-8 col-sm-3 col-md-3 col-lg-3"> 
+							<img class="alignleft img-responsive center-block" property="image" src="null" alt="img alt" / style="border: 1px #737373 solid; margin-top: 6px; max-width:100%">
+						</div>
+						
+						
+						<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 pubbody">
+							
+							<B><span class="mini-header2" property="title">Paper Title</span></B><BR>
+							
+							<span property="author" mv-multiple>
+									<meta property="authorData" mv-value="get(people.member, 'id=' & author_name)" />
+									<img src="[authorData.image]" alt="" mv-if="authorData != ''">
+									<span property="author_name" mv-edit-list="memberList">Author Name</span></span>
+							<BR>
+								<span property="publication_type">Publication Type</span> 
+								<a href="null" property="conference url">
+									<span property="conference">Conference</span>
+									<span property="year">Year</span>
+								</a>
+								
+								<span class="btn btn-xs btn-warning" property="award">Award</span>
+								
+							<BR>
+								
+							<span property="links">
+								<a href="null" property="pdf_url" class="button">
+									<img src="img/pdf.png"><span>PDF</span>
+								</a>
+								
+								<a href="null" property="website_url" class="button">
+									<img src="img/earth.png"><span>Website</span>
+								</a>
+								
+								<a href="null" property="code_url" class="button">
+									<img src="img/github5.png"><span> Code</span>
+								</a>
+								
+								<a href="null" property="slides_url" class="button">
+									<img src="img/slides.png"><span> Slides</span>
+								</a>
+								
+								<a href="null" property="video_url" class="button">
+									<img src="img/youtube.jpg"><span> Video</span>
+								</a>
+								
+								<BR><BR>
+							</span>
+								
+							</div>	
+						</article>
+						
+						
+						
+					</div>
+					
+					<span class="mini-header">
+							<h2>Theses</h2></span> <BR>
+								
+								
+				
+								
+								
+								
+				<div mv-bar="no-login" mv-app="theses" mv-permissions="read login edit add delete" mv-plugins="tinymce" mv-storage="https://github.com/amyxzhang/lab_website">
+					
+					
+					<article class="row" property="thesis" mv-multiple mv-order="desc">
+						
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pubbody">
+							
+							<B><span class="mini-header2" property="title">Paper Title</span></B><BR>
+							
+							<span property="author" mv-multiple>
+									<meta property="authorData" mv-value="get(people.member, 'id=' & author_name)" />
+									<img src="[authorData.image]" alt="" mv-if="authorData != ''">
+									<span property="author_name" mv-edit-list="memberList">Author Name</span></span>
+							<BR>
+								<span property="type">Thesis Type</span>, 
+									<span property="date">Month, Year</span> 
+						
+								<span class="btn btn-xs btn-warning" property="award">Award</span>
+								
+							<BR>
+								
+							<span property="links">
+								<a href="null" property="pdf_url" class="button">
+									<img src="img/pdf.png"><span>PDF</span>
+								</a>
+								
+								<a href="null" property="slides_url" class="button">
+									<img src="img/slides.png"><span> Slides</span>
+								</a>
+								
+								<a href="null" property="video_url" class="button">
+									<img src="img/youtube.jpg"><span> Video</span>
+								</a>
+								
+								<BR><BR>
+							</span>
+								
+							</div>	
+						
+						
+						
+					</article>
+				</div>
+					
+						
+		</div>
+		
+			</div>
+			
+			
+			
+			
+		</div>
+	</div>
+	<P></P>
+	<BR> <small>This site built by &copy; Amy X. Zhang, <a href="https://github.com/amyxzhang/lab_website">github code here</a>.</small>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>
