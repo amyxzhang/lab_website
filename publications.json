@@ -21,8 +21,10 @@
 			"year": "2020",
 			"abstract": "In this work, we investigate news credibility assessments by crowds versus experts to understand when and how ratings between them differ. We gather a dataset of over 4,000 credibility assessments taken from 2 crowd groups&mdash;journalism students and Upwork workers&mdash;as well as 2 expert groups&mdash;journalists and scientists&mdash;on a varied set of 50 news articles related to climate science.",
 			"links": {
-				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/credco_cscw.pdf"
-			}
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/credco_cscw.pdf",
+				"data_url": "https://data.world/credibilitycoalition/credibility-factors2020/"
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@866f9a879e5612c06f68a78cd9e5eda7c5f85583/images/credco3.png"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
@@ -250,7 +252,8 @@
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/webconf_credco.pdf",
 				"website_url": "https://credibilitycoalition.org/",
 				"slides_url": "https://docs.google.com/presentation/d/1hGNqM_aO6U3gtryqqLZ_fTKreE940KIWlMnrfV5ooXU/edit?usp=sharing",
-				"video_url": "https://youtu.be/SndnDE_ExHg"
+				"video_url": "https://youtu.be/SndnDE_ExHg",
+				"data_url": "https://data.world/credibilitycoalition/webconf-2018"
 			}
 		},
 		{
@@ -306,7 +309,8 @@
 			"links": {
 				"pdf_url": "https://trusttri.github.io/papers/final_version_CSCW_2018.pdf",
 				"slides_url": "https://figshare.com/articles/rfc_sql/7038575",
-				"video_url": "https://youtu.be/OY8vZ6wES9o"
+				"video_url": "https://youtu.be/OY8vZ6wES9o",
+				"data_url": "https://figshare.com/articles/rfc_sql/7038575"
 			}
 		},
 		{
@@ -329,8 +333,8 @@
 			"abstract": "We present a novel method for classifying comments in online discussions into a set of coarse discourse acts towards the goal of better understanding discussions at scale. We collect and release a corpus of over 9,000 threads comprising over 100,000 comments. We demonstrate how the analysis of discourse acts can characterize different types of discussions. Finally, we conduct experiments finding that structured prediction models such as conditional random fields can achieve an F1 score of 75%.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/discourse.pdf",
-				"code_url": "https://github.com/google-research-datasets/coarse-discourse",
-				"slides_url": "https://homes.cs.washington.edu/~axz/discourse.html"
+				"slides_url": "https://homes.cs.washington.edu/~axz/discourse.html",
+				"data_url": "https://github.com/google-research-datasets/coarse-discourse"
 			}
 		},
 		{
