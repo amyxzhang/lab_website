@@ -20,9 +20,16 @@
 		},
 		{
 			"title": "Community Resilience and Self-Governance",
-			"description": "<span style=\"font-family: -webkit-standard;\"><span style=\"font-size: 14px;\">Online communities have grown to fill an important part of people's everyday lives. Yet the tools that online communities have to shape their own norms and rules are limited, resulting in top-down governance structures that easily fall apart or lead people to burn out. We design democratic structures to support community resilience as well as tools for self-governance.</span></span>",
+			"description": "<span style=\"font-size: 14px;\">Online communities have grown to fill an important part of people's everyday lives. Yet the tools that online communities have to shape their own norms and rules are limited, resulting in top-down governance structures that easily fall apart or lead people to burn out. We design democratic structures to support community resilience as well as tools for self-governance.</span><br />",
 			"project": [
-				{}
+				{
+					"project_url": "http://policykit.org/",
+					"project_name": "PolicyKit"
+				},
+				{
+					"project_url": "http://digitaljuries.com/",
+					"project_name": "Digital Juries"
+				}
 			],
 			"author2": [
 				{}
