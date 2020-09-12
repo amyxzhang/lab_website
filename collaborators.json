@@ -54,12 +54,6 @@
 			"jobTitle": "Professor",
 			"affiliation": "UMass Amherst",
 			"@type": "Person"
-		},
-		{
-			"name": "Farnaz Jahanbakhsh",
-			"jobTitle": "Graduate Student",
-			"affiliation": "MIT CSAIL",
-			"@type": "Person"
 		}
 	]
 }
