@@ -22,7 +22,8 @@
 			"conference": "Computation+Journalism",
 			"year": "2020",
 			"links": {
-				"pdf_url": "https://assets.ctfassets.net/tlowcqj4pb76/19HmmUXXQMXu4bTC51V1VU/a0bcaa1ba63c52a66e008dd020013102/CredCo_CplusJ_2020_paper_cameraready.pdf"
+				"pdf_url": "https://assets.ctfassets.net/tlowcqj4pb76/19HmmUXXQMXu4bTC51V1VU/a0bcaa1ba63c52a66e008dd020013102/CredCo_CplusJ_2020_paper_cameraready.pdf",
+				"data_url": "https://data.world/credibilitycoalition/credibility-factors2020/"
 			}
 		},
 		{
@@ -36,8 +37,7 @@
 			"publication_type": "XRDS: Crossroads, The ACM Magazine for Students",
 			"links": {
 				"pdf_url": "https://people.csail.mit.edu/axz/papers/p28-zhang.pdf"
-			},
-			"conference": ""
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1663d93996e9cfa4c876608486f2b820448a8f6c/images/clerkbot1.png",
