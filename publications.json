@@ -703,12 +703,14 @@
 			],
 			"conference": "Computation+Journalism",
 			"year": "2014",
-			"abstract": "In this work, we take a data-driven approach to understand how controversy interplays with emotional expression and biased language in the news. We begin by introducing a new dataset of controversial and noncontroversial terms collected using crowdsourcing. Then, focusing on 15 major U.S. news outlets, we compare millions of articles discussing controversial and non-controversial issues over a span of 7 months.",
+			"abstract": "How do news sources tackle controversial issues? In this work, we take a data-driven approach to understand how controversy interplays with emotional expression and biased language in the news. We begin by introducing a new dataset of controversial and noncontroversial terms collected using crowdsourcing. Then, focusing on 15 major U.S. news outlets, we compare millions of articles discussing controversial and non-controversial issues over a span of 7 months. We find that in general, when it comes to controversial issues, the use of negative affect and biased language is prevalent, while the use of strong emotion is tempered. We also observe many differences across news sources. Using these findings, we show that we can indicate to what extent an issue is controversial, by comparing it with other issues in terms of how they are portrayed across different media.",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/1409.8152v1.pdf"
 			},
 			"id": "controversy-and-sentiment-in-online-news",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "Focusing on 15 major U.S. news outlets, we compare millions of articles discussing controversial and non-controversial issues over a span of 7 months.",
+			"conference_full_name": "Symposium on Computation and Journalism",
+			"bibtex": "@article{mejova2014controversy,\n  title={Controversy and sentiment in online news},\n  author={Mejova, Yelena and Zhang, Amy X. and Diakopoulos, Nicholas and Castillo, Carlos},\n  journal={Symposium on Computation and Journalism},\n  year={2014}\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba299556ce1baf77194d787fbc45009d5b2c3a9b/images/hoodsquare.png",
