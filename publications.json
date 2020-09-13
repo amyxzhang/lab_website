@@ -732,14 +732,16 @@
 			"conference url": "http://www.scienceengineeringacademy.org/asesite/",
 			"conference": "SocialCom",
 			"year": "2013",
-			"abstract": "Information  garnered from activity on location-based social networks can be harnessed to characterize urban spaces and organize them into neighborhoods. We adopt a data-driven approach to the identification and modeling of urban neighborhoods using location-based social networks.",
+			"abstract": "Information garnered from activity on location-based social networks can be harnessed to characterize urban spaces and organize them into neighborhoods. In this work, we adopt a data-driven approach to the identification and modeling of urban neighborhoods using location-based social networks. We represent geographic points in the city using spatio-temporal information about Foursquare user check-ins and semantic information about places, with the goal of developing features to input into a novel neighborhood detection algorithm. The algorithm first employs a similarity metric that assesses the homogeneity of a geographic area, and then with a simple mechanism of geographic navigation, it detects the boundaries of a city&rsquo;s neighborhoods. The models and algorithms devised are subsequently integrated into a publicly available, map-based tool named Hoodsquare that allows users to explore activities and neighborhoods in cities around the world. Finally, we evaluate Hoodsquare in the context of a recommendation application where user profiles are matched to urban neighborhoods. By comparing with a number of baselines, we demonstrate how Hoodsquare can be used to accurately predict the home neighborhood of Twitter users. We also show that we are able to suggest neighborhoods geographically constrained in size, a desirable property in mobile recommendation scenarios for which geographical precision is key.",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/1308.3657v1.pdf",
 				"code_url": "https://github.com/amyxzhang/OPTICS-Automatic-Clustering",
 				"slides_url": "https://homes.cs.washington.edu/~axz/hoodsquare.html"
 			},
 			"id": "hoodsquare-modeling-and-recommending-neighborhoods-in-location-based-social-networks",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We adopt a data-driven approach to the identification and modeling of urban neighborhoods using location-based social networks.",
+			"conference_full_name": "International ASE/IEEE Conference on Social Computing",
+			"bibtex": "@inproceedings{Zhang:2013:HMR:2573038.2574008,\n author = {Zhang, Amy X. and Noulas, Anastasios and Scellato, Salvatore and Mascolo, Cecilia},\n title = {Hoodsquare: Modeling and Recommending Neighborhoods in Location-Based Social Networks},\n booktitle = {Proceedings of the 2013 International Conference on Social Computing},\n series = {SOCIALCOM '13},\n year = {2013},\n isbn = {978-0-7695-5137-1},\n pages = {69--74},\n numpages = {6},\n url = {http://dx.doi.org/10.1109/SocialCom.2013.17},\n doi = {10.1109/SocialCom.2013.17},\n acmid = {2574008},\n publisher = {IEEE Computer Society},\n address = {Washington, DC, USA},\n keywords = {urban data mining, location-based social networks, neighborhood modeling},\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6ca6ec2f1adb0fce81bb280349ae940561dca122/images/diurnal.png",
