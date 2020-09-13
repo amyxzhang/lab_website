@@ -765,10 +765,12 @@
 			"year": "2012",
 			"abstract": "We study and characterize diurnal patterns in social media data for different urban areas, with the goal of providing context and framing for reasoning about such patterns at different scales. Using one of the largest datasets to date of Twitter content associated with different locations, we examine within-day variability and across-day variability of diurnal keyword patterns for different locations.",
 			"links": {
-				"pdf_url": "https://d1wqtxts1xzle7.cloudfront.net/30608684/naaman-twitterpatterns-icwsm2012.pdf?1361181077=&response-content-disposition=inline%3B+filename%3DOn_the_Study_of_Diurnal_Urban_Routines_o.pdf&Expires=1599858402&Signature=O2t2kLom3YixIfxjkb0tk-OsnrD5v3p8-WKzKKfLNsb6schcqcUcFPYI37SnoTqAjer35PvYJtj7DthGEQDaEzbRdMLN--rTGb3aWrqSh6aMCLQwqH5G2Z0F~B-pQ7C~TnNjXEGYp6Z7i0Vc8w9yZ9Av-W6Xz1qidJ6C17DdEG31X-J~gQXVH9z9mWNMnosQWzmd7w24VEk6FfO8QMcJZUj7BgShtFOBQPw8~0SCGpsGQ7Dkw6IXXoJP-xxU6akRjO4RRaJentw2F9mBv5TGGIeASZGf61FR54DgKfwR7zp-D8DwhlUleQHDnIoUtbJ2M54sb6fzbPc~cdICDsrh4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+				"pdf_url": "https://d1wqtxts1xzle7.cloudfront.net/30608684/naaman-twitterpatterns-icwsm2012.pdf?1361181077=&response-content-disposition=inline%3B+filename%3DOn_the_Study_of_Diurnal_Urban_Routines_o.pdf&Expires=1599983085&Signature=YRn2xsokajxdwZ0OsOxekRqc09YVWXyM0RPqH2EFySWdONI2yeQw21edSJGajVsSNJiJjLlWP5EyFNF4utgdaNJcbLtXlGSyO-tiMzfggFOndncip4JRiX-ggvowPPHrbeVmJTmiuWK5cW0f3ReNfe89MZ8o~zUOgY~R2eN5OIBz9o1bLpnYs6CIEyZMApXYLWnHSaKRbQzg6lQdQa1TjEt52eFZ24iQLFcQmNoGG5tbv6Z0h1NHY8kXwDz0we0hQAocdNVrECdOoRYSXjHU0Z9ZGivLwbYuarqNdQY-fZ7AVlJjVPRQAgZfZFRfLsvqat3X6jNsznlUNBhtpV-X6w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
 			},
 			"id": "on-the-study-of-diurnal-urban-routines-on-twitter",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "Using one of the largest datasets to date of Twitter content associated with different locations, we examine within-day variability and across-day variability of diurnal keyword patterns for different locations.",
+			"conference_full_name": "International AAAI Conference on Weblogs and Social Media",
+			"bibtex": "@inproceedings{naaman2012study,\n  title={On the Study of Diurnal Urban Routines on Twitter.},\n  author={Naaman, Mor and Zhang, Amy X. and Brody, Samuel and Lotan, Gilad},\n  booktitle={Proc. of ICWSM},\n  year={2012}\n}"
 		}
 	]
 }
