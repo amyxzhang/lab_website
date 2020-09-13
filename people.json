@@ -21,7 +21,13 @@
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"website_url": "https://shagunjhaver.com",
+				"scholar_url": "https://scholar.google.com/citations?user=OgtKT6UAAAAJ",
+				"github_url": "https://github.com/shaguniitb",
+				"twitter_url": "https://twitter.com/shagunjhaver"
+			},
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on socialmedia websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -29,7 +35,12 @@
 			"name": "Quan Ze (Jim) Chen",
 			"jobTitle": "phd",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"website_url": "https://homes.cs.washington.edu/~cqz/",
+				"scholar_url": "https://scholar.google.com/citations?hl=en&user=TnBpKAoAAAAJ",
+				"github_url": "https://github.com/jabbany",
+				"twitter_url": "https://twitter.com/cquanze"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
@@ -37,7 +48,12 @@
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"scholar_url": "https://scholar.google.com/citations?user=CoG7C_YAAAAJ&hl=en",
+				"github_url": "https://github.com/Ruotongw",
+				"twitter_url": "https://twitter.com/RuotongWang1"
+			},
+			"bio": "Ruotong Wang is a first year Ph.D. student at University of Washington's Allen School of Computer Science and Engineering."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fde781477b75652e36b3ab74a7a707f7d9a2b3d8/images/person-male.png",
@@ -64,11 +80,11 @@
 			"links": {}
 		},
 		{
-			"jobTitle": "undergrad",
-			"links": {},
-			"@type": "Person",
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3e62772e997d51feaf03fd7e2ecabd03ed4a6500/images/person-male.png",
-			"name": "Ricky Grannis-Vu"
+			"homepage": "http://stanford.edu/~rickygv/",
+			"name": "Ricky Grannis-Vu",
+			"jobTitle": "undergrad",
+			"@type": "Person"
 		}
 	]
 }
