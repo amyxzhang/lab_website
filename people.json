@@ -27,7 +27,7 @@
 				"github_url": "https://github.com/shaguniitb",
 				"twitter_url": "https://twitter.com/shagunjhaver"
 			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on socialmedia websites."
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -84,7 +84,8 @@
 			"homepage": "http://stanford.edu/~rickygv/",
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
-			"@type": "Person"
+			"@type": "Person",
+			"links": {}
 		}
 	]
 }
