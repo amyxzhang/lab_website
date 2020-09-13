@@ -675,12 +675,14 @@
 			"conference url": "https://www.icwsm.org/2014/",
 			"conference": "ICWSM",
 			"year": "2014",
-			"abstract": "In this work we develop a novel operationalization of moral evaluation frames and study their use within a corpus of blogs discussing climate change. We develop a text visualization tool called Lingoscope that allows the user to observe and filter the contextual terms that convey moral framing across large volumes of text, as well as to drill down to specific examples.",
+			"abstract": "Media frames define distinctive perspectives or ways of communicating about issues and can be manifested through patterns of language use, such as preferences for various key terms and phrases. In this work we develop a novel operationalization of moral evaluation frames and study their use within a corpus of blogs discussing climate change. We compare moral evaluation frames between blogs marked as climate change skeptics and climate change acceptors. We develop a text visualization tool called Lingoscope that allows the user to observe and filter the contextual terms that convey moral framing across large volumes of text, as well as to drill down to specific examples. By focusing on climate-related topics and how they are discussed by climate change skeptics versus climate change acceptors, our approach uncovers and explores how numerous topics are framed in a different moral light in skeptical and acceptor blogs.",
 			"links": {
 				"pdf_url": "http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Identifying-and-analyzing-moral-evaluation-frames-in-cc-blog-discourse_FINAL.pdf"
 			},
 			"id": "identifying-and-analyzing-moral-evaluation-frames-in-climate-change-blog-discourse",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We develop a text visualization tool called Lingoscope that allows the user to observe and filter the contextual terms that convey moral framing across large volumes of text, as well as to drill down to specific examples.",
+			"conference_full_name": "International AAAI Conference on Weblogs and Social Media",
+			"bibtex": "@article{diakopoulos2014identifying,\n  title={Identifying and analyzing moral evaluation frames in climate change blog discourse},\n  author={Diakopoulos, Nicholas and Zhang, Amy X. and Elgesem, Dag and Salway, Andrew},\n  journal={Proc. of ICWSM},\n  year={2014}\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@be1440bef6879ee4d6d27fb98b9ab6f1873c592e/images/sentinews.png",
