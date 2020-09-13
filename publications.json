@@ -130,15 +130,17 @@
 			"conference url": "chi2020.acm.org",
 			"conference": "CHI",
 			"year": "2020",
-			"abstract": "In this work, we empower users to access APIs without programming. We evolve a schema for declaratively specifying how to interact with a data API. We then develop ScrAPIr: a standard query GUI that enables users to fetch data through any API for which a specification exists, and a second GUI that lets users author and share the specification for a given API.",
+			"abstract": "Users have long struggled to extract and repurpose data from websites by laboriously copying or scraping content from web pages. An alternative is to write scripts that pull data through APIs. This provides a cleaner way to access data than scraping; however, APIs are effortful for programmers and nigh-impossible for non-programmers to use. In this work, we empower users to access APIs without programming. We evolve a schema for declaratively specifying how to interact with a data API. We then develop ScrAPIr: a standard query GUI that enables users to fetch data through any API for which a specification exists, and a second GUI that lets users author and share the specification for a given API. From a lab evaluation, we find that even non-programmers can access APIs using ScrAPIr, while programmers can access APIs 3.8 times faster on average using ScrAPIr than using programming.",
 			"links": {
 				"pdf_url": "http://people.csail.mit.edu/tarfah/papers/scrapir.pdf",
 				"website_url": "https://scrapir.org/",
 				"code_url": "https://github.com/tarfahalrashed/ScrAPIr",
-				"video_url": "https://youtu.be/SSj_msJvRwo"
+				"video_url": "https://www.youtube.com/embed/SSj_msJvRwo"
 			},
 			"id": "scrapir-making-web-data-apis-accessible-to-end-users",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We evolve a schema for declaratively specifying how to interact with a data API. We then develop ScrAPIr: a standard query GUI that enables users to fetch data through any API for which a specification exists, and a second GUI that lets users author and share the specification for a given API.",
+			"conference_full_name": "Conference on Human Factors in Computing Systems",
+			"bibtex": "@inproceedings{10.1145/3313831.3376691,\nauthor = {Alrashed, Tarfah and Almahmoud, Jumana and Zhang, Amy X. and Karger, David R.},\ntitle = {ScrAPIr: Making Web Data APIs Accessible to End Users},\nyear = {2020},\nisbn = {9781450367080},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3313831.3376691},\ndoi = {10.1145/3313831.3376691},\nbooktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},\npages = {1–12},\nnumpages = {12},\nkeywords = {api description language, web scraping, web apis},\nlocation = {Honolulu, HI, USA},\nseries = {CHI '20}\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d18426828c1883608c4be2f8c1f03a0d4fe5038d/images/las_emoji1.png",
