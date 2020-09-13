@@ -504,7 +504,7 @@
 			"conference url": "https://cscw.acm.org/2016",
 			"conference": "CSCW",
 			"year": "2016",
-			"abstract": "While the web contains many social websites, people are generally left in the dark about the activities of other people traversing the web as a whole. We explore the potential benefits and privacy considerations around generating a real-time, publicly accessible stream of web activity where users can publish chosen parts of their web browsing data.",
+			"abstract": "While the web contains many social websites, people are generally left in the dark about the activities of other people traversing the web as a whole. In this paper, we explore the potential benefits and privacy considerations around generating a real-time, publicly accessible stream of web activity where users can publish chosen parts of their web browsing data. Taking inspiration from social media systems, we describe individual benefits that can be unlocked by such sharing and that may incentivize users to publish aspects of their browsing. We ask whether and how these benefits outweigh potential costs in lost privacy. We conduct our study of public web activity sharing through scenario-based interviews and a field deployment of a tool for web activity sharing.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/eyebrowse.pdf",
 				"website_url": "http://eyebrowse.csail.mit.edu/",
@@ -512,7 +512,9 @@
 				"slides_url": "https://homes.cs.washington.edu/~axz/eyebrowse.html"
 			},
 			"id": "opportunities-and-challenges-around-a-tool-for-social-and-public-web-activity-tracking",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We explore the potential benefits and privacy considerations around generating a real-time, publicly accessible stream of web activity where users can publish chosen parts of their web browsing data.",
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"bibtex": "@inproceedings{Zhang:2016:OCA:2818048.2819949,\n author = {Zhang, Amy X. and Blum, Joshua and Karger, David R.},\n title = {Opportunities and Challenges Around a Tool for Social and Public Web Activity Tracking},\n booktitle = {Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work \\& Social Computing},\n series = {CSCW '16},\n year = {2016},\n isbn = {978-1-4503-3592-8},\n location = {San Francisco, California, USA},\n pages = {913--925},\n numpages = {13},\n url = {http://doi.acm.org/10.1145/2818048.2819949},\n doi = {10.1145/2818048.2819949},\n acmid = {2819949},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {activity traces, privacy, self-presentation, sharing motivations, social media, web analytics, web browsing, web tracking},\n} "
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cda8574bb4dfdbf3477be1cea3352b6b2af428ee/images/abortion.png",
