@@ -147,7 +147,7 @@
 							<BR>
 								
 							<p class="hide-on-read">
-								/publications/<span property="id" mv-default="[idify(title)]"></span>
+								URL id: /publications/<span property="id" mv-default="[idify(title)]"></span>
 							</p>
 							
 							<span property="author" mv-multiple>
@@ -155,16 +155,25 @@
 									<img src="[authorData.image]" alt="" mv-if="authorData != ''">
 									<span property="author_name" mv-edit-list="memberList">Author Name</span></span>
 							<BR>
+								
+								<span class="hide-on-read" property="conference_full_name">Full Conference Name</span>
+								
 								<a href="null" property="conference url">
 									<span property="conference">Conference</span>
 									<span property="year">Year</span>
 								</a>
 								
-								<span class="btn btn-xs btn-warning" property="award">Award</span>
+								<span class="btn btn-xs btn-warning [if(!award, 'hide-on-read')]" style="padding-top:2px;"><img src="img/trophy-24.png" style="margin-bottom: 0px;width: 22px; height:22px;"> <span property="award">Award</span></span>
+								
+								
 								
 								<BR>
-								<span property="abstract" class="tinymce">Abstract</span>
-							<BR>
+								<div property="short_abstract" class="tinymce" mv-default="1-2 sentence summary">1-2 sentence summary</div>
+							
+								<div class="hide-on-read" property="abstract" class="tinymce">Abstract</div>
+							
+								<div class="hide-on-read"  property="bibtex" class="tinymce">Bibtex</div>
+						
 								
 							<span property="links">
 								<a href="null" property="pdf_url" class="button">
@@ -244,7 +253,9 @@
 									<span property="year">Year</span>
 								</a>
 								
-								<span class="btn btn-xs btn-warning" property="award">Award</span>
+								<span class="btn btn-xs btn-warning [if(!award, 'hide-on-read')]" style="padding-top:2px;"><img src="img/trophy-24.png" style="margin-bottom: 0px;width: 22px; height:22px;"> <span property="award">Award</span></span>
+								
+								
 								
 							<BR>
 								
@@ -259,6 +270,10 @@
 								
 								<a href="null" property="code_url" class="button">
 									<img src="img/github5.png"><span> Code</span>
+								</a>
+								
+								<a href="null" property="data_url" class="button">
+									<img src="img/data.png"><span> Data</span>
 								</a>
 								
 								<a href="null" property="slides_url" class="button">
@@ -304,7 +319,9 @@
 								<span property="type">Thesis Type</span>, 
 									<span property="date">Month, Year</span> 
 						
-								<span class="btn btn-xs btn-warning" property="award">Award</span>
+								<span class="btn btn-xs btn-warning [if(!award, 'hide-on-read')]" style="padding-top:2px;"><img src="img/trophy-24.png" style="margin-bottom: 0px;width: 22px; height:22px;"> <span property="award">Award</span></span>
+								
+								
 								
 							<BR>
 								

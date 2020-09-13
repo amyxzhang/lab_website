@@ -41,19 +41,25 @@
 			<div class="col-xs-12 col-sm-12 col-md-12 line">
 				
 								
-				<div mv-bar="no-login" mv-app  mv-plugins="tinymce" id="[url('id')]" mv-permissions="read logout edit save" mv-storage="https://github.com/amyxzhang/lab_website/publications.json">
+				<div mv-bar="no-login" mv-app  mv-plugins="tinymce markdown" id="[url('id')]" mv-permissions="read logout delete add edit save" mv-storage="https://github.com/amyxzhang/lab_website/publications.json">
 					
 					<meta property="selectedPub" mv-value="url('id')" />
 					
 					
-					<article class="row" property="paper" mv-multiple mv-order="desc" mv-multiple-path="id=[url('id')]">
+					<article class="row" property="paper" mv-multiple mv-multiple-path="id=[url('id')]">
 						
-						<div class="col-xs-8 col-sm-2 col-md-2 col-lg-2"> 
-							<img class="alignleft img-responsive center-block" property="image" src="null" alt="img alt" / style="border: 1px #737373 solid; margin-top: 6px; max-width:100%">
+						<div class="col-xs-8 col-sm-3 col-md-3 col-lg-3"> 
+							<img class=" img-responsive center-block" property="image" src="null" alt="img alt" / style="border: 1px #737373 solid; margin-top: 6px; max-width:100%">
+						<BR>
+							<iframe style="max-width: 100%;" width="375" height="225" src="[video_url]" mv-if="contains(video_url, 'youtube') or contains(video_url, 'vimeo') or contains(video_url, 'video01')" 
+							frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+							</iframe>
+							
+						
+						<BR><BR>
 						</div>
 						
-						
-						<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10 pubbody">
+						<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 pubbody" style="margin-left: 10px;">
 							
 							<B><span class="mini-header2" property="title">Paper Title</span></B><BR>
 							
@@ -62,17 +68,19 @@
 									<img src="[authorData.image]" alt="" mv-if="authorData != ''">
 									<span property="author_name" mv-edit-list="memberList">Author Name</span></span>
 							<BR>
+								<i><span style="color: gray;" property="conference_full_name">Full Conference Name</span></i><BR>
+								
 								<a href="null" property="conference url">
 									<span property="conference">Conference</span>
 									<span property="year">Year</span>
 								</a>
 								
-								<span class="btn btn-xs btn-warning" property="award">Award</span>
+								
+								<span class="btn btn-xs btn-warning [if(!award, 'hide-on-read')]" style="padding-top:2px;"><img src="img/trophy-24.png" style="margin-bottom: 0px;width: 22px; height:22px;"> <span property="award">Award</span></span>
+								
+								
 								
 								<BR>
-								<span property="abstract" class="tinymce">Abstract</span>
-							<BR>
-								
 							<span property="links">
 								<a href="null" property="pdf_url" class="button">
 									<img src="img/pdf.png"><span>PDF</span>
@@ -98,9 +106,20 @@
 									<img src="img/youtube.jpg"><span> Video</span>
 								</a>
 								
-								<BR><BR>
 							</span>
+							
+							<div class="hide-on-read" property="short_abstract" class="tinymce" mv-default="1-2 sentence summary">1-2 sentence summary</div>
+							
 								
+								<BR>
+									<B>Abstract:</B><BR>
+								<span property="abstract" class="tinymce">Abstract</span>
+							<BR>
+								<BR>
+									<B>Bibtex:</B><BR>
+									
+								<div style="font-family: Courier;" property="bibtex" class="markdown">Bibtex</div>
+						
 								
 						</article>
 					
