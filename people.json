@@ -80,11 +80,11 @@
 			"links": {}
 		},
 		{
-			"jobTitle": "undergrad",
-			"links": {},
-			"@type": "Person",
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3e62772e997d51feaf03fd7e2ecabd03ed4a6500/images/person-male.png",
-			"name": "Ricky Grannis-Vu"
+			"homepage": "http://stanford.edu/~rickygv/",
+			"name": "Ricky Grannis-Vu",
+			"jobTitle": "undergrad",
+			"@type": "Person"
 		}
 	]
 }
