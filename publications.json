@@ -26,7 +26,7 @@
 			},
 			"id": "policykit-building-governance-in-online-communities",
 			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
-			"short_abstract": "In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute."
+			"short_abstract": "<p>We present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms.</p>"
 		},
 		{
 			"title": "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria",
@@ -47,14 +47,15 @@
 			"conference url": "https://cscw.acm.org/2020",
 			"conference": "CSCW",
 			"year": "2020",
-			"abstract": "In this work, we investigate news credibility assessments by crowds versus experts to understand when and how ratings between them differ. We gather a dataset of over 4,000 credibility assessments taken from 2 crowd groups&mdash;journalism students and Upwork workers&mdash;as well as 2 expert groups&mdash;journalists and scientists&mdash;on a varied set of 50 news articles related to climate science.",
+			"abstract": "Misinformation about critical issues such as climate change and vaccine safety is oftentimes amplified on\nonline social and search platforms. The crowdsourcing of content credibility assessment by laypeople has\nbeen proposed as one strategy to combat misinformation by attempting to replicate the assessments of experts at scale. In this work, we investigate news credibility assessments by crowds versus experts to understand when and how ratings between them differ. We gather a dataset of over 4,000 credibility assessments taken from 2 crowd groups - journalism students and Upwork workers - as well as 2 expert groups - journalists and scientists -on a varied set of 50 news articles related to climate science, a topic with widespread disconnect between public opinion and expert consensus. Examining the ratings, we find differences in performance due to the makeup of the crowd, such as rater demographics and political leaning, as well as the scope of the tasks that the crowd is assigned to rate, such as the genre of the article and partisanship of the publication. Finally, we find differences between expert assessments due to differing expert criteria that journalism versus science experts use - differences that may contribute to crowd discrepancies, but that also suggest a way to reduce the gap by designing crowd tasks tailored to specific expert criteria. From these findings, we outline future research directions to better design crowd processes that are tailored to specific crowds and types of content.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/credco_cscw.pdf",
 				"data_url": "https://data.world/credibilitycoalition/credibility-factors2020/"
 			},
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@866f9a879e5612c06f68a78cd9e5eda7c5f85583/images/credco3.png",
-			"id": "investigating-differences-in-crowdsourced-news-credibility-assessment-raters-tasks-and-expert-criteria",
-			"short_abstract": "1-2 sentence summary"
+			"id": "crowdsourced-news-credibility",
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"short_abstract": "<p>We gather a dataset of over 4,000 credibility assessments taken from 2 crowd groups - journalism students and Upwork workers - as well as 2 expert groups - journalists and scientists - on a varied set of 50 news articles related to climate science.</p>"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4034249a301db59d5fd5003f2ca0133353b3c38d/images/datasci1.png",
