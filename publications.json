@@ -560,7 +560,9 @@
 			"abstract": "Mailing lists have existed since the early days of email and are still widely used today, even as more sophisticated online forums and social media websites proliferate. The simplicity of mailing lists can be seen as a reason for their endurance, a source of dissatisfaction, and an opportunity for improvement. Using a mixed-method approach, we studied two community mailing lists in depth with interviews and surveys, and surveyed a broader spectrum of 28 lists. We report how members of the different communities use their lists and their goals and desires for them. We explore why members prefer mailing lists to other group communication tools. But we also identify several tensions around mailing list usage that appear to contribute to dissatisfaction with them. We conclude with design implications, discussing ways to alleviate these tensions while preserving mailing lists&rsquo; appeal.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/mailinglists.pdf",
-				"slides_url": "https://homes.cs.washington.edu/~axz/mailinglists.html"
+				"slides_url": "https://homes.cs.washington.edu/~axz/mailinglists.html",
+				"website_url": "http://murmur.csail.mit.edu/",
+				"code_url": "https://github.com/haystack/mailx"
 			},
 			"id": "mailing-lists-why-are-they-still-here-whats-wrong-with-them-and-how-can-we-fix-them",
 			"short_abstract": " We explore why members prefer mailing lists to other group communication tools. But we also identify several tensions around mailing list usage that appear to contribute to dissatisfaction with them.",
