@@ -645,13 +645,15 @@
 			"conference url": "https://uist.acm.org/uist2014/",
 			"conference": "UIST",
 			"year": "2014",
-			"abstract": "To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page. This allows users to quickly find interesting content while exploring without further cluttering the limited visual space.",
+			"abstract": "Long documents are abundant on the web today, and are accessed in increasing numbers from touchscreen devices such as mobile phones and tablets. Navigating long documents with small screens can be challenging both physically and cognitively because they compel the user to scroll a great deal and to mentally filter for important content. To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page. This allows users to quickly find interesting content while exploring without further cluttering the limited visual space. To model degrees of interest (DOI) for a variety of existing web pages, we introduce social wear, a method for capturing DOI based on social signals that indicate collective user interest. Our preliminary evaluation shows that users pay attention to items with kinetic scrolling feedback during search, recognition, and skimming tasks.",
 			"links": {
 				"pdf_url": "https://juhokim.com/files/UIST2014-CAKS.pdf",
-				"video_url": "https://youtu.be/MZXsrl3csQs"
+				"video_url": "https://www.youtube.com/embed/MZXsrl3csQs"
 			},
 			"id": "content-aware-kinetic-scrolling-for-supporting-web-page-navigation",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page.",
+			"conference_full_name": "ACM User Interface Software and Technology Symposium",
+			"bibtex": "@inproceedings{Kim:2014:CKS:2642918.2647401,\n author = {Kim, Juho and Zhang, Amy X. and Kim, Jihee and Miller, Robert C. and Gajos, Krzysztof Z.},\n title = {Content-aware Kinetic Scrolling for Supporting Web Page Navigation},\n booktitle = {Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology},\n series = {UIST '14},\n year = {2014},\n isbn = {978-1-4503-3069-5},\n location = {Honolulu, Hawaii, USA},\n pages = {123--127},\n numpages = {5},\n url = {http://doi.acm.org/10.1145/2642918.2647401},\n doi = {10.1145/2642918.2647401},\n acmid = {2647401},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {kinetic scrolling, pseudo-haptic feedback, read wear, social wear},\n} "
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d1806ef1d641bd002800391dcd122c86b6b829f5/images/climate.png",
