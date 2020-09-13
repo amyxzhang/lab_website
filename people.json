@@ -29,7 +29,12 @@
 			"name": "Quan Ze (Jim) Chen",
 			"jobTitle": "phd",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"website_url": "https://homes.cs.washington.edu/~cqz/",
+				"scholar_url": "https://scholar.google.com/citations?hl=en&user=TnBpKAoAAAAJ",
+				"github_url": "https://github.com/jabbany",
+				"twitter_url": "https://twitter.com/cquanze"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
