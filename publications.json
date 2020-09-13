@@ -204,13 +204,15 @@
 			"conference url": "https://chi2019.acm.org/",
 			"conference": "CHI",
 			"year": "2019",
-			"abstract": "Email management consumes significant effort from senders and recipients. Some of this work might be automatable. We performed a mixed-methods need-finding study to learn: (i) what sort of automatic email handling users want, and (ii) what kinds of information and computation are needed to support that automation.",
+			"abstract": "Email management consumes significant effort from senders and recipients. Some of this work might be automatable. We performed a mixed-methods need-finding study to learn: (i) what sort of automatic email handling users want, and (ii) what kinds of information and computation are needed to support that automation. Our investigation included a design workshop to identify categories of needs, a survey to better understand those categories, and a classification of existing email automation software to determine which needs have been addressed. Our results highlight the need for: a richer data model for rules, more ways to manage attention, leveraging internal and external email context, complex processing such as response aggregation, and affordances for senders. To further investigate our findings, we developed a platform for authoring small scripts over a user&rsquo;s inbox. Of the automations found in our studies, half are impossible in popular email clients, motivating new design directions.",
 			"links": {
 				"pdf_url": "https://people.csail.mit.edu/soya/papers/mailbot.pdf",
-				"video_url": "https://youtu.be/gQUIl3DMoyk"
+				"video_url": "https://www.youtube.com/embed/gQUIl3DMoyk"
 			},
 			"id": "opportunities-for-automating-email-processing-a-need-finding-study",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We performed a mixed-methods need-finding study to learn: (i) what sort of automatic email handling users want, and (ii) what kinds of information and computation are needed to support that automation.",
+			"conference_full_name": "Conference on Human Factors in Computing Systems",
+			"bibtex": "@inproceedings{Park:2019:OAE:3290605.3300604,\n author = {Park, Soya and Zhang, Amy X. and Murray, Luke S. and Karger, David R.},\n title = {Opportunities for Automating Email Processing: A Need-Finding Study},\n booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},\n series = {CHI '19},\n year = {2019},\n isbn = {978-1-4503-5970-2},\n location = {Glasgow, Scotland Uk},\n pages = {374:1--374:12},\n articleno = {374},\n numpages = {12},\n url = {http://doi.acm.org/10.1145/3290605.3300604},\n doi = {10.1145/3290605.3300604},\n acmid = {3300604},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {email, personal information management, task management},\n} "
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b0c0a9012e16402c21610402aa277de655460a6c/images/tildachat22.png",
