@@ -177,7 +177,7 @@
 			"abstract": "Students' confusion is a barrier for learning, contributing to loss of motivation and to disengagement with course materials. However, detecting students' confusion in large-scale courses is both time and resource intensive. This paper provides a new approach for confusion detection in online forums that is based on harnessing the power of students' self-reported affective states (reported using a set of pre-defined hashtags). It presents a rule for labeling confusion, based on students' hashtags in their posts, that is shown to align with teachers' judgement. We use this labeling rule to inform the design of an automated classifier for confusion detection for the case when there are no self-reported hashtags present in the test set. We demonstrate this approach in a large scale Biology course using the Nota Bene annotation platform. This work lays the foundation to empower teachers with better support tools for detecting and alleviating confusion in online courses.",
 			"links": {
 				"pdf_url": "https://dl.acm.org/doi/10.1145/3375462.3375485",
-				"video_url": "https://video01.uni-frankfurt.de/Mediasite/Play/6f0e3e65559140f68711ab917923d5631d?autostart=true&player=0669adffd1774702978c7ada024252720a&playfrom=0&covertitle=false"
+				"talk_url": "https://video01.uni-frankfurt.de/Mediasite/Play/6f0e3e65559140f68711ab917923d5631d?autostart=true&player=0669adffd1774702978c7ada024252720a&playfrom=0&covertitle=false"
 			},
 			"id": "confused-and-beyond-detecting-confusion-in-course-forums-using-student-annotated-hashtags",
 			"short_abstract": "This paper provides a new approach for confusion detection in online forums that is based on harnessing the power of students' self-reported affective states (reported using a set of pre-defined hashtags).",
@@ -207,7 +207,7 @@
 			"abstract": "Email management consumes significant effort from senders and recipients. Some of this work might be automatable. We performed a mixed-methods need-finding study to learn: (i) what sort of automatic email handling users want, and (ii) what kinds of information and computation are needed to support that automation. Our investigation included a design workshop to identify categories of needs, a survey to better understand those categories, and a classification of existing email automation software to determine which needs have been addressed. Our results highlight the need for: a richer data model for rules, more ways to manage attention, leveraging internal and external email context, complex processing such as response aggregation, and affordances for senders. To further investigate our findings, we developed a platform for authoring small scripts over a user&rsquo;s inbox. Of the automations found in our studies, half are impossible in popular email clients, motivating new design directions.",
 			"links": {
 				"pdf_url": "https://people.csail.mit.edu/soya/papers/mailbot.pdf",
-				"video_url": "https://www.youtube.com/embed/gQUIl3DMoyk"
+				"talk_url": "https://www.youtube.com/embed/gQUIl3DMoyk"
 			},
 			"id": "opportunities-for-automating-email-processing-a-need-finding-study",
 			"short_abstract": "We performed a mixed-methods need-finding study to learn: (i) what sort of automatic email handling users want, and (ii) what kinds of information and computation are needed to support that automation.",
@@ -264,7 +264,8 @@
 				"website_url": "http://squadbox.org/",
 				"code_url": "https://github.com/amyxzhang/squadbox",
 				"slides_url": "https://homes.cs.washington.edu/~axz/squadbox.html",
-				"video_url": "https://www.youtube.com/embed/mZrmoi5D7g0"
+				"video_url": "https://www.youtube.com/embed/mZrmoi5D7g0",
+				"talk_url": "https://www.youtube.com/embed/4jL-IJgKC2s"
 			},
 			"id": "squadbox-a-tool-to-combat-email-harassment-using-friendsourced-moderation",
 			"short_abstract": "We conducted interviews with 18 recipients of online harassment to understand their strategies for coping, finding that they often resorted to asking friends for help. We present Squadbox, a tool to help recipients of email harassment coordinate a \"squad\" of friend moderators to shield and support them during attacks.",
@@ -326,8 +327,8 @@
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/webconf_credco.pdf",
 				"website_url": "https://credibilitycoalition.org/",
 				"slides_url": "https://docs.google.com/presentation/d/1hGNqM_aO6U3gtryqqLZ_fTKreE940KIWlMnrfV5ooXU/edit?usp=sharing",
-				"video_url": "https://www.youtube.com/embed/SndnDE_ExHg",
-				"data_url": "https://data.world/credibilitycoalition/webconf-2018"
+				"data_url": "https://data.world/credibilitycoalition/webconf-2018",
+				"talk_url": "https://www.youtube.com/embed/SndnDE_ExHg"
 			},
 			"id": "a-structured-response-to-misinformation-defining-and-annotating-credibility-indicators-in-news-articles",
 			"short_abstract": "Collective agreement on the indicators that signify credible content could allow for greater collaboration and data-sharing across initiatives. We present an initial set of indicators for article credibility defined by a diverse coalition of experts.",
@@ -391,8 +392,8 @@
 			"links": {
 				"pdf_url": "https://trusttri.github.io/papers/final_version_CSCW_2018.pdf",
 				"slides_url": "https://figshare.com/articles/rfc_sql/7038575",
-				"video_url": "https://www.youtube.com/embed/OY8vZ6wES9o",
-				"data_url": "https://figshare.com/articles/rfc_sql/7038575"
+				"data_url": "https://figshare.com/articles/rfc_sql/7038575",
+				"talk_url": "https://www.youtube.com/embed/OY8vZ6wES9o"
 			},
 			"id": "deliberation-and-resolution-on-wikipedia-a-case-study-of-requests-for-comments",
 			"short_abstract": "We collected an exhaustive dataset of 7,316 RfCs on English Wikipedia over the course of 7 years and conducted a qualitative and quantitative analysis into what issues affect the RfC process.",
