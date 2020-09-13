@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b030f8234f114d5daf8bc1828b288eacc9bd2f9d/images/credco3.png",
+			"title": "Investigating \"Who\" in the Crowdsourcing of News Credibility",
+			"author": [
+				{
+					"author_name": "MD Momen Bhuiyan"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Connie Moon Sehat"
+				},
+				{
+					"author_name": "Tanushree Mitra"
+				}
+			],
+			"publication_type": "Poster Paper",
+			"conference url": "https://cj2020.northeastern.edu/",
+			"conference": "Computation+Journalism",
+			"year": "2020",
+			"links": {
+				"pdf_url": "https://assets.ctfassets.net/tlowcqj4pb76/19HmmUXXQMXu4bTC51V1VU/a0bcaa1ba63c52a66e008dd020013102/CredCo_CplusJ_2020_paper_cameraready.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@39211d1a81f06c130cfc13d94cb8dc62e65e9c4d/images/xrds1.png",
 			"title": "Considering Social Factors in New Technologies",
 			"author": [
