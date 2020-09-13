@@ -319,18 +319,20 @@
 				}
 			],
 			"conference url": "https://www2018.thewebconf.org/",
-			"conference": "WWW Companion",
+			"conference": "WebConf Companion",
 			"year": "2018",
-			"abstract": "Given the variety of approaches to combat misinformation, collective agreement on the indicators that signify credible content could allow for greater collaboration and data-sharing across initiatives. We present an initial set of indicators for article credibility defined by a diverse coalition of experts.",
+			"abstract": "The proliferation of misinformation in online news and its amplification by platforms are a growing concern, leading to numerous efforts to improve the detection of and response to misinformation. Given the variety of approaches, collective agreement on the indicators that signify credible content could allow for greater collaboration and data-sharing across initiatives. In this paper, we present an initial set of indicators for article credibility defined by a diverse coalition of experts. These indicators originate from both within an article&rsquo;s text as well as from external sources or article metadata. As a proof-of-concept, we present a dataset of 40 articles of varying credibility annotated with our indicators by 6 trained annotators using specialized platforms. We discuss future steps including expanding annotation, broadening the set of indicators, and considering their use by platforms and the public, towards the development of interoperable standards for content credibility.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/webconf_credco.pdf",
 				"website_url": "https://credibilitycoalition.org/",
 				"slides_url": "https://docs.google.com/presentation/d/1hGNqM_aO6U3gtryqqLZ_fTKreE940KIWlMnrfV5ooXU/edit?usp=sharing",
-				"video_url": "https://youtu.be/SndnDE_ExHg",
+				"video_url": "https://www.youtube.com/embed/SndnDE_ExHg",
 				"data_url": "https://data.world/credibilitycoalition/webconf-2018"
 			},
 			"id": "a-structured-response-to-misinformation-defining-and-annotating-credibility-indicators-in-news-articles",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "Collective agreement on the indicators that signify credible content could allow for greater collaboration and data-sharing across initiatives. We present an initial set of indicators for article credibility defined by a diverse coalition of experts.",
+			"conference_full_name": "International World Wide Web Conference",
+			"bibtex": "@inproceedings{Zhang:2018:SRM:3184558.3188731,\n author = {Zhang, Amy X. and Ranganathan, Aditya and Metz, Sarah Emlen and Appling, Scott and Sehat, Connie Moon and Gilmore, Norman and Adams, Nick B. and Vincent, Emmanuel and Lee, Jennifer and Robbins, Martin and Bice, Ed and Hawke, Sandro and Karger, David and Mina, An Xiao},\n title = {A Structured Response to Misinformation: Defining and Annotating Credibility Indicators in News Articles},\n booktitle = {Companion Proceedings of the The Web Conference 2018},\n series = {WWW '18},\n year = {2018},\n isbn = {978-1-4503-5640-4},\n location = {Lyon, France},\n pages = {603--612},\n numpages = {10},\n url = {https://doi.org/10.1145/3184558.3188731},\n doi = {10.1145/3184558.3188731},\n acmid = {3188731},\n publisher = {International World Wide Web Conferences Steering Committee},\n address = {Republic and Canton of Geneva, Switzerland},\n keywords = {credibility, disinformation, information disorder, journalism, media literacy, misinformation, news, web standards},\n} "
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4f5423bf96277cdba1e7654f844648b20ab23dce/images/google-play-app2.png",
