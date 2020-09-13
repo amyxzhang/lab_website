@@ -1,6 +1,34 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8fdbc613c8aacf0027717f722225247a1829d6bd/images/lines.png",
+			"title": "Triangulating the News: Visualizing Commonality and Variation Across Many News Stories on the Same Event",
+			"author": [
+				{
+					"author_name": "Elena Glassman"
+				},
+				{
+					"author_name": "Janet Sung"
+				},
+				{
+					"author_name": "Katherine Qian"
+				},
+				{
+					"author_name": "Yuri Vishnevsky"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Demo Paper",
+			"conference url": "https://cj2020.northeastern.edu/",
+			"conference": "Computation+Journalism",
+			"year": "2020",
+			"links": {
+				"pdf_url": "https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2019/11/CJ_2020_paper_67.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b030f8234f114d5daf8bc1828b288eacc9bd2f9d/images/credco3.png",
 			"title": "Investigating \"Who\" in the Crowdsourcing of News Credibility",
 			"author": [
