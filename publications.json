@@ -387,15 +387,17 @@
 			"conference url": "https://cscw.acm.org/2018",
 			"conference": "CSCW",
 			"year": "2018",
-			"abstract": "We collected an exhaustive dataset of 7,316 RfCs on English Wikipedia over the course of 7 years and conducted a qualitative and quantitative analysis into what issues affect the RfC process. We found that a major issue affecting the RfC process is the prevalence of RfCs that could have benefited from formal closure but that linger indefinitely without one.",
+			"abstract": "Resolving disputes in a timely manner is crucial for any online production group. We present an analysis of Requests for Comments (RfCs), one of the main vehicles on Wikipedia for formally resolving a policy or content dispute. We collected an exhaustive dataset of 7,316 RfCs on English Wikipedia over the course of 7 years and conducted a qualitative and quantitative analysis into what issues affect the RfC process. Our analysis was informed by 10 interviews with frequent RfC closers. We found that a major issue affecting the RfC process is the prevalence of RfCs that could have benefited from formal closure but that linger indefinitely without one, with factors including participants&rsquo; interest and expertise impacting the likelihood of resolution. From these findings, we developed a model that predicts whether an RfC will go stale with 75.3% accuracy, a level that is approached as early as one week after dispute initiation.",
 			"links": {
 				"pdf_url": "https://trusttri.github.io/papers/final_version_CSCW_2018.pdf",
 				"slides_url": "https://figshare.com/articles/rfc_sql/7038575",
-				"video_url": "https://youtu.be/OY8vZ6wES9o",
+				"video_url": "https://www.youtube.com/embed/OY8vZ6wES9o",
 				"data_url": "https://figshare.com/articles/rfc_sql/7038575"
 			},
 			"id": "deliberation-and-resolution-on-wikipedia-a-case-study-of-requests-for-comments",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We collected an exhaustive dataset of 7,316 RfCs on English Wikipedia over the course of 7 years and conducted a qualitative and quantitative analysis into what issues affect the RfC process.",
+			"conference_full_name": " ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"bibtex": "@article{Im:2018:DRW:3290265.3274343,\n author = {Im, Jane and Zhang, Amy X. and Schilling, Christopher J. and Karger, David},\n title = {Deliberation and Resolution on Wikipedia: A Case Study of Requests for Comments},\n journal = {Proc. ACM Hum.-Comput. Interact.},\n issue_date = {November 2018},\n volume = {2},\n number = {CSCW},\n month = nov,\n year = {2018},\n issn = {2573-0142},\n pages = {74:1--74:24},\n articleno = {74},\n numpages = {24},\n url = {http://doi.acm.org/10.1145/3274343},\n doi = {10.1145/3274343},\n acmid = {3274343},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {collaboration, comments, consensus, dataset, deliberation, dispute resolution, online communities, online discussion, wikipedia},\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b5d2f990a5a9803c9324837603f1d90a4ca917f1/images/discourse.jpg",
