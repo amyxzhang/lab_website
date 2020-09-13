@@ -445,7 +445,7 @@
 			"conference url": "https://cscw.acm.org/2017",
 			"conference": "CSCW",
 			"year": "2017",
-			"abstract": "In this article, we describe a workflow called <em>recursive summarization</em>, implemented in our&nbsp;<em>Wikum</em>&nbsp;prototype, that enables a large population of readers or editors to work in small doses to refine out the main points of the discussion. More than just a single summary, our workflow produces a&nbsp;<em>summary tree</em>&nbsp;that enables a reader to explore distinct subtopics at multiple levels of detail based on their interests.",
+			"abstract": "Large-scale discussions between many participants abound on the internet today, on topics ranging from political arguments to group coordination. But as these discussions grow to tens of thousands of posts, they become ever more difficult for a reader to digest. In this article, we describe a workflow called recursive summarization, implemented in our Wikum prototype, that enables a large population of readers or editors to work in small doses to refine out the main points of the discussion. More than just a single summary, our workflow produces a summary tree that enables a reader to explore distinct subtopics at multiple levels of detail based on their interests. We describe lab evaluations showing that (i) Wikum can be used more effectively than a control to quickly construct a summary tree and (ii) the summary tree is more effective than the original discussion in helping readers identify and explore the main topics.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/wikum.pdf",
 				"website_url": "http://wikum.org/",
@@ -454,7 +454,9 @@
 				"video_url": "https://youtu.be/fTDkVeqjw80"
 			},
 			"id": "wikum-bridging-discussion-forums-and-wikis-using-recursive-summarization",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We describe a workflow called recursive summarization, implemented in our Wikum prototype, that enables a large population of readers or editors to work in small doses to refine out the main points of the discussion.",
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"bibtex": "@inproceedings{Zhang:2017:WBD:2998181.2998235,\n author = {Zhang, Amy X. and Verou, Lea and Karger, David},\n title = {Wikum: Bridging Discussion Forums and Wikis Using Recursive Summarization},\n booktitle = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},\n series = {CSCW '17},\n year = {2017},\n isbn = {978-1-4503-4335-0},\n location = {Portland, Oregon, USA},\n pages = {2082--2096},\n numpages = {15},\n url = {http://doi.acm.org/10.1145/2998181.2998235},\n doi = {10.1145/2998181.2998235},\n acmid = {2998235},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {collaboration, comments, crowdsourcing, deliberation, online discussion, summarization, threaded discussion, wikis},\n} "
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@402cae1991ba18aa063af9ca4800e303e2716107/images/uist3160-file2.jpg",
