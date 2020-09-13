@@ -82,7 +82,8 @@
 			},
 			"id": "data-science-collaborate",
 			"short_abstract": "<p>We conducted an online survey with 183 participants who work in various aspects of data science. We found that data science teams are extremely collaborative and work with a variety of stakeholders and tools.</p>",
-			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing"
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"bibtex": "@article{zhang-2020-datascience,\n author = {Zhang, Amy X. and Muller, Michael and Wang, Dakuo},\n title = {How do Data Science Workers Collaborate? Roles, Workflows, and Tools},\n journal = {Proc. ACM Hum.-Comput. Interact.},\n issue_date = {October 2020},\n number = {CSCW},\n month = oct,\n year = {2020},\n publisher = {ACM},\n address = {New York, NY, USA},\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7761ddede302062398be1f18b9d0b26c8cb830fe/images/juries1.png",
