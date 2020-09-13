@@ -612,13 +612,15 @@
 			"conference url": "https://uist.acm.org/uist2014/",
 			"conference": "UIST",
 			"year": "2014",
-			"abstract": "We present a system for creating basic web applications using such spreadsheets in place of a server and using HTML to describe the client UI. Authors connect the two by placing spreadsheet references inside HTML attributes. Data computation is provided by spreadsheet formulas. The result is a reactive read-write-compute web page without a single line of Javascript code.",
+			"abstract": "Creating and publishing read-write-compute web applications requires programming skills beyond what most end users possess. But many end users know how to make spreadsheets that act as simple information management applications, often with computation. We present a system for creating basic web applications using such spreadsheets in place of a server and using HTML to describe the client UI. Authors connect the two by placing spreadsheet references inside HTML attributes. Data computation is provided by spreadsheet formulas. The result is a reactive read-write-compute web page without a single line of Javascript code. Nearly all of the fifteen HTML novices we studied were able to connect HTML to spreadsheets using our method with minimal instruction. We draw conclusions from their experience and discuss future extensions to this programming model.",
 			"links": {
 				"pdf_url": "http://edwardbenson.com/papers/uist2014-spreadsheet-driven-web-apps.pdf",
-				"video_url": "https://youtu.be/9KudDZWu2uk"
+				"video_url": "https://www.youtube.com/embed/9KudDZWu2uk"
 			},
 			"id": "spreadsheet-driven-web-applications",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We present a system for creating basic web applications using such spreadsheets in place of a server and using HTML to describe the client UI. The result is a reactive read-write-compute web page without a single line of Javascript code.",
+			"conference_full_name": "ACM User Interface Software and Technology Symposium",
+			"bibtex": "@inproceedings{Benson:2014:SDW:2642918.2647387,\n author = {Benson, Edward and Zhang, Amy X. and Karger, David R.},\n title = {Spreadsheet Driven Web Applications},\n booktitle = {Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology},\n series = {UIST '14},\n year = {2014},\n isbn = {978-1-4503-3069-5},\n location = {Honolulu, Hawaii, USA},\n pages = {97--106},\n numpages = {10},\n url = {http://doi.acm.org/10.1145/2642918.2647387},\n doi = {10.1145/2642918.2647387},\n acmid = {2647387},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {end-user programming, information architecture, spreadsheets, web design},\n} "
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e7bc6b765f0e2a35b2be5ddc6b9ed6455a2b5955/images/scrolling.png",
