@@ -21,7 +21,13 @@
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"website_url": "https://shagunjhaver.com",
+				"scholar_url": "https://scholar.google.com/citations?user=OgtKT6UAAAAJ",
+				"github_url": "https://github.com/shaguniitb",
+				"twitter_url": "https://twitter.com/shagunjhaver"
+			},
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on socialmedia websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
