@@ -11,7 +11,7 @@
 					"author_name": "Grant Hugh"
 				},
 				{
-					"author_name": "David Karger"
+					"author_name": "Michael Bernstein"
 				}
 			],
 			"conference url": "https://uist.acm.org/uist2020/",
@@ -27,7 +27,7 @@
 			"id": "policykit-building-governance-in-online-communities",
 			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
 			"short_abstract": "<p>We present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms.</p>",
-			"bibtex": "@inproceedings{zhang-2020-policykit,\n author = {Zhang, Amy X. and Hugh, Grant and Karger, David},\n title = {PolicyKit: Building Governance in Online Communities},\n booktitle = {Proceedings of the ACM Symposium on User Interface Software and Technology},\n series = {UIST '20},\n year = {2020},\n publisher = {ACM},\n}"
+			"bibtex": "@inproceedings{zhang-2020-policykit,\n author = {Zhang, Amy X. and Hugh, Grant and Bernstein, Michael},\n title = {PolicyKit: Building Governance in Online Communities},\n booktitle = {Proceedings of the ACM Symposium on User Interface Software and Technology},\n series = {UIST '20},\n year = {2020},\n publisher = {ACM},\n}"
 		},
 		{
 			"title": "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria",
