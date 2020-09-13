@@ -557,13 +557,15 @@
 			"conference url": "chi2015.acm.org",
 			"conference": "CHI",
 			"year": "2015",
-			"abstract": "Mailing lists have existed since the early days of email and are still widely used today, even as more sophisticated online forums and social media websites proliferate. We explore why members prefer mailing lists to other group communication tools. But we also identify several tensions around mailing list usage that appear to contribute to dissatisfaction with them.",
+			"abstract": "Mailing lists have existed since the early days of email and are still widely used today, even as more sophisticated online forums and social media websites proliferate. The simplicity of mailing lists can be seen as a reason for their endurance, a source of dissatisfaction, and an opportunity for improvement. Using a mixed-method approach, we studied two community mailing lists in depth with interviews and surveys, and surveyed a broader spectrum of 28 lists. We report how members of the different communities use their lists and their goals and desires for them. We explore why members prefer mailing lists to other group communication tools. But we also identify several tensions around mailing list usage that appear to contribute to dissatisfaction with them. We conclude with design implications, discussing ways to alleviate these tensions while preserving mailing lists&rsquo; appeal.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/mailinglists.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/mailinglists.html"
 			},
 			"id": "mailing-lists-why-are-they-still-here-whats-wrong-with-them-and-how-can-we-fix-them",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": " We explore why members prefer mailing lists to other group communication tools. But we also identify several tensions around mailing list usage that appear to contribute to dissatisfaction with them.",
+			"conference_full_name": "Conference on Human Factors in Computing Systems",
+			"bibtex": "@inproceedings{Zhang:2015:MLW:2702123.2702194,\n author = {Zhang, Amy X. and Ackerman, Mark S. and Karger, David R.},\n title = {Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?},\n booktitle = {Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},\n series = {CHI '15},\n year = {2015},\n isbn = {978-1-4503-3145-6},\n location = {Seoul, Republic of Korea},\n pages = {4009--4018},\n numpages = {10},\n url = {http://doi.acm.org/10.1145/2702123.2702194},\n doi = {10.1145/2702123.2702194},\n acmid = {2702194},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {discussion groups, email, mailing lists, online communities},\n} "
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ffd06255a2565104803b780243edbfb6600c3de0/images/dendogram3.png",
