@@ -416,14 +416,17 @@
 			"conference url": "https://www.icwsm.org/2017/",
 			"conference": "ICWSM",
 			"year": "2017",
-			"abstract": "We present a novel method for classifying comments in online discussions into a set of coarse discourse acts towards the goal of better understanding discussions at scale. We collect and release a corpus of over 9,000 threads comprising over 100,000 comments. We demonstrate how the analysis of discourse acts can characterize different types of discussions. Finally, we conduct experiments finding that structured prediction models such as conditional random fields can achieve an F1 score of 75%.",
+			"abstract": "In this work, we present a novel method for classifying comments in online discussions into a set of coarse discourse acts towards the goal of better understanding discussions at scale. To facilitate this study, we devise a categorization of coarse discourse acts designed to encompass general online discussion and allow for easy annotation by crowd workers. We collect and release a corpus of over 9,000 threads comprising over 100,000 comments manually annotated via paid crowdsourcing with discourse acts and randomly sampled from the site Reddit. Using our corpus, we demonstrate how the analysis of discourse acts can characterize different types of discussions, including discourse sequences such as Q&amp;A pairs and chains of disagreement, as well as different communities. Finally, we conduct experiments to predict discourse acts using our corpus, finding that structured prediction models such as conditional random fields can achieve an F1 score of 75%. We also demonstrate how the broadening of discourse acts from simply question and answer to a richer set of categories can improve the recall performance of Q&amp;A extraction.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/discourse.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/discourse.html",
-				"data_url": "https://github.com/google-research-datasets/coarse-discourse"
+				"data_url": "https://github.com/google-research-datasets/coarse-discourse",
+				"website_url": "https://ai.googleblog.com/2017/05/coarse-discourse-dataset-for.html"
 			},
 			"id": "characterizing-online-discussion-using-coarse-discourse-sequences",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "We present a novel method for classifying comments in online discussions into a set of coarse discourse acts towards the goal of better understanding discussions at scale. We collect and release a corpus of over 9,000 threads comprising over 100,000 comments and find that structured prediction models such as conditional random fields can achieve an F1 score of 75%.",
+			"conference_full_name": "International AAAI Conference on Web and Social Media",
+			"bibtex": "@inproceedings{coarsediscourse, \ntitle={Characterizing Online Discussion Using Coarse Discourse Sequences}, \nauthor={Zhang, Amy X. and Culbertson, Bryan and Paritosh, Praveen}, \nbooktitle={Proceedings of the 11th International AAAI Conference on Weblogs and Social Media}, \nseries={ICWSM '17}, \nyear={2017}, \nlocation = {Montreal, Canada} \n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b79d2d4dcea0e0ad6ba0eb5a6796bb2cd07607b7/images/wikum1.png",
