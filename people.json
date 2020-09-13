@@ -43,7 +43,12 @@
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"scholar_url": "https://scholar.google.com/citations?user=CoG7C_YAAAAJ&hl=en",
+				"github_url": "https://github.com/Ruotongw",
+				"twitter_url": "https://twitter.com/RuotongWang1"
+			},
+			"bio": "Ruotong Wang is a first year Ph.D. student at University of Washington's Allen School of Computer Science and Engineering."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fde781477b75652e36b3ab74a7a707f7d9a2b3d8/images/person-male.png",
