@@ -56,7 +56,7 @@
 			"id": "crowdsourced-news-credibility",
 			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
 			"short_abstract": "<p>We gather a dataset of over 4,000 credibility assessments taken from 2 crowd groups - journalism students and Upwork workers - as well as 2 expert groups - journalists and scientists - on a varied set of 50 news articles related to climate science.</p>",
-			"bibtex": "@article{2020-crowdsourced-cred,\n author = {Bhuiyan, MD Momen and Zhang, Amy X. and Sehat, Connie Moon and Mitra, Tanushree},\n title = {Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria},\n journal = {Proc. ACM Hum.-Comput. Interact.},\n issue_date = {November 2020},\n number = {CSCW},\n month = nov,\n year = {2020},\n publisher = {ACM},\n address = {New York, NY, USA},\n}"
+			"bibtex": "@article{2020-crowdsourced-cred, \nauthor = {Bhuiyan, MD Momen and Zhang, Amy X. and Sehat, Connie Moon and Mitra, Tanushree}, \ntitle = {Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria}, \njournal = {Proc. ACM Hum.-Comput. Interact.}, \nissue_date = {November 2020}, \nnumber = {CSCW}, \nmonth = nov, \nyear = {2020}, \npublisher = {ACM}, \naddress = {New York, NY, USA}, \n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4034249a301db59d5fd5003f2ca0133353b3c38d/images/datasci1.png",
