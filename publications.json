@@ -229,7 +229,7 @@
 			"conference": "CSCW",
 			"year": "2018",
 			"award": "Best Paper Award",
-			"abstract": "We investigate ways to enrich the representation of chat conversations, using techniques such as tagging and summarization, to enable users to better make sense of chat. Through needfinding interviews with 15 active group chat users, we found the importance of structured representations, including signals such as discourse acts. We then developed Tilda, a prototype system that enables people to collaboratively enrich their chat conversation while conversing.",
+			"abstract": "While group chat is becoming increasingly popular for team collaboration, these systems generate long streams of unstructured back-and-forth discussion that are difficult to comprehend. In this work, we investigate ways to enrich the representation of chat conversations, using techniques such as tagging and summarization, to enable users to better make sense of chat. Through needfinding interviews with 15 active group chat users, who were shown mock-up alternative chat designs, we found the importance of structured representations, including signals such as discourse acts. We then developed Tilda, a prototype system that enables people to collaboratively enrich their chat conversation while conversing. From lab evaluations, we examined the ease of marking up chat using Tilda as well as the effectiveness of Tilda-enabled summaries for getting an overview. From a field deployment, we found that teams actively engaged with Tilda both for marking up their chat as well as catching up on chat.",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/cscw_tilda.pdf",
 				"website_url": "https://tildachat.com/",
@@ -237,7 +237,9 @@
 				"slides_url": "https://homes.cs.washington.edu/~axz/tilda.html"
 			},
 			"id": "making-sense-of-group-chat-through-collaborative-tagging-and-summarization",
-			"short_abstract": "1-2 sentence summary"
+			"short_abstract": "Through needfinding interviews with 15 active group chat users, we found the importance of structured representations, including signals such as discourse acts. We then developed Tilda, a prototype system that enables people to collaboratively enrich their chat conversation while conversing.",
+			"conference_full_name": "Conference on Computer-Supported Cooperative Work and Social Computing",
+			"bibtex": "@article{Zhang:2018:MSG:3290265.3274465,\n author = {Zhang, Amy X. and Cranshaw, Justin},\n title = {Making Sense of Group Chat Through Collaborative Tagging and Summarization},\n journal = {Proc. ACM Hum.-Comput. Interact.},\n issue_date = {November 2018},\n volume = {2},\n number = {CSCW},\n month = nov,\n year = {2018},\n issn = {2573-0142},\n pages = {196:1--196:27},\n articleno = {196},\n numpages = {27},\n url = {http://doi.acm.org/10.1145/3274465},\n doi = {10.1145/3274465},\n acmid = {3274465},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {annotation, collaboration, group chat, knowledge management, online communities, online discussions, sensemaking, summarization, tagging},\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2d62bbae1035902156cb58f9fa4b338abd6951b4/images/squadbox.png",
