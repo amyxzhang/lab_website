@@ -25,7 +25,8 @@
 				"video_url": "https://player.vimeo.com/video/446531759"
 			},
 			"id": "policykit-building-governance-in-online-communities",
-			"conference_full_name": "ACM Symposium on User Interface Software and Technology"
+			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
+			"short_abstract": "In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute."
 		},
 		{
 			"title": "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria",
