@@ -27,7 +27,7 @@
 				"github_url": "https://github.com/shaguniitb",
 				"twitter_url": "https://twitter.com/shagunjhaver"
 			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites like Facebook, Twitter and Reddit."
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -40,7 +40,8 @@
 				"scholar_url": "https://scholar.google.com/citations?hl=en&user=TnBpKAoAAAAJ",
 				"github_url": "https://github.com/jabbany",
 				"twitter_url": "https://twitter.com/cquanze"
-			}
+			},
+			"bio": "My primary research interests are in crowdsourcing, AI and human computer interaction."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
@@ -56,23 +57,21 @@
 			"bio": "Ruotong Wang is a first year Ph.D. student at University of Washington's Allen School of Computer Science and Engineering."
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fde781477b75652e36b3ab74a7a707f7d9a2b3d8/images/person-male.png",
 			"homepage": "http://social.cs.washington.edu/",
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {
-				"website_url": "https://gezhangrp.com"
-			},
-			"bio": "Ge Zhang is a senior undergraduate student at Peking University.&nbsp;"
+			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2384254fc7e95fe520ef082ad596049c17ef8003/images/IMG_4463.jpg",
 			"homepage": "http://social.cs.washington.edu/",
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {}
+			"links": {},
+			"bio": "Wenjia just got her BA in Cognitive Science from Lawrence University. She is passionate about collective intelligence and tools for thoughts. Her research interest lies in the intersection of complexity science and HCI. She is also a UX researcher, and teach kids design thinking on side."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4482a6db4d37271a1f81adf0a684dd4be8bdbc6f/images/person-male.png",
@@ -80,8 +79,7 @@
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {},
-			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting."
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1b3e6ec6c5dc4918505ab6697619bcf81aac1dfd/images/profile%20(2).jpg",
@@ -89,7 +87,11 @@
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {},
+			"links": {
+				"website_url": "http://stanford.edu/~rickygv/",
+				"github_url": "https://github.com/rickygv99",
+				"twitter_url": "https://twitter.com/RickyGrannisVu"
+			},
 			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
 		}
 	]
