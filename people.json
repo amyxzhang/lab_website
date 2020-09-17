@@ -27,7 +27,7 @@
 				"github_url": "https://github.com/shaguniitb",
 				"twitter_url": "https://twitter.com/shagunjhaver"
 			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites."
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites like Facebook, Twitter and Reddit."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -61,7 +61,10 @@
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"website_url": "https://gezhangrp.com"
+			},
+			"bio": "Ge Zhang is a senior undergraduate student at Peking University.&nbsp;"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
@@ -77,15 +80,17 @@
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {}
+			"links": {},
+			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting."
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3e62772e997d51feaf03fd7e2ecabd03ed4a6500/images/person-male.png",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1b3e6ec6c5dc4918505ab6697619bcf81aac1dfd/images/profile%20(2).jpg",
 			"homepage": "http://stanford.edu/~rickygv/",
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {}
+			"links": {},
+			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
 		}
 	]
 }
