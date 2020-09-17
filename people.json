@@ -77,19 +77,16 @@
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {
-				"website_url": "emeliahughes.com"
-			},
-			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting."
+			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3e62772e997d51feaf03fd7e2ecabd03ed4a6500/images/person-male.png",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1b3e6ec6c5dc4918505ab6697619bcf81aac1dfd/images/profile%20(2).jpg",
 			"homepage": "http://stanford.edu/~rickygv/",
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
 			"@type": "Person",
 			"links": {},
-			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University and is a research assistant at Dr. Zhang's Social Futures lab at the University of Washington. He studies the design and governance of online communities, with a focus on the&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
+			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
 		}
 	]
 }
