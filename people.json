@@ -27,7 +27,7 @@
 				"github_url": "https://github.com/shaguniitb",
 				"twitter_url": "https://twitter.com/shagunjhaver"
 			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites like Facebook, Twitter and Reddit."
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -61,28 +61,27 @@
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {
-				"website_url": "https://gezhangrp.com"
-			}
+			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2384254fc7e95fe520ef082ad596049c17ef8003/images/IMG_4463.jpg",
 			"homepage": "http://social.cs.washington.edu/",
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"website_url": "https://www.jiajiahu.me",
+				"github_url": "https://github.com/JiajiaHu20"
+			},
+			"bio": "Wenjia just got her BA in Cognitive Science from Lawrence University. She is passionate about collective intelligence and tools for thoughts. Her research interest lies in the intersection of complexity science and HCI. She is also a UX researcher, and teach kids design thinking on side."
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8f2f02466f13068cf4c78db959c69af6bc5d9de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4482a6db4d37271a1f81adf0a684dd4be8bdbc6f/images/person-male.png",
 			"homepage": "social.cs.washington.edu",
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {
-				"website_url": "emeliahughes@live.com"
-			},
-			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting."
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1b3e6ec6c5dc4918505ab6697619bcf81aac1dfd/images/profile%20(2).jpg",
@@ -90,7 +89,11 @@
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {},
+			"links": {
+				"website_url": "http://stanford.edu/~rickygv/",
+				"github_url": "https://github.com/rickygv99",
+				"twitter_url": "https://twitter.com/RickyGrannisVu"
+			},
 			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
 		}
 	]
