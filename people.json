@@ -61,7 +61,9 @@
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {}
+			"links": {
+				"website_url": "https://gezhangrp.com"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
