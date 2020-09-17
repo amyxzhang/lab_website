@@ -67,9 +67,11 @@
 			"@type": "Person",
 			"links": {
 				"website_url": "https://gezhangrp.com",
-				"email": "gezhang@cs.washington.edu"
+				"email": "gezhang@cs.washington.edu",
+				"github_url": "https://github.com/AshleyZG",
+				"twitter_url": "https://twitter.com/gezhang001"
 			},
-			"bio": "Ge Zhang is a senior undergraduate student at Peking University.&nbsp;"
+			"bio": "Ge Zhang is a senior undergraduate student at Peking University. Her research interests are in data mining and human-computer interaction, with a focus on scientific reproducibility and data science collaboration."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fb7e2e24e18ae51c1526fd3793dd771d0e32b3a2/images/IMG_4463.jpg",
