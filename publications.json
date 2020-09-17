@@ -1,6 +1,34 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dfe695a7255fcae03504c6549ae48067205d33e4/images/wikumplus.png",
+			"title": "A System for Interleaving Discussion and Summarization in Online Collaboration",
+			"id": "a-system-for-interleaving-discussion-and-summarization",
+			"author": [
+				{
+					"author_name": "Sunny Tian"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"conference url": "https://cscw.acm.org/2020",
+			"conference": "CSCW",
+			"year": "2020",
+			"short_abstract": "<p>In this work, we present interleaved discussion and summarization, a process where collaborators can switch back and forth between discussing ideas and summarizing discussion. We implement this into a tool called Wikum+ where groups can create living summaries - artifacts that can grow as new collaborators, ideas, and feedback arise, and can shrink as collaborators come to consensus.</p>",
+			"abstract": "In many instances of online collaboration, ideation and deliberation happen separately from any synthesis\nof that deliberation into a cohesive consensus document. However, this may result in a final document that\nhas little connection to the discussion that came before. In this work, we present interleaved discussion and\nsummarization, a process where discussion and summarization are woven together in a single space, and\ncollaborators can switch back and forth between discussing ideas and summarizing discussion until it results\nin a final document that incorporates and references all discussion points. We implement this process into a\ntool called Wikum+ that allows groups working together on a project to create living summaries—artifacts that\ncan grow as new collaborators, ideas, and feedback arise, and can shrink as collaborators come to consensus.\nWe conducted studies where groups of six people collaborated on a proposal using Wikum+ and a proposal\nusing a messaging platform along with Google Docs. We found that Wikum+’s integration of discussion\nand summarization helped groups be more organized, allowing for light-weight coordination and iterative\nimprovements throughout the collaboration process. A second study demonstrated that in larger groups,\nWikum+ was more inclusive of all participants and more comprehensive in the final document compared to\ntraditional tools.",
+			"bibtex": "@article{2020-crowdsourced-cred, author = {Tian, Sunny and Zhang, Amy X. and Karger, David}, title = {A System for Interleaving Discussion and Summarization in Online Collaboration}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {October 2020}, number = {CSCW}, month = oct, year = {2020}, publisher = {ACM}, address = {New York, NY, USA}, }",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2009.07446.pdf",
+				"website_url": "http://wikum.org/",
+				"code_url": "https://github.com/amyxzhang/wikum"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
 			"title": "PolicyKit: Building Governance in Online Communities",
 			"author": [
