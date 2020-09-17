@@ -27,7 +27,7 @@
 				"github_url": "https://github.com/shaguniitb",
 				"twitter_url": "https://twitter.com/shagunjhaver"
 			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites like Facebook, Twitter and Reddit."
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -64,7 +64,6 @@
 			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
 			"homepage": "http://social.cs.washington.edu/",
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
@@ -77,8 +76,7 @@
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {},
-			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting."
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1b3e6ec6c5dc4918505ab6697619bcf81aac1dfd/images/profile%20(2).jpg",
@@ -86,7 +84,11 @@
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {},
+			"links": {
+				"website_url": "http://stanford.edu/~rickygv/",
+				"github_url": "https://github.com/rickygv99",
+				"twitter_url": "https://twitter.com/RickyGrannisVu"
+			},
 			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
 		}
 	]
