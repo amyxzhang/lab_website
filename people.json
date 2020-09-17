@@ -27,7 +27,7 @@
 				"github_url": "https://github.com/shaguniitb",
 				"twitter_url": "https://twitter.com/shagunjhaver"
 			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites like Facebook, Twitter and Reddit."
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -40,7 +40,8 @@
 				"scholar_url": "https://scholar.google.com/citations?hl=en&user=TnBpKAoAAAAJ",
 				"github_url": "https://github.com/jabbany",
 				"twitter_url": "https://twitter.com/cquanze"
-			}
+			},
+			"bio": "I'm a Ph.D. Student at the University of Washington. My primary research interests are in crowdsourcing, AI and human computer interaction.&nbsp;"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
@@ -61,10 +62,7 @@
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {
-				"website_url": "https://gezhangrp.com"
-			},
-			"bio": "Ge Zhang is a senior undergraduate student at Peking University.&nbsp;"
+			"links": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
@@ -89,7 +87,11 @@
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {},
+			"links": {
+				"website_url": "http://stanford.edu/~rickygv/",
+				"github_url": "https://github.com/rickygv99",
+				"twitter_url": "https://twitter.com/RickyGrannisVu"
+			},
 			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
 		}
 	]
