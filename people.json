@@ -2,7 +2,6 @@
 	"member": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba8817e4aa7f4f844265753ce2597b610e5e0318/images/amyz.png",
-			"homepage": "https://homes.cs.washington.edu/~axz",
 			"name": "Amy Zhang",
 			"jobTitle": "pi",
 			"@type": "Person",
@@ -17,7 +16,6 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
-			"homepage": "https://shagunjhaver.com/",
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
 			"@type": "Person",
@@ -47,7 +45,6 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
-			"homepage": "https://scholar.google.com/citations?user=CoG7C_YAAAAJ&hl=en",
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
 			"@type": "Person",
@@ -61,7 +58,6 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
-			"homepage": "http://social.cs.washington.edu/",
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
 			"@type": "Person",
@@ -75,7 +71,6 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fb7e2e24e18ae51c1526fd3793dd771d0e32b3a2/images/IMG_4463.jpg",
-			"homepage": "http://social.cs.washington.edu/",
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
 			"@type": "Person",
@@ -88,7 +83,6 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
-			"homepage": "social.cs.washington.edu",
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
 			"@type": "Person",
@@ -100,7 +94,6 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bf379ae221456347fbc7d3deb0c6b09ea2dcad30/images/profile%20(2)%20(1).jpg",
-			"homepage": "http://stanford.edu/~rickygv/",
 			"name": "Ricky Grannis-Vu",
 			"jobTitle": "undergrad",
 			"@type": "Person",
