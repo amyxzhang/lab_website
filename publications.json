@@ -1,6 +1,41 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0b929fadb9c8b294b8349211b7a4b30c16531165/images/communityclick.png",
+			"title": "CommunityClick: Capturing and Reporting Community Feedback from Town Halls to Improve Inclusivity",
+			"id": "communityclick",
+			"author": [
+				{
+					"author_name": "Mahmood Jasmin"
+				},
+				{
+					"author_name": "Pooya Khaloo"
+				},
+				{
+					"author_name": "Somin Wadhwa"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Ali Sarvghad"
+				},
+				{
+					"author_name": "Narges Mahyar"
+				}
+			],
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"conference url": "https://cscw.acm.org/2020",
+			"conference": "CSCW",
+			"year": "2020",
+			"short_abstract": "<p>Building on a formative study with 66 town hall attendees and 20 organizers, we designed and developed CommunityClick, a community-sourcing system that captures town hall attendees' feedback in an inclusive manner and enables organizers to author more comprehensive reports.&nbsp;</p>",
+			"abstract": "Local governments still depend on traditional town halls for community consultation, despite problems such as a lack of inclusive participation for attendees and difficulty for civic organizers to capture attendees' feedback in reports. Building on a formative study with 66 town hall attendees and 20 organizers, we designed and developed CommunityClick, a community-sourcing system that captures attendees' feedback in an inclusive manner and enables organizers to author more comprehensive reports. During the meeting, in addition to recording meeting audio to capture vocal attendees' feedback, we modify iClickers to give voice to reticent attendees by allowing them to provide real-time feedback beyond a binary signal. This information then automatically feeds into a meeting transcript augmented with attendees' feedback and organizers' tags. The augmented transcript along with a feedback-weighted summary of the transcript generated from text analysis methods is incorporated into an interactive authoring tool for organizers to write reports. From a field experiment at a town hall meeting, we demonstrate how CommunityClick can improve inclusivity by providing multiple avenues for attendees to share opinions. Additionally, interviews with eight expert organizers demonstrate CommunityClick's utility in creating more comprehensive and accurate reports to inform critical civic decision-making. We discuss the possibility of integrating CommunityClick with town hall meetings in the future as well as expanding to other domains.",
+			"bibtex": "@article{2020-communityclick, author = {Jasmin, Mahmood and Khaloo, Pooya and Wadhwa, Somin and Zhang, Amy X. and Sarvghad, Ali and Mahyar, Narges}, title = {CommunityClick: Capturing and Reporting Community Feedback from Town Halls to Improve Inclusivity}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {October 2020}, number = {CSCW}, month = oct, year = {2020}, publisher = {ACM}, address = {New York, NY, USA}, }",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2009.09053.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ab899595e16a0a7e9a063f431ce0cee6b2450811/images/wikumplus2.png",
 			"title": "A System for Interleaving Discussion and Summarization in Online Collaboration",
 			"id": "a-system-for-interleaving-discussion-and-summarization",
@@ -21,7 +56,7 @@
 			"year": "2020",
 			"short_abstract": "<p>In this work, we present interleaved discussion and summarization, a process where collaborators can switch back and forth between discussing ideas and summarizing discussion. We implement this into a tool called Wikum+ where groups can create living summaries - artifacts that can grow as new collaborators, ideas, and feedback arise, and can shrink as collaborators come to consensus.</p>",
 			"abstract": "In many instances of online collaboration, ideation and deliberation happen separately from any synthesis\nof that deliberation into a cohesive consensus document. However, this may result in a final document that\nhas little connection to the discussion that came before. In this work, we present interleaved discussion and\nsummarization, a process where discussion and summarization are woven together in a single space, and\ncollaborators can switch back and forth between discussing ideas and summarizing discussion until it results\nin a final document that incorporates and references all discussion points. We implement this process into a\ntool called Wikum+ that allows groups working together on a project to create living summaries—artifacts that\ncan grow as new collaborators, ideas, and feedback arise, and can shrink as collaborators come to consensus.\nWe conducted studies where groups of six people collaborated on a proposal using Wikum+ and a proposal\nusing a messaging platform along with Google Docs. We found that Wikum+’s integration of discussion\nand summarization helped groups be more organized, allowing for light-weight coordination and iterative\nimprovements throughout the collaboration process. A second study demonstrated that in larger groups,\nWikum+ was more inclusive of all participants and more comprehensive in the final document compared to\ntraditional tools.",
-			"bibtex": "@article{2020-crowdsourced-cred, author = {Tian, Sunny and Zhang, Amy X. and Karger, David}, title = {A System for Interleaving Discussion and Summarization in Online Collaboration}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {October 2020}, number = {CSCW}, month = oct, year = {2020}, publisher = {ACM}, address = {New York, NY, USA}, }",
+			"bibtex": "@article{2020-interleaved, author = {Tian, Sunny and Zhang, Amy X. and Karger, David}, title = {A System for Interleaving Discussion and Summarization in Online Collaboration}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {October 2020}, number = {CSCW}, month = oct, year = {2020}, publisher = {ACM}, address = {New York, NY, USA}, }",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/2009.07446.pdf",
 				"website_url": "http://wikum.org/",
