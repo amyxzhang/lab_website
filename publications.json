@@ -33,7 +33,8 @@
 			"bibtex": "@article{2020-communityclick, author = {Jasmin, Mahmood and Khaloo, Pooya and Wadhwa, Somin and Zhang, Amy X. and Sarvghad, Ali and Mahyar, Narges}, title = {CommunityClick: Capturing and Reporting Community Feedback from Town Halls to Improve Inclusivity}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {October 2020}, number = {CSCW}, month = oct, year = {2020}, publisher = {ACM}, address = {New York, NY, USA}, }",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/2009.09053.pdf"
-			}
+			},
+			"award": "Best Paper Award"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ab899595e16a0a7e9a063f431ce0cee6b2450811/images/wikumplus2.png",
