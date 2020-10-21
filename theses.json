@@ -1,0 +1,20 @@
+{
+	"thesis": [
+		{
+			"title": "Systems for Collective Human Curation of Online Discussion",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"type": "Ph.D. Thesis",
+			"date": "August, 2019",
+			"award": "George Sprowls Award",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/PhDThesisFinal.pdfl",
+				"slides_url": "",
+				"video_url": "https://youtu.be/UwGFymC9JRE"
+			}
+		}
+	]
+}

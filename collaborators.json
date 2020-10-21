@@ -1,0 +1,59 @@
+{
+	"member": [
+		{
+			"homepage": "https://homes.cs.washington.edu/~reinecke/",
+			"name": "Katharina Reinecke",
+			"jobTitle": "Professor",
+			"affiliation": "UW CSE",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://www.cs.washington.edu/people/faculty/weld",
+			"name": "Dan Weld",
+			"jobTitle": "Professor",
+			"affiliation": "UW CSE",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://hci.stanford.edu/msb/",
+			"name": "Michael Bernstein",
+			"jobTitle": "Professor",
+			"affiliation": "Stanford",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://www.linkedin.com/in/connieatwork/",
+			"name": "Connie Moon Sehat",
+			"jobTitle": "Director",
+			"affiliation": "NewsQ",
+			"@type": "Person"
+		},
+		{
+			"homepage": "http://tanumitra.com/",
+			"name": "Tanushree Mitra",
+			"jobTitle": "Professor",
+			"affiliation": "UW iSchool",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://isr.uci.edu/users/mark-ackerman",
+			"name": "Mark Ackerman",
+			"jobTitle": "Professor",
+			"affiliation": "UMichigan CS",
+			"@type": "Person"
+		},
+		{
+			"name": "David Karger",
+			"jobTitle": "Professor",
+			"affiliation": "MIT CSAIL",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://groups.cs.umass.edu/nmahyar/",
+			"name": "Narges Mahyar",
+			"jobTitle": "Professor",
+			"affiliation": "UMass Amherst",
+			"@type": "Person"
+		}
+	]
+}

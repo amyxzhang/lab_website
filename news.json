@@ -1,0 +1,42 @@
+{
+	"news_item": [
+		{
+			"date": "Sept 2020",
+			"title": "The Social Futures Lab is started, with Shagun joining as a postdoc and Jim and Ruotong joining as grad students.",
+			"description": "Shagun joins the lab as a postdoc, working on online harassment tools. Jim (co-advised by Dan Weld) and Ruotong (co-advised by Katharina Reinecke) join as graduate students. In addition, Ge and Wenjia join as visiting researchers, and Emelia joins as an undergraduate student. Ricky continues his summer work on PolicyKit.",
+			"link": {
+				"link_url": "null"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f93fa65f5e2c9ccc1391f8b8909863295288f300/images/ADL-logo.png",
+			"date": "Aug 2020",
+			"title": "Amy named a Belfer Fellow by the Anti-Defamation League to work on tools to fight harassment.",
+			"description": "The Belfer Fellowship program advances ADL&rsquo;s work by promoting cyberhate awareness and digital citizenship, as well as implementing these projects for the wider social good. Zhang&rsquo;s project is to build an interactive tool for people facing harassment that allows them to iteratively develop their own personal machine learning model that is customized to detect the harassment they wish to intercept, all without the need for programming skills.",
+			"link": {
+				"link_url": "https://www.adl.org/news/press-releases/adls-center-for-technology-and-society-announces-third-class-of-belfer-fellows",
+				"link_text": "ADL Press Release"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@724ee9dd7abc246709bda5fe8aebbe404cf26908/images/wikiux.png",
+			"date": "July 2020",
+			"title": "We won a micro-grant from WikiCred to work on the UX of credibility on Wikipedia. ",
+			"description": "WikiCred is a partnership between MisinfoCon, The Credibility Coalition, and the Wikimedian communities that started with WikiConference North America 2019. Funders include Craig Newmark&rsquo;s Philanthropies, Microsoft and Facebook. The project examines how end-users respond to different types of credibility signals such as the page structure, tone of writing, and placement of citations within Wikipedia articles, as well as Wikipedia content that exists elsewhere on the web, like information cards on the search and social platforms.",
+			"link": {
+				"link_url": "https://misinfocon.com/introducing-the-second-round-of-wikicred-grantees-6aa788dc0850",
+				"link_text": "MisinfoCon Blog"
+			}
+		},
+		{
+			"date": "\t\t\t\t\t\t\t\tSept 2019",
+			"title": "Amy accepts a position at UW CSE starting in fall 2020.",
+			"link": {
+				"link_url": "https://news.cs.washington.edu/2019/08/16/allen-schools-latest-faculty-additions-will-strengthen-uws-leadership-in-robotics-machine-learning-human-computer-interaction-and-more/",
+				"link_text": "UW CSE News"
+			},
+			"description": "She will be conducting research at UW on social computing and HCI."
+		}
+	],
+	"image": ""
+}
