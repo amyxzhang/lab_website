@@ -84,13 +84,24 @@
 			<div class="col-xs-12 col-sm-1 col-md-1 col-lg-1"></div>
 				
 			<div class="col-xs-12 col-sm-4 col-md-4" style="float: right">
-				<!-- Courses -->
-				<h2>Courses</h2>
-								
-				<ul>
-					<li><a href="https://courses.cs.washington.edu/courses/cse440/">CSE 440: Introduction to HCI</a><br />Winter 2020</li>
-					<li><a href="#">CSE 599: Social Computing Research</a><br />Spring 2021</li>
-				</ul>
+				<!-- News -->
+				<h2>News</h2>
+		
+				<div mv-bar="none" mv-app="news" mv-source="https://github.com/amyxzhang/lab_website">
+					<span property="news_item" mv-multiple mv-if="$index < 10">
+						<span property="date">Date</span>:
+						<span property="title">
+							Title
+						</span>
+
+						<a href="[news_item.link_url]" mv-if="link_url != 'null'"> &rightarrow;
+						</a>
+						<br /><br />
+					</span>
+				</div>
+				
+				
+				
 			</div>
 		</div>
 	
@@ -175,21 +186,15 @@
 			<div class="col-xs-12 col-sm-1 col-md-1 col-lg-1"></div>
 				
 			<div class="col-xs-12 col-sm-4 col-md-4" style="float: right">
-				<!-- News -->
-				<h2>News</h2>
-		
-				<div mv-bar="none" mv-app="news" mv-source="https://github.com/amyxzhang/lab_website">
-					<span property="news_item" mv-multiple mv-if="$index < 10">
-						<span property="date">Date</span>:
-						<span property="title">
-							Title
-						</span>
-
-						<a href="[news_item.link_url]" mv-if="link_url != 'null'"> &rightarrow;
-						</a>
-						<br /><br />
-					</span>
-				</div>
+				
+				<!-- Courses -->
+				<h2>Courses</h2>
+								
+				<ul>
+					<li><a href="https://courses.cs.washington.edu/courses/cse440/">CSE 440: Introduction to HCI</a><br />Winter 2020</li>
+					<li><a href="#">CSE 599: Social Computing Research</a><br />Spring 2021</li>
+				</ul>
+				
 
 					<!-- <BR> 
 					<span class="mini-header">
