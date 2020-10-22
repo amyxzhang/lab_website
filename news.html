@@ -4,7 +4,9 @@
 	<title>Social Futures Lab - UW CSE</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="The Social Futures Lab at UW CSE studies, designs, and builds the social computing systems of the future.">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,600|Work+Sans:300,400,600&display=swap" rel="stylesheet">
+	
+	<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&family=Roboto+Mono:ital,wght@0,500;1,300&display=swap" rel="stylesheet">
+
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/mavo.min.css">
@@ -13,80 +15,67 @@
 	<link rel="icon" href="favicon.ico" type="image/x-icon"> </head>
 
 <body>
+
+	<!-- top nav -->
 	<div class="container-fluid">
-		<div class="row">
-			<BR></div>
-		
 		<div class="row justify-content-md-center">
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 line"> 
-			<a class="mini-header3" href="index.html">Social Futures Lab</a>
+			<div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"> 
+				<a href="index.html"><img src="img/logo_long.png" class="logo"></a>
 			</div>
 			
-			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7 line">
-				
-			<span style="font-size: 18px;">
-				<a href="research.html">Research</a> - 
-				<a href="members.html">Team</a> - 
+			<div class="col-md-2 col-lg-4"></div>
+
+			<div class="col-xs-12 col-sm-6 col-md-5 col-lg-3 menu">
+				<a href="research.html">Research</a>
+				<a href="members.html">Team</a>
 				<a href="news.html">News</a>
-        	</span>
-        	<BR>
-					
 			</div>
-			</div>
-			<hr>
+		</div>
 	</div>
 
+	<!-- main content -->
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-xs-12 col-sm-12 col-md-12 line">
-				
-						<span class="mini-header" id="projects">
-							<h2>News</h2></span> 
+			<div class="col-xs-12 col-sm-12 col-md-12" id="news">
+				<h2>News</h2>
 								
 				<div mv-bar="no-login" mv-app="news" mv-plugins="tinymce"  mv-storage="https://github.com/amyxzhang/lab_website">
 					
-					<span property="news_item" mv-multiple mv-order="desc">
-						
-						<div class="row">
-					<div class="col-xs-8 col-sm-2 col-md-2 col-lg-2"> 
-							<img class="alignleft img-responsive center-block" property="image" src="null" alt="img alt" / style="border: 1px #737373 solid; margin-top: 6px; max-width:100%">
-						</div>
-					
-					
-					<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10"> 
-						
-						
-							<span property="date">
-								Date</span>:
-							<span property="title" style="font-weight: 500;">
-								Title
-							</span>
-							<BR>
-							<span property="description" class="tinymce">Description</span><BR>
-							
-							<span property="link">
-								<a href="null" property="link_url">
-									<span property="link_text">Link</span>
-								</a>
-							</span>
-							<BR><BR>
-						
+				<!-- News item -->
+				<span property="news_item" mv-multiple mv-order="desc">
+				<div class="row">
+					<div class="col-xs-8 col-sm-3 col-md-3 col-lg-3"> 
+						<img class="alignleft img-responsive center-block thumbnail" property="image" src="null" alt="img alt">
 					</div>
-					</div>
-					</span>
-					
-					</div>
-					
-					
+				
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+						<h4 property="title">Title</h4>
+
+						<p><span property="date">Date</span></p>
+						
+						<p><span property="description" class="tinymce">Description</span></p>
+						
+						<p><span property="link">
+							<a href="null" property="link_url">
+							<span property="link_text">Link</span>
+							</a>
+						</span></p>
 					</div>
 				</div>
-			
-	
+				</span>
+					
+				</div>
+					
+			</div>
+		</div>
 	</div>
-	<P></P>
-	<BR> <small>This site built by &copy; Amy X. Zhang, <a href="https://github.com/amyxzhang/lab_website">github code here</a>.</small>
+	
+
+	<!-- footer -->
+	<div class="footer">&copy; Social Futures Lab. <a href="https://github.com/amyxzhang/lab_website">Site</a> built by <a href="https://homes.cs.washington.edu/~axz/" target="_blank">Amy X. Zhang</a> and <a href="http://jennyfan.com" target="_blank">Jenny Fan</a>.</div>
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
-</body>
 
+</body>
 </html>

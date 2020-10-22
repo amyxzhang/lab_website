@@ -2,6 +2,7 @@
 	"member": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba8817e4aa7f4f844265753ce2597b610e5e0318/images/amyz.png",
+			"homepage": "https://homes.cs.washington.edu/~axz",
 			"name": "Amy Zhang",
 			"jobTitle": "pi",
 			"@type": "Person",
@@ -16,6 +17,7 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
+			"homepage": "https://shagunjhaver.com/",
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
 			"@type": "Person",
@@ -23,10 +25,9 @@
 				"website_url": "https://shagunjhaver.com",
 				"scholar_url": "https://scholar.google.com/citations?user=OgtKT6UAAAAJ",
 				"github_url": "https://github.com/shaguniitb",
-				"twitter_url": "https://twitter.com/shagunjhaver",
-				"email": "shagun@cs.washington.edu"
+				"twitter_url": "https://twitter.com/shagunjhaver"
 			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites like Facebook, Twitter and Reddit."
+			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -38,73 +39,53 @@
 				"website_url": "https://homes.cs.washington.edu/~cqz/",
 				"scholar_url": "https://scholar.google.com/citations?hl=en&user=TnBpKAoAAAAJ",
 				"github_url": "https://github.com/jabbany",
-				"twitter_url": "https://twitter.com/cquanze",
-				"email": "cqz@cs.washington.edu"
-			},
-			"bio": "I'm a current PhD student. My primary research interests are in crowdsourcing, AI and human computer interaction. Also feel free to check out my other projects on GitHub :)&nbsp;"
+				"twitter_url": "https://twitter.com/cquanze"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
+			"homepage": "https://scholar.google.com/citations?user=CoG7C_YAAAAJ&hl=en",
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
 			"@type": "Person",
 			"links": {
 				"scholar_url": "https://scholar.google.com/citations?user=CoG7C_YAAAAJ&hl=en",
 				"github_url": "https://github.com/Ruotongw",
-				"twitter_url": "https://twitter.com/RuotongWang1",
-				"email": "ruotongw@cs.washington.edu",
-				"website_url": "https://homes.cs.washington.edu/~ruotongw/"
+				"twitter_url": "https://twitter.com/RuotongWang1"
 			},
-			"bio": "Ruotong Wang is a first year Ph.D. student at University of Washington's Allen School of Computer Science and Engineering. She is interested in understanding and developing sociotechnical systems that facilitate communication and collaboration among diverse community members.&nbsp;<br />"
+			"bio": "Ruotong Wang is a first year Ph.D. student at University of Washington's Allen School of Computer Science and Engineering."
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fde781477b75652e36b3ab74a7a707f7d9a2b3d8/images/person-male.png",
+			"homepage": "http://social.cs.washington.edu/",
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {
-				"website_url": "https://gezhangrp.com",
-				"email": "gezhang@cs.washington.edu",
-				"github_url": "https://github.com/AshleyZG",
-				"twitter_url": "https://twitter.com/gezhang001"
-			},
-			"bio": "Ge Zhang is a senior undergraduate student at Peking University. Her research interests are in data mining and human-computer interaction, with a focus on scientific reproducibility and data science collaboration."
+			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fb7e2e24e18ae51c1526fd3793dd771d0e32b3a2/images/IMG_4463.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@dc73efb816c4b697d0a8295c5ccdf8e5df26953f/images/person-male.png",
+			"homepage": "http://social.cs.washington.edu/",
 			"name": "Wenjia Hu",
 			"jobTitle": "visiting",
 			"@type": "Person",
-			"links": {
-				"website_url": "https://www.jiajiahu.me",
-				"github_url": "https://github.com/JiajiaHu20",
-				"email": "\tsieglindehu.work@gmail.com"
-			},
-			"bio": "Wenjia just got her BA in Cognitive Science from Lawrence University. She is passionate about collective intelligence and tools for thoughts. Her research interest lies in the intersection of complexity science and HCI. She is also a UX researcher, and teaches kids design thinking on the side."
+			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4482a6db4d37271a1f81adf0a684dd4be8bdbc6f/images/person-male.png",
+			"homepage": "social.cs.washington.edu",
 			"name": "Emelia May Hughes",
 			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {
-				"website_url": "https://www.emeliahughes.com/",
-				"email": "emhughes@uw.edu"
-			},
-			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting. Her research interests are in human-computer interaction, and she is currently focusing on the UX surrounding credibility."
+			"links": {}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bf379ae221456347fbc7d3deb0c6b09ea2dcad30/images/profile%20(2)%20(1).jpg",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3e62772e997d51feaf03fd7e2ecabd03ed4a6500/images/person-male.png",
+			"homepage": "http://stanford.edu/~rickygv/",
 			"name": "Ricky Grannis-Vu",
-			"jobTitle": "visiting",
+			"jobTitle": "undergrad",
 			"@type": "Person",
-			"links": {
-				"website_url": "http://stanford.edu/~rickygv/",
-				"github_url": "https://github.com/rickygv99",
-				"twitter_url": "https://twitter.com/RickyGrannisVu",
-				"email": "rickygv@stanford.edu"
-			},
-			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
+			"links": {}
 		}
 	]
 }
