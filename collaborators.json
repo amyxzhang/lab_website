@@ -54,13 +54,6 @@
 			"jobTitle": "Professor",
 			"affiliation": "UMass Amherst",
 			"@type": "Person"
-		},
-		{
-			"homepage": "https://glassmanlab.seas.harvard.edu/",
-			"name": "Elena Glassman",
-			"jobTitle": "Professor",
-			"affiliation": "Harvard",
-			"@type": "Person"
 		}
 	]
 }
