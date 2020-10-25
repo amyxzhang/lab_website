@@ -169,7 +169,7 @@
 				"website_url": "http://digitaljuries.com/",
 				"talk_url": "https://www.youtube.com/embed/sQ2idlzSdas"
 			},
-			"id": "digital-juries-a-civics-oriented-approach-to-platform-governance",
+			"id": "digital-juries",
 			"short_abstract": "<p>Drawing inspiration from constitutional jury trials in many legal systems, this paper proposes digital juries as a civics-oriented approach for adjudicating content moderation cases.</p>",
 			"conference_full_name": "Conference on Human Factors in Computing Systems",
 			"bibtex": "@inproceedings{10.1145/3313831.3376293,\nauthor = {Fan, Jenny and Zhang, Amy X.},\ntitle = {Digital Juries: A Civics-Oriented Approach to Platform Governance},\nyear = {2020}, isbn = {9781450367080},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3313831.3376293},\ndoi = {10.1145/3313831.3376293},\nbooktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},\npages = {1-14},\nnumpages = {14},\nkeywords = {civics, democracy, governance, platforms, juries, social media, institutional design, online speech, content moderation},\nlocation = {Honolulu, HI, USA}, series = {CHI '20}\n}"
@@ -201,7 +201,7 @@
 				"code_url": "https://github.com/tarfahalrashed/ScrAPIr",
 				"video_url": "https://www.youtube.com/embed/SSj_msJvRwo"
 			},
-			"id": "scrapir-making-web-data-apis-accessible-to-end-users",
+			"id": "scrapir",
 			"short_abstract": "We evolve a schema for declaratively specifying how to interact with a data API. We then develop ScrAPIr: a standard query GUI that enables users to fetch data through any API for which a specification exists, and a second GUI that lets users author and share the specification for a given API.",
 			"conference_full_name": "Conference on Human Factors in Computing Systems",
 			"bibtex": "@inproceedings{10.1145/3313831.3376691,\nauthor = {Alrashed, Tarfah and Almahmoud, Jumana and Zhang, Amy X. and Karger, David R.},\ntitle = {ScrAPIr: Making Web Data APIs Accessible to End Users},\nyear = {2020},\nisbn = {9781450367080},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3313831.3376691},\ndoi = {10.1145/3313831.3376691},\nbooktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},\npages = {1–12},\nnumpages = {12},\nkeywords = {api description language, web scraping, web apis},\nlocation = {Honolulu, HI, USA},\nseries = {CHI '20}\n}"
@@ -243,7 +243,7 @@
 				"pdf_url": "https://dl.acm.org/doi/10.1145/3375462.3375485",
 				"talk_url": "https://video01.uni-frankfurt.de/Mediasite/Play/6f0e3e65559140f68711ab917923d5631d?autostart=true&player=0669adffd1774702978c7ada024252720a&playfrom=0&covertitle=false"
 			},
-			"id": "confused-and-beyond-detecting-confusion-in-course-forums-using-student-annotated-hashtags",
+			"id": "detecting-confusion-in-course-forums",
 			"short_abstract": "This paper provides a new approach for confusion detection in online forums that is based on harnessing the power of students' self-reported affective states (reported using a set of pre-defined hashtags).",
 			"conference_full_name": "Learning Analytics and Knowledge Conference",
 			"bibtex": "@inproceedings{10.1145/3375462.3375485,\nauthor = {Geller, Shay A. and Hoernle, Nicholas and Gal, Kobi and Segal, Avi and Zhang, Amy X. and Karger, David and Facciotti, Marc T. and Igo, Michele},\ntitle = {#Confused and beyond: Detecting Confusion in Course Forums Using Students' Hashtags},\nyear = {2020},\nisbn = {9781450377126},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3375462.3375485},\ndoi = {10.1145/3375462.3375485},\nbooktitle = {Proceedings of the Tenth International Conference on Learning Analytics &amp; Knowledge},\npages = {589–594},\nnumpages = {6},\nkeywords = {confusion detection, text classification, hashtags, emojis, self-reported affect, online discussion forum},\nlocation = {Frankfurt, Germany},\nseries = {LAK '20}\n}"
@@ -273,7 +273,7 @@
 				"pdf_url": "https://people.csail.mit.edu/soya/papers/mailbot.pdf",
 				"talk_url": "https://www.youtube.com/embed/gQUIl3DMoyk"
 			},
-			"id": "opportunities-for-automating-email-processing-a-need-finding-study",
+			"id": "automating-email",
 			"short_abstract": "We performed a mixed-methods need-finding study to learn: (i) what sort of automatic email handling users want, and (ii) what kinds of information and computation are needed to support that automation.",
 			"conference_full_name": "Conference on Human Factors in Computing Systems",
 			"bibtex": "@inproceedings{Park:2019:OAE:3290605.3300604,\n author = {Park, Soya and Zhang, Amy X. and Murray, Luke S. and Karger, David R.},\n title = {Opportunities for Automating Email Processing: A Need-Finding Study},\n booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},\n series = {CHI '19},\n year = {2019},\n isbn = {978-1-4503-5970-2},\n location = {Glasgow, Scotland Uk},\n pages = {374:1--374:12},\n articleno = {374},\n numpages = {12},\n url = {http://doi.acm.org/10.1145/3290605.3300604},\n doi = {10.1145/3290605.3300604},\n acmid = {3300604},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {email, personal information management, task management},\n} "
@@ -300,7 +300,7 @@
 				"code_url": "https://github.com/Microsoft/tilda",
 				"slides_url": "https://homes.cs.washington.edu/~axz/tilda.html"
 			},
-			"id": "making-sense-of-group-chat-through-collaborative-tagging-and-summarization",
+			"id": "making-sense-of-group-chat",
 			"short_abstract": "Through needfinding interviews with 15 active group chat users, we found the importance of structured representations, including signals such as discourse acts. We then developed Tilda, a prototype system that enables people to collaboratively enrich their chat conversation while conversing.",
 			"conference_full_name": "Conference on Computer-Supported Cooperative Work and Social Computing",
 			"bibtex": "@article{Zhang:2018:MSG:3290265.3274465,\n author = {Zhang, Amy X. and Cranshaw, Justin},\n title = {Making Sense of Group Chat Through Collaborative Tagging and Summarization},\n journal = {Proc. ACM Hum.-Comput. Interact.},\n issue_date = {November 2018},\n volume = {2},\n number = {CSCW},\n month = nov,\n year = {2018},\n issn = {2573-0142},\n pages = {196:1--196:27},\n articleno = {196},\n numpages = {27},\n url = {http://doi.acm.org/10.1145/3274465},\n doi = {10.1145/3274465},\n acmid = {3274465},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {annotation, collaboration, group chat, knowledge management, online communities, online discussions, sensemaking, summarization, tagging},\n}"
@@ -331,7 +331,7 @@
 				"video_url": "https://www.youtube.com/embed/mZrmoi5D7g0",
 				"talk_url": "https://www.youtube.com/embed/4jL-IJgKC2s"
 			},
-			"id": "squadbox-a-tool-to-combat-email-harassment-using-friendsourced-moderation",
+			"id": "squadbox",
 			"short_abstract": "We conducted interviews with 18 recipients of online harassment to understand their strategies for coping, finding that they often resorted to asking friends for help. We present Squadbox, a tool to help recipients of email harassment coordinate a \"squad\" of friend moderators to shield and support them during attacks.",
 			"conference_full_name": "Conference on Human Factors in Computing Systems",
 			"bibtex": "@inproceedings{Mahar:2018:STC:3173574.3174160,\n author = {Mahar, Kaitlin and Zhang, Amy X. and Karger, David},\n title = {Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation},\n booktitle = {Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},\n series = {CHI '18},\n year = {2018},\n isbn = {978-1-4503-5620-6},\n location = {Montreal QC, Canada},\n pages = {586:1--586:13},\n articleno = {586},\n numpages = {13},\n url = {http://doi.acm.org/10.1145/3173574.3174160},\n doi = {10.1145/3173574.3174160},\n acmid = {3174160},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {crowdsourcing, email, friendsourcing, moderation, online harassment, private messages, social media},\n}"
@@ -394,7 +394,7 @@
 				"data_url": "https://data.world/credibilitycoalition/webconf-2018",
 				"talk_url": "https://www.youtube.com/embed/SndnDE_ExHg"
 			},
-			"id": "a-structured-response-to-misinformation-defining-and-annotating-credibility-indicators-in-news-articles",
+			"id": "credibility-indicators",
 			"short_abstract": "Collective agreement on the indicators that signify credible content could allow for greater collaboration and data-sharing across initiatives. We present an initial set of indicators for article credibility defined by a diverse coalition of experts.",
 			"conference_full_name": "International World Wide Web Conference",
 			"bibtex": "@inproceedings{Zhang:2018:SRM:3184558.3188731,\n author = {Zhang, Amy X. and Ranganathan, Aditya and Metz, Sarah Emlen and Appling, Scott and Sehat, Connie Moon and Gilmore, Norman and Adams, Nick B. and Vincent, Emmanuel and Lee, Jennifer and Robbins, Martin and Bice, Ed and Hawke, Sandro and Karger, David and Mina, An Xiao},\n title = {A Structured Response to Misinformation: Defining and Annotating Credibility Indicators in News Articles},\n booktitle = {Companion Proceedings of the The Web Conference 2018},\n series = {WWW '18},\n year = {2018},\n isbn = {978-1-4503-5640-4},\n location = {Lyon, France},\n pages = {603--612},\n numpages = {10},\n url = {https://doi.org/10.1145/3184558.3188731},\n doi = {10.1145/3184558.3188731},\n acmid = {3188731},\n publisher = {International World Wide Web Conferences Steering Committee},\n address = {Republic and Canton of Geneva, Switzerland},\n keywords = {credibility, disinformation, information disorder, journalism, media literacy, misinformation, news, web standards},\n} "
@@ -427,7 +427,7 @@
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/tiis_cluster.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/clusters.html"
 			},
-			"id": "evaluation-and-refinement-of-clustered-search-results-with-the-crowd",
+			"id": "clustered-search-results",
 			"short_abstract": "We investigate using crowd-based human evaluation to inspect, evaluate, and improve clusters to create high-quality clustered search results at scale. We evaluate this workflow on 120 top search queries from the Google Play Store.",
 			"conference_full_name": "ACM Transactions on Interactive Intelligent Systems",
 			"bibtex": "@article{Zhang:2018:ERC:3232718.3158226,\n author = {Zhang, Amy X. and Chen, Jilin and Chai, Wei and Xu, Jinjun and Hong, Lichan and CHI, Ed},\n title = {Evaluation and Refinement of Clustered Search Results with the Crowd},\n journal = {ACM Trans. Interact. Intell. Syst.},\n issue_date = {June 2018},\n volume = {8},\n number = {2},\n month = jun,\n year = {2018},\n issn = {2160-6455},\n pages = {14:1--14:28},\n articleno = {14},\n numpages = {28},\n url = {http://doi.acm.org/10.1145/3158226},\n doi = {10.1145/3158226},\n acmid = {3158226},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {Clustered search results, cluster evaluation, clusters, crowdsourcing, human computation, mobile app stores, search engines},\n}"
@@ -459,7 +459,7 @@
 				"data_url": "https://figshare.com/articles/rfc_sql/7038575",
 				"talk_url": "https://www.youtube.com/embed/OY8vZ6wES9o"
 			},
-			"id": "deliberation-and-resolution-on-wikipedia-a-case-study-of-requests-for-comments",
+			"id": "deliberation-and-resolution-on-wikipedia",
 			"short_abstract": "We collected an exhaustive dataset of 7,316 RfCs on English Wikipedia over the course of 7 years and conducted a qualitative and quantitative analysis into what issues affect the RfC process.",
 			"conference_full_name": " ACM Conference on Computer-Supported Cooperative Work and Social Computing",
 			"bibtex": "@article{Im:2018:DRW:3290265.3274343,\n author = {Im, Jane and Zhang, Amy X. and Schilling, Christopher J. and Karger, David},\n title = {Deliberation and Resolution on Wikipedia: A Case Study of Requests for Comments},\n journal = {Proc. ACM Hum.-Comput. Interact.},\n issue_date = {November 2018},\n volume = {2},\n number = {CSCW},\n month = nov,\n year = {2018},\n issn = {2573-0142},\n pages = {74:1--74:24},\n articleno = {74},\n numpages = {24},\n url = {http://doi.acm.org/10.1145/3274343},\n doi = {10.1145/3274343},\n acmid = {3274343},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {collaboration, comments, consensus, dataset, deliberation, dispute resolution, online communities, online discussion, wikipedia},\n}"
@@ -488,7 +488,7 @@
 				"data_url": "https://github.com/google-research-datasets/coarse-discourse",
 				"website_url": "https://ai.googleblog.com/2017/05/coarse-discourse-dataset-for.html"
 			},
-			"id": "characterizing-online-discussion-using-coarse-discourse-sequences",
+			"id": "coarse-discourse",
 			"short_abstract": "We present a novel method for classifying comments in online discussions into a set of coarse discourse acts towards the goal of better understanding discussions at scale. We collect and release a corpus of over 9,000 threads comprising over 100,000 comments and find that structured prediction models such as conditional random fields can achieve an F1 score of 75%.",
 			"conference_full_name": "International AAAI Conference on Web and Social Media",
 			"bibtex": "@inproceedings{coarsediscourse, \ntitle={Characterizing Online Discussion Using Coarse Discourse Sequences}, \nauthor={Zhang, Amy X. and Culbertson, Bryan and Paritosh, Praveen}, \nbooktitle={Proceedings of the 11th International AAAI Conference on Weblogs and Social Media}, \nseries={ICWSM '17}, \nyear={2017}, \nlocation = {Montreal, Canada} \n}"
@@ -518,7 +518,7 @@
 				"slides_url": "https://homes.cs.washington.edu/~axz/wikum.html",
 				"video_url": "https://youtu.be/fTDkVeqjw80"
 			},
-			"id": "wikum-bridging-discussion-forums-and-wikis-using-recursive-summarization",
+			"id": "wikum-bridging-discussion-forums-and-wikis",
 			"short_abstract": "We describe a workflow called recursive summarization, implemented in our Wikum prototype, that enables a large population of readers or editors to work in small doses to refine out the main points of the discussion.",
 			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
 			"bibtex": "@inproceedings{Zhang:2017:WBD:2998181.2998235,\n author = {Zhang, Amy X. and Verou, Lea and Karger, David},\n title = {Wikum: Bridging Discussion Forums and Wikis Using Recursive Summarization},\n booktitle = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},\n series = {CSCW '17},\n year = {2017},\n isbn = {978-1-4503-4335-0},\n location = {Portland, Oregon, USA},\n pages = {2082--2096},\n numpages = {15},\n url = {http://doi.acm.org/10.1145/2998181.2998235},\n doi = {10.1145/2998181.2998235},\n acmid = {2998235},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {collaboration, comments, crowdsourcing, deliberation, online discussion, summarization, threaded discussion, wikis},\n} "
@@ -547,7 +547,7 @@
 				"code_url": "https://github.com/mavoweb/mavo",
 				"video_url": "https://www.youtube.com/embed/RzWVKc2G4Ys"
 			},
-			"id": "mavo-creating-interactive-data-driven-web-applications-by-authoring-html",
+			"id": "mavo",
 			"short_abstract": "Mavo extends the declarative syntax of HTML to describe Web applications that manage, store and transform data. Using Mavo, authors with basic HTML knowledge define complex data schemas implicitly as they design their HTML layout.",
 			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
 			"bibtex": "@inproceedings{10.1145/2984511.2984551,\nauthor = {Verou, Lea and Zhang, Amy X. and Karger, David R.},\ntitle = {Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML},\nyear = {2016},\nisbn = {9781450341899},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/2984511.2984551},\ndoi = {10.1145/2984511.2984551},\nbooktitle = {Proceedings of the 29th Annual Symposium on User Interface Software and Technology},\npages = {483–496},\nnumpages = {14},\nkeywords = {web design, information architecture, semantic publishing, end-user programming},\nlocation = {Tokyo, Japan},\nseries = {UIST '16}\n}"
@@ -576,7 +576,7 @@
 				"code_url": "https://github.com/haystack/eyebrowse-server",
 				"slides_url": "https://homes.cs.washington.edu/~axz/eyebrowse.html"
 			},
-			"id": "opportunities-and-challenges-around-a-tool-for-social-and-public-web-activity-tracking",
+			"id": "eyebrowse",
 			"short_abstract": "We explore the potential benefits and privacy considerations around generating a real-time, publicly accessible stream of web activity where users can publish chosen parts of their web browsing data.",
 			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
 			"bibtex": "@inproceedings{Zhang:2016:OCA:2818048.2819949,\n author = {Zhang, Amy X. and Blum, Joshua and Karger, David R.},\n title = {Opportunities and Challenges Around a Tool for Social and Public Web Activity Tracking},\n booktitle = {Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work \\& Social Computing},\n series = {CSCW '16},\n year = {2016},\n isbn = {978-1-4503-3592-8},\n location = {San Francisco, California, USA},\n pages = {913--925},\n numpages = {13},\n url = {http://doi.acm.org/10.1145/2818048.2819949},\n doi = {10.1145/2818048.2819949},\n acmid = {2819949},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {activity traces, privacy, self-presentation, sharing motivations, social media, web analytics, web browsing, web tracking},\n} "
@@ -600,7 +600,7 @@
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/msr-abortion.pdf",
 				"slides_url": "https://homes.cs.washington.edu/~axz/abortion.html"
 			},
-			"id": "gender-and-ideology-in-the-spread-of-anti-abortion-policy",
+			"id": "gender-and-ideology",
 			"short_abstract": "We examine over 200,000 public messages posted on Twitter surrounding abortion in the year 2013, a year that saw 82 new anti-abortion policies enacted. From these posts, we characterize people's expressions of opinion on abortion and show how these expressions align with policy change on these issues.",
 			"conference_full_name": "Conference on Human Factors in Computing Systems",
 			"bibtex": "@inproceedings{Zhang:2016:GIS:2858036.2858423,\n author = {Zhang, Amy X. and Counts, Scott},\n title = {Gender and Ideology in the Spread of Anti-Abortion Policy},\n booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},\n series = {CHI '16},\n year = {2016},\n isbn = {978-1-4503-3362-7},\n location = {San Jose, California, USA},\n pages = {3378--3389},\n numpages = {12},\n url = {http://doi.acm.org/10.1145/2858036.2858423},\n doi = {10.1145/2858036.2858423},\n acmid = {2858423},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {abortion, policy diffusion, political science, public policy, social media, text analysis},\n}"
@@ -629,7 +629,7 @@
 				"website_url": "http://murmur.csail.mit.edu/",
 				"code_url": "https://github.com/haystack/mailx"
 			},
-			"id": "mailing-lists-why-are-they-still-here-whats-wrong-with-them-and-how-can-we-fix-them",
+			"id": "mailing-lists",
 			"short_abstract": " We explore why members prefer mailing lists to other group communication tools. But we also identify several tensions around mailing list usage that appear to contribute to dissatisfaction with them.",
 			"conference_full_name": "Conference on Human Factors in Computing Systems",
 			"bibtex": "@inproceedings{Zhang:2015:MLW:2702123.2702194,\n author = {Zhang, Amy X. and Ackerman, Mark S. and Karger, David R.},\n title = {Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?},\n booktitle = {Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},\n series = {CHI '15},\n year = {2015},\n isbn = {978-1-4503-3145-6},\n location = {Seoul, Republic of Korea},\n pages = {4009--4018},\n numpages = {10},\n url = {http://doi.acm.org/10.1145/2702123.2702194},\n doi = {10.1145/2702123.2702194},\n acmid = {2702194},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {discussion groups, email, mailing lists, online communities},\n} "
@@ -655,7 +655,7 @@
 				"slides_url": "https://homes.cs.washington.edu/~axz/ideology.html",
 				"video_url": "https://www.youtube.com/embed/k5EQTeuIkTQ"
 			},
-			"id": "modeling-ideology-and-predicting-policy-change-with-social-media-case-of-same-sex-marriage",
+			"id": "modeling-ideology",
 			"short_abstract": "Focusing on the issue of same-sex marriage legalization, we examine almost 2 million public Twitter posts related to same-sex marriage in the U.S. states over the course of 4 years starting from 2011.",
 			"conference_full_name": "Conference on Human Factors in Computing Systems",
 			"bibtex": "@inproceedings{Zhang:2015:MIP:2702123.2702193,\n author = {Zhang, Amy X. and Counts, Scott},\n title = {Modeling Ideology and Predicting Policy Change with Social Media: Case of Same-Sex Marriage},\n booktitle = {Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},\n series = {CHI '15},\n year = {2015},\n isbn = {978-1-4503-3145-6},\n location = {Seoul, Republic of Korea},\n pages = {2603--2612},\n numpages = {10},\n url = {http://doi.acm.org/10.1145/2702123.2702193},\n doi = {10.1145/2702123.2702193},\n acmid = {2702193},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {political science, public policy, same-sex marriage, social media},\n} "
@@ -715,7 +715,7 @@
 				"pdf_url": "https://juhokim.com/files/UIST2014-CAKS.pdf",
 				"video_url": "https://www.youtube.com/embed/MZXsrl3csQs"
 			},
-			"id": "content-aware-kinetic-scrolling-for-supporting-web-page-navigation",
+			"id": "content-aware-kinetic-scrolling",
 			"short_abstract": "To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page.",
 			"conference_full_name": "ACM User Interface Software and Technology Symposium",
 			"bibtex": "@inproceedings{Kim:2014:CKS:2642918.2647401,\n author = {Kim, Juho and Zhang, Amy X. and Kim, Jihee and Miller, Robert C. and Gajos, Krzysztof Z.},\n title = {Content-aware Kinetic Scrolling for Supporting Web Page Navigation},\n booktitle = {Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology},\n series = {UIST '14},\n year = {2014},\n isbn = {978-1-4503-3069-5},\n location = {Honolulu, Hawaii, USA},\n pages = {123--127},\n numpages = {5},\n url = {http://doi.acm.org/10.1145/2642918.2647401},\n doi = {10.1145/2642918.2647401},\n acmid = {2647401},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {kinetic scrolling, pseudo-haptic feedback, read wear, social wear},\n} "
@@ -744,7 +744,7 @@
 			"links": {
 				"pdf_url": "http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Identifying-and-analyzing-moral-evaluation-frames-in-cc-blog-discourse_FINAL.pdf"
 			},
-			"id": "identifying-and-analyzing-moral-evaluation-frames-in-climate-change-blog-discourse",
+			"id": "moral-evaluation-frames",
 			"short_abstract": "We develop a text visualization tool called Lingoscope that allows the user to observe and filter the contextual terms that convey moral framing across large volumes of text, as well as to drill down to specific examples.",
 			"conference_full_name": "International AAAI Conference on Weblogs and Social Media",
 			"bibtex": "@article{diakopoulos2014identifying,\n  title={Identifying and analyzing moral evaluation frames in climate change blog discourse},\n  author={Diakopoulos, Nicholas and Zhang, Amy X. and Elgesem, Dag and Salway, Andrew},\n  journal={Proc. of ICWSM},\n  year={2014}\n}"
@@ -803,7 +803,7 @@
 				"code_url": "https://github.com/amyxzhang/OPTICS-Automatic-Clustering",
 				"slides_url": "https://homes.cs.washington.edu/~axz/hoodsquare.html"
 			},
-			"id": "hoodsquare-modeling-and-recommending-neighborhoods-in-location-based-social-networks",
+			"id": "hoodsquare",
 			"short_abstract": "We adopt a data-driven approach to the identification and modeling of urban neighborhoods using location-based social networks.",
 			"conference_full_name": "International ASE/IEEE Conference on Social Computing",
 			"bibtex": "@inproceedings{Zhang:2013:HMR:2573038.2574008,\n author = {Zhang, Amy X. and Noulas, Anastasios and Scellato, Salvatore and Mascolo, Cecilia},\n title = {Hoodsquare: Modeling and Recommending Neighborhoods in Location-Based Social Networks},\n booktitle = {Proceedings of the 2013 International Conference on Social Computing},\n series = {SOCIALCOM '13},\n year = {2013},\n isbn = {978-0-7695-5137-1},\n pages = {69--74},\n numpages = {6},\n url = {http://dx.doi.org/10.1109/SocialCom.2013.17},\n doi = {10.1109/SocialCom.2013.17},\n acmid = {2574008},\n publisher = {IEEE Computer Society},\n address = {Washington, DC, USA},\n keywords = {urban data mining, location-based social networks, neighborhood modeling},\n}"
@@ -832,7 +832,7 @@
 			"links": {
 				"pdf_url": "https://d1wqtxts1xzle7.cloudfront.net/30608684/naaman-twitterpatterns-icwsm2012.pdf?1361181077=&response-content-disposition=inline%3B+filename%3DOn_the_Study_of_Diurnal_Urban_Routines_o.pdf&Expires=1599983085&Signature=YRn2xsokajxdwZ0OsOxekRqc09YVWXyM0RPqH2EFySWdONI2yeQw21edSJGajVsSNJiJjLlWP5EyFNF4utgdaNJcbLtXlGSyO-tiMzfggFOndncip4JRiX-ggvowPPHrbeVmJTmiuWK5cW0f3ReNfe89MZ8o~zUOgY~R2eN5OIBz9o1bLpnYs6CIEyZMApXYLWnHSaKRbQzg6lQdQa1TjEt52eFZ24iQLFcQmNoGG5tbv6Z0h1NHY8kXwDz0we0hQAocdNVrECdOoRYSXjHU0Z9ZGivLwbYuarqNdQY-fZ7AVlJjVPRQAgZfZFRfLsvqat3X6jNsznlUNBhtpV-X6w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
 			},
-			"id": "on-the-study-of-diurnal-urban-routines-on-twitter",
+			"id": "diurnal-urban-routines-on-twitter",
 			"short_abstract": "Using one of the largest datasets to date of Twitter content associated with different locations, we examine within-day variability and across-day variability of diurnal keyword patterns for different locations.",
 			"conference_full_name": "International AAAI Conference on Weblogs and Social Media",
 			"bibtex": "@inproceedings{naaman2012study,\n  title={On the Study of Diurnal Urban Routines on Twitter.},\n  author={Naaman, Mor and Zhang, Amy X. and Brody, Samuel and Lotan, Gilad},\n  booktitle={Proc. of ICWSM},\n  year={2012}\n}"
