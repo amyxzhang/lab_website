@@ -19,6 +19,15 @@
 			}
 		},
 		{
+			"date": "July 2020",
+			"title": "Amy's PhD thesis wins the MIT EECS George Sprowls Award for best PhD thesis in computer science.",
+			"description": "Amy's thesis is titled \"<a href=\"https://homes.cs.washington.edu/~axz/papers/PhDThesisFinal.pdf\">Systems for Collective Human Curation of Online Discussion</a>\" and was supervised by David Karger.",
+			"link": {
+				"link_url": "http://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-honoring-departments-outstanding-contributors-0",
+				"link_text": "EECS Celebrates"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@724ee9dd7abc246709bda5fe8aebbe404cf26908/images/wikiux.png",
 			"date": "July 2020",
 			"title": "We won a micro-grant from WikiCred to work on the UX of credibility on Wikipedia. ",

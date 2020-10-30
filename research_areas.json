@@ -6,6 +6,9 @@
 			"author2": [
 				{
 					"author_name2": "Ruotong Wang"
+				},
+				{
+					"author_name2": "Ge Zhang"
 				}
 			],
 			"project": [
@@ -25,7 +28,7 @@
 			}
 		},
 		{
-			"title": "Community Resilience and Self-Governance",
+			"title": "Community Resilience, Collective Action, and Self-Governance",
 			"description": "<span style=\"font-size: 14px;\">Despite their growth, online communities have few tools to shape their own norms and rules, resulting in top-down governance structures that cause burn out and strife. We design democratic structures that support community resilience as well as tools for self-governance.</span>",
 			"project": [
 				{
@@ -73,13 +76,18 @@
 			]
 		},
 		{
-			"title": "Data Science Collaboration and Knowledge Management",
-			"description": "<span style=\"font-size: 14px;\">Organizing and analyzing data and information is increasingly done by (sometimes large) groups of people working together with different skill sets and domain expertise. We design new tools for data exploration, model building, and knowledge management that support collaboration, education, and translation out of the box.</span>",
+			"title": "Data Collaboration and Knowledge Management",
+			"description": "<span style=\"font-size: 14px;\">Organizing and analyzing data and information is increasingly done by (sometimes large) groups of people working together with different skill sets and domain expertise. We design new software tools and human-AI hybrid systems to help groups collectively explore, organize, and comprehend data and information.</span>",
 			"project": [
 				{
 					"@type": "item",
 					"project_name": "DS Collaboration",
 					"project_url": "https://arxiv.org/pdf/2001.06684.pdf"
+				},
+				{
+					"project_url": "http://tildachat.com/",
+					"project_name": "Tilda",
+					"@type": "item"
 				}
 			],
 			"author2": [
