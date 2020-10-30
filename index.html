@@ -51,26 +51,28 @@
 				<div id="projects" mv-bar="none" mv-app="people" mv-source="https://github.com/amyxzhang/lab_website">
 					<h2 >People</h2>
 
-					<!-- Each member -->
-					<article class="member-index" property="member" typeof="Person" mv-multiple>
-						<a href="[website_url]" property="homepage">
-							<img src="null" class="person-img" property="image" alt=""><br />
-							<span property="name">Name</span>
-						</a>
+					<div class="row">
+						<!-- Each member -->
+						<article class="member-index" property="member" typeof="Person" mv-multiple>
+							<a href="[website_url]" property="homepage">
+								<img src="null" class="person-img" property="image" alt=""><br />
+								<span property="name">Name</span>
+							</a>
 
-							<meta property="id" content="[name]">
-							
-							<p property="jobTitle">
-								<select>
-									<option value="pi">Assistant Professor</option>
-									<option value="postdoc" selected>Postdoctoral Researcher</option>
-									<option value="phd" selected>PhD Student</option>
-									<option value="visiting">Visiting Researcher</option>
-									<option value="masters">Masters Student</option>
-									<option value="undergrad">Undergraduate Student</option>
-								</select>
-							</p>
-					</article>
+								<meta property="id" content="[name]">
+								
+								<p property="jobTitle">
+									<select>
+										<option value="pi">Assistant Professor</option>
+										<option value="postdoc" selected>Postdoctoral Researcher</option>
+										<option value="phd" selected>PhD Student</option>
+										<option value="visiting">Visiting Researcher</option>
+										<option value="masters">Masters Student</option>
+										<option value="undergrad">Undergraduate Student</option>
+									</select>
+								</p>
+						</article>
+					</div>
 								
 					<div hidden>
 						<datalist id="memberList">
@@ -219,7 +221,12 @@
 	</div>
 
 	<!-- Footer -->
-	<div class="footer">&copy; Social Futures Lab. <a href="https://github.com/amyxzhang/lab_website">Site</a> built by <a href="https://homes.cs.washington.edu/~axz/" target="_blank">Amy X. Zhang</a> and <a href="http://jennyfan.com" target="_blank">Jenny Fan</a>.</div>
+	<div class="footer"><p>&copy; Social Futures Lab. <a href="https://github.com/amyxzhang/lab_website">Site</a> built by <a href="https://homes.cs.washington.edu/~axz/" target="_blank">Amy X. Zhang</a> and <a href="http://jennyfan.com" target="_blank">Jenny Fan</a>.</p>
+
+	<br />
+	<a href="https://www.cs.washington.edu/" target="_blank"><img src="cselogo.png" width="300px" border="0" /></a>
+	<br />
+	</div>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
