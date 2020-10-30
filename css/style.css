@@ -19,9 +19,6 @@ body {
 }
 
 
-article {
-	margin-bottom: 2em;
-}
 
 .footer {
 	margin: 1em auto;
@@ -30,10 +27,11 @@ article {
 }
 
 
-
+#papers {
+	z-index: 1;
+}
 .member-page {
 	display: block;
-	margin: 1em;
 }
 
 .research-index {
@@ -44,12 +42,16 @@ article {
     display: inline-block;
     vertical-align: top;
 	text-align: center;
-	padding-right: 1em;
+	width: 15rem;
+	/* padding-right: 1em; */
 }
 .person-img {
     display: inline-block;
 	width: 12rem;
 	margin: 0.5em 0;
+}
+hr {
+	margin: 1em;
 }
  
 
@@ -184,7 +186,7 @@ a:hover {
 	font-style: italic;
 	font-size: 2rem;
 	line-height: 1.5em;
-	margin: 2em 1em;
+	margin: 2em 0;
 }
 
 h1 {
@@ -200,10 +202,10 @@ h2 {
 }
 
 h3 {
-	font-weight: 400;
+	font-weight: 700;
 	font-size: 2rem;
 	line-height: 1.4em;
-	margin: 0 auto 1em;
+	margin: 0.5em auto;
 }
 h4 {
 	font-weight: 700;
