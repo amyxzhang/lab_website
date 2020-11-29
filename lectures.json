@@ -5,7 +5,7 @@
 			"title": "Building technology for society (and all of its complications and messy consequences): case study on automated content moderation",
 			"taught_when": "Gave to UW CSE 143: Programming with Data Structures (Autumn 2020)",
 			"description": "A deep dive into automated content moderation and the considerations around and consequences of deploying automated content moderation tools when it comes to users, communities, platforms, and society. Many pointers to current events surrounding this topic.",
-			"module_url": "slides/content_moderation.html"
+			"module_url": "slides_content_moderation.html"
 		}
 	]
 }
