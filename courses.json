@@ -1,0 +1,9 @@
+{
+	"course_item": [
+		{
+			"title": "CSE 440: Introduction to HCI",
+			"quarter": "Winter 2021",
+			"description": "<span style=\"color: #3d3d3d; font-family: 'Open Sans', sans-serif;\">Human-Computer Interaction (HCI) theory and techniques. Methods for designing, prototyping, and evaluating user interfaces to computing applications. Human capabilities, interface technology, interface design methods, and interface evaluation tools and techniques. Prerequisite: CSE 332.</span>"
+		}
+	]
+}
