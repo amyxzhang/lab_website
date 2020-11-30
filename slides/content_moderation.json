@@ -34,10 +34,11 @@
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.009.jpeg",
-			"text": "So that&rsquo;s just a taste of the problems that are related to content moderation today. We could talk about this all day. But how would you address some of these problems. Say you&rsquo;re Mark Zuckerberg, or say you&rsquo;re a developer at one of these platforms. You helped build this tool, and now it&rsquo;s causing societal issues like harassment against minorities, maybe even contributing to genocide. What do you do? Here&rsquo;s Mark at a congressional hearing last year on the topic of AI. Link to the embedded video: <a href=\"https://www.youtube.com/watch?v=8sys7In_qDs\">https://www.youtube.com/watch?v=8sys7In_qDs</a>"
+			"text": "So that&rsquo;s just a taste of the problems that are related to content moderation today. We could talk about this all day. But how would you address some of these problems. Say you&rsquo;re Mark Zuckerberg, or say you&rsquo;re a developer at one of these platforms. You helped build this tool, and now it&rsquo;s causing societal issues like harassment against minorities, maybe even contributing to genocide. What do you do? Here&rsquo;s Mark at a congressional hearing last year on the topic of AI. Link to the embedded video: <a href=\"https://www.youtube.com/watch?v=8sys7In_qDs\">https://www.youtube.com/watch?v=8sys7In_qDs</a> He is suggesting that in the future AI can do content moderation to remove hate speech."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.010.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.010.jpeg",
+			"text": "And actually you have some experience with this, because in CSE 143, you had an assignment to build a toxicity classifier. The assignment involved building a really simple model to detect toxicity using decision trees so it&rsquo;s a bit more of a toy example, but even so, you probably noticed some things. What was hard about your task? Did you have any concerns with the task or the way it was posed to you? Would you ever deploy something like what you built?"
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.011.jpeg"
