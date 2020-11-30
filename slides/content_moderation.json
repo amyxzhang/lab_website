@@ -21,16 +21,20 @@
 			"text": "And of course it&rsquo;s not the case that everything was great, and then everything went terrible. Even back then, there were lots of people, in particular marginalized groups like women in gaming, that were experiencing horrible issues of harassment, stalking, doxing, nonconsensual sexual imagery in online spaces and yelling about it to all of these platforms and were basically ignored for a long time. But it&rsquo;s really starting to become more recognized in the mainstream more recently, and it's a problem that platforms are taking more seriously in the last several years after a number of incidents that have happened and a lot of public scrutiny."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.006.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.006.jpeg",
+			"text": "One really clear recent (and ongoing) example where this has come up is election misinformation. Starting earlier this year in 2020, many major platforms have added&nbsp; policies to label, hide, and reduce sharing of election misinformation. Actually several of these policies were already on the books for a while but there was a carveout that exempted politicians and content that was deemed of significant public interest (to keep up). Finally earlier this year, some of that moderation was actually imposed on some major politicians (as you see here in the screenshot) as well."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.007.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.007.jpeg",
+			"text": "Another kind of misinformation that has been really concerning is conspiracy theories, some of which are really dangerous to our public health, like conspiracies that say that vaccines cause autism or that COVID is a hoax. As you can see in the newspaper articles I have here, it&rsquo;s not just Facebook and Twitter, you&rsquo;ve got Youtube, Patreon, Vimeo, Spotify, Apple Podcasts&hellip;again ANYWHERE you host content, you have to be thinking about this today."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.008.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.008.jpeg",
+			"text": "And there&rsquo;s also been a lot of issues with hate speech against minorities, harassment of people particularly marginalized groups, incitement to violence, like in the case of the Rohingya genocide against Muslims in Myanmar, where anti-Muslim content was allowed to spread in that country via social media. There&rsquo;s also threats, stalking, doxing (releasing of one's private info publicly), just general incivility, and also bullying. Some groups have taken all of this and put it in one big bucket labeled \"Toxicity\", and we'll get into that decision further."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.009.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.009.jpeg",
+			"text": "So that&rsquo;s just a taste of the problems that are related to content moderation today. We could talk about this all day. But how would you address some of these problems. Say you&rsquo;re Mark Zuckerberg, or say you&rsquo;re a developer at one of these platforms. You helped build this tool, and now it&rsquo;s causing societal issues like harassment against minorities, maybe even contributing to genocide. What do you do? Here&rsquo;s Mark at a congressional hearing last year on the topic of AI. Link to the embedded video: <a href=\"https://www.youtube.com/watch?v=8sys7In_qDs\">https://www.youtube.com/watch?v=8sys7In_qDs</a>"
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.010.jpeg"
