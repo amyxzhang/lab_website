@@ -2,7 +2,7 @@
 	"slide_item": [
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.001.jpeg",
-			"text": "Today, I'll be talking to you all about building technology for society and talk through some of the complications and consequences that one needs to consider when doing so, looking specifically at the case of automated content moderation. I am an assistant professor in CSE and lead a research group on building social and collaborative systems."
+			"text": "Today, I'll be talking to you all about building technology for society and talk through some of the complications and consequences that one needs to consider when doing so, looking specifically at the case of automated content moderation. I am an assistant professor in UW CSE and lead a research group on building social and collaborative systems."
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.002.jpeg",
@@ -10,15 +10,15 @@
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.003.jpeg",
-			"text": "Content moderation isn&rsquo;t just removing bad stuff, though that&rsquo;s part of it, and it's the part that you've probably heard about the most. The first thing is to remember that content moderation has been with us as long as we&rsquo;ve had content, or media of any kind. A long time ago, journalists and TV and radio producers had editors and regulators that looked over their work and made decisions about what would get published or broadcasted. At that time, there weren&rsquo;t very many avenues for media consumption so these so called \"gatekeepers\" had a lot of editorial control over what people saw, and as a result we didn&rsquo;t have a lot of diversity at the time in media. Of course this whole thing has turned on its head thanks to social media."
+			"text": "Content moderation isn't just removing bad stuff, though that&rsquo;s part of it, and it's the part that you've probably heard about the most. The first thing is to remember that content moderation has been with us as long as we've had content, or media of any kind. A long time ago, journalists and TV and radio producers had editors and regulators that looked over their work and made decisions about what would get published or broadcasted. At that time, there weren&rsquo;t very many avenues for media consumption so these so called \"gatekeepers\" had a lot of editorial control over what people saw, and as a result we didn&rsquo;t have a lot of diversity at the time in media. Of course this whole thing has turned on its head thanks to social media."
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.004.jpeg",
-			"text": "And a lot of what social media has changed has been great. As I mentioned there has been more diversity in what&rsquo;s out there in terms of elevating minority voices. And for a long time there was this really positive, &ldquo;we&rsquo;re doing good for society&rdquo;, &ldquo;we&rsquo;re bringing the world together&rdquo; kind of feeling about social media back in the early to mid 2000&rsquo;s. See these two quotes from around that time. It&rsquo;s kind of eye-opening to read these rosy quotes today, knowing the sentiment around social media now!"
+			"text": "And a lot of what social media has changed has been great. As I mentioned there has been more diversity in what&rsquo;s out there in terms of elevating minority voices. And for a long time there was this really positive, \"we're doing good for society\", \"we're bringing the world together\" kind of feeling about social media back in the early to mid 2000's. See these two quotes from around that time by Mark Zuckerberg and Tim Berners Lee. It&rsquo;s kind of eye-opening to read these rosy quotes today, knowing the general sentiment around social media now!"
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.005.jpeg",
-			"text": "And of course it&rsquo;s not the case that everything was great, and then everything went terrible. Even back then, there were lots of people, in particular marginalized groups like women in gaming, that were experiencing horrible issues of harassment, stalking, doxing, nonconsensual sexual imagery in online spaces and yelling about it to all of these platforms and were basically ignored for a long time. But it&rsquo;s really starting to become more recognized in the mainstream more recently, and it's a problem that platforms are taking more seriously in the last several years after a number of incidents that have happened and a lot of public scrutiny."
+			"text": "And of course it's not the case that everything was great, and then everything went terrible. Even back then, there were lots of people, in particular marginalized groups like women in gaming, that were experiencing horrible issues of harassment, stalking, doxing, nonconsensual sexual imagery in online spaces and yelling about it to all of these platforms and were basically ignored for a long time. But it's really starting to become more recognized in the mainstream more recently, and it's a problem that platforms are taking more seriously in the last several years after a number of incidents that have happened and a lot of public scrutiny."
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.006.jpeg",
@@ -26,7 +26,7 @@
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.007.jpeg",
-			"text": "Another kind of misinformation that has been really concerning is conspiracy theories, some of which are really dangerous to our public health, like conspiracies that say that vaccines cause autism or that COVID is a hoax. As you can see in the newspaper articles I have here, it&rsquo;s not just Facebook and Twitter, you&rsquo;ve got Youtube, Patreon, Vimeo, Spotify, Apple Podcasts&hellip;again ANYWHERE you host content, you have to be thinking about this today."
+			"text": "Another kind of misinformation that has been really concerning is conspiracy theories, some of which are really dangerous to our public health, like conspiracies that say that vaccines cause autism or that COVID is a hoax. As you can see in the newspaper articles I have here, it's not just Facebook and Twitter, you've got Youtube, Patreon, Vimeo, Spotify, Apple Podcasts&hellip;again ANYWHERE you host content, you have to be thinking about this today."
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.008.jpeg",
@@ -34,35 +34,43 @@
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.009.jpeg",
-			"text": "So that&rsquo;s just a taste of the problems that are related to content moderation today. We could talk about this all day. But how would you address some of these problems. Say you&rsquo;re Mark Zuckerberg, or say you&rsquo;re a developer at one of these platforms. You helped build this tool, and now it&rsquo;s causing societal issues like harassment against minorities, maybe even contributing to genocide. What do you do? Here&rsquo;s Mark at a congressional hearing last year on the topic of AI. Link to the embedded video: <a href=\"https://www.youtube.com/watch?v=8sys7In_qDs\">https://www.youtube.com/watch?v=8sys7In_qDs</a> He is suggesting that in the future AI can do content moderation to remove hate speech."
+			"text": "So that's just a taste of the problems that are related to content moderation today. We could talk about this all day. But how would you address some of these problems. Say you're Mark Zuckerberg, or say you're a developer at one of these platforms. You helped build this tool, and now it&rsquo;s causing societal issues like harassment against minorities, maybe even contributing to genocide. What do you do to address the problem? Here&rsquo;s Mark at a congressional hearing last year on the topic of AI. Link to the embedded video: <a href=\"https://www.youtube.com/watch?v=8sys7In_qDs\">https://www.youtube.com/watch?v=8sys7In_qDs</a> He is suggesting that in the future AI could do content moderation to remove hate speech."
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.010.jpeg",
-			"text": "And actually you have some experience with this, because in CSE 143, you had an assignment to build a toxicity classifier. The assignment involved building a really simple model to detect toxicity using decision trees so it&rsquo;s a bit more of a toy example, but even so, you probably noticed some things. What was hard about your task? Did you have any concerns with the task or the way it was posed to you? Would you ever deploy something like what you built?"
+			"text": "And actually you have some experience with this, because in CSE 143, you had an assignment to build a toxicity classifier. The assignment involved building a really simple model to detect toxicity using decision trees so it's a bit more of a toy example, but even so, you probably noticed some things. What was hard about your task? Did you have any concerns with the task or the way it was posed to you? Would you ever deploy something like what you built? Link to assignment: <a href=\"https://courses.cs.washington.edu/courses/cse143/20au/text-classifier/\">https://courses.cs.washington.edu/courses/cse143/20au/text-classifier/</a>"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.011.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.011.jpeg",
+			"text": "One thing to keep in mind is that content moderation is really tricky even for humans! Here are some of Facebook&rsquo;s rules regarding nudity on the platform and how they've shifted around over the years. As you can see something like \"no nudity\" actually has tons of edge cases that you and I probably wouldn&rsquo;t have thought about and Facebook definitely didn&rsquo;t think about until some people somewhere got really angry about it. Facebook nudity standards: <a href=\"https://www.facebook.com/communitystandards/adult_nudity_sexual_activity\">https://www.facebook.com/communitystandards/adult_nudity_sexual_activity</a>"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.012.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.012.jpeg",
+			"text": "One question you need to consider is - where is your training data coming from? You might get high accuracy while training and that accuracy dives when you deploy because of lots of unseen content. In the case of the Perspective dataset on Kaggle that you used for your assignment, the data comes from discussions that happened on Wikipedia. Wikipedia is known to have some issues with diversity, as the community is skewed towards white, male, and Western, and will have very different speech patterns, and very specific types of discussion compared to other places. How would training a model based on that kind of data affect your model? Kaggle challenge: <a href=\"https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge\">https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge&nbsp;</a>"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.013.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.013.jpeg",
+			"text": "Another important aspect to consider is - who is doing the labeling? Bias in your model can arise from who your annotators are and what they know, either what they know from their life experience, which can be problematic if they're not very diverse, or what you told them or trained them to do. Like in this case shown on the slide, these researchers at UW found that annotators labeled data with African American English (AAE) as hate speech more often than a non-AAE equivalent, but this bias was reduced when they were actually told that a particular piece of text was AAE. Link to paper: <a href=\"https://homes.cs.washington.edu/~msap/pdfs/sap2019risk.pdf\">https://homes.cs.washington.edu/~msap/pdfs/sap2019risk.pdf</a> Sometimes you get or use data online and it actually doesn&rsquo;t tell you this information. Like I did some searching online, and I&rsquo;m not actually sure who did the labeling for the Wikipedia dataset that Perspective is based on. It could be something like Amazon Mechanical Turk (which by the way also has a skewed demographic) or Google internal contractors."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.014.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.014.jpeg",
+			"text": "Another issue is - what are your labels and label definitions? As I mentioned earlier, the term \"toxicity\" is kind of this all-encompassing word that could potentially mean a bunch of things. This is how Perspective defines it (on the left). But if you look at their label categories they have both \"toxic\" and \"severe_toxic\" - so what&rsquo;s the difference between those two? All of these questions about classifications are really important, not just for machine learning. Classifications affect everything - from your medical records, your tax and census documents, how we define and bin gender, race, education on surveys and social media profiles, and more. This book \"Sorting Things Out\" by Bowker and Star is a classic book about this topic."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.015.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.015.jpeg",
+			"text": "Another concern is that sometimes people have legitimate disagreements about a certain label or definition. As one example, we interviewed a number of people who deal with online harassment a few years ago for one of the papers I had you all read (on Squadbox: <a href=\"https://homes.cs.washington.edu/~axz/papers/squadbox.pdf\">https://homes.cs.washington.edu/~axz/papers/squadbox.pdf</a>). And in those interviews, we interviewed a wide variety of people, from Youtube celebrities to journalists to scientists to politicians activists, to even just a partner dealing with an ex. It turns out these people all have very different ideas about what is harassment. And a lot of the time it wasn't always about the content of the message but the context - how frequently this person had messaged them, the nature of their relationship, whether they had told them to stop."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.016.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.016.jpeg",
+			"text": "So are there some things you can do to mitigate some of these issues? I'll just outline a few guidelines. But in general, in your assignment you mostly focused on the modeling and grabbed a dataset from off the web. But that's not how it is in a real world context (or at least it shouldn't be!) Actually a lot more time and effort is spent on the data collection, data labeling, and data cleaning side of the process. From surveys of data scientists, they've found that they spend about 80% of their time in data cleaning and organizing and 20% doing modeling, and that's not even counting the data gathering process. Basically know your data - understand the community, understand the context, and make sure it actually fits your use case."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.017.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.017.jpeg",
+			"text": "There have been some efforts to get people who do release datasets on the web to actually provide some of this information about who labeled it, how was it labeled, where the data is from, because of how important those questions are for determining dataset bias. Here are links regarding these efforts - Datasheets for Datasets: <a href=\"https://arxiv.org/pdf/1803.09010.pdf\">https://arxiv.org/pdf/1803.09010.pdf</a> and Data Nutrition Project: <a href=\"https://datanutrition.org/\">https://datanutrition.org/</a>&nbsp;"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.018.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.018.jpeg",
+			"text": "And finally,&nbsp;"
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.019.jpeg"
