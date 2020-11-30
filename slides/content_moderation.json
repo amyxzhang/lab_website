@@ -70,40 +70,51 @@
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.018.jpeg",
-			"text": "And finally,&nbsp;"
+			"text": "And finally, when thinking about picking your labels and coming up with label definitions, you should not rely on your own intuition or that of your team for determining this. Get feedback from a diverse set of your future users, learn from experts, and test out your labels with your annotators."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.019.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.019.jpeg",
+			"text": "So far, we've made the assumption that we are using machine learning classifiers trained on large amounts of labeled data to classify \"toxic\" content. But zooming out, what have we signed up for when we make that assumption?&nbsp;"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.020.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.020.jpeg",
+			"text": "I love this art piece by Kate Crawford and Vladan Joler because it really shows how in a production AI system, there are in actuality so many moving pieces that come together to make it work. And it brings into focus just how many natural resources and human resources we use to build and deploy a model and how much that's kind of hidden away when you just see the model working. No model is free even though it might feel that way sometimes. Link: <a href=\"https://anatomyof.ai/\">https://anatomyof.ai/</a>"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.021.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.021.jpeg",
+			"text": "Focusing in on a tiny piece of that diagram, let's look just at the human resources you take on. In order to to train a model, you need lots and lots of data! To get data, you need annotators. So now you need to employ lots and lots of annotators, to both label the data as well as continuously check the outputs of the model."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.022.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.022.jpeg",
+			"text": "How many people are \"lots\"? In the case of Facebook, that's around 15,000 people. Unfortunately, the work conditions of these content moderators leaves a lot to be desired. What are some problems with the way annotators are recruited and employed today?"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.023.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.023.jpeg",
+			"text": "Link to video: <a href=\"https://www.youtube.com/watch?v=bDnjiNCtFk4\">https://www.youtube.com/watch?v=bDnjiNCtFk4</a> Suggested snippets to watch (these snippets avoid mention of specific traumatic content): 1:12 - 2:54, 6:33-10:12, 12:47- end."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.024.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.024.jpeg",
+			"text": "There has been a lot of attention paid to contract workers and commercial content moderators that power AI systems and conduct moderation in the last several years. These are some great books, and the last one is a documentary that came out recently. The first book \"Ghost Work\" is by researchers at Microsoft Research. Their book goes in depth to understand the people who sit behind sites like Amazon Mechanical Turk to do small tasks and data labeling. \"Behind the Screen\" is about commercial content moderators and builds on a decade of interviews Sarah Roberts conducted with these paid moderators. And \"The Cleaners\" is again about the same topic but in documentary form."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.025.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.025.jpeg",
+			"text": "Another point I wanted to make is that it isn't just the case that you go and label a ton of data and train your model and then you're done. You can just reap the rewards while the model churns away. Actually, in most production systems, you need to be continually gathering and labeling new data because the world changes - new events happen adding new vocabulary, language shifts over time, and your model gets out-of-date. Also in a production setting, you need to keep checking to make sure your model is of high quality, so every now and then you still have to do a human evaluation check. This is kind of a mind-blowing revelation - Google has said that actually every single day 15% of their searches have never been searched before!"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.026.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.026.jpeg",
+			"text": "What to do about all this? First - get rid of the notion that you will be able to remove the need for humans to do this work. Especially in these high social situations, you will ALWAYS need people involved! Since people are always going to be around, it's important that we think about how to better improve their working conditions. How can policies support them? How can technologies be used to help them do their work instead of trying to just automate them away?"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.027.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.027.jpeg",
+			"text": "Let's zoom out again! Say you've decided to use an ML classifier for content moderation. You've figured out how to deploy the model so that it's continually updated and evaluated. Now what? How do you actually use the model that you built on your platform? What actually happens to the content that is deemed toxic or the person who has broken the rules? The basic assumption here is that you run your model over the platform content as it&rsquo;s coming in continually, and for all the content that it says is toxic, you take it down."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.028.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.028.jpeg",
+			"text": "But actually, that's just one way to do it. There are tons of other things you could do and each of these have different ramifications for the violator, the people who are harmed, and for the content and how it spreads or doesn&rsquo;t spread. Here are Twitter&rsquo;s range of enforcement options for example. There&rsquo;s escalation in punishment for repeated bad behavior."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.029.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.029.jpeg",
+			"text": "Here's another diagram that was made by Alex Stamos, Facebook's former Chief Security Officer. It's a suggestion by him and not a diagram of how things are actually done in a particular platform today. But here, he's arguing for a greater severity of punishment if your violating content is posted on a more widespread place."
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.030.jpeg"
