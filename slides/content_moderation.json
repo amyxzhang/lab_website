@@ -173,10 +173,12 @@
 			"text": "I mentioned a few things but there's so much more going on in the world of content moderation! I don't think we're anywhere close to having a settled landscape or ossified way of doing things just yet.&nbsp;"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.044.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.044.jpeg",
+			"text": "If you're a student at UW CSE, here are some other ways to learn more about these topics!"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.045.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.045.jpeg",
+			"text": "And for more research and cool systems, come check out some of the work going on in my lab! Link: <a href=\"http://social.cs.washington.edu/\">http://social.cs.washington.edu/</a>"
 		}
 	]
 }
