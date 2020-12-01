@@ -117,13 +117,16 @@
 			"text": "Here's another diagram that was made by Alex Stamos, Facebook's former Chief Security Officer. It's a suggestion by him and not a diagram of how things are actually done in a particular platform today. But here, he's arguing for a greater severity of punishment if your violating content is posted on a more widespread place."
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.030.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.030.jpeg",
+			"text": "Another question is what do you do with the person who broke the rules? Should you just ban them right away? Take down their content and give them a warning? Implicit in these questions is - who is this person and why did they do what they did? Are they a \"bad actor\" with ill intent or did they make a mistake because they didn't know the rules? In this work, researchers (including Shagun Jhaver, a current postdoc in our lab!) found that sometimes people who had their content taken down didn't even know that it had happened! And in fact, when moderators provided an explanation for why their content was removed, it reduced the odds of that person getting their post removed in the future. Link to paper: <a href=\"https://dl.acm.org/doi/pdf/10.1145/3359252\">https://dl.acm.org/doi/pdf/10.1145/3359252</a>"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.031.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.031.jpeg",
+			"text": "Here's another way you could use the model that&rsquo;s not after content is posted but BEFORE. There are some clear pros and cons to this kind of approach. One pro is that people who maybe didn't mean to be \"toxic\" or need a moment to reconsider could change their comment. But a con is that real-time feedback could allow bad actors to quickly test out different phrasings to get around the model (and since human language is so flexible, they will likely succeed). Link to article: <a href=\"https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/\">https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/</a>"
 		},
 		{
-			"image": "slides/content_moderation/guestlecture_contentmoderation.032.jpeg"
+			"image": "slides/content_moderation/guestlecture_contentmoderation.032.jpeg",
+			"text": "Finally, there's been some research looking into alternative theories of justice, and whether they could apply here. Everything we&rsquo;ve talked about so far assumes a punitive approach to content moderation. You get punished for breaking the rules. But what about a restorative justice approach, where we instead consider the harm done to individuals and the community, and have offenders work to repair that harm? In this case, the researchers found some support for people who have been harassed who want these kinds of approaches, such as requiring an apology or payment from the offender. Link to paper: <a href=\"https://deepblue.lib.umich.edu/bitstream/handle/2027.42/154685/SchoenebeckDrawingFromJustice.pdf?sequence=1\">https://deepblue.lib.umich.edu/bitstream/handle/2027.42/154685/SchoenebeckDrawingFromJustice.pdf?sequence=1</a>"
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.033.jpeg"
