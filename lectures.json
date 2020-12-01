@@ -4,7 +4,7 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@13d1ef34a80c19798853e75ec328bb5ed4cbac53/images/guestlecture_contentmoderation.001.jpeg",
 			"title": "Building technology for society (and all of its complications and messy consequences): case study on automated content moderation",
 			"taught_when": "Gave to UW CSE 143: Programming with Data Structures (Autumn 2020)",
-			"description": "A deep dive into automated content moderation and the considerations around and consequences of deploying automated content moderation tools when it comes to users, communities, platforms, and society. Many pointers to current events surrounding this topic.",
+			"description": "A deep dive into automated content moderation and the considerations around and consequences of deploying automated content moderation tools when it comes to users, communities, platforms, and society. The content is tailored to first or second year undergraduates in Computer Science to consider the ethical and societal implications of technologies such as automated content moderation and social computing system design. Many pointers to current events surrounding this topic.",
 			"module_url": "slides_content_moderation.html"
 		}
 	]
