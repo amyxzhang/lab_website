@@ -70,7 +70,7 @@
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.018.jpeg",
-			"text": "And finally, when thinking about picking your labels and coming up with label definitions, you should not rely on your own intuition or that of your team for determining this. Get feedback from a diverse set of your future users, learn from experts, and test out your labels with your annotators."
+			"text": "And finally, when thinking about picking your labels and coming up with label definitions, you should not rely on your own intuition or that of your team for determining this. Get feedback from a diverse set of your future users, learn from experts, and test out your labels with your annotators. Summing up, this white paper from the Center for Democracy and Technology has a nice write-up of the issues of using natural language processing to do automated content moderation: <a href=\"https://cdt.org/insights/mixed-messages-the-limits-of-automated-social-media-content-analysis/\">https://cdt.org/insights/mixed-messages-the-limits-of-automated-social-media-content-analysis/</a>"
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.019.jpeg",
@@ -98,7 +98,7 @@
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.025.jpeg",
-			"text": "Another point I wanted to make is that it isn't just the case that you go and label a ton of data and train your model and then you're done. You can just reap the rewards while the model churns away. Actually, in most production systems, you need to be continually gathering and labeling new data because the world changes - new events happen adding new vocabulary, language shifts over time, and your model gets out-of-date. Also in a production setting, you need to keep checking to make sure your model is of high quality, so every now and then you still have to do a human evaluation check. This is kind of a mind-blowing revelation - Google has said that actually every single day 15% of their searches have never been searched before!"
+			"text": "Another point I wanted to make is that it isn't just the case that you go and label a ton of data and train your model and then you're done. You can just reap the rewards while the model churns away. Actually, in most production systems, you need to be continually gathering and labeling new data because the world changes - new events happen adding new vocabulary, language shifts over time, and your model gets out-of-date. Also in a production setting, you need to keep checking to make sure your model is of high quality, so every now and then you still have to do a human evaluation check. This is kind of a mind-blowing revelation - Google has said that actually every single day 15% of their searches have never been searched before! See this research on data distribution shifts in the wild over time: <a href=\"https://wilds.stanford.edu/\">https://wilds.stanford.edu/</a>"
 		},
 		{
 			"image": "slides/content_moderation/guestlecture_contentmoderation.026.jpeg",
