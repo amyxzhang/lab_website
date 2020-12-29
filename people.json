@@ -109,8 +109,13 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5fbe89570329de717baca0ac1b685a68f7f84148/images/Skyler%20Hallinan%20(2).jpg",
 			"name": "Skyler Hallinan",
 			"jobTitle": "undergrad",
-			"bio": "Bio here",
-			"links": {},
+			"bio": "Skyler Hallinan is an undergraduate student at the University of Washington studying computer science. His research interests are in the intersection of NLP and HCI for social good.",
+			"links": {
+				"website_url": "https://skylerhallinan.com/",
+				"scholar_url": "https://scholar.google.com/citations?user=ztXdO4gAAAAJ&hl=en",
+				"github_url": "https://github.com/shallinan1",
+				"twitter_url": "https://twitter.com/SkylerHallinan"
+			},
 			"@type": "Person"
 		}
 	]
