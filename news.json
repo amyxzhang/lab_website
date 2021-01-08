@@ -1,13 +1,24 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d9875c5e6ff19feb2a9cf91fdf602e70ae610aa9/images/0_4Y6oHMqNNiHYqv4I.png",
+			"title": "We won a grant from UW iSchool for designing systems to signal credibility.",
+			"date": "Dec 2020",
+			"description": "We won a grant from the UW iSchool's Strategic Research Fund along with our collaborator in the iSchool, Prof. Tanu Mitra. This grant&nbsp; will go towards Emelia May Hughes's research on applying credibility signals in Youtube.",
+			"link": {
+				"link_url": "https://ischool.uw.edu/research/updates/2020-12-21",
+				"link_text": "UW iSchool Research Update"
+			}
+		},
+		{
 			"title": "Skyler Hallinan joins as undergrad RA",
 			"date": "Jan 2020",
 			"description": "Skyler is joining the lab as an undergrad RA to work on taxonomizing and classifying misinformation harms. Skyler recently won an undergraduate award for his prior <a href=\"https://news.cs.washington.edu/2020/12/14/six-allen-school-undergraduates-recognized-for-excellence-in-research/\">research</a> on bioengineering!",
 			"link": {
 				"link_url": "https://skylerhallinan.com/",
 				"link_text": "Skyler's website"
-			}
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f052648635d4b2568523a6659808cfd2eab8260b/images/Skyler%20Hallinan%20(2).jpg"
 		},
 		{
 			"date": "Sept 2020",
@@ -15,7 +26,8 @@
 			"description": "Shagun joins the lab as a postdoc, working on online harassment tools. Jim (co-advised by Dan Weld) and Ruotong (co-advised by Katharina Reinecke) join as graduate students. In addition, Ge and Wenjia join as visiting researchers, and Emelia joins as an undergraduate student. Ricky continues his summer work on PolicyKit.",
 			"link": {
 				"link_url": "null"
-			}
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1a207d8b3dc7c257161fbb15ae47a0729828cb16/images/sfl.png"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f93fa65f5e2c9ccc1391f8b8909863295288f300/images/ADL-logo.png",
@@ -34,7 +46,8 @@
 			"link": {
 				"link_url": "http://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-honoring-departments-outstanding-contributors-0",
 				"link_text": "EECS Celebrates"
-			}
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fa2b0ea2cd3418e4a8c68d1a854e917882f99250/images/download%20(4).png"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@724ee9dd7abc246709bda5fe8aebbe404cf26908/images/wikiux.png",
@@ -48,12 +61,13 @@
 		},
 		{
 			"date": "\t\t\t\t\t\t\t\tSept 2019",
-			"title": "Amy accepts a position at UW CSE starting in fall 2020.",
+			"title": "Amy accepts a position at the Allen School starting in fall 2020.",
 			"link": {
 				"link_url": "https://news.cs.washington.edu/2019/08/16/allen-schools-latest-faculty-additions-will-strengthen-uws-leadership-in-robotics-machine-learning-human-computer-interaction-and-more/",
 				"link_text": "UW CSE News"
 			},
-			"description": "She will be conducting research at UW on social computing and HCI."
+			"description": "She will be conducting research at UW CSE on social computing and HCI.",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b6e4cbd27ecbdd6eddda27c0aecf81fcda8dedb4/images/download.jpeg"
 		}
 	],
 	"image": ""
