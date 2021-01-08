@@ -61,6 +61,27 @@
 			"jobTitle": "Professor",
 			"affiliation": "Harvard",
 			"@type": "Person"
+		},
+		{
+			"homepage": "https://jeremydfoote.com/",
+			"name": "Jeremy Foote",
+			"jobTitle": "Professor",
+			"affiliation": "Purdue",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://enfascination.com/weblog/professional",
+			"name": "Seth Frey",
+			"jobTitle": "Professor",
+			"affiliation": "UCDavis",
+			"@type": "Person"
+		},
+		{
+			"homepage": "https://nathanschneider.info/",
+			"name": "Nathan Schneider",
+			"jobTitle": "Professor",
+			"affiliation": "UCBoulder",
+			"@type": "Person"
 		}
 	]
 }
