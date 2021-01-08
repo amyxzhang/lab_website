@@ -3,8 +3,11 @@
 		{
 			"title": "Skyler Hallinan joins as undergrad RA",
 			"date": "Jan 2020",
-			"description": "Skyler is joining the lab as an undergrad RA to work on taxonomizing and classifying misinformation harms.&nbsp;",
-			"link": {}
+			"description": "Skyler is joining the lab as an undergrad RA to work on taxonomizing and classifying misinformation harms. Skyler recently won an undergraduate award for his prior <a href=\"https://news.cs.washington.edu/2020/12/14/six-allen-school-undergraduates-recognized-for-excellence-in-research/\">research</a> on bioengineering!",
+			"link": {
+				"link_url": "https://skylerhallinan.com/",
+				"link_text": "Skyler's website"
+			}
 		},
 		{
 			"date": "Sept 2020",
