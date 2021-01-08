@@ -1,16 +1,6 @@
 {
 	"news_item": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d9875c5e6ff19feb2a9cf91fdf602e70ae610aa9/images/0_4Y6oHMqNNiHYqv4I.png",
-			"title": "We won a grant from UW iSchool for designing systems to signal credibility.",
-			"date": "Dec 2020",
-			"description": "We won a grant from the UW iSchool's Strategic Research Fund along with our collaborator in the iSchool, Prof. Tanu Mitra. This grant&nbsp; will go towards Emelia May Hughes's research on applying credibility signals in Youtube.",
-			"link": {
-				"link_url": "https://ischool.uw.edu/research/updates/2020-12-21",
-				"link_text": "UW iSchool Research Update"
-			}
-		},
-		{
 			"title": "Skyler Hallinan joins as undergrad RA",
 			"date": "Jan 2020",
 			"description": "Skyler is joining the lab as an undergrad RA to work on taxonomizing and classifying misinformation harms. Skyler recently won an undergraduate award for his prior <a href=\"https://news.cs.washington.edu/2020/12/14/six-allen-school-undergraduates-recognized-for-excellence-in-research/\">research</a> on bioengineering!",
@@ -19,6 +9,16 @@
 				"link_text": "Skyler's website"
 			},
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f052648635d4b2568523a6659808cfd2eab8260b/images/Skyler%20Hallinan%20(2).jpg"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d9875c5e6ff19feb2a9cf91fdf602e70ae610aa9/images/0_4Y6oHMqNNiHYqv4I.png",
+			"title": "We won a grant from UW iSchool for designing systems to signal credibility.",
+			"date": "Dec 2020",
+			"description": "We won a grant from the UW iSchool's Strategic Research Fund along with our collaborator in the iSchool, Prof. Tanu Mitra. This grant&nbsp; will go towards Emelia May Hughes's research on applying credibility signals in Youtube.",
+			"link": {
+				"link_url": "https://ischool.uw.edu/research/updates/2020-12-21",
+				"link_text": "UW iSchool Research Update"
+			}
 		},
 		{
 			"date": "Sept 2020",
