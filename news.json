@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d12afc098e0513fcaf3782984b2ede63015607e/images/tsqfOofu.png",
+			"title": "Amy appeared on the podcast \"Reimagining the Internet\"",
+			"date": "Jan 2020",
+			"description": "<span style=\"color: rgba(0, 0, 0, 0.8); font-family: 'Clear Sans'; font-size: 18px;\">Amy is interviewed by Ethan Zuckerman on his podcast hosted at the Institute for Digital Public Infrastructure at UMass Amherst. The podcast series is about what's wrong with social media and how to fix it.</span>",
+			"link": {
+				"link_url": "https://publicinfrastructure.org/podcast/10-amy-zhang",
+				"link_text": "Interview Link"
+			}
+		},
+		{
 			"title": "Skyler Hallinan joins as undergrad RA",
 			"date": "Jan 2020",
 			"description": "Skyler is joining the lab as an undergrad RA to work on taxonomizing and classifying misinformation harms. Skyler recently won an undergraduate award for his prior <a href=\"https://news.cs.washington.edu/2020/12/14/six-allen-school-undergraduates-recognized-for-excellence-in-research/\">research</a> on bioengineering!",
