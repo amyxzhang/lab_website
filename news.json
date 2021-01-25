@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@08a2978e4e23171e4fb703d38b5e0f443ce78c6c/images/c-drying-2VqphCZllWg-unsplash.jpg",
+			"title": "Shagun will be a panelist for the UChicago event: \"The Great Deplatforming: Implications of Big Tech Censorship\"",
+			"date": "Jan 25, 2020",
+			"description": "This is a moderated panel of experts in law, technology, and policy discussing the implications of the historic deplatforming of a US president, as well recent moves by tech companies to mitigate hate speech online.",
+			"link": {
+				"link_url": "https://uchicagogroup.zoom.us/webinar/register/WN_3F2I5GmNRiGzUx226W5Ztw",
+				"link_text": "Registration Link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d12afc098e0513fcaf3782984b2ede63015607e/images/tsqfOofu.png",
 			"title": "Amy appeared on the podcast \"Reimagining the Internet\"",
 			"date": "Jan 2020",
