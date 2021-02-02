@@ -1,6 +1,38 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ae66a3e17d330f8e1979a5cb9e551894b882f6d1/images/Untitled%203.png",
+			"title": "Modular Politics: Toward a Governance Layer for Online Communities",
+			"id": "modular-politics",
+			"author": [
+				{
+					"author_name": "Nathan Schneider"
+				},
+				{
+					"author_name": "Primavera De Filippi"
+				},
+				{
+					"author_name": "Seth Frey"
+				},
+				{
+					"author_name": " Joshua Tan"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"conference url": "http://cscw.acm.org/2021",
+			"conference": "CSCW",
+			"year": "2021",
+			"short_abstract": "<p>Drawing on the paradigm of Institutional Analysis and Design, this paper proposes a strategy for specifying basic features of a generalizable paradigm for online governance called Modular Politics.</p>",
+			"abstract": "Governance in online communities is an increasingly high-stakes challenge, and yet many basic features of offline governance legacies---juries, political parties, term limits, and formal debates, to name a few---are not in the feature-sets of the software most community platforms use. Drawing on the paradigm of Institutional Analysis and Design, this paper proposes a strategy for addressing this lapse by specifying basic features of a generalizable paradigm for online governance called Modular Politics. Whereas classical governance typologies tend to present a choice among wholesale ideologies, such as democracy or oligarchy, the paper argues for enabling platform operators and their users to build bottom-up governance processes from computational components that are modular, highly versatile in their expressiveness, portable from one context to another, and interoperable across platforms. This kind of approach could implement pre-digital governance systems as well as accelerate innovation in uniquely digital techniques. As diverse communities share and connect their components and data, governance could come to occur as a ubiquitous network layer. To that end, this paper proposes the development of an open standard for networked governance.",
+			"bibtex": "@article{2021-modpol, author = {Schneider, Nathan and De Filippi, Primavera and Frey, Seth and Tan, Joshua and Zhang, Amy}, title = {Modular Politics: Toward a Governance Layer for Online Communities}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {January 2021}, number = {CSCW}, month = oct, year = {2021}, publisher = {ACM}, address = {New York, NY, USA}, }",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2005.13701.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@42eb24f6c855223cc009d500acb7eb2cb3af30b5/images/Untitled%202.png",
 			"title": "Exploring Lightweight Interventions at Posting Time to Reduce the Sharing of Misinformation on Social Media",
 			"id": "lightweight-interventions",
