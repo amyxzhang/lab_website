@@ -1,6 +1,41 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@42eb24f6c855223cc009d500acb7eb2cb3af30b5/images/Untitled%202.png",
+			"title": "Exploring Lightweight Interventions at Posting Time to Reduce the Sharing of Misinformation on Social Media",
+			"id": "lightweight-interventions",
+			"author": [
+				{
+					"author_name": "Farnaz Jahanbakhsh"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Adam Berinsky"
+				},
+				{
+					"author_name": "Gordon Pennycook"
+				},
+				{
+					"author_name": "David Rand"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"conference url": "http://cscw.acm.org/2021",
+			"conference": "CSCW",
+			"year": "2021",
+			"short_abstract": "<p>In this work, we investigate the design of lightweight interventions that nudge users to assess the accuracy of information as they share it. From an experiment with 1668 participants, we find that both providing accuracy assessment and rationale reduce the sharing of false content.</p>",
+			"abstract": "When users on social media share content without considering its veracity, they may unwittingly be spreading misinformation. In this work, we investigate the design of lightweight interventions that nudge users to assess the accuracy of information as they share it. Such assessment may deter users from posting misinformation in the first place, and their assessments may also provide useful guidance to friends aiming to assess those posts themselves. In support of lightweight assessment, we first develop a taxonomy of the reasons why people believe a news claim is or is not true; this taxonomy yields a checklist that can be used at posting time. We conduct evaluations to demonstrate that the checklist is an accurate and comprehensive encapsulation of people’s free-response rationales. In a second experiment, we study the effects of three behavioral nudges---1) checkboxes indicating whether headings are accurate, 2) tagging reasons (from our taxonomy) that a post is accurate via a checklist and 3) providing free-text rationales for why a headline is or is not accurate---on people’s intention of sharing the headline on social media. From an experiment with 1668 participants, we find that both providing accuracy assessment and rationale reduce the sharing of false content. They also reduce the sharing of true content, but to a lesser degree that yields an overall decrease in the fraction of shared content that is false. Our findings have implications for designing social media and news sharing platforms that draw from richer signals of content credibility contributed by users. In addition, our validated taxonomy can be used by platforms and researchers as a way to gather rationales in an easier fashion than free-response.",
+			"bibtex": "@article{2021-lightweight, author = {Jahanbakhsh, Farnaz and Zhang, Amy X. and Berinsky, Adam and Pennycook, Gordon and Rand, David, and Karger, David}, title = {Exploring Lightweight Interventions at Posting Time to Reduce the Sharing of Misinformation on Social Media}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {January 2021}, number = {CSCW}, month = oct, year = {2021}, publisher = {ACM}, address = {New York, NY, USA}, }",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2101.11824.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a35f441c581d69d56ba2d1ca6b575730c82fa9a2/images/communityclick.png",
 			"title": "CommunityClick: Capturing and Reporting Community Feedback from Town Halls to Improve Inclusivity",
 			"id": "communityclick",
