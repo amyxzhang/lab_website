@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ca2122093080f38769844cc38ff4ca95d9e5223/images/lee-radnitz-zhang.jpg",
+			"title": "Amy joins the UW Center for an Informed Public as a faculty member",
+			"date": "Feb 2021",
+			"description": "Amy is joining the UW CIP for a two-year term. The CIP's mission is to resist strategic misinformation, promote an informed society, and strengthen democratic discourse.",
+			"link": {
+				"link_url": "https://www.cip.uw.edu/2021/02/09/cip-faculty-members-lee-radnitz-zhang/",
+				"link_text": "Article"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@08a2978e4e23171e4fb703d38b5e0f443ce78c6c/images/c-drying-2VqphCZllWg-unsplash.jpg",
 			"title": "Shagun will be a panelist for the UChicago event: \"The Great Deplatforming: Implications of Big Tech Censorship\"",
 			"date": "Jan 25, 2021",
