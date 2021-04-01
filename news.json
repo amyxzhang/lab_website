@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d7303fb6181254bd4b3d6144d1efda7d80ed5079/images/Youtube%20Citation%20Ex%203%20copy.png",
+			"title": "Emelia presented at MozFest on her YouTube credibility project",
+			"date": "March 2021",
+			"description": "Emelia joined WikiCred at MozFest to present her recent work on the <a href=\"https://misinfocon.com/wikiux-introducing-credibility-signals-and-citations-into-online-search-and-social-platforms-7e0adddc1e08\">WikiUX: Introducing Credibility Signals and Citations Signals and Citations to Youtube</a> project. <span style=\"color: #000000; font-family: Helvetica; font-size: 12px;\">&nbsp;</span>",
+			"link": {
+				"link_url": "https://schedule.mozillafestival.org/session/NH7LNH-1",
+				"link_text": "Presentation"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9b2dfca7075385cc10e18d87ec43b3094f61a12f/images/Screen%20Shot%202021-04-01%20at%206.02.38%20PM.png",
 			"title": "Ruotong won a CHI Best Paper Honorable Mention ",
 			"date": "March 2021",
