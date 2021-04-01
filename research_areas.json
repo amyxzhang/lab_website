@@ -140,7 +140,7 @@
 		},
 		{
 			"title": "Public Interest Technology",
-			"description": "Technology presents exciting opportunities but also many challenges for strengthening public institutions and civil society. How can technology help with broadening participation in civic activity, connecting people at the local level with support, and getting broad access to public resources and information?",
+			"description": "<span style=\"font-size: 14px;\">Technology presents exciting opportunities but also many challenges for strengthening public institutions and civil society. How can technology help with broadening participation in civic activity, connecting people at the local level with support, and getting broad access to public resources and information?</span>",
 			"project": [
 				{
 					"@type": "item",
