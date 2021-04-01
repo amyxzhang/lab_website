@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9b2dfca7075385cc10e18d87ec43b3094f61a12f/images/Screen%20Shot%202021-04-01%20at%206.02.38%20PM.png",
+			"title": "Ruotong won a CHI Best Paper Honorable Mention ",
+			"date": "March 2021",
+			"description": "Ruotong won a&nbsp;<span style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Best Paper Honorable Mention recognition for the paper \"</span><span style=\"color: #000000; font-family: 'Helvetica Neue'; font-size: 13px;\">Tabletop Games in the Age of Remote Collaboration: Design Opportunities for a Socially Connected Game Experience</span><span style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">\", where she is a co-author.&nbsp;&nbsp;</span><span style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\"><br /></span>",
+			"link": {
+				"link_url": "http://dub.washington.edu/posts/2021/chi2021papers.html",
+				"link_text": "DUB News"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ca2122093080f38769844cc38ff4ca95d9e5223/images/lee-radnitz-zhang.jpg",
 			"title": "Amy joins the UW Center for an Informed Public as a faculty member",
 			"date": "Feb 2021",
