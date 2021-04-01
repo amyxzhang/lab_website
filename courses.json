@@ -1,6 +1,13 @@
 {
 	"course_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@22c072e9abba2f98b079f5d69ce58ca48c774eee/images/social-media-image-.jpeg",
+			"course_url": "https://social.cs.washington.edu/cse599social/",
+			"title": "CSE 599: Social and Collaborative Computing",
+			"quarter": "Spring 2021",
+			"description": "In this seminar course, students gain a broad understanding of the current research landscape in social computing, focusing on a system design perspective to examine and imagine new designs to address pressing issues. We will read and discuss papers weekly covering different subareas of social computing, foundational papers in the field, and different methods in social computing. Finally, all students individually or in groups will conduct a research project on building, evaluating, or theorizing about a new social computing design."
+		},
+		{
 			"title": "CSE 440: Introduction to HCI",
 			"quarter": "Winter 2021",
 			"description": "Human-Computer Interaction (HCI) theory and techniques. Methods for designing, prototyping, and evaluating user interfaces to computing applications. Human capabilities, interface technology, interface design methods, and interface evaluation tools and techniques. Prerequisite: CSE 332.",
