@@ -150,6 +150,17 @@
 				"github_url": "https://github.com/HuangLabz"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61588790db69bc872af31cab2484cdcbee9b2d06/images/Adithi%20Raghavan_Headshot.jpg",
+			"name": "Adithi Raghavan",
+			"jobTitle": "undergrad",
+			"bio": "<span style=\"caret-color: rgba(0, 0, 0, 0.847); color: rgba(0, 0, 0, 0.847); font-family: -apple-system-font; font-size: 12px; text-size-adjust: auto;\">Adithi Raghavan is an undergraduate student at the University of Washington studying Computer Science and Linguistics. Her research interests lie in human-computer interaction and misinformation.&nbsp;</span>",
+			"links": {
+				"github_url": "https://github.com/streams1/",
+				"twitter_url": "https://twitter.com/adithiraghavan "
+			},
+			"@type": "Person"
 		}
 	]
 }
