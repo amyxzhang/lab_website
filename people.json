@@ -140,6 +140,16 @@
 				"twitter_url": "https://twitter.com/reneee_wang"
 			},
 			"@type": "Person"
+		},
+		{
+			"name": "Anson Huang",
+			"jobTitle": "undergrad",
+			"bio": "Anson Huang is an undergraduate student at the University of Washington studying computer science and political science. His research interests are in the intersection of civics and tech.",
+			"links": {
+				"website_url": "http://students.washington.edu/ansonh/index.html",
+				"github_url": "https://github.com/HuangLabz"
+			},
+			"@type": "Person"
 		}
 	]
 }
