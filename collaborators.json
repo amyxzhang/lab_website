@@ -82,9 +82,6 @@
 			"jobTitle": "Professor",
 			"affiliation": "UCBoulder",
 			"@type": "Person"
-		},
-		{
-			"@type": "Person"
 		}
 	]
 }
