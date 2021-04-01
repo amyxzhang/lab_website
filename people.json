@@ -134,10 +134,11 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@50a497b21ecbc539cdedf0199cedee19bbc3eceb/images/Screen%20Shot%202021-04-01%20at%204.14.45%20PM.png",
 			"name": "Renee Wang",
 			"jobTitle": "undergrad",
-			"bio": "Renee Wang is a third-year undergraduate student in Computer Engineering at the University of Washington. She is interested in studying misinformation and credibility.",
+			"bio": "Renee Wang is an undergraduate student at the University of Washington studying Computer Engineering. She is interested in researching misinformation and credibility.",
 			"links": {
 				"github_url": "https://github.com/reneew7",
-				"twitter_url": "https://twitter.com/reneee_wang"
+				"twitter_url": "https://twitter.com/reneee_wang",
+				"website_url": "https://www.linkedin.com/in/renee-wang/"
 			},
 			"@type": "Person"
 		},
