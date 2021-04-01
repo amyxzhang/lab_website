@@ -143,7 +143,9 @@
 			"description": "Technology presents exciting opportunities but also many challenges for strengthening public institutions and civil society. How can technology help with broadening participation in civic activity, connecting people at the local level with support, and getting broad access to public resources and information?",
 			"project": [
 				{
-					"@type": "item"
+					"@type": "item",
+					"project_url": "https://social.cs.washington.edu/pub_details.html?id=communityclick",
+					"project_name": "CommunityClick"
 				}
 			],
 			"author2": [
