@@ -161,6 +161,22 @@
 				"twitter_url": "https://twitter.com/adithiraghavan "
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c9e1def442798f1195022f134a1643309cec5915/images/Husky2.jpeg",
+			"name": "Ryan Li",
+			"jobTitle": "undergrad",
+			"bio": "Ryan Li is an undergraduate student at the University of Washington majoring in Computer Science and minoring in Data Science. His research interests are in online misinformation and disinformation.&nbsp;",
+			"links": {
+				"github_url": "https://github.com/RyanLi0802",
+				"twitter_url": "https://twitter.com/RyanLi91583606"
+			},
+			"@type": "Person"
+		},
+		{
+			"jobTitle": "phd",
+			"links": {},
+			"@type": "Person"
 		}
 	]
 }
