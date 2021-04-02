@@ -2,7 +2,7 @@
 	"news_item": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7f26a4ffff33aeb061b52fb404da17b8f6fac98d/images/Capture.PNG",
-			"title": "Jim's recent work on improving crowdsoucrced scalar annotations to appear in CSCW '21",
+			"title": "Jim's recent work on improving crowdsourced scalar annotations to appear in CSCW '21",
 			"date": "March 2021",
 			"description": "Jim's recent work \"Goldilocks: Consistent Crowdsourced Scalar Annotations with Relative Uncertainty\" to appear in CSCW.&nbsp;",
 			"link": {}
