@@ -28,7 +28,7 @@
 			}
 		},
 		{
-			"title": "Community Resilience and Self-Governance",
+			"title": "Community Self-Governance",
 			"description": "<span style=\"font-size: 14px;\">Despite their growth, online communities have few tools to shape their own norms and rules, resulting in top-down governance structures that cause burn out and strife. We design democratic structures that support community resilience as well as tools for self-governance.</span>",
 			"project": [
 				{
@@ -103,7 +103,7 @@
 			]
 		},
 		{
-			"title": "Platform Design for Healthy Information Ecosystems",
+			"title": "Pro-Social Platform Design",
 			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online platforms find themselves host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we reimagine social media to push back against bad actors, promote pro-social interaction and credible information, and respect privacy? How do we guard against negative emergent properties?</span>",
 			"project": [
 				{
