@@ -28,7 +28,7 @@
 			}
 		},
 		{
-			"title": "Community Resilience, Collective Action, and Self-Governance",
+			"title": "Community Resilience and Self-Governance",
 			"description": "<span style=\"font-size: 14px;\">Despite their growth, online communities have few tools to shape their own norms and rules, resulting in top-down governance structures that cause burn out and strife. We design democratic structures that support community resilience as well as tools for self-governance.</span>",
 			"project": [
 				{
@@ -52,8 +52,8 @@
 			]
 		},
 		{
-			"title": "End User Empowerment and Localized Tools",
-			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Many software applications and ML models today follow a one-size-fits-all approach, leaving marginalized groups with no recourse. Instead, we consider tools that give power back to end users so they can build solutions that suit them. And we design new models and applications that can take into account social nuances and different perspectives.</span>",
+			"title": "End User Empowerment and Localization",
+			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Many applications and models today follow a one-size-fits-all approach, leaving marginalized groups with no recourse. Instead, we consider tools that give power back to end users so they can build solutions that suit them. And we design new applications and models that can take into account social nuances and different perspectives.</span>",
 			"project": [
 				{
 					"project_url": "https://squadbox.org/",
@@ -83,7 +83,7 @@
 		},
 		{
 			"title": "Data Collaboration and Knowledge Management",
-			"description": "<span style=\"font-size: 14px;\">Organizing and analyzing data and information is increasingly done by (sometimes large) groups of people working together with different skill sets and domain expertise. We design new software tools and human-AI hybrid systems to help groups collectively explore, organize, and comprehend data and information.</span>",
+			"description": "<span style=\"font-size: 14px;\">Organizing and analyzing information is increasingly done by (sometimes large) groups of people working together with different skill sets and domain expertise. We design new software tools and human-AI hybrid systems to help groups collectively explore, organize, and comprehend information.</span>",
 			"project": [
 				{
 					"@type": "item",
