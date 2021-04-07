@@ -82,8 +82,8 @@
 			]
 		},
 		{
-			"title": "Data Collaboration and Knowledge Management",
-			"description": "<span style=\"font-size: 14px;\">Organizing and analyzing information is increasingly done by (sometimes large) groups of people working together with different skill sets and domain expertise. We design new software tools and human-AI hybrid systems to help groups collectively explore, organize, and comprehend information.</span>",
+			"title": "Collaboration and Knowledge Management",
+			"description": "<span style=\"font-size: 14px;\">Production and knowledge management is increasingly done by (sometimes large) groups of people working together with different skill sets and domain expertise. We design new software tools and human-AI hybrid systems to help groups achieve goals and collectively organize information.</span>",
 			"project": [
 				{
 					"@type": "item",
