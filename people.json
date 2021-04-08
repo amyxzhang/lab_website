@@ -176,6 +176,16 @@
 				"website_url": "https://www.linkedin.com/in/ryan-li-a9b2761b8"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1e5b011399d584f4d7bd96d891da421400d5b2b8/images/IMG_2199.JPG",
+			"name": "Detlef Knauss",
+			"jobTitle": "undergrad",
+			"bio": "Detlef Knauss is an undergraduate student at the University of Washington studying computer science. His research interests are in content moderation practices and promoting safe, online communities.",
+			"links": {
+				"github_url": "https://github.com/Detinator10"
+			},
+			"@type": "Person"
 		}
 	]
 }
