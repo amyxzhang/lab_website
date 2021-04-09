@@ -1,6 +1,13 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0f4084d8b6d6f3e3e4035235c5c3f8cba78247df/images/img2.png",
+			"title": "Ge and Jiajia have accepted PhD positions at UMSI and CMU HCII",
+			"date": "April 2021",
+			"description": "Ge will be pursuing a PhD at UMSI in the fall, while Jiajia will be starting at CMU HCII for her PhD. Congrats Ge and Jiajia!!",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7f26a4ffff33aeb061b52fb404da17b8f6fac98d/images/Capture.PNG",
 			"title": "Jim's recent work on improving crowdsourced scalar annotations to appear in CSCW '21",
 			"date": "March 2021",
