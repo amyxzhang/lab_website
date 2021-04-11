@@ -1,6 +1,15 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f637d4f755bc6742ffaac803158c45bacd52dbdb/images/students.png",
+			"title": "Welcome Renee, Anson, Adithi, Ryan, and Detlef to SFL",
+			"date": "April 2021",
+			"description": "After a very successful ACM Research Night presentation by lab members last quarter, 5 undergraduate students have officially joined our lab! Renee and Ryan will be working on topics related to misinformation, Anson will be focusing on civic tech, Adithi will be analyzing cross-cultural studies in HCI, and Detlef will be working on tools to combat online harassment.",
+			"link": {
+				"link_url": "null"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0f4084d8b6d6f3e3e4035235c5c3f8cba78247df/images/img2.png",
 			"title": "Ge and Jiajia have accepted PhD positions at UMSI and CMU HCII",
 			"date": "April 2021",
