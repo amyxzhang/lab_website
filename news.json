@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b4630ca31f8693fa72e8ad1ffb850d1f4202cb99/images/urs.jpeg",
+			"title": "Emelia will be presenting her work at UW's Undergraduate Research Symposium",
+			"date": "May 21, 2021",
+			"description": "Emelia's work on YouTube credibility signals and citations has been accepted to the Undergraduate Research Symposium. She will be giving a ten minute presentation on her work during session 3 of the symposium.&nbsp;",
+			"link": {
+				"link_url": "https://www.eventbrite.com/e/annual-undergraduate-research-symposium-registration-149782177525",
+				"link_text": "URS Registration"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@489acfeb3d636fa5f6e93285a51bb1c2d6a5b6ac/images/hh_logo_stacked.jpeg",
 			"title": "We received a grant from Hacks/Hackers on a project with WEF to study online misinformation harms",
 			"date": "April 2021",
