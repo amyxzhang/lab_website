@@ -1,6 +1,15 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c8a4a34b27e0d9215c680c037e34a5f6f7185bb7/images/Screen%20Shot%202021-05-17%20at%203.21.36%20PM.png",
+			"title": "Shagun will be giving a talk on 'Designing Transparent & Effective Content Moderation' at the UW DUB seminar this week",
+			"date": "May 19th, 2021",
+			"description": "<span style=\"caret-color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; text-size-adjust: auto;\">Social media sites like Facebook, Twitter and Reddit make millions of decisions everyday about which posts can stay online and which posts are removed. How these moderation decisions are made has important consequences for many of the key problems that the Internet faces today - fake news, online harassment, online radicalization, and censorship. My research builds a foundation for designing transparent and effective content moderation systems. I compliment data science methods with qualitative methods to (1) incorporate fairness and transparency in content removals and (2) examine the effectiveness of a range of moderation strategies in combating online hate groups. My findings show that (1) offering explanations for post removals improves both user attitudes and user behaviors and (2) implementing design frictions that impede access to controversial communities makes it more difficult for hate groups to recruit new members. In this talk, I will discuss how I conducted this research and articulate the lessons learned from this work for the benefit of site managers, moderators, and designers of moderation systems.</span>",
+			"link": {
+				"link_text": "https://washington.zoom.us/j/92562304977"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b4630ca31f8693fa72e8ad1ffb850d1f4202cb99/images/urs.jpeg",
 			"title": "Emelia will be presenting her work at UW's Undergraduate Research Symposium",
 			"date": "May 21, 2021",
