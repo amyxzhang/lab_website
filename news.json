@@ -6,7 +6,7 @@
 			"date": "May 19th, 2021",
 			"description": "<span style=\"caret-color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; text-size-adjust: auto;\">Talk Abstract: Social media sites like Facebook, Twitter and Reddit make millions of decisions everyday about which posts can stay online and which posts are removed. How these moderation decisions are made has important consequences for many of the key problems that the Internet faces today - fake news, online harassment, online radicalization, and censorship. My research builds a foundation for designing transparent and effective content moderation systems. I compliment data science methods with qualitative methods to (1) incorporate fairness and transparency in content removals and (2) examine the effectiveness of a range of moderation strategies in combating online hate groups. My findings show that (1) offering explanations for post removals improves both user attitudes and user behaviors and (2) implementing design frictions that impede access to controversial communities makes it more difficult for hate groups to recruit new members. In this talk, I will discuss how I conducted this research and articulate the lessons learned from this work for the benefit of site managers, moderators, and designers of moderation systems.</span>",
 			"link": {
-				"link_text": "https://washington.zoom.us/j/92562304977",
+				"link_text": "Link to Zoom for talk",
 				"link_url": "https://washington.zoom.us/j/92562304977"
 			}
 		},
