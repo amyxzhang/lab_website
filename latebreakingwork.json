@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c75771958d5f473311ce84cdc3b0dc3d59bb9e0e/images/Screen%20Shot%202021-05-19%20at%209.38.04%20AM.png",
+			"title": "Introducing Credibility Signals and Citations to Video-Sharing Platform",
+			"author": [
+				{
+					"author_name": "Emelia May Hughes"
+				},
+				{
+					"author_name": "Renee Wang"
+				},
+				{
+					"author_name": "Prerna Juneja"
+				},
+				{
+					"author_name": "Tanushree Mitra"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "https://zivepstein.github.io/info-credibility-workshop/#overview",
+			"conference": "ICSWSM",
+			"year": "2021",
+			"links": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8fdbc613c8aacf0027717f722225247a1829d6bd/images/lines.png",
 			"title": "Triangulating the News: Visualizing Commonality and Variation Across Many News Stories on the Same Event",
 			"author": [
