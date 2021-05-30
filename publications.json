@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e7dfda3386a5cc35eeff41e8248eaaad8e89453d/images/scale.png",
+			"title": "Goldilocks: Consistent Crowdsourced Scalar Annotations",
+			"id": "goldilocks",
+			"author": [
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Dan Weld"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+			"conference url": "http://cscw.acm.org/2021",
+			"conference": "CSCW",
+			"year": "2021",
+			"short_abstract": "<p>&nbsp;In this work, we present Goldilocks, a novel crowd rating elicitation technique for collecting calibrated scalar annotations that also distinguishes inherent ambiguity from inter-annotator disagreement. We introduce two main ideas: grounding absolute rating scales with examples and using a two-step bounding process to establish a range for an item&rsquo;s placement.</p>",
+			"abstract": "Human ratings have become a crucial resource for training and evaluating machine learning systems. However, traditional elicitation methods for absolute and comparative rating suffer from issues with consistency and often do not distinguish between uncertainty due to disagreement between annotators and ambiguity inherent to the item being rated. In this work, we present Goldilocks, a novel crowd rating elicitation technique for collecting calibrated scalar annotations that also distinguishes inherent ambiguity from inter-annotator disagreement. We introduce two main ideas: grounding absolute rating scales with examples and using a two-step bounding process to establish a range for an item’s placement. We test our designs in three domains: judging toxicity of online comments, estimating satiety of food depicted in images, and estimating age based on portraits. We show that (1) Goldilocks can improve consistency in domains where interpretation of the scale is not universal, and that (2) representing items with ranges lets us simultaneously capture different sources of uncertainty leading to better estimates of pairwise relationship distributions.",
+			"bibtex": "@article{2021-goldilocks, author = {Chen, Quanze and Weld, Dan and Zhang, Amy}, title = {Goldilocks: Consistent Crowdsourced Scalar Annotations\nwith Relative Uncertainty}, journal = {Proc. ACM Hum.-Comput. Interact.}, issue_date = {July 2021}, number = {CSCW}, month = oct, year = {2021}, publisher = {ACM}, address = {New York, NY, USA}, }",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ae66a3e17d330f8e1979a5cb9e551894b882f6d1/images/Untitled%203.png",
 			"title": "Modular Politics: Toward a Governance Layer for Online Communities",
 			"id": "modular-politics",
