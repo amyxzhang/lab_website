@@ -53,7 +53,8 @@
 			"date": "March 2021",
 			"description": "Jim's recent work \"Goldilocks: Consistent Crowdsourced Scalar Annotations with Relative Uncertainty\" to appear in CSCW.&nbsp;",
 			"link": {
-				"link_url": "null"
+				"link_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf",
+				"link_text": "Link to preprint"
 			}
 		},
 		{
