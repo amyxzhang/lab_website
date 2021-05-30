@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9c63ac5fcfe69972e7e13b4ff8ea3e9b5aeda862/images/factual.png",
+			"title": "Towards a Unified Framework for the UX Design of News Credibility Tools",
+			"author": [
+				{
+					"author_name": "James Stomber"
+				},
+				{
+					"author_name": "Dilrukshi Gamage"
+				},
+				{
+					"author_name": "Bill Skeet"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "https://zivepstein.github.io/info-credibility-workshop/#overview",
+			"conference": "ICWSM",
+			"year": "2021",
+			"links": {
+				"pdf_url": "https://social.cs.washington.edu/papers/TowardsUnifedFrameworkUX.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0c76fb216a8d2ce3128cac94c7ef06eaa1c6d2c5/images/screen_yt.png",
 			"title": "Introducing Credibility Signals and Citations to Video-Sharing Platforms",
 			"author": [
