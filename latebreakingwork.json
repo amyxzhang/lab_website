@@ -24,7 +24,9 @@
 			"conference url": "https://zivepstein.github.io/info-credibility-workshop/#overview",
 			"conference": "ICSWSM",
 			"year": "2021",
-			"links": {}
+			"links": {
+				"pdf_url": "https://social.cs.washington.edu/papers/IntroductingCredibilitySignalsYouTube.pdf"
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8fdbc613c8aacf0027717f722225247a1829d6bd/images/lines.png",
