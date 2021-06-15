@@ -2,9 +2,9 @@
 	"news_item": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0cd5c5b92954aadb765f600a0c20cf3bd7d3dc4a/images/pasted-image-1623738000901.png",
-			"title": "Skyler wins the Outstanding Senior Award from the Allen School",
+			"title": "Skyler wins the Allen School Outstanding Senior Award",
 			"date": "June 14th, 2021",
-			"description": "Skyler is one of three undergraduates to receive the Outstanding Senior Award for his exceptional academic performance, significant contribution to the advancement of knowledge, and demonstrated leadership potential and good citizenship.",
+			"description": "Skyler is one of three undergraduates to receive the Outstanding Senior Award from the Allen School for his exceptional academic performance, significant contribution to the advancement of knowledge, and demonstrated leadership potential and good citizenship.",
 			"link": {
 				"link_url": "https://graduation2021.cs.washington.edu/index.php/awards/",
 				"link_text": "Link to the award page"
