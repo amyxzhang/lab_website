@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0cd5c5b92954aadb765f600a0c20cf3bd7d3dc4a/images/pasted-image-1623738000901.png",
+			"title": "Skyler wins the Outstanding Senior Award from the Allen School",
+			"date": "June 14th, 2021",
+			"description": "Skyler is one of three undergraduates to receive the Outstanding Senior Award for his exceptional academic performance, significant contribution to the advancement of knowledge, and demonstrated leadership potential and good citizenship.",
+			"link": {
+				"link_url": "https://graduation2021.cs.washington.edu/index.php/awards/",
+				"link_text": "Link to the award page"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c8a4a34b27e0d9215c680c037e34a5f6f7185bb7/images/Screen%20Shot%202021-05-17%20at%203.21.36%20PM.png",
 			"title": "Shagun will be giving a talk on 'Designing Transparent & Effective Content Moderation' at the UW DUB seminar this week",
 			"date": "May 19th, 2021",
