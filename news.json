@@ -11,6 +11,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0f761222cb8a533ca70e6979a5dbf40b445283ec/images/screen_yt.png",
+			"title": "Emelia and Renee present their work at an ICWSM workshop on misinformation",
+			"date": "June 7th, 2021",
+			"description": "Emelia and Renee presented their work on Youtube credibility signals in collaboration with Prof. Tanu Mitra and Prerna Juneja at the ICWSM workshop on \"Information Credibility &amp; Alternative Realities in Troubled Democracies\".",
+			"link": {
+				"link_url": "https://zivepstein.github.io/info-credibility-workshop/",
+				"link_text": "Workshop Link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c8a4a34b27e0d9215c680c037e34a5f6f7185bb7/images/Screen%20Shot%202021-05-17%20at%203.21.36%20PM.png",
 			"title": "Shagun will be giving a talk on 'Designing Transparent & Effective Content Moderation' at the UW DUB seminar this week",
 			"date": "May 19th, 2021",
