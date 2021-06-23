@@ -186,6 +186,17 @@
 				"github_url": "https://github.com/Detinator10"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@97d84dd2eecea72890b70adc3fa50c1fec371177/images/alice.png",
+			"name": "Alice Zhang",
+			"jobTitle": "intern",
+			"bio": "Alice Zhang is an undergraduate student at the University of Minnesota-Twin Cities studying computer science. Her research interests are in the intersection of human-computer interaction, education, and communication.",
+			"links": {
+				"website_url": "https://yjqian02.github.io/Personal-Website/",
+				"github_url": "https://github.com/yjqian02"
+			},
+			"@type": "Person"
 		}
 	]
 }
