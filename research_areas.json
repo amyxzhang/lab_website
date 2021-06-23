@@ -67,6 +67,11 @@
 					"project_url": "http://murmur.csail.mit.edu/",
 					"project_name": "Murmur",
 					"@type": "item"
+				},
+				{
+					"project_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf",
+					"project_name": "Goldilocks",
+					"@type": "item"
 				}
 			],
 			"author2": [
