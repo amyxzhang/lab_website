@@ -197,6 +197,16 @@
 				"github_url": "https://github.com/yjqian02"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ae8c1d01a7cb68978c80bd7cf538fa2718b53874/images/jesse.png",
+			"name": "Jesse Anderson",
+			"jobTitle": "intern",
+			"bio": "Jesse Anderson is an undergraduate student at the University of Maryland studying data science and geospatial informatics. She is interested in constructing data science tools to further socio-environmental justice, specifically in the domains of climate change, racial equity, and socio-economic inequality.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/jesseandersonumd/"
+			},
+			"@type": "Person"
 		}
 	]
 }
