@@ -1,6 +1,13 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@412a5e40840fd722da9c71d59279bd2b3017f9c8/images/interns.png",
+			"title": "Welcome Alice, Jesse, and Peipei to SFL",
+			"date": "July 1, 2021",
+			"description": "Alice, Jesse, and Peipei are joining for the summer to help out on research projects! Alice joins us on a CRA DREU summer internship on a project studying personal content moderation tools. Jesse will be working part-time on the digital juries project. And Peipei will be working part-time on studying misinformation harms.",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0cd5c5b92954aadb765f600a0c20cf3bd7d3dc4a/images/pasted-image-1623738000901.png",
 			"title": "Skyler wins the Allen School Outstanding Senior Award",
 			"date": "June 14th, 2021",
