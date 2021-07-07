@@ -207,6 +207,19 @@
 				"website_url": "https://www.linkedin.com/in/jesseandersonumd/"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
+			"name": "Peipei Nie",
+			"jobTitle": "visiting",
+			"bio": "Peipei Nie is a social computing researcher from the University of Michigan's School of Information interested in our information ecosystem&rsquo;s impact on democracy. Her research focuses on content moderation, mis/disinformation and trust, and news and civic engagement with applications to social media and online communities.",
+			"links": {
+				"website_url": "https://peipei-nie.github.io/",
+				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3b89k74AAAAJ",
+				"github_url": "https://github.com/peipei-nie",
+				"twitter_url": "https://twitter.com/PeipeiNie"
+			},
+			"@type": "Person"
 		}
 	]
 }
