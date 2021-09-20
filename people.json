@@ -220,6 +220,17 @@
 				"twitter_url": "https://twitter.com/PeipeiNie"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@af6bd65e571b1972863cf7376c5360dda5fb71a3/images/Picture1%202.jpg",
+			"name": "Simran Malhi",
+			"jobTitle": "undergrad",
+			"bio": "Simran Malhi is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, content moderation, misinformation, and the application of machine learning in those areas.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/malhi-simran/",
+				"github_url": "https://github.com/simranmalhi"
+			},
+			"@type": "Person"
 		}
 	]
 }
