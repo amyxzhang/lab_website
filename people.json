@@ -231,6 +231,15 @@
 				"github_url": "https://github.com/simranmalhi"
 			},
 			"@type": "Person"
+		},
+		{
+			"name": "Melissa Birchfield",
+			"jobTitle": "masters",
+			"bio": "Melissa Birchfield is a master's student at the University of Washington studying computer science. Her research interests include philanthropic informatics, explainable AI, and computer security and privacy, with a focus on data management within cross-sector collaboration against human trafficking.",
+			"links": {
+				"github_url": "https://github.com/meli365"
+			},
+			"@type": "Person"
 		}
 	]
 }
