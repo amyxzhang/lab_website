@@ -239,7 +239,8 @@
 			"links": {
 				"github_url": "https://github.com/meli365"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@54efea3a3a72070bfd3630c753b34a7a638b4d02/images/mbirchfield-headshot.png"
 		}
 	]
 }
