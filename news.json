@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6bbc7fb42f753e23e592e2b064f8ad695f927b10/images/convergence%20NSF%20Web%20350x220.jpeg",
+			"title": "We received two NSF Convergence Accelerator grants on combating misinformation",
+			"date": "Sept, 2021",
+			"description": "One project will be on using digital juries to develop more legitimate processes for determining judgements on difficult misinformation content moderation cases, led by UMSI. A second project will build tools to support laypeople in having conversations and building trust in order to correct misinformation in their local networks.",
+			"link": {
+				"link_url": "https://www.nsf.gov/news/special_reports/announcements/092221.jsp",
+				"link_text": "NSF announcement"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@412a5e40840fd722da9c71d59279bd2b3017f9c8/images/interns.png",
 			"title": "Welcome Alice, Jesse, and Peipei to SFL",
 			"date": "July 1, 2021",
