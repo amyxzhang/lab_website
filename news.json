@@ -1,9 +1,19 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@533507af38c79d2b45a03e96e4aee8d72862db1d/images/0413_cybersecurity_tnd.jpeg",
+			"title": "We received an NSF grant on abuse prevention in end-to-end encrypted environments",
+			"date": "Sept 2021",
+			"description": "In collaboration with Cornell Tech and Cornell, we will be working over the next several years on community-based moderation tools to combat abuse in end-to-end encrypted environments, such as Signal, WhatsApp, etc., where little platform oversight and moderation is possible.",
+			"link": {
+				"link_url": "https://news.cornell.edu/stories/2021/09/project-aims-prevent-abuse-encrypted-communication",
+				"link_text": "Cornell announcement"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6bbc7fb42f753e23e592e2b064f8ad695f927b10/images/convergence%20NSF%20Web%20350x220.jpeg",
 			"title": "We received two NSF Convergence Accelerator grants on combating misinformation",
-			"date": "Sept, 2021",
+			"date": "Sept 2021",
 			"description": "One project will be on using digital juries to develop more legitimate processes for determining judgements on difficult misinformation content moderation cases, led by UMSI. A second project will build tools to support laypeople in having conversations and building trust in order to correct misinformation in their local networks.",
 			"link": {
 				"link_url": "https://www.nsf.gov/news/special_reports/announcements/092221.jsp",
