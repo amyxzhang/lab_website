@@ -1,6 +1,13 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9c38208b69eae4b14446937b55f02841cf14f2c4/images/CenterInformedPublic_UW.png",
+			"title": "We received a grant from the UW CIP on a tool for correcting misinformation",
+			"date": "Oct 2021",
+			"description": "In collaboration with Franzi Roesner at UW CSE, we will be kicking off work on a tool for correcting misinformation on Twitter, thanks to a grant from UW CIP.",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@533507af38c79d2b45a03e96e4aee8d72862db1d/images/0413_cybersecurity_tnd.jpeg",
 			"title": "We received an NSF grant on abuse prevention in end-to-end encrypted environments",
 			"date": "Sept 2021",
