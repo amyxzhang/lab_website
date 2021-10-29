@@ -95,6 +95,35 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
+			"title": "PolicyKit: Building Governance in Online Communities",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Grant Hugh"
+				},
+				{
+					"author_name": "Michael Bernstein"
+				}
+			],
+			"conference url": "https://uist.acm.org/uist2020/",
+			"conference": "UIST",
+			"year": "2020",
+			"abstract": "The software behind online community platforms encodes a governance model that represents a strikingly narrow set of governance possibilities focused on moderators and administrators. When online communities desire other forms of government, such as ones that take many members' opinions into account or that distribute power in non-trivial ways, communities must resort to laborious manual effort. In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute. Actions that can be governed by policies encompass everyday activities such as posting or moderating a message, but actions can also encompass changes to the policies themselves, enabling the evolution of governance over time. We demonstrate the expressivity of PolicyKit through implementations of governance models such as a random jury deliberation, a multi-stage caucus, a reputation system, and a promotion procedure inspired by Wikipedia's Request for Adminship (RfA) process.",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/policykit.pdf",
+				"website_url": "https://policykit.org/",
+				"code_url": "https://github.com/amyxzhang/policykit",
+				"video_url": "https://player.vimeo.com/video/446531759"
+			},
+			"id": "policykit-building-governance-in-online-communities",
+			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
+			"short_abstract": "<p>We present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms.</p>",
+			"bibtex": "@inproceedings{10.1145/3379337.3415858,\nauthor = {Zhang, Amy X. and Hugh, Grant and Bernstein, Michael S.},\ntitle = {PolicyKit: Building Governance in Online Communities},\nyear = {2020},\nisbn = {9781450375146},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3379337.3415858},\nbooktitle = {Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology},\npages = {365–378},\nnumpages = {14}\n}"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a35f441c581d69d56ba2d1ca6b575730c82fa9a2/images/communityclick.png",
 			"title": "CommunityClick: Capturing and Reporting Community Feedback from Town Halls to Improve Inclusivity",
 			"id": "communityclick",
@@ -157,35 +186,6 @@
 				"website_url": "http://wikum.org/",
 				"code_url": "https://github.com/amyxzhang/wikum"
 			}
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ba8300ef7066bf97455122b08b635cc1074f32a/images/policykit.gif",
-			"title": "PolicyKit: Building Governance in Online Communities",
-			"author": [
-				{
-					"author_name": "Amy Zhang"
-				},
-				{
-					"author_name": "Grant Hugh"
-				},
-				{
-					"author_name": "Michael Bernstein"
-				}
-			],
-			"conference url": "https://uist.acm.org/uist2020/",
-			"conference": "UIST",
-			"year": "2020",
-			"abstract": "The software behind online community platforms encodes a governance model that represents a strikingly narrow set of governance possibilities focused on moderators and administrators. When online communities desire other forms of government, such as ones that take many members' opinions into account or that distribute power in non-trivial ways, communities must resort to laborious manual effort. In this paper, we present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms. We draw on political science theory to encode community governance into policies, or short imperative functions that specify a procedure for determining whether a user-initiated action can execute. Actions that can be governed by policies encompass everyday activities such as posting or moderating a message, but actions can also encompass changes to the policies themselves, enabling the evolution of governance over time. We demonstrate the expressivity of PolicyKit through implementations of governance models such as a random jury deliberation, a multi-stage caucus, a reputation system, and a promotion procedure inspired by Wikipedia's Request for Adminship (RfA) process.",
-			"links": {
-				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/policykit.pdf",
-				"website_url": "https://policykit.org/",
-				"code_url": "https://github.com/amyxzhang/policykit",
-				"video_url": "https://player.vimeo.com/video/446531759"
-			},
-			"id": "policykit-building-governance-in-online-communities",
-			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
-			"short_abstract": "<p>We present PolicyKit, a software infrastructure that empowers online community members to concisely author a wide range of governance procedures and automatically carry out those procedures on their home platforms.</p>",
-			"bibtex": "@inproceedings{10.1145/3379337.3415858,\nauthor = {Zhang, Amy X. and Hugh, Grant and Bernstein, Michael S.},\ntitle = {PolicyKit: Building Governance in Online Communities},\nyear = {2020},\nisbn = {9781450375146},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3379337.3415858},\nbooktitle = {Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology},\npages = {365–378},\nnumpages = {14}\n}"
 		},
 		{
 			"title": "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria",
