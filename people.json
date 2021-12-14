@@ -57,6 +57,18 @@
 			"bio": "Ruotong Wang is a first year Ph.D. student at University of Washington's Allen School of Computer Science and Engineering. She is interested in understanding and developing sociotechnical systems that facilitate communication and collaboration among diverse community members.&nbsp;<br />"
 		},
 		{
+			"name": "Galen Weld",
+			"jobTitle": "phd",
+			"bio": "Galen Weld is a PhD student whose work focuses primarily on large-scale analyses of social media platforms' governance and content moderation strategies, with a particular focus on reddit.&nbsp;",
+			"links": {
+				"website_url": "https://www.galenweld.com",
+				"scholar_url": "https://www.semanticscholar.org/author/Galen-Cassebeer-Weld/49687960",
+				"github_url": "http://github.com/galenweld",
+				"twitter_url": "https://www.twitter.com/galenweld"
+			},
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
