@@ -70,6 +70,18 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3697dc8a51230af4fafc065877dc65e8f9713770/images/galen.jpg"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@229785752fd0a46bd19eb162ecc7e13e3495613b/images/kjfeng.jpeg",
+			"name": "Kevin Feng",
+			"jobTitle": "phd",
+			"bio": "Kevin is a PhD student in Human Centered Design &amp; Engineering at the University of Washington. His is interested in systems and tools that foster collaboration between diverse stakeholders, particularly within UX design and machine learning workflows.",
+			"links": {
+				"website_url": "https://kjfeng.me",
+				"github_url": "https://github.com/kjfeng",
+				"twitter_url": "https://twitter.com/kjfeng_"
+			},
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
