@@ -1,6 +1,80 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8795d619e3e68fce6fa0dd7fc9598d036f524b67/images/pano-mock.png",
+			"title": "Designing for Engaging with News using Moral Framing towards Bridging Ideological Divides",
+			"id": "pano-moral-framing",
+			"author": [
+				{
+					"author_name": "Jessica Wang"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://group.acm.org/conferences/group22/",
+			"conference": "GROUP",
+			"year": "2022",
+			"short_abstract": "<p>In this paper, we present our work designing systems for addressing ideological division through educating U.S. news consumers to engage using a framework of fundamental human values known as Moral Foundations. We design and implement a series of new features that encourage users to challenge their understanding of opposing views, including annotation of moral frames in news articles, discussion of those frames via inline comments, and recommendations based on relevant moral frames.</p>",
+			"abstract": "Society is showing signs of strong ideological polarization. When pushed to seek perspectives different from their own, people often reject diverse ideas or find them unfathomable. Work has shown that framing controversial issues using the values of the audience can improve understanding of opposing views. In this paper, we present our work designing systems for addressing ideological division through educating U.S. news consumers to engage using a framework of fundamental human values known as Moral Foundations. We design and implement a series of new features that encourage users to challenge their understanding of opposing views, including annotation of moral frames in news articles, discussion of those frames via inline comments, and recommendations based on relevant moral frames. We describe two versions of features---the first covering a suite of ways to interact with moral framing in news, and the second tailored towards collaborative annotation and discussion. We conduct a field evaluation of each design iteration with 71 participants in total over a period of 6-8 days, finding evidence suggesting users learned to re-frame their discourse in moral values of the opposing side. Our work provides several design considerations for building systems to engage with moral framing.",
+			"bibtex": "@article{10.1145/3492861,\nauthor = {Wang, Jessica Z. and Zhang, Amy X. and Karger, David R.},\ntitle = {Designing for Engaging with News Using Moral Framing towards Bridging Ideological Divides},\nyear = {2022},\nissue_date = {January 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {6},\nnumber = {GROUP},\nurl = {https://doi.org/10.1145/3492861},\ndoi = {10.1145/3492861},\nabstract = {Society is showing signs of strong ideological polarization. When pushed to seek perspectives different from their own, people often reject diverse ideas or find them unfathomable. Work has shown that framing controversial issues using the values of the audience can improve understanding of opposing views. In this paper, we present our work designing systems for addressing ideological division through educating U.S. news consumers to engage using a framework of fundamental human values known as Moral Foundations. We design and implement a series of new features that encourage users to challenge their understanding of opposing views, including annotation of moral frames in news articles, discussion of those frames via inline comments, and recommendations based on relevant moral frames. We describe two versions of features---the first covering a suite of ways to interact with moral framing in news, and the second tailored towards collaborative annotation and discussion. We conduct a field evaluation of each design iteration with 71 participants in total over a period of 6-8 days, finding evidence suggesting users learned to re-frame their discourse in moral values of the opposing side. Our work provides several design considerations for building systems to engage with moral framing.},\njournal = {Proc. ACM Hum.-Comput. Interact.},\nmonth = {jan},\narticleno = {42},\nnumpages = {23},\nkeywords = {social annotation, moral framing, discussion, online news}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2101.11231.pdf",
+				"website_url": "http://pano.csail.mit.edu/",
+				"code_url": "https://github.com/amyxzhang/pano-server"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5fb6f19e2a861dd4b28ceb8addd5a094b37e3fb7/images/Figure_1_from_word.png",
+			"title": "Vaccine hesitancy in online spaces: A scoping review of the research literature, 2000-2020",
+			"id": "vaccine-hesitancy",
+			"author": [
+				{
+					"author_name": "Timothy Neff"
+				},
+				{
+					"author_name": "Jonas Kaiser"
+				},
+				{
+					"author_name": "Irene Pasquetto"
+				},
+				{
+					"author_name": "Dariusz Jemielniak"
+				},
+				{
+					"author_name": "Dimitra Dimitrakopoulou"
+				},
+				{
+					"author_name": "Siobhan Grayson"
+				},
+				{
+					"author_name": "Natalie Gyenes"
+				},
+				{
+					"author_name": "Paola Ricaurte"
+				},
+				{
+					"author_name": "Javier Ruiz-Soler"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "HKS Misinformation Review",
+			"conference url": "https://misinforeview.hks.harvard.edu/",
+			"year": "2021",
+			"short_abstract": "<p>We review 100 articles published from 2000 to early 2020 that research aspects of vaccine hesitancy in online communication spaces and identify several gaps in the literature prior to the COVID-19 pandemic. These gaps relate to five areas: disciplinary focus; specific vaccine, condition, or disease focus; stakeholders and implications; research methodology; and geographical coverage.</p>",
+			"abstract": "We review 100 articles published from 2000 to early 2020 that research aspects of vaccine hesitancy in online communication spaces and identify several gaps in the literature prior to the COVID-19 pandemic. These gaps relate to five areas: disciplinary focus; specific vaccine, condition, or disease focus; stakeholders and implications; research methodology; and geographical coverage. Our findings show that we entered the global pandemic vaccination effort without a thorough understanding of how levels of confidence and hesitancy might differ across conditions and vaccines, geographical areas, and platforms, or how they might change over time. In addition, little was known about the role of platforms, platforms’ politics, and specific sociotechnical affordances in the spread of vaccine hesitancy and the associated issue of misinformation online.",
+			"bibtex": "@article{neff2021vaccine,\n  title={Vaccine hesitancy in online spaces: A scoping review of the research literature, 2000-2020},\n  author={Neff, Timothy and Kaiser, Jonas and Pasquetto, Irene and Jemielniak, Dariusz and Dimitrakopoulou, Dimitra and Grayson, Siobhan and Gyenes, Natalie and Ricaurte, Paola and Ruiz-Soler, Javier and Zhang, Amy},\n  journal={Harvard Kennedy School Misinformation Review},\n  year={2021}\n}",
+			"links": {
+				"pdf_url": "https://misinforeview.hks.harvard.edu/article/vaccine-hesitancy-in-online-spaces-a-scoping-review-of-the-research-literature-2000-2020/"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e7dfda3386a5cc35eeff41e8248eaaad8e89453d/images/scale.png",
 			"title": "Goldilocks: Consistent Crowdsourced Scalar Annotations",
 			"id": "goldilocks",
