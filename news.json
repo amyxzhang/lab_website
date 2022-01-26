@@ -1,6 +1,13 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a401fff87b856bef121c5b8a64d97691166a7572/images/Meta_Logo.jpeg",
+			"title": "We received a grant from Meta to build tools for triaging misinformation",
+			"date": "Jan 2022",
+			"description": "SFL received a grant from Meta on a project to build tools for understanding and triaging the different degrees of misinformation harms.",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fff4e2d73fe750fa4d5dc6fc5cb04d7672e8f0f5/images/cropped-cscwfacebook_header.png",
 			"title": "SFL at CSCW!",
 			"date": "Oct 2021",
