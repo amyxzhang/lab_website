@@ -1,7 +1,7 @@
 {
 	"news_item": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a401fff87b856bef121c5b8a64d97691166a7572/images/Meta_Logo.jpeg",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@479c479e81f87a5496d743e020a11e9c5d9e6783/images/meta-facebook-rebranding-name-news_dezeen_2364_col_hero2.jpeg",
 			"title": "We received a grant from Meta to build tools for triaging misinformation",
 			"date": "Jan 2022",
 			"description": "SFL received a grant from Meta on a project to build tools for understanding and triaging the different degrees of misinformation harms.",
@@ -15,6 +15,16 @@
 			"link": {
 				"link_url": "https://cscw.acm.org/",
 				"link_text": "CSCW Website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba4ba24b2219ecf315de3a83b9febf5fad07c489/images/download%20(5).png",
+			"title": "We received a grant from AI2 to explore collaborative literature review",
+			"date": "Oct 2021",
+			"description": "In collaboration with the Semantic Scholar research team at the Allen Institute for AI (AI2), we will be working on collaborative tools to support teams with discovering academic literature.",
+			"link": {
+				"link_url": "https://research.semanticscholar.org/",
+				"link_text": "Semantic Scholar"
 			}
 		},
 		{
