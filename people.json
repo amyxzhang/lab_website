@@ -266,6 +266,18 @@
 			},
 			"@type": "Person",
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@54efea3a3a72070bfd3630c753b34a7a638b4d02/images/mbirchfield-headshot.png"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fe3a35759a4bd67aba01a50c506e3e7e0e59d5e7/images/savanna.jpg",
+			"name": "Savanna Yee",
+			"jobTitle": "masters",
+			"bio": "Savanna is a master's student at the University of Washington studying computer science. Her research interests include human-computer interaction, security and privacy, mental health and wellbeing, and identity in online communities .",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/savanna-yee/",
+				"scholar_url": "https://scholar.google.com/citations?hl=en&user=I30LjUIAAAAJ",
+				"github_url": "https://github.com/savannanoh"
+			},
+			"@type": "Person"
 		}
 	]
 }
