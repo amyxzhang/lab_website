@@ -287,7 +287,8 @@
 				"website_url": "https://andre-ye.github.io",
 				"github_url": "https://github.com/andre-ye"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg"
 		}
 	]
 }
