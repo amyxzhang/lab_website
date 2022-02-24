@@ -1,8 +1,18 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@37a365bebfe8182cf88dab45b7f596896722a7d3/images/download%20(1).jpeg",
+			"title": "We received a gift from the C2PA to conduct research on media provenance indicators",
+			"date": "Feb 2022",
+			"description": "The C2PA (Coalition for Content Provenance and Authenticity) is a coalition of industry and non-profit organizations coming together to develop technical standards for media provenance. We are collaborating with the C2PA on UX research to understand how media provenance indicators on social media impact how people interact with and trust media.",
+			"link": {
+				"link_url": "https://c2pa.org/",
+				"link_text": "C2PA Website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@479c479e81f87a5496d743e020a11e9c5d9e6783/images/meta-facebook-rebranding-name-news_dezeen_2364_col_hero2.jpeg",
-			"title": "We received a grant from Meta to build tools for triaging misinformation",
+			"title": "We received a gift from Meta to build tools for triaging misinformation",
 			"date": "Jan 2022",
 			"description": "SFL received a grant from Meta on a project to build tools for understanding and triaging the different degrees of misinformation harms.",
 			"link": {}
@@ -19,7 +29,7 @@
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba4ba24b2219ecf315de3a83b9febf5fad07c489/images/download%20(5).png",
-			"title": "We received a grant from AI2 to explore collaborative literature review",
+			"title": "We received a gift from AI2 to explore collaborative literature review",
 			"date": "Oct 2021",
 			"description": "In collaboration with the Semantic Scholar research team at the Allen Institute for AI (AI2), we will be working on collaborative tools to support teams with discovering academic literature.",
 			"link": {
