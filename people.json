@@ -278,6 +278,16 @@
 				"github_url": "https://github.com/savannanoh"
 			},
 			"@type": "Person"
+		},
+		{
+			"name": "Andre Ye",
+			"jobTitle": "undergrad",
+			"bio": "Andre Ye is an undergraduate student at the University of Washington studying computer science and philosophy. His primary research interest is in building more robust and responsible machine &amp; deep learning systems.",
+			"links": {
+				"website_url": "https://andre-ye.github.io",
+				"github_url": "https://github.com/andre-ye"
+			},
+			"@type": "Person"
 		}
 	]
 }
