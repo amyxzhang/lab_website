@@ -1,6 +1,37 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e832f7c62b25cde38d8103b7b447e1383cff19a4/images/filterlist.jpg",
+			"title": "Designing Word Filter Tools for Creator-led Comment Moderation.",
+			"id": "filter-buddy",
+			"author": [
+				{
+					"author_name": "Shagun Jhaver"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Detlef Knauss"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2022.acm.org/",
+			"conference": "CHI",
+			"year": "2022",
+			"short_abstract": "<p>We present FilterBuddy, a system that supports content creators in authoring word filters to combat harassment via comments on social media. Creators can author filters from scratch or build from pre-made filter lists, as well as organize their filters and visualize what comments are captured by them over time.</p>",
+			"abstract": "Online social platforms centered around content creators often allow comments on content, where creators can then moderate the comments they receive. As creators can face overwhelming numbers of comments, with some of them harassing or hateful, platforms typically provide tools such as word filters for creators to automate aspects of moderation. From needfinding interviews with 19 creators about how they use existing tools, we found that they struggled with writing good filters as well as organizing and revising their filters, due to the difficulty of determining what the filters actually catch. To address these issues, we present Filter- Buddy, a system that supports creators in authoring new filters or building from pre-made ones, as well as organizing their filters and visualizing what comments are captured by them over time. We conducted an early-stage evaluation of FilterBuddy with YouTube creators, finding that participants see FilterBuddy not just as a mod- eration tool, but also a means to organize their comments to better understand their audiences.",
+			"bibtex": "@inproceedings{Jhaver:2022FilterBuddy,\n\tauthor = {Jhaver, Shagun and Chen, Quan Ze and Knauss,Detlef and Zhang, Amy},\n\ttitle = {Designing Word Filter Tools for Creator-led Comment Moderation},\n\tyear = {2022},\n\tpublisher = {Association for Computing Machinery},\n\taddress = {New York, NY, USA},\n\turl = {https://doi.org/10.1145/3491102.3517505},\n\tdoi = {10.1145/3491102.3517505},\n\tlocation = {New Orleans, LA, USA},\n\tseries = {CHI '22}\n}",
+			"links": {
+				"pdf_url": "https://shagunjhaver.com/research/articles/jhaver-2022-filterbuddy/jhaver-2022-filterbuddy.pdf",
+				"website_url": "http://filterbuddy.org/",
+				"code_url": "https://github.com/social-Futures-Lab/FilterBuddy/"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d19187357a8937f408a12369ef713a1084b8c1a0/images/Thumbnail%20of%20Comparing%20the%20Perceived%20Legitimacy%20of%20Content%20Moderation%20Processes%20Contractors,%20Algorithms,%20Expert%20Pan%20copy.jpg",
 			"title": "Comparing the Perceived Legitimacy of Content Moderation Processes: Contractors, Algorithms, Expert Panels, and Digital Juries",
 			"id": "perceived-legitimacy",
