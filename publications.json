@@ -1,6 +1,36 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3af8814c54cd34fe5bdba9b0c92a4fcfbd00e301/images/FOpU1YAVQA810Zl.jpeg",
+			"title": "CiteRead: Integrating Localized Citation Contexts into Scientific Paper Reading",
+			"id": "citeread",
+			"author": [
+				{
+					"author_name": "Napol Rachatasumrit"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Dan Weld"
+				}
+			],
+			"conference_full_name": "ACM Conference on Intelligent User Interfaces",
+			"conference url": "https://iui.acm.org/2022/",
+			"conference": "IUI",
+			"year": "2022",
+			"short_abstract": "<p>We introduce a novel paper reading experience into a tool called CiteRead that integrates relevant information about follow-on work directly into a paper, allowing readers to learn about newer papers and see how a paper is discussed by its citing papers in the context of the reference paper.</p>",
+			"abstract": "When reading a scholarly paper, scientists oftentimes wish to understand how follow-on work has built on or engages with what they are reading. While a paper itself can only discuss prior work, some scientific search engines can provide a list of all subsequent citing papers; unfortunately, they are undifferentiated and disconnected from the contents of the original reference paper. In this work, we introduce a novel paper reading experience that integrates relevant information about follow-on work directly into a paper, allowing readers to learn about newer papers and see how a paper is discussed by its citing papers in the context of the reference paper. We built a tool, called CiteRead, that implements the following three contributions: 1) automated techniques for selecting important citing papers, building on results from a formative study we conducted, 2) an automated process for localizing commentary provided by citing papers to a place in the reference paper, and 3) an interactive experience that allows readers to seamlessly alternate between the reference paper and information from citing papers (e.g., citation sentences), placed in the margins. Based on a user study with 12 scientists, we found that in comparison to having just a list of citing papers and their citation sentences, the use of CiteRead while reading allows for better comprehension and retention of information about follow-on work.",
+			"bibtex": "@inproceedings{10.1145/3490099.3511162,\nauthor = {Rachatasumrit, Napol and Bragg, Jonathan and Zhang, Amy X. and Weld, Daniel S},\ntitle = {CiteRead: Integrating Localized Citation Contexts into Scientific Paper Reading},\nyear = {2022},\nisbn = {9781450391443},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3490099.3511162},\ndoi = {10.1145/3490099.3511162},\nbooktitle = {27th International Conference on Intelligent User Interfaces},\npages = {707–719},\nnumpages = {13},\nkeywords = {citances, interactive documents, scientific papers, citations, reading interfaces, annotations},\nlocation = {Helsinki, Finland},\nseries = {IUI '22}\n}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3490099.3511162",
+				"video_url": "https://www.youtube.com/watch?v=WjltByXFKAM"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e832f7c62b25cde38d8103b7b447e1383cff19a4/images/filterlist.jpg",
 			"title": "Designing Word Filter Tools for Creator-led Comment Moderation",
 			"id": "filter-buddy",
