@@ -4,10 +4,10 @@
 	<title>Social Futures Lab - UW CSE</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="The Social Futures Lab is based out of the Allen School of Computer Science & Engineering at University of Washington. We are reimagining social and collaborative systems to empower people and improve society.">
-	
+
 	<meta property="og:title" content="Social Futures Lab">
 	<meta property="og:image" content="cover.jpg">
-	
+
 	<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&family=Roboto+Mono:ital,wght@0,500;1,300&display=swap" rel="stylesheet">
 
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -16,16 +16,21 @@
 	<script src="js/mavo.es5.min.js"></script>
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon"> </head>
+	<link rel="stylesheet" type="text/css" href="https://unpkg.com/cursor-chat/dist/style.css"/>
 
 <body>
+	<!-- cursor chat -->
+	<div id="cursor-chat-layer">
+	  <input type="text" id="cursor-chat-box">
+	</div>
 
 	<!-- top nav -->
 	<div class="container-fluid">
 		<div class="row justify-content-md-center">
-			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5"> 
+			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
 				<a href="index.html"><img src="img/logo_long.png" class="logo"></a>
 			</div>
-			
+
 			<div class="col-md-2 col-lg-2"></div>
 
 			<div class="col-xs-12 col-sm-7 col-md-5 col-lg-5 menu">
@@ -42,11 +47,12 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">
 				<p class="title">The <b>Social Futures Lab</b> is based out of the <a href="http://cs.uw.edu/">Allen School of Computer Science & Engineering</a> at University of Washington. We are reimagining social and collaborative systems to empower people and improve society.</p>
+				<p class="title" style="font-size: 16px">💡 Tip: on desktop, you can chat with other visitors of this page in real time by pressing "/". Press "Esc" to clear your message. <a href="https://github.com/jackyzha0/cursor-chat">Credits</a>.</p>
 			</div>
 		</div>
 
 		<hr />
-		
+
 		<!-- Top section -->
 		<div class="row">
 
@@ -64,7 +70,7 @@
 							</a>
 
 								<meta property="id" content="[name]">
-								
+
 								<p property="jobTitle">
 									<select>
 										<option value="pi">Assistant Professor</option>
@@ -78,22 +84,22 @@
 								</p>
 						</article>
 					</div>
-								
+
 					<div hidden>
 						<datalist id="memberList">
 							<option property="person" mv-multiple mv-value="name"></option>
 						</datalist>
 					</div>
 				</div>
-					
+
 			</div>
 
 			<div class="col-xs-12 col-sm-1 col-md-1 col-lg-1"></div>
-				
+
 			<div class="col-xs-12 col-sm-4 col-md-4" style="float: right">
 				<!-- News -->
 				<h2>News</h2>
-		
+
 				<div mv-bar="none" mv-app="news" mv-source="https://github.com/amyxzhang/lab_website">
 					<span property="news_item" mv-multiple mv-if="$index < 10">
 						<span property="date">Date</span>:
@@ -106,36 +112,36 @@
 						<br /><br />
 					</span>
 				</div>
-				
-				
-				
+
+
+
 			</div>
 		</div>
-	
+
 		<hr />
 
 		<!-- Bottom section -->
 		<div class="row">
 			<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 				<!-- Publications -->
-				<div id="papers" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> 
+				<div id="papers" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<h2>Latest Publications <a href="research.html">(see all)</a></h2>
 				</div>
-					
+
 				<div mv-bar="none" mv-app="publications" mv-source="https://github.com/amyxzhang/lab_website" mv-permissions="read">
 					<article property="paper" mv-multiple mv-if="$index < 10">
 						<div class="row">
 							<!-- Thumbnail -->
-							<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"> 
+							<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
 								<img class="img-responsive center-block" property="image" src="null" alt="Publication thumbnail">
 							</div>
-							
+
 							<!-- Paper details -->
 							<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 								<a href="pub_details.html?id=[id]"></a>
 									<h3 property="title">Paper Title</h3>
 								</a>
-								
+
 								<p><span property="author" mv-multiple>
 									<meta property="authorData" mv-value="get(people.member, 'id=' & author_name)" />
 									<img src="[authorData.image]" alt="" mv-if="authorData != ''">
@@ -147,36 +153,36 @@
 										<span property="conference">Conference</span>
 										<span property="year">Year</span>
 									</a>
-									
+
 									<span class="btn btn-xs btn-warning" property="award">Award</span>
 								</p>
-									
+
 								<span property="links">
 									<a href="null" property="pdf_url" class="button">
 										<img src="img/pdf.png"><span>PDF</span>
 									</a>
-									
+
 									<a href="null" property="website_url" class="button">
 										<img src="img/earth4.png"><span> Website</span>
 									</a>
-									
+
 									<a href="null" property="code_url" class="button">
 										<img src="img/github5.png"><span> Code</span>
 									</a>
-									
+
 									<a href="null" property="data_url" class="button">
 										<img src="img/data.png"><span> Data</span>
 									</a>
-									
-									
+
+
 									<a href="null" property="slides_url" class="button">
 										<img src="img/slides.png"><span> Slides</span>
 									</a>
-									
+
 									<a href="null" property="video_url" class="button">
 										<img src="img/youtube.jpg"><span> Video</span>
 									</a>
-									
+
 									<a href="null" property="talk_url" class="button">
 										<img src="img/youtube.jpg"><span> Talk</span>
 									</a>
@@ -185,25 +191,25 @@
 
 						</div>
 					</article>
-							
+
 				</div>
-							
+
 			</div>
 
 			<div class="col-xs-12 col-sm-1 col-md-1 col-lg-1"></div>
-				
+
 			<div class="col-xs-12 col-sm-4 col-md-4" style="float: right">
-				
+
 				<!-- Courses -->
 				<h2>Courses</h2>
-								
+
 				<ul>
 					<li><a href="https://courses.cs.washington.edu/courses/cse440/">CSE 440: Introduction to HCI</a><br />Winter 2020</li>
 					<li><a href="#">CSE 599: Social Computing Research</a><br />Spring 2021</li>
 				</ul>
-				
 
-					<!-- <BR> 
+
+					<!-- <BR>
 					<span class="mini-header">
 						<h3>Tweets By @SocFuturesLab</h3>
 					</span> <a class="twitter-timeline" width="300" height="400" data-chrome="nofooter noheader noborder transparent" data-border-color="#ffffff" href="https://twitter.com/SocFuturesLab" data-widget-id="515768611978223616">
@@ -219,7 +225,7 @@
 						fjs.parentNode.insertBefore(js, fjs);
 					}
 				}(document, "script", "twitter-wjs");
-				</script> 
+				</script>
 				<P></P>  -->
 			</div>
 		</div>
@@ -235,6 +241,7 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script src="https://unpkg.com/cursor-chat"></script>
 
 </body>
 </html>
