@@ -3,6 +3,7 @@
 <head>
 	<title>Social Futures Lab - UW CSE</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="UTF-8">
 	<meta name="description" content="The Social Futures Lab is based out of the Allen School of Computer Science & Engineering at University of Washington. We are reimagining social and collaborative systems to empower people and improve society.">
 
 	<meta property="og:title" content="Social Futures Lab">
@@ -46,8 +47,33 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">
-				<p class="title">The <b>Social Futures Lab</b> is based out of the <a href="http://cs.uw.edu/">Allen School of Computer Science & Engineering</a> at University of Washington. We are reimagining social and collaborative systems to empower people and improve society.</p>
-				<p class="title" style="font-size: 16px">💡 Tip: on desktop, you can chat with other visitors of this page in real time by pressing "/". Press "Esc" to clear your message. <a href="https://github.com/jackyzha0/cursor-chat">Credits</a>.</p>
+				<p class="title">The <b>Social Futures Lab</b> is based out of the <a href="http://cs.uw.edu/">Allen School of Computer Science & Engineering</a> at University of Washington. We are reimagining social and collaborative systems to empower people and improve society. <button type="button" class="btn btn-link" data-toggle="modal" data-target="#modalLong">
+				  <img src="./images/cursor-chat-btn.svg" />
+				</button></p>
+
+				<!-- Modal -->
+				<div class="modal fade" id="modalLong" tabindex="-1" role="dialog" aria-labelledby="modalLongTitle" aria-hidden="true">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+							<div class="modal-header">
+				        <h3 class="modal-title" style="font-family: 'Roboto Mono', monospace; color: black">Why do I sometimes see other cursors?</h3>
+				        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				          <span aria-hidden="true">&times;</span>
+				        </button>
+				      </div>
+				      <div class="modal-body">
+				        <p>If you on desktop, you can chat with other visitors of this site's homepage in real time by pressing <code>/</code>. Other visitors can see your message and respond with their own messages! Press <code>Esc</code> to clear your message.</p>
+
+								<img src="./images/cursor-chat.gif" style="width: 100%; margin-bottom: 5px"/>
+
+								<p><a href="https://github.com/jackyzha0/cursor-chat">Credits</a></p>
+
+				      </div>
+
+				    </div>
+				  </div>
+				</div>
+
 			</div>
 		</div>
 

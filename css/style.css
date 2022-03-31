@@ -53,7 +53,7 @@ body {
 hr {
 	margin: 1em;
 }
- 
+
 
 
 /* Navigation */
@@ -278,4 +278,19 @@ li {
     border-color: #f8f9fa;
     border: 1px #cccccc solid;
     padding: 3px 6px;
+}
+
+.btn-link {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.modal {
+  text-align: left;
+  margin: 5rem;
+}
+
+.modal-header {
+  display: -webkit-box;
+  -webkit-box-pack: justify;
 }
