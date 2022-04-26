@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b923af35e185a125e4ed7df643dffc0ad1413459/images/simona2.jpg",
+			"title": "Congrats to Simona for being named to the Husky 100",
+			"date": "April 2022",
+			"description": "Undergrad RA Simona Liao was named to the Husky 100, which recognizes 100 UW undergraduate and graduate students who are making the most of their time at the UW!&nbsp;",
+			"link": {
+				"link_url": "https://www.washington.edu/husky100/",
+				"link_text": "Husky 100"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@37a365bebfe8182cf88dab45b7f596896722a7d3/images/download%20(1).jpeg",
 			"title": "We received a gift from the C2PA to conduct research on media provenance indicators",
 			"date": "Feb 2022",
