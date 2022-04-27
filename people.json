@@ -289,6 +289,17 @@
 			},
 			"@type": "Person",
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@defdf2abf1c8c871062e531a6dcba6e50211c557/images/Simona.jpg",
+			"name": "Simona Liao ",
+			"jobTitle": "undergrad",
+			"bio": "Simona Liao (she/they) is an undergraduate student at the University of Washington studying computer science and GWSS (Gender, Women, and Sexuality Studies). She is interested in Virtual Reality platforms and communities, and how to design them against harassments.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
+				"github_url": "https://github.com/SimonaLiao"
+			},
+			"@type": "Person"
 		}
 	]
 }
