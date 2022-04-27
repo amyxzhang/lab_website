@@ -1,6 +1,25 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9cdc8f8b61adbf29da93a0d359381235322911ee/images/Screen%20Shot%202022-04-27%20at%209.49.27%20AM.png",
+			"title": "From Handoffs to Co-Creation: Deepening Collaboration between Designers, Developers, and Data Science Workers in UX Design",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "https://chi2022.acm.org/",
+			"conference": "CHI",
+			"year": "2022",
+			"links": {
+				"pdf_url": "https://social.cs.washington.edu/papers/handoffs-to-cocreation.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9c63ac5fcfe69972e7e13b4ff8ea3e9b5aeda862/images/factual.png",
 			"title": "Towards a Unified Framework for the UX Design of News Credibility Tools",
 			"author": [
