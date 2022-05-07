@@ -1,10 +1,20 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4a6ff4787a87d539771d912da912f7ef69495071/images/chi2022.jpg",
+			"title": "SFL at CHI 2022!",
+			"date": "May 2022",
+			"description": "Our lab went to an in-person conference for the first time! Amy gave a keynote in the \"<a href=\"https://sites.google.com/view/design4misinformation/home?utm_source=bit.ly/design4misinformation\">Designing for Mis/Disinformation</a>\" workshop on user and community approaches to countering misinformation, Kevin presented a <a href=\"https://kjfeng.me/static/media/kjfeng-incontext-chi22.120e279d.pdf\">workshop paper</a> at the <a href=\"https://hcibook.net/incontext/chi2022/\">InContext</a> workshop on designer, developer, and data science collaboration, Shagun presented a <a href=\"https://arxiv.org/pdf/2202.08818.pdf\">paper</a> coauthored with Jim on designing word filter tools for creator-led comment moderation, and Ruotong attended as a student volunteer!",
+			"link": {
+				"link_url": "https://chi2022.acm.org/",
+				"link_text": "CHI website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b923af35e185a125e4ed7df643dffc0ad1413459/images/simona2.jpg",
 			"title": "Congrats to Simona for being named to the Husky 100",
 			"date": "April 2022",
-			"description": "Undergrad RA Simona Liao was named to the Husky 100, which recognizes 100 UW undergraduate and graduate students who are making the most of their time at the UW!&nbsp;",
+			"description": "Undergrad RA Simona Liao was named to the Husky 100, which recognizes 100 UW undergraduate and graduate students who are making the most of their time at the UW!",
 			"link": {
 				"link_url": "https://www.washington.edu/husky100/",
 				"link_text": "Husky 100"
