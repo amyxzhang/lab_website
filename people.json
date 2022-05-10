@@ -300,6 +300,17 @@
 				"github_url": "https://github.com/SimonaLiao"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@44a55ee5ba2f5af2451377feca7ec82bbda87834/images/Picture1.png",
+			"name": "Lin Qiu",
+			"jobTitle": "undergrad",
+			"bio": "Lin Qiu is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction and she is currently working on improving collaboration in small online meetings.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/lin-qiu-866600220/",
+				"github_url": "https://github.com/linqiu0-0"
+			},
+			"@type": "Person"
 		}
 	]
 }
