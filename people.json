@@ -311,6 +311,17 @@
 				"github_url": "https://github.com/linqiu0-0"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
+			"name": "Tony Li",
+			"jobTitle": "masters",
+			"bio": "Tony (he/him) is a master's student in the HCDE department at the UW. He is also the president of the HCDE Graduate Student Association. WIth industry experience in data engineering, Tony is interested in human-AI interaction and the intersection of data and HCI.",
+			"links": {
+				"website_url": "https://tonyli1.github.io/",
+				"github_url": "https://github.com/tonyli1"
+			},
+			"@type": "Person"
 		}
 	]
 }
