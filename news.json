@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a4a7994424a5d32538df5350c0e2a88c0b0fe6a5/images/posters2.jpg",
+			"title": "Anson, Emelia, Felicia, and Renee presented their research at the Undergrad Research Symposium",
+			"date": "May 2022",
+			"description": "Felicia gave a presentation on her analysis of governance files on Github repositories, while Anson, Emelia, and Renee presented a poster about their project to add citations to videos on YouTube.",
+			"link": {
+				"link_url": "https://expo.uw.edu/expo/apply/635/proceedings",
+				"link_text": "UW Undergraduate Research Symposium"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4a6ff4787a87d539771d912da912f7ef69495071/images/chi2022.jpg",
 			"title": "SFL at CHI 2022!",
 			"date": "May 2022",
