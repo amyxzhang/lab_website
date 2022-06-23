@@ -1,6 +1,19 @@
 {
 	"thesis": [
 		{
+			"title": "Introducing Credibility Signals to Video-Sharing Platforms",
+			"author": [
+				{
+					"author_name": "Renee Wang"
+				}
+			],
+			"type": "Undergraduate Honors Thesis",
+			"date": "June 2022",
+			"links": {
+				"pdf_url": "https://drive.google.com/file/d/1keoET_7SJ9XIRxs--eA1qzeKmMUctM7_/view?usp=sharing"
+			}
+		},
+		{
 			"title": "Systems for Collective Human Curation of Online Discussion",
 			"author": [
 				{
