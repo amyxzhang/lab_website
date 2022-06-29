@@ -332,6 +332,16 @@
 				"website_url": "https://www.linkedin.com/in/shreya-s-427807202/"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2c705ad655a27a0f646965050878edd375993dc7/images/kianna_s_picture.jpeg",
+			"name": "Kianna Bolante",
+			"jobTitle": "intern",
+			"bio": "Kianna Bolante is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, social computing, and education.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/kiannabolante/"
+			},
+			"@type": "Person"
 		}
 	]
 }
