@@ -342,6 +342,17 @@
 				"website_url": "https://www.linkedin.com/in/kiannabolante/"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
+			"name": "Teanna Barrett",
+			"jobTitle": "intern",
+			"bio": "Teanna Barrett (she/her) is an undergraduate student at Howard University majoring in computer science with a minor in philosophy. Her research interests lie within the intersections of social computing, machine learning ethics/fairness, and digital activism.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/teanna-barrett-483376189/",
+				"github_url": "https://github.com/TeannaB2023"
+			},
+			"@type": "Person"
 		}
 	]
 }
