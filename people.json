@@ -353,6 +353,16 @@
 				"github_url": "https://github.com/TeannaB2023"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8e63892820e3f4de635ef99af81ad5d05ba5541d/images/IMG_4397.jpg",
+			"name": "Kevin Chen",
+			"jobTitle": "intern",
+			"bio": "<span style=\"color: #1d1c1d; font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;\">Kevin Chen is a student at Cleveland STEM High School's School of Engineering &amp; Design (SOED). His research interests include usability, general programming, and societal impacts surrounding computer science.</span>",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/kevich/"
+			},
+			"@type": "Person"
 		}
 	]
 }
