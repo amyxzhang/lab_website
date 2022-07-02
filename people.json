@@ -363,6 +363,18 @@
 				"website_url": "https://www.linkedin.com/in/kevich/"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1eeb9e3b7a52d24b3059c7303ad8d17766c2c0c6/images/IMG_5145.jpg",
+			"name": "Felicia Yan",
+			"jobTitle": "undergrad",
+			"bio": "Felicia is an undergraduate student at the University of Washington studying Computer Science and Business Administration. She is interested in the intersection between business and technology, as well as the societal implications and impacts of both.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/felicia-y/",
+				"github_url": "https://github.com/YANF22",
+				"twitter_url": "https://twitter.com/felicialilyyan"
+			},
+			"@type": "Person"
 		}
 	]
 }
