@@ -1,6 +1,19 @@
 {
 	"thesis": [
 		{
+			"title": "Understanding Governance of Online Open-Source Projects",
+			"author": [
+				{
+					"author_name": "Felicia Yan"
+				}
+			],
+			"type": "Undergraduate Honors Thesis",
+			"date": "June 2022",
+			"links": {
+				"pdf_url": "https://drive.google.com/file/d/1apRe8JauV79meFkHx68lAfT9xQq03ag2/view?usp=sharing"
+			}
+		},
+		{
 			"title": "Introducing Credibility Signals to Video-Sharing Platforms",
 			"author": [
 				{
@@ -25,7 +38,6 @@
 			"award": "George Sprowls Award",
 			"links": {
 				"pdf_url": "https://homes.cs.washington.edu/~axz/papers/PhDThesisFinal.pdf",
-				"slides_url": "",
 				"video_url": "https://youtu.be/UwGFymC9JRE"
 			}
 		}
