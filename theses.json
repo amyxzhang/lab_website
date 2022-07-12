@@ -1,6 +1,19 @@
 {
 	"thesis": [
 		{
+			"title": "Studying Privacy in the Context of Online Peer Support for Mental Health",
+			"author": [
+				{
+					"author_name": "Savanna Yee"
+				}
+			],
+			"type": "Masters Thesis",
+			"date": "June 2022",
+			"links": {
+				"pdf_url": "https://drive.google.com/file/d/1qZdYyAE7aGvyCQ1m_mm6c8g-VaatENTV/view"
+			}
+		},
+		{
 			"title": "Understanding Governance of Online Open-Source Projects",
 			"author": [
 				{
