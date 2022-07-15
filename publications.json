@@ -1,6 +1,36 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c797f866440a4f2cb0b184d7b85044f761870ff2/images/community_categories.png",
+			"title": "What Makes Online Communities 'Better'? Measuring Values, Consensus, and Conflict across Thousands of Subreddits",
+			"id": "reddit_values_survey",
+			"author": [
+				{
+					"author_name": "Galen Weld"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Tim Althoff"
+				}
+			],
+			"conference_full_name": "Proceedings of the Sixteenth International AAAI Conference on Web and Social Media",
+			"conference url": "https://ojs.aaai.org/index.php/ICWSM/index",
+			"conference": "ICWSM",
+			"year": "2022",
+			"short_abstract": "<p>We survey 2,769 reddit users to learn about their values for 2,151 unique subreddits. We examing how values vary both between and within communities.</p>",
+			"abstract": "Making online social communities 'better' is a challenging undertaking, as online communities are extraordinarily varied in their size, topical focus, and governance. As such, what is valued by one community may not be valued by another. However, community values are challenging to measure as they are rarely explicitly stated. In this work, we measure community values through the first large-scale survey of community values, including 2,769 reddit users in 2,151 unique subreddits. Through a combination of survey responses and a quantitative analysis of public reddit data, we characterize how these values vary within and across communities. Amongst other findings, we show that community members disagree about how safe their communities are, that longstanding communities place 30.1% more importance on trustworthiness than newer communities, and that community moderators want their communities to be 56.7% less democratic than non-moderator community members. These findings have important implications, including suggesting that care must be taken to protect vulnerable community members, and that participatory governance strategies may be difficult to implement. Accurate and scalable modeling of community values enables research and governance which is tuned to each community's different values. To this end, we demonstrate that a small number of automatically quantifiable features capture a significant yet limited amount of the variation in values between communities with a ROC AUC of 0.667 on a binary classification task. However, substantial variation remains, and modeling community values remains an important topic for future work. We make our models and data public to inform community design and governance.",
+			"bibtex": "@article{Weld_Zhang_Althoff_2022, title={What Makes Online Communities ‘Better’? Measuring Values, Consensus, and Conflict across Thousands of Subreddits}, volume={16}, url={https://ojs.aaai.org/index.php/ICWSM/article/view/19363}, abstractNote={Making online social communities ‘better’ is a challenging undertaking, as online communities are extraordinarily varied in their size, topical focus, and governance. As such, what is valued by one community may not be valued by another.\nHowever, community values are challenging to measure as they are rarely explicitly stated.\nIn this work, we measure community values through the first large-scale survey of community values, including 2,769 reddit users in 2,151 unique subreddits. Through a combination of survey responses and a quantitative analysis of publicly available reddit data, we characterize how these values vary within and across communities.\nAmongst other findings, we show that community members disagree about how safe their communities are, that longstanding communities place 30.1% more importance on trustworthiness than newer communities, and that community moderators want their communities to be 56.7% less democratic than non-moderator community members.\nThese findings have important implications, including suggesting that care must be taken to protect vulnerable community members, and that participatory governance strategies may be difficult to implement.\nAccurate and scalable modeling of community values enables research and governance which is tuned to each community’s different values. To this end, we demonstrate that a small number of automatically quantifiable features capture a significant yet limited amount of the variation in values between communities with a ROC AUC of 0.667 on a binary classification task.\nHowever, substantial variation remains, and modeling community values remains an important topic for future work.\nWe make our models and data public to inform community design and governance.}, number={1}, journal={Proceedings of the International AAAI Conference on Web and Social Media}, author={Weld, Galen and Zhang, Amy X. and Althoff, Tim}, year={2022}, month={May}, pages={1121-1132} }",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2111.05835",
+				"website_url": "https://behavioral-data.github.io/reddit_values_surveys_public/",
+				"code_url": "https://github.com/behavioral-data/reddit_values_surveys_public",
+				"data_url": "https://behavioral-data.github.io/reddit_values_surveys_public/quant_survey.html",
+				"talk_url": "https://www.youtube.com/watch?v=sfJ_GkI9oNc&ab_channel=GalenWeld"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3af8814c54cd34fe5bdba9b0c92a4fcfbd00e301/images/FOpU1YAVQA810Zl.jpeg",
 			"title": "CiteRead: Integrating Localized Citation Contexts into Scientific Paper Reading",
 			"id": "citeread",
