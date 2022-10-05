@@ -375,6 +375,19 @@
 				"twitter_url": "https://twitter.com/felicialilyyan"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
+			"name": "Jina Yoon",
+			"jobTitle": "phd",
+			"bio": "Jina is a PhD student of Computer Science at the University of Washington. She researches ways to make people nicer to each other on the internet. Her current interests are in fostering empathetic conversation, combating misinformation, and leveraging addictive design for good.&nbsp;",
+			"links": {
+				"website_url": "https://jinayoon.com",
+				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wU19euwAAAAJ",
+				"github_url": "https://github.com/jinayoon",
+				"twitter_url": "https://twitter.com/jinayoon_"
+			},
+			"@type": "Person"
 		}
 	]
 }
