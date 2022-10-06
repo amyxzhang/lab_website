@@ -388,6 +388,18 @@
 				"twitter_url": "https://twitter.com/felicialilyyan"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ee247b48cb37c011bd6bb81b61e88f6dc72283b6/images/17DB189C-678A-446E-BFBA-447C7E834FD2_1_201_a.jpeg",
+			"name": "Leijie Wang",
+			"jobTitle": "phd",
+			"bio": "Leijie Wang is a PhD student of Computer Science at the University of Washington. He's interested at understanding and developing content moderation systems that respect people's expectations about privacy and fairness on various online platforms.",
+			"links": {
+				"website_url": "https://leijiewang.com/",
+				"github_url": "https://github.com/leijie-wang",
+				"twitter_url": "https://twitter.com/leijiewang17"
+			},
+			"@type": "Person"
 		}
 	]
 }
