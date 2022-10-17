@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@65ea7ed6fb1248b8872d15a59beb70ea9101a0df/images/FUqVQdHWYAAQAHe.jpeg",
+			"title": "Galen presented at ICWSM on community values on Reddit",
+			"date": "June 2022",
+			"description": "At ICWSM 2022 in Atlanta, Galen presented his paper surveying users and analyzing over two thousand subreddits for their values. The paper title is: \"What Makes Online Communities &lsquo;Better&rsquo;? Measuring Values, Consensus, and Conflict across Thousands of Subreddits\".",
+			"link": {
+				"link_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/19363",
+				"link_text": "Paper link"
+			}
+		},
+		{
 			"title": "Amy received a Google Research Scholar Award on personalized content moderation",
 			"date": "June 2022",
 			"description": "Amy received a Google Research Scholar Award which will provide funding for the lab's research on \"Designing End User Tools for Personalized Content Moderation\".",
