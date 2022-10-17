@@ -1,6 +1,15 @@
 {
 	"news_item": [
 		{
+			"title": "Savanna, Felicia, and Renee graduate and submit theses",
+			"date": "July 2022",
+			"description": "Savanna submitted a <a href=\"https://drive.google.com/file/d/1qZdYyAE7aGvyCQ1m_mm6c8g-VaatENTV/view\">thesis</a> on mental health and privacy in peer support groups. Felicia submitted an undergraduate honors <a href=\"https://drive.google.com/file/d/1apRe8JauV79meFkHx68lAfT9xQq03ag2/view\">thesis</a> on governance files in GitHub open source projects. And Renee submitted an undergraduate honors <a href=\"https://drive.google.com/file/d/1keoET_7SJ9XIRxs--eA1qzeKmMUctM7_/view\">thesis</a> on credibility signals in video sharing platforms.",
+			"link": {
+				"link_url": "Research page",
+				"link_text": "https://social.cs.washington.edu/research.html"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@65ea7ed6fb1248b8872d15a59beb70ea9101a0df/images/FUqVQdHWYAAQAHe.jpeg",
 			"title": "Galen presented at ICWSM on community values on Reddit",
 			"date": "June 2022",
