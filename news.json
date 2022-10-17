@@ -1,6 +1,15 @@
 {
 	"news_item": [
 		{
+			"title": "Amy received a Google Research Scholar Award on personalized content moderation",
+			"date": "June 2022",
+			"description": "Amy received a Google Research Scholar Award which will provide funding for the lab's research on \"Designing End User Tools for Personalized Content Moderation\".",
+			"link": {
+				"link_url": "https://research.google/outreach/research-scholar-program/recipients/",
+				"link_text": "Googe Research Scholar Program"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a4a7994424a5d32538df5350c0e2a88c0b0fe6a5/images/posters2.jpg",
 			"title": "Anson, Emelia, Felicia, and Renee presented their research at the Undergrad Research Symposium",
 			"date": "May 2022",
