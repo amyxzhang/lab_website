@@ -1,13 +1,54 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a8813ea8475bf5f9f44252bb0e77d0d6a821251/images/jl.jpg",
+			"title": "Welcome Jina and Leijie to SFL!",
+			"date": "Sept 2022",
+			"description": "Welcome to Jina Yoon and Leijie Wang, two new PhD students joining SFL this fall! Jina will work on building empathy and positive interactions in online social environments, while Leijie will focus on community and platform governance, including in E2EE platforms.",
+			"link": {}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@703cd2a8a4fa86af7f1488f5fd6cbe87a51830fb/images/cropped-Logo-dark-color-with-text-large-2.png",
+			"title": "Peer misinformation response project moved to Phase II of NSF's Convergence Accelerator",
+			"date": "Sept 2022",
+			"description": "Our project in collaboration with Hacks/Hackers on building a tool to support people in having expert-informed and trust-building conversations with peers about misinformation moved on to Phase II of NSF's Convergence Accelerator program.",
+			"link": {
+				"link_url": "https://newsq.net/2022/10/03/hacks-hackers-partners-advance-to-phase-ii-of-national-science-foundations-convergence-accelerator/",
+				"link_text": "Announcement"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@98093cff1a4026cb0d641948d5425e9ee2b3f92b/images/FbC2f2oUcAEPFRh.jpeg",
+			"title": "Jim passes his PhD thesis defense",
+			"date": "Aug 2022",
+			"description": "Jim Chen passed his PhD thesis defense after giving a talk titled \"Understanding and Addressing Uncertainty of the Crowd\". Congrats Jim! Thanks to his thesis committee, including Dan, Katharina, and Tanu. The thesis itself will be wrapped up this fall.",
+			"link": {}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8192446b96353246034cbef12720175af7eb5fc8/images/images.jpg",
+			"title": "Welcome Teanna, Kianna, and Kevin to SFL for the summer!",
+			"date": "July 2022",
+			"description": "Teanna Barrett (from Howard University) and Kianna Bolante (from UW) join us as summer REU interns. Kevin Chen (from Cleveland Stem High School) joins us as a high school intern. Teanna will be working on uncertainty in skin tone annotations for computer vision. Kianna and Kevin will be working on developing social computing educational materials for middle and high school students.",
+			"link": {}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@66085b69b3bc9dc523441e6adad2c8399c07784e/images/download%20(2).jpeg",
+			"title": "We received an NSF grant on open source software community governance",
+			"date": "July 2022",
+			"description": "Our 2-year NSF proposal in collaboration with UCDavis and UCBoulder titled \"Collaborative Research: DASS: Transitioning open-source software projects to accountable community governance\" was funded by the NSF Designing Accountable Software Systems program.<br />",
+			"link": {
+				"link_url": "https://beta.nsf.gov/funding/opportunities/designing-accountable-software-systems-dass",
+				"link_text": "NSF DASS"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2530fa5e47c2de130d3bb3e37f5d0c5c886d3a9c/images/sfr2.jpg",
 			"title": "Savanna, Felicia, and Renee graduate and submit theses",
 			"date": "July 2022",
 			"description": "Savanna submitted a <a href=\"https://drive.google.com/file/d/1qZdYyAE7aGvyCQ1m_mm6c8g-VaatENTV/view\">thesis</a> on mental health and privacy in peer support groups. Felicia submitted an undergraduate honors <a href=\"https://drive.google.com/file/d/1apRe8JauV79meFkHx68lAfT9xQq03ag2/view\">thesis</a> on governance files in GitHub open source projects. And Renee submitted an undergraduate honors <a href=\"https://drive.google.com/file/d/1keoET_7SJ9XIRxs--eA1qzeKmMUctM7_/view\">thesis</a> on credibility signals in video sharing platforms.",
 			"link": {
-				"link_url": "Research page",
-				"link_text": "https://social.cs.washington.edu/research.html"
+				"link_url": "",
+				"link_text": ""
 			}
 		},
 		{
