@@ -127,24 +127,29 @@
 				</div>
 			</div>
 		</div>
-					
-			<!-- <div class="row">
+
+		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">		
 				
-						<span class="mini-header" id="projects">
-							<h2>Alumni</h2></span> 
+				<h2>Alumni</h2>
 					
-				<div mv-bar="no-login" mv-app="alumni" mv-storage="https://github.com/amyxzhang/lab_website">
+				<div mv-bar="no-login" mv-app="alumni" mv-plugins="tinymce" mv-storage="https://github.com/leijie-wang/sfl_lab_website">
 					
-					
-					<article property="member" typeof="Person" mv-multiple>
-								<a href="" property="homepage">
-									<img src="null" class="person-img" property="image" alt=""><BR>
-									<span property="name">Name</span><BR>
-									
-									</a>
-									<meta property="id" content="[name]">
-									
+				<div class="row">
+					<article class="member-page" property="member" typeof="Person" mv-multiple>
+						<div class="col-xs-12 col-md-6">
+							<!-- Thumbnail -->
+							<div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"> 
+								<img src="null" class="person-img" property="image" alt="" />
+							</div>
+							
+							<!-- Bio -->
+							<div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+								<a href="[website_url]" property="homepage">
+									<h4><span property="name">Name</span></h4>
+								</a>
+
+								<meta property="id" content="[name]">
 									<p property="jobTitle">
 										<select>
 											<option value="pi">Assistant Professor</option>
@@ -153,13 +158,43 @@
 											<option value="visiting">Visiting Researcher</option>
 											<option value="masters">Masters Student</option>
 											<option value="undergrad">Undergraduate Student</option>
+											<option value="intern">Summer Intern</option>
 										</select>
 									</p>
-							</article>
-					</div>
+									
+									<span property="bio" class="tinymce">Bio</span><BR>
+													
+									<span property="links">
+										<a href="mailto:[email]" class="button" mv-if="email">
+											<img src="img/email2.png"> <span property="email"> Email</span>
+										</a>
+									
+										<a href="null" property="website_url" class="button">
+											<img src="img/earth4.png"><span> Website</span>
+										</a>
+										
+										<a href="null" property="scholar_url" class="button">
+											<img src="img/scholar2.png"><span>GScholar</span>
+										</a>
+										
+										<a href="null" property="github_url" class="button">
+											<img src="img/github5.png"><span> Github</span>
+										</a>
+										
+										<a href="null" property="twitter_url" class="button">
+											<img src="img/twitter4.png"><span> Twitter</span>
+										</a>
+									</span>
+													
+									<BR><BR>
+							</div>
+									
+						</div>
+					</article>
+				</div>
+			</div>
 		</div>
-			</div> -->
-			
+
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">		
 				
