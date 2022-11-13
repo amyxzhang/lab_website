@@ -133,7 +133,8 @@
 							Title
 						</span>
 
-						<a href="[news_item.link_url]" mv-if="link_url != 'null'"> &rightarrow;
+						<a href="[link.link_url]" class="button" mv-if="'link_url' in link and link.link_url != 'null' and link.link_url != ''">
+							&rightarrow;
 						</a>
 						<br /><br />
 					</span>
