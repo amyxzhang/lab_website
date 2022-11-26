@@ -50,6 +50,7 @@ body {
 	width: 12rem;
 	margin: 0.5em 0;
 }
+
 hr {
 	margin: 1em;
 }
@@ -207,10 +208,16 @@ h3 {
 	line-height: 1.4em;
 	margin: 0.5em auto;
 }
+
 h4 {
 	font-weight: 700;
 	font-size: 1.2em;
 	line-height: 1.2em;
+}
+
+h5 {
+	font-size: 1.2em;
+	margin-top: 0;
 }
 
 strong {
@@ -234,11 +241,36 @@ ul {
 	padding: 0;
 	margin: 0;
 }
+
 li {
 	list-style-type: none;
 	margin-bottom: 1em;
 }
 
+.project-people {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 1em;
+}
+
+.person-block {
+	margin: 0 30px 30px 0;
+	width: 100%;
+}
+
+.person-info {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.affiliation-logos {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin: 1em 0 1em 0;
+}
 
 /* Images */
 .logo {
@@ -254,6 +286,28 @@ li {
 	margin: 1em 1em 1em 0;
 	border: 1px #aeaeae solid;
 	max-width: 100%;
+}
+
+.circle-pic {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	border-radius: 50%;
+	width: 90px;
+	height: 90px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 10px 10px 0;
+}
+
+.affiliation-logo {
+	width: 100%;
+}
+
+.logo-wrapper {
+	width: 30%;
+	margin: 1em;
+	padding: 1em 1em 1em 0;
 }
 
 /* Buttons */
@@ -285,6 +339,19 @@ li {
   padding-right: 0;
 }
 
+.btn-action {
+	border-radius: 0;
+	background-color: #4C86F4;
+	color: #ffffff;
+	font-family: 'Roboto Mono', monospace;
+	padding: 1em;
+}
+
+.btn-action:hover {
+	background-color: #2d64cb;
+	color: #ffffff;
+}
+
 .modal {
   text-align: left;
   margin: 5rem;
@@ -294,3 +361,11 @@ li {
   display: -webkit-box;
   -webkit-box-pack: justify;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 768px) {
+	.logo-wrapper {
+	  width: 100%;
+	}
+  }
