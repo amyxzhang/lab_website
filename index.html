@@ -133,7 +133,8 @@
 							Title
 						</span>
 
-						<a href="[news_item.link_url]" mv-if="link_url != 'null'"> &rightarrow;
+						<a href="[link.link_url]" class="button" mv-if="'link_url' in link and link.link_url != 'null' and link.link_url != ''">
+							&rightarrow;
 						</a>
 						<br /><br />
 					</span>
@@ -229,10 +230,28 @@
 				<!-- Courses -->
 				<h2>Courses</h2>
 
-				<ul>
-					<li><a href="https://courses.cs.washington.edu/courses/cse440/">CSE 440: Introduction to HCI</a><br />Winter 2020</li>
-					<li><a href="#">CSE 599: Social Computing Research</a><br />Spring 2021</li>
-				</ul>
+				<div class="row">
+					<!-- Each course -->
+					<div mv-bar="no-login" mv-app="courses" mv-plugins="tinymce"  mv-storage="https://github.com/amyxzhang/lab_website">
+					
+						<!-- Courses item -->
+						<span property="course_item" mv-multiple mv-order="desc">
+							<div class="row">
+								<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9"> 
+									<img class="alignleft img-responsive center-block thumbnail" property="image" src="null" alt="img alt">
+								</div>
+							
+								<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+									<a property="course_url"><h4 property="title">Title</h4></a>
+
+									<p><span property="quarter">Quarter</span></p>
+									
+									<!-- <p><span property="description" class="tinymce">Description</span></p> -->
+									
+								</div>
+							</div>
+						</span>	
+				</div>
 
 
 					<!-- <BR>
