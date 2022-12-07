@@ -1,6 +1,35 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ca6149de5365367361e734c2b8a3b30ce44acdae/images/trustnet.jpg",
+			"title": "Leveraging Structured Trusted-Peer Assessments to Combat Misinformation",
+			"id": "trustnet",
+			"author": [
+				{
+					"author_name": "Farnaz Jahanbakhsh"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2022/",
+			"conference": "CSCW",
+			"year": "2022",
+			"short_abstract": "<p>In this work, we consider three new user affordances that give social media users greater power in their fight against misinformation: (1) the ability to provide structured accuracy assessments of posts, (2) user-specified indication of trust in other users, and (3) and user configuration of social feed filters according to assessed accuracy.</p>",
+			"abstract": "Platform operators have devoted significant effort to combating misinformation on behalf of their users. Users are also stakeholders in this battle, but their efforts to combat misinformation go unsupported by the platforms. In this work, we consider three new user affordances that give social media users greater power in their fight against misinformation: (1) the ability to provide structured accuracy assessments of posts, (2) user-specified indication of trust in other users, and (3) and user configuration of social feed filters according to assessed accuracy. To understand the potential of these designs, we conducted a need-finding survey of 192 people who share and discuss news on social media, finding that many already act to limit or combat misinformation, albeit by repurposing existing platform affordances that lack customized structure for information assessment. We then conducted a field study of a prototype social media platform that implements these user affordances as structured inputs to directly impact how and whether posts are shown. The study involved 14 participants who used the platform for a week to share news while collectively assessing their accuracy. We report on users' perception and use of these affordances. We also provide design implications for platforms and researchers based on our empirical observations.",
+			"bibtex": "@article{10.1145/3555637,\nauthor = {Jahanbakhsh, Farnaz and Zhang, Amy X. and Karger, David R.},\ntitle = {Leveraging Structured Trusted-Peer Assessments to Combat Misinformation},\nyear = {2022},\nissue_date = {November 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {6},\nnumber = {CSCW2},\nurl = {https://doi.org/10.1145/3555637},\ndoi = {10.1145/3555637},\nabstract = {Platform operators have devoted significant effort to combating misinformation on behalf of their users. Users are also stakeholders in this battle, but their efforts to combat misinformation go unsupported by the platforms. In this work, we consider three new user affordances that give social media users greater power in their fight against misinformation: (1) the ability to provide structured accuracy assessments of posts, (2) user-specified indication of trust in other users, and (3) and user configuration of social feed filters according to assessed accuracy. To understand the potential of these designs, we conducted a need-finding survey of 192 people who share and discuss news on social media, finding that many already act to limit or combat misinformation, albeit by repurposing existing platform affordances that lack customized structure for information assessment. We then conducted a field study of a prototype social media platform that implements these user affordances as structured inputs to directly impact how and whether posts are shown. The study involved 14 participants who used the platform for a week to share news while collectively assessing their accuracy. We report on users' perception and use of these affordances. We also provide design implications for platforms and researchers based on our empirical observations.},\njournal = {Proc. ACM Hum.-Comput. Interact.},\nmonth = {nov},\narticleno = {524},\nnumpages = {40},\nkeywords = {trust, social media, news reading and sharing platform, fact-checking, misinformation}\n}",
+			"links": {
+				"pdf_url": "https://people.csail.mit.edu/farnazj/pdfs/Leveraging_Structured_Trusted_Peer_Assessments_CSCW_22.pdf",
+				"website_url": "https://trustnet.csail.mit.edu/",
+				"code_url": "https://github.com/farnazj/Trustnet-Backend",
+				"talk_url": "https://paper-video-nav.apps.allenai.org/reader/10.1145.3555637"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b9b873815876fa232fe2e28ac7dacdccde4c96a1/images/unnamed%20(2).jpeg",
 			"title": "Our Browser Extension Lets Readers Change the Headlines on News Articles, and You Won't Believe What They Did!",
 			"id": "reheadline",
