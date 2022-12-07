@@ -1,6 +1,38 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b9b873815876fa232fe2e28ac7dacdccde4c96a1/images/unnamed%20(2).jpeg",
+			"title": "Our Browser Extension Lets Readers Change the Headlines on News Articles, and You Won't Believe What They Did!",
+			"id": "crowd-headlines",
+			"author": [
+				{
+					"author_name": "Farnaz Jahanbakhsh"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Karrie Karahalios"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2022/",
+			"conference": "CSCW",
+			"year": "2022",
+			"short_abstract": "<p>We present an exploratory browser extension that empowers users to suggest headlines they deem better for news articles. We conducted a study of 27 users who used the extension for one week to read news and suggest headlines.</p>",
+			"abstract": "Headlines play a critical role in how users perceive articles. But many headline publishers craft headlines in ways that either attract clicks in an attempt to earn ad revenue, or misinform users or manipulate their opinions for malicious intents. Such headlines can do harm since many users simply skim and share headlines without reading the articles in full. We present an exploratory browser extension that empowers users to suggest headlines they deem better for news articles. Users can view headlines suggested by other users that they follow as they browse websites. We conducted a study of 27 users who used the extension for one week to read news and suggest headlines. We found that users saw value in the tool and used it to change headlines that they found in need of improvement. We characterize the changes that people make to headlines if enabled. We also report on a followup study we conducted with 312 participants to evaluate headlines suggested by the tool. The purpose of the study was to examine whether headlines suggested by untrained users could be preferred over original headlines by professional editors. We found that a substantial number of the suggested headlines were indeed preferred. Our work explores the designs for, and opportunities and consequences of, empowering news consumers by giving them control over the content curation process.",
+			"bibtex": "@article{10.1145/3555643,\nauthor = {Jahanbakhsh, Farnaz and Zhang, Amy X. and Karahalios, Karrie and Karger, David R.},\ntitle = {Our Browser Extension Lets Readers Change the Headlines on News Articles, and You Won't Believe What They Did!},\nyear = {2022},\nissue_date = {November 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {6},\nnumber = {CSCW2},\nurl = {https://doi.org/10.1145/3555643},\ndoi = {10.1145/3555643},\nabstract = {Headlines play a critical role in how users perceive articles. But many headline publishers craft headlines in ways that either attract clicks in an attempt to earn ad revenue, or misinform users or manipulate their opinions for malicious intents. Such headlines can do harm since many users simply skim and share headlines without reading the articles in full. We present an exploratory browser extension that empowers users to suggest headlines they deem better for news articles. Users can view headlines suggested by other users that they follow as they browse websites. We conducted a study of 27 users who used the extension for one week to read news and suggest headlines. We found that users saw value in the tool and used it to change headlines that they found in need of improvement. We characterize the changes that people make to headlines if enabled. We also report on a followup study we conducted with 312 participants to evaluate headlines suggested by the tool. The purpose of the study was to examine whether headlines suggested by untrained users could be preferred over original headlines by professional editors. We found that a substantial number of the suggested headlines were indeed preferred. Our work explores the designs for, and opportunities and consequences of, empowering news consumers by giving them control over the content curation process.},\njournal = {Proc. ACM Hum.-Comput. Interact.},\nmonth = {nov},\narticleno = {530},\nnumpages = {33},\nkeywords = {crowdsourcing, news headlines, clickbait, misinformation}\n}",
+			"links": {
+				"pdf_url": "http://people.csail.mit.edu/farnazj/pdfs/Study_of_News_Headlines__CSCW_22.pdf",
+				"website_url": "https://chrome.google.com/webstore/detail/reheadline/iignpdlabbnnacdkchpnpljkhdlkblbh",
+				"code_url": "https://github.com/farnazj/Reheadline-Extension",
+				"talk_url": "https://paper-video-nav.apps.allenai.org/reader/10.1145.3555643"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c797f866440a4f2cb0b184d7b85044f761870ff2/images/community_categories.png",
 			"title": "What Makes Online Communities 'Better'? Measuring Values, Consensus, and Conflict across Thousands of Subreddits",
 			"id": "reddit_values_survey",
