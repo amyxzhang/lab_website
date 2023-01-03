@@ -1,6 +1,19 @@
 {
 	"thesis": [
 		{
+			"title": "Understanding and Addressing Uncertainty of the Crowd",
+			"author": [
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				}
+			],
+			"type": "Ph.D. Thesis",
+			"date": "December, 2022",
+			"links": {
+				"pdf_url": "https://homes.cs.washington.edu/~cqz/dissertation.pdf"
+			}
+		},
+		{
 			"title": "Studying Privacy in the Context of Online Peer Support for Mental Health",
 			"author": [
 				{
