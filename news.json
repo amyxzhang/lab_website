@@ -1,6 +1,20 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5cf367e8d541a55a700ec55bbefd5d696f4609/images/Screen%20Shot%202023-01-04%20at%202.04.12%20PM.png",
+			"title": "Welcome to our new postdocs Xinyi, Nick, and Jim!",
+			"date": "Jan 2022",
+			"description": "We have three postdocs joining the Social Futures Lab this quarter! Xinyi Zhou comes from Syracuse University and will be working on data science and ML methods for misinformation response. Nick Vincent finished his degree at Northwestern University and is researching open source software communities and governance transitions in a joint postdoc with UC Davis. Jim Chen is a current SFL member who recently finished his Ph.D. at UW and will be working on human-AI systems for misinformation response. We're so excited to have them join us. Welcome!&nbsp;",
+			"link": {}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
+			"title": "Congratulations to Jim Chen, Ph.D.  for finishing his thesis!",
+			"date": "Jan 2023",
+			"description": "Jim is the first official Ph.D. graduate of the Social Futures Lab! Congratulations to him for finishing his thesis and doctoral degree. Jim will continue being part of SFL as a postdoc this quarter. He will be joining the ARTT peer misinformation response project.",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a8813ea8475bf5f9f44252bb0e77d0d6a821251/images/jl.jpg",
 			"title": "Welcome Jina and Leijie to SFL!",
 			"date": "Sept 2022",
@@ -46,10 +60,7 @@
 			"title": "Savanna, Felicia, and Renee graduate and submit theses",
 			"date": "July 2022",
 			"description": "Savanna submitted a <a href=\"https://drive.google.com/file/d/1qZdYyAE7aGvyCQ1m_mm6c8g-VaatENTV/view\">thesis</a> on mental health and privacy in peer support groups. Felicia submitted an undergraduate honors <a href=\"https://drive.google.com/file/d/1apRe8JauV79meFkHx68lAfT9xQq03ag2/view\">thesis</a> on governance files in GitHub open source projects. And Renee submitted an undergraduate honors <a href=\"https://drive.google.com/file/d/1keoET_7SJ9XIRxs--eA1qzeKmMUctM7_/view\">thesis</a> on credibility signals in video sharing platforms.",
-			"link": {
-				"link_url": "",
-				"link_text": ""
-			}
+			"link": {}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@65ea7ed6fb1248b8872d15a59beb70ea9101a0df/images/FUqVQdHWYAAQAHe.jpeg",
