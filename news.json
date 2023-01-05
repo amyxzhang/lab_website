@@ -1,10 +1,24 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1f5939d9e2ca5e28f1fcd0df4acacea41641eddf/images/Screen%20Shot%202023-01-04%20at%202.04.12%20PM.png",
+			"title": "Welcome to our new postdocs Xinyi, Nick, and Jim!",
+			"date": "Jan 2023",
+			"description": "We have three postdocs joining the Social Futures Lab this quarter! Xinyi Zhou comes from Syracuse University and will be working on data science and ML methods for misinformation response. Nick Vincent finished his degree at Northwestern University and is researching open source software communities and governance transitions in a joint postdoc with UC Davis. Jim Chen is a current SFL member who recently finished his Ph.D. at UW and will be working on human-AI systems for misinformation response. We're so excited to have them join us. Welcome!",
+			"link": {}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c69a1c341e056b8305283ee141301d92c6482aab/images/Screen%20Shot%202023-01-04%20at%202.09.11%20PM.png",
+			"title": "Welcome Pranati and Sarah to the Social Futures Lab!",
+			"date": "Jan 2023",
+			"description": "This quarter, we have a couple of undergraduate students officially joining two projects in the Social Futures Lab. Pranati Dani will be working with Ruotong Wang on remote collaboration tools, and Sarah Fredrickson will be working with Jina Yoon on peer support for misinformation response. Welcome!",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@81f91c9d33afa0c6de37be3f999f8503a8d8fe89/images/capture-title.PNG",
-			"title": "Jim's thesis is now available",
+			"title": "Congratulations to Jim Chen, Ph.D. for finishing his thesis!",
 			"date": "Dec 2022",
-			"description": "Jim has submitted his thesis on \"Understanding and Addressing Uncertainty of the Crowd\", now available <a href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>.",
+			"description": "Jim is the first official Ph.D. graduate of the Social Futures Lab! Congratulations to him for finishing his thesis on \"Understanding and Addressing Uncertainty of the Crowd\", now available&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>. Jim will continue being part of SFL as a postdoc this quarter. He will be joining the ARTT peer misinformation response project.&nbsp;",
 			"link": {
 				"link_url": "https://homes.cs.washington.edu/~cqz/dissertation.pdf",
 				"link_text": "Link"
