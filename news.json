@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@81f91c9d33afa0c6de37be3f999f8503a8d8fe89/images/capture-title.PNG",
+			"title": "Jim's thesis is now available",
+			"date": "Dec 2022",
+			"description": "Jim has submitted his thesis on \"Understanding and Addressing Uncertainty of the Crowd\", now available <a href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>.",
+			"link": {
+				"link_url": "https://homes.cs.washington.edu/~cqz/dissertation.pdf",
+				"link_text": "Link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a8813ea8475bf5f9f44252bb0e77d0d6a821251/images/jl.jpg",
 			"title": "Welcome Jina and Leijie to SFL!",
 			"date": "Sept 2022",
