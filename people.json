@@ -412,6 +412,19 @@
 				"twitter_url": "https://twitter.com/XinyiZhouXZ"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
+			"name": "Nick Vincent",
+			"jobTitle": "postdoc",
+			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab and UW and the Computational Communication Lab at UC Davis. His research aims to makes people aware of the value of their data and help people leverage the value of their data",
+			"links": {
+				"website_url": "https://www.nickmvincent.com/",
+				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
+				"github_url": "https://github.com/nickmvincent",
+				"twitter_url": "https://twitter.com/nickmvincent"
+			},
+			"@type": "Person"
 		}
 	]
 }
