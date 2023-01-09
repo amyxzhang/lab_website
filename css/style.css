@@ -1,8 +1,14 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+
 body {
   font-family: 'Assistant', sans-serif;
   line-height: 160%;
   font-weight: 400;
   font-size: 16px;
+  height: 100%;
 }
 
 /* Layout blocks */
@@ -360,6 +366,15 @@ li {
 .modal-header {
   display: -webkit-box;
   -webkit-box-pack: justify;
+}
+
+#cursor-chat-layer {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow: hidden;
 }
 
 /* Media Queries */
