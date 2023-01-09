@@ -402,7 +402,7 @@
 			"@type": "Person"
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f1cf77626b44c521c25e069504c001800d314b22/images/XinyiZhou.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
 			"name": "Xinyi Zhou",
 			"jobTitle": "postdoc",
 			"bio": "Xinyi Zhou is a Postdoctoral Scholar at the University of Washington. Her research interests are broadly in the intersection of data mining, machine learning, natural language processing, and social computing and their applications to combat m/disinformation.",
