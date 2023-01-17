@@ -215,6 +215,10 @@ h3 {
 	margin: 0.5em auto;
 }
 
+.project-page-h3 {
+	margin-top: 1.5em;
+}
+
 h4 {
 	font-weight: 700;
 	font-size: 1.2em;
