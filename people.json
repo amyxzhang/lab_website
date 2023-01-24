@@ -400,6 +400,13 @@
 				"twitter_url": "https://twitter.com/felicialilyyan"
 			},
 			"@type": "Person"
+		},
+		{
+			"name": "Pranati Dani",
+			"jobTitle": "undergrad",
+			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
+			"links": {},
+			"@type": "Person"
 		}
 	]
 }
