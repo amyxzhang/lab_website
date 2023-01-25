@@ -402,6 +402,16 @@
 			"@type": "Person"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c6ba0522d070469925a8c1ff7cd1aa73beb0e810/images/IMG_4618.jpg",
+			"name": "Pranati Dani",
+			"jobTitle": "undergrad",
+			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/pranati-dani/"
+        },
+			"@type": "Person"
+    },
+    {
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
 			"name": "Xinyi Zhou",
 			"jobTitle": "postdoc",
