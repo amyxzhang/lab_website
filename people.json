@@ -408,10 +408,10 @@
 			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/pranati-dani/"
-        },
+			},
 			"@type": "Person"
-    },
-    {
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
 			"name": "Xinyi Zhou",
 			"jobTitle": "postdoc",
@@ -433,6 +433,16 @@
 				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
 				"github_url": "https://github.com/nickmvincent",
 				"twitter_url": "https://twitter.com/nickmvincent"
+			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@387e54089160a41ac355e097bf776dec1080d148/images/IMG-2178(1).jpg",
+			"name": "Sarah Fredrickson",
+			"jobTitle": "undergrad",
+			"bio": "Sarah is an undergraduate student at the University of Washington studying computer science. Her research interests are in content moderation, online communities, and addressing misinformation.",
+			"links": {
+				"github_url": "https://github.com/sarahfredrickson"
 			},
 			"@type": "Person"
 		}
