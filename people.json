@@ -15,23 +15,9 @@
 			}
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
-			"name": "Shagun Jhaver",
-			"jobTitle": "postdoc",
-			"@type": "Person",
-			"links": {
-				"website_url": "https://shagunjhaver.com",
-				"scholar_url": "https://scholar.google.com/citations?user=OgtKT6UAAAAJ",
-				"github_url": "https://github.com/shaguniitb",
-				"twitter_url": "https://twitter.com/shagunjhaver",
-				"email": "shagun@cs.washington.edu"
-			},
-			"bio": "Shagun Jhaver is a postdoctoral researcher in the Social Futures Lab. His research focuses on online harassment and content moderation on social media websites like Facebook, Twitter and Reddit."
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
 			"name": "Quan Ze (Jim) Chen",
-			"jobTitle": "phd",
+			"jobTitle": "postdoc",
 			"@type": "Person",
 			"links": {
 				"website_url": "https://homes.cs.washington.edu/~cqz/",
@@ -40,7 +26,7 @@
 				"twitter_url": "https://twitter.com/cquanze",
 				"email": "cqz@cs.washington.edu"
 			},
-			"bio": "Quan Ze (Jim) is a current PhD student. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows.&nbsp;"
+			"bio": "Quan Ze (Jim) is a former PhD student, now postdoc in SFL. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
