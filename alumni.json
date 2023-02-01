@@ -55,6 +55,18 @@
 			"name": "Felicia Yan",
 			"jobTitle": "undergrad",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@af6bd65e571b1972863cf7376c5360dda5fb71a3/images/Picture1%202.jpg",
+			"name": "Simran Malhi",
+			"jobTitle": "undergrad",
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9b2fe03d216895171b44263776ca74c4c0cef8d9/images/sqadit.png",
+			"name": "Adithi Raghavan﻿",
+			"jobTitle": "undergrad",
+			"@type": "Person"
 		}
 	]
 }
