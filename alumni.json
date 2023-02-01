@@ -45,6 +45,12 @@
 			"bio": "Ricky Grannis-Vu is an undergraduate student at Stanford University. He studies the design and governance of online communities, with a focus on the <a style=\"background-color: #ffffff;\" href=\"https://policykit.org/\">PolicyKit project</a>. He also works as an instructor, curriculum designer, and program manager at&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://www.inspiritai.com/\">Inspirit AI</a>."
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fe3a35759a4bd67aba01a50c506e3e7e0e59d5e7/images/savanna.jpg",
+			"name": "Savanna Yee",
+			"jobTitle": "masters",
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1eeb9e3b7a52d24b3059c7303ad8d17766c2c0c6/images/IMG_5145.jpg",
 			"name": "Felicia Yan",
 			"jobTitle": "undergrad",
