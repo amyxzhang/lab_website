@@ -79,6 +79,12 @@
 			"name": "Skyler Hallinan",
 			"jobTitle": "undergrad",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b9ae1f732433410793325bca1c17ae7c61a8a7f1/images/detlef.png",
+			"name": "Detlef Knauss",
+			"jobTitle": "undergrad",
+			"@type": "Person"
 		}
 	]
 }
