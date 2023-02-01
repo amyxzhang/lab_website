@@ -248,17 +248,6 @@
 			"@type": "Person"
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@97d84dd2eecea72890b70adc3fa50c1fec371177/images/alice.png",
-			"name": "Alice Zhang",
-			"jobTitle": "intern",
-			"bio": "Alice Zhang is an undergraduate student at the University of Minnesota-Twin Cities studying computer science. Her research interests are in the intersection of human-computer interaction, education, and communication.",
-			"links": {
-				"website_url": "https://yjqian02.github.io/Personal-Website/",
-				"github_url": "https://github.com/yjqian02"
-			},
-			"@type": "Person"
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@387e54089160a41ac355e097bf776dec1080d148/images/IMG-2178(1).jpg",
 			"name": "Sarah Fredrickson",
 			"jobTitle": "undergrad",
@@ -266,27 +255,6 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/sarah-fredrickson-0a79601a5/",
 				"github_url": "https://github.com/sarahfredrickson"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
-			"name": "Teanna Barrett",
-			"jobTitle": "intern",
-			"bio": "Teanna Barrett (she/her) is an undergraduate student at Howard University majoring in computer science with a minor in philosophy. Her research interests lie within the intersections of social computing, machine learning ethics/fairness, and digital activism.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/teanna-barrett-483376189/",
-				"github_url": "https://github.com/TeannaB2023"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8e63892820e3f4de635ef99af81ad5d05ba5541d/images/IMG_4397.jpg",
-			"name": "Kevin Chen",
-			"jobTitle": "intern",
-			"bio": "Kevin Chen is a student at Cleveland STEM High School's School of Engineering &amp; Design (SOED). His research interests include usability, general programming, and societal impacts surrounding computer science.<br />",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/kevich/"
 			},
 			"@type": "Person"
 		},
