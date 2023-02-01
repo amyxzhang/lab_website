@@ -29,6 +29,31 @@
 			"bio": "Quan Ze (Jim) is a former PhD student, now postdoc in SFL. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows."
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
+			"name": "Xinyi Zhou",
+			"jobTitle": "postdoc",
+			"bio": "Xinyi Zhou is a Postdoctoral Scholar at the University of Washington. Her research interests are broadly in the intersection of data mining, machine learning, natural language processing, and social computing and their applications to combat m/disinformation.",
+			"links": {
+				"website_url": "https://xinyizhou.xyz/",
+				"scholar_url": "https://scholar.google.com/citations?user=9U_Ge4MAAAAJ&hl=en&oi=ao",
+				"twitter_url": "https://twitter.com/XinyiZhouXZ"
+			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
+			"name": "Nick Vincent",
+			"jobTitle": "postdoc",
+			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab at UW and the Computational Communication Lab at UC Davis. His research aims to give the public more voice in determing how the AI systems we all contribute data to are used.&nbsp;",
+			"links": {
+				"website_url": "https://www.nickmvincent.com/",
+				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
+				"github_url": "https://github.com/nickmvincent",
+				"twitter_url": "https://twitter.com/nickmvincent"
+			},
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
 			"name": "Ruotong Wang",
 			"jobTitle": "phd",
@@ -394,31 +419,6 @@
 			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/pranati-dani/"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
-			"name": "Xinyi Zhou",
-			"jobTitle": "postdoc",
-			"bio": "Xinyi Zhou is a Postdoctoral Scholar at the University of Washington. Her research interests are broadly in the intersection of data mining, machine learning, natural language processing, and social computing and their applications to combat m/disinformation.",
-			"links": {
-				"website_url": "https://xinyizhou.xyz/",
-				"scholar_url": "https://scholar.google.com/citations?user=9U_Ge4MAAAAJ&hl=en&oi=ao",
-				"twitter_url": "https://twitter.com/XinyiZhouXZ"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
-			"name": "Nick Vincent",
-			"jobTitle": "postdoc",
-			"bio": "Nick is a Postdoctoral Scholar working with the Social Futures Lab at UW and the Computational Communication Lab at UC Davis. His research aims to give the public more voice in determing how the AI systems we all contribute data to are used.&nbsp;",
-			"links": {
-				"website_url": "https://www.nickmvincent.com/",
-				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
-				"github_url": "https://github.com/nickmvincent",
-				"twitter_url": "https://twitter.com/nickmvincent"
 			},
 			"@type": "Person"
 		},
