@@ -67,6 +67,18 @@
 			"name": "Adithi Raghavan﻿",
 			"jobTitle": "undergrad",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@56bd97ce19ef5bc454b2c8a2c3f2257b17a0483f/images/Screen%20Shot%202021-08-04%20at%2010.53.48%20PM.png",
+			"name": "Renee Wang",
+			"jobTitle": "undergrad",
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5fbe89570329de717baca0ac1b685a68f7f84148/images/Skyler%20Hallinan%20(2).jpg",
+			"name": "Skyler Hallinan",
+			"jobTitle": "undergrad",
+			"@type": "Person"
 		}
 	]
 }
