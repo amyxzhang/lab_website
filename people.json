@@ -36,7 +36,8 @@
 			"links": {
 				"website_url": "https://xinyizhou.xyz/",
 				"scholar_url": "https://scholar.google.com/citations?user=9U_Ge4MAAAAJ&hl=en&oi=ao",
-				"twitter_url": "https://twitter.com/XinyiZhouXZ"
+				"twitter_url": "https://twitter.com/XinyiZhouXZ",
+				"email": "xzhou@cs.washington.edu"
 			},
 			"@type": "Person"
 		},
@@ -49,7 +50,8 @@
 				"website_url": "https://www.nickmvincent.com/",
 				"scholar_url": "https://scholar.google.com/citations?user=IWa_ZMcAAAAJ&hl=en",
 				"github_url": "https://github.com/nickmvincent",
-				"twitter_url": "https://twitter.com/nickmvincent"
+				"twitter_url": "https://twitter.com/nickmvincent",
+				"email": "nvince@cs.washington.edu"
 			},
 			"@type": "Person"
 		},
@@ -75,7 +77,8 @@
 				"website_url": "https://www.galenweld.com",
 				"scholar_url": "https://www.semanticscholar.org/author/Galen-Cassebeer-Weld/49687960",
 				"github_url": "http://github.com/galenweld",
-				"twitter_url": "https://www.twitter.com/galenweld"
+				"twitter_url": "https://www.twitter.com/galenweld",
+				"email": "gweld@cs.washington.edu"
 			},
 			"@type": "Person",
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3697dc8a51230af4fafc065877dc65e8f9713770/images/galen.jpg"
@@ -88,7 +91,8 @@
 			"links": {
 				"website_url": "https://kjfeng.me",
 				"github_url": "https://github.com/kjfeng",
-				"twitter_url": "https://twitter.com/kjfeng_"
+				"twitter_url": "https://twitter.com/kjfeng_",
+				"email": "kjfeng@uw.edu"
 			},
 			"@type": "Person"
 		},
@@ -101,7 +105,8 @@
 				"website_url": "https://jinayoon.com",
 				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wU19euwAAAAJ",
 				"github_url": "https://github.com/jinayoon",
-				"twitter_url": "https://twitter.com/jinayoon_"
+				"twitter_url": "https://twitter.com/jinayoon_",
+				"email": "jyoon963@cs.washington.edu"
 			},
 			"@type": "Person"
 		},
@@ -113,7 +118,8 @@
 			"links": {
 				"website_url": "https://leijiewang.com/",
 				"github_url": "https://github.com/leijie-wang",
-				"twitter_url": "https://twitter.com/leijiewang17"
+				"twitter_url": "https://twitter.com/leijiewang17",
+				"email": "leijiew@cs.washington.edu"
 			},
 			"@type": "Person"
 		},
