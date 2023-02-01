@@ -1,6 +1,12 @@
 {
 	"member": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
+			"name": "Shagun Jhaver",
+			"jobTitle": "postdoc",
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
 			"name": "Ge Zhang",
 			"jobTitle": "visiting",
@@ -24,17 +30,6 @@
 				"email": "\tsieglindehu.work@gmail.com"
 			},
 			"bio": "Wenjia just got her BA in Cognitive Science from Lawrence University. She is passionate about collective intelligence and tools for thoughts. Her research interest lies in the intersection of complexity science and HCI. She is also a UX researcher, and teaches kids design thinking on the side."
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
-			"name": "Emelia May Hughes",
-			"jobTitle": "undergrad",
-			"@type": "Person",
-			"links": {
-				"website_url": "https://www.emeliahughes.com/",
-				"email": "emhughes@uw.edu"
-			},
-			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting. Her research interests are in human-computer interaction, and she is currently focusing on the UX surrounding credibility."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bf379ae221456347fbc7d3deb0c6b09ea2dcad30/images/profile%20(2)%20(1).jpg",
