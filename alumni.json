@@ -85,6 +85,24 @@
 			"name": "Detlef Knauss",
 			"jobTitle": "undergrad",
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@97d84dd2eecea72890b70adc3fa50c1fec371177/images/alice.png",
+			"name": "Alice Zhang",
+			"jobTitle": "intern",
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
+			"name": "Teanna Barrett",
+			"jobTitle": "intern",
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8e63892820e3f4de635ef99af81ad5d05ba5541d/images/IMG_4397.jpg",
+			"name": "Kevin Chen",
+			"jobTitle": "intern",
+			"@type": "Person"
 		}
 	]
 }
