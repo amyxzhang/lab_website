@@ -135,19 +135,6 @@
 			"bio": "Emelia Hughes is an undergraduate student at the University of Washington studying Informatics and Drawing &amp; Painting. Her research interests are in human-computer interaction, and she is currently focusing on the UX surrounding credibility."
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5fbe89570329de717baca0ac1b685a68f7f84148/images/Skyler%20Hallinan%20(2).jpg",
-			"name": "Skyler Hallinan",
-			"jobTitle": "undergrad",
-			"bio": "Skyler Hallinan is an undergraduate student at the University of Washington studying computer science. His research interests are in the intersection of NLP and HCI for social good.",
-			"links": {
-				"website_url": "https://skylerhallinan.com/",
-				"scholar_url": "https://scholar.google.com/citations?user=ztXdO4gAAAAJ&hl=en",
-				"github_url": "https://github.com/shallinan1",
-				"twitter_url": "https://twitter.com/SkylerHallinan"
-			},
-			"@type": "Person"
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bc1557d93ecfd628d0229d1c82931deb67a8eda0/images/jenny.jpg",
 			"name": "Jenny Fan",
 			"jobTitle": "visiting",
@@ -156,18 +143,6 @@
 				"website_url": "https://jennyfan.com",
 				"github_url": "https://github.com/jennyfan",
 				"twitter_url": "https://twitter.com/jennyjfan"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@56bd97ce19ef5bc454b2c8a2c3f2257b17a0483f/images/Screen%20Shot%202021-08-04%20at%2010.53.48%20PM.png",
-			"name": "Renee Wang",
-			"jobTitle": "undergrad",
-			"bio": "Renee Wang is an undergraduate student at the University of Washington studying Computer Engineering. She is interested in researching misinformation and credibility.",
-			"links": {
-				"github_url": "https://github.com/reneew7",
-				"twitter_url": "https://twitter.com/reneee_wang",
-				"website_url": "https://www.linkedin.com/in/renee-wang/"
 			},
 			"@type": "Person"
 		},
@@ -184,17 +159,6 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6a491b95a80a47c607bfe5cfb6d3a66909e6b65e/images/headshot%202.png"
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9b2fe03d216895171b44263776ca74c4c0cef8d9/images/sqadit.png",
-			"name": "Adithi Raghavan",
-			"jobTitle": "undergrad",
-			"bio": "Adithi Raghavan is an undergraduate student at the University of Washington studying Computer Science and Linguistics. Her research interests lie in human-computer interaction and misinformation.",
-			"links": {
-				"github_url": "https://github.com/streams1/",
-				"twitter_url": "https://twitter.com/adithiraghavan "
-			},
-			"@type": "Person"
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a25b9c247a69e121c56e5eb651a8cf6c93f90b7/images/sqry.png",
 			"name": "Ryan Li",
 			"jobTitle": "undergrad",
@@ -203,16 +167,6 @@
 				"github_url": "https://github.com/RyanLi0802",
 				"twitter_url": "https://twitter.com/RyanLi91583606",
 				"website_url": "https://www.linkedin.com/in/ryan-li-a9b2761b8"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b9ae1f732433410793325bca1c17ae7c61a8a7f1/images/detlef.png",
-			"name": "Detlef Knauss",
-			"jobTitle": "undergrad",
-			"bio": "Detlef Knauss is an undergraduate student at the University of Washington studying computer science. His research interests are in content moderation practices and promoting safe, online communities.",
-			"links": {
-				"github_url": "https://github.com/Detinator10"
 			},
 			"@type": "Person"
 		},
@@ -228,16 +182,6 @@
 			"@type": "Person"
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ae8c1d01a7cb68978c80bd7cf538fa2718b53874/images/jesse.png",
-			"name": "Jesse Anderson",
-			"jobTitle": "intern",
-			"bio": "Jesse Anderson is an undergraduate student at the University of Maryland studying data science and geospatial informatics. She is interested in constructing data science tools to further socio-environmental justice, specifically in the domains of climate change, racial equity, and socio-economic inequality.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/jesseandersonumd/"
-			},
-			"@type": "Person"
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
 			"name": "Peipei Nie",
 			"jobTitle": "visiting",
@@ -247,39 +191,6 @@
 				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3b89k74AAAAJ",
 				"github_url": "https://github.com/peipei-nie",
 				"twitter_url": "https://twitter.com/PeipeiNie"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@af6bd65e571b1972863cf7376c5360dda5fb71a3/images/Picture1%202.jpg",
-			"name": "Simran Malhi",
-			"jobTitle": "undergrad",
-			"bio": "Simran Malhi is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, content moderation, misinformation, and the application of machine learning in those areas.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/malhi-simran/",
-				"github_url": "https://github.com/simranmalhi"
-			},
-			"@type": "Person"
-		},
-		{
-			"name": "Melissa Birchfield",
-			"jobTitle": "masters",
-			"bio": "Melissa Birchfield is a master's student at the University of Washington studying computer science. Her research interests include philanthropic informatics, explainable AI, and computer security and privacy, with a focus on data management within cross-sector collaboration against human trafficking.",
-			"links": {
-				"github_url": "https://github.com/meli365"
-			},
-			"@type": "Person",
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@54efea3a3a72070bfd3630c753b34a7a638b4d02/images/mbirchfield-headshot.png"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fe3a35759a4bd67aba01a50c506e3e7e0e59d5e7/images/savanna.jpg",
-			"name": "Savanna Yee",
-			"jobTitle": "masters",
-			"bio": "Savanna is a master's student at the University of Washington studying computer science. Her research interests include human-computer interaction, security and privacy, mental health and wellbeing, and identity in online communities .",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/savanna-yee/",
-				"scholar_url": "https://scholar.google.com/citations?hl=en&user=I30LjUIAAAAJ",
-				"github_url": "https://github.com/savannanoh"
 			},
 			"@type": "Person"
 		},
@@ -365,18 +276,6 @@
 			"bio": "Kevin Chen is a student at Cleveland STEM High School's School of Engineering &amp; Design (SOED). His research interests include usability, general programming, and societal impacts surrounding computer science.<br />",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/kevich/"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1eeb9e3b7a52d24b3059c7303ad8d17766c2c0c6/images/IMG_5145.jpg",
-			"name": "Felicia Yan",
-			"jobTitle": "undergrad",
-			"bio": "Felicia is an undergraduate student at the University of Washington studying Computer Science and Business Administration. She is interested in the intersection between business and technology, as well as the societal implications and impacts of both.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/felicia-y/",
-				"github_url": "https://github.com/YANF22",
-				"twitter_url": "https://twitter.com/felicialilyyan"
 			},
 			"@type": "Person"
 		},
