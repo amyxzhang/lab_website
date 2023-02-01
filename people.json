@@ -147,6 +147,41 @@
 			"@type": "Person"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
+			"name": "Peipei Nie",
+			"jobTitle": "visiting",
+			"bio": "Peipei Nie is a social computing researcher from the University of Michigan's School of Information interested in our information ecosystem&rsquo;s impact on democracy. Her research focuses on content moderation, mis/disinformation and trust, and news and civic engagement with applications to social media and online communities.",
+			"links": {
+				"website_url": "https://peipei-nie.github.io/",
+				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3b89k74AAAAJ",
+				"github_url": "https://github.com/peipei-nie",
+				"twitter_url": "https://twitter.com/PeipeiNie"
+			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
+			"name": "Tony Li",
+			"jobTitle": "masters",
+			"bio": "Tony (he/him) is a master's student in the HCDE department at the UW. He is also the president of the HCDE Graduate Student Association. WIth industry experience in data engineering, Tony is interested in human-AI interaction and the intersection of data and HCI.",
+			"links": {
+				"website_url": "https://tonyli1.github.io/",
+				"github_url": "https://github.com/tonyli1"
+			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@defdf2abf1c8c871062e531a6dcba6e50211c557/images/Simona.jpg",
+			"name": "Simona Liao ",
+			"jobTitle": "masters",
+			"bio": "Simona Liao (she/they) is an undergraduate student at the University of Washington studying computer science and GWSS (Gender, Women, and Sexuality Studies). She is interested in Virtual Reality platforms and communities, and how to design them against harassments.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
+				"github_url": "https://github.com/SimonaLiao"
+			},
+			"@type": "Person"
+		},
+		{
 			"name": "Anson Huang",
 			"jobTitle": "undergrad",
 			"bio": "Anson Huang is an undergraduate student at the University of Washington studying computer science and political science. His research interests are in the intersection of civics and tech.",
@@ -171,30 +206,6 @@
 			"@type": "Person"
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@97d84dd2eecea72890b70adc3fa50c1fec371177/images/alice.png",
-			"name": "Alice Zhang",
-			"jobTitle": "intern",
-			"bio": "Alice Zhang is an undergraduate student at the University of Minnesota-Twin Cities studying computer science. Her research interests are in the intersection of human-computer interaction, education, and communication.",
-			"links": {
-				"website_url": "https://yjqian02.github.io/Personal-Website/",
-				"github_url": "https://github.com/yjqian02"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
-			"name": "Peipei Nie",
-			"jobTitle": "visiting",
-			"bio": "Peipei Nie is a social computing researcher from the University of Michigan's School of Information interested in our information ecosystem&rsquo;s impact on democracy. Her research focuses on content moderation, mis/disinformation and trust, and news and civic engagement with applications to social media and online communities.",
-			"links": {
-				"website_url": "https://peipei-nie.github.io/",
-				"scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3b89k74AAAAJ",
-				"github_url": "https://github.com/peipei-nie",
-				"twitter_url": "https://twitter.com/PeipeiNie"
-			},
-			"@type": "Person"
-		},
-		{
 			"name": "Andre Ye",
 			"jobTitle": "undergrad",
 			"bio": "Andre Ye is an undergraduate student at the University of Washington studying computer science and philosophy. His primary research interest is in building more robust and responsible machine &amp; deep learning systems.",
@@ -206,17 +217,6 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg"
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@defdf2abf1c8c871062e531a6dcba6e50211c557/images/Simona.jpg",
-			"name": "Simona Liao ",
-			"jobTitle": "undergrad",
-			"bio": "Simona Liao (she/they) is an undergraduate student at the University of Washington studying computer science and GWSS (Gender, Women, and Sexuality Studies). She is interested in Virtual Reality platforms and communities, and how to design them against harassments.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
-				"github_url": "https://github.com/SimonaLiao"
-			},
-			"@type": "Person"
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@44a55ee5ba2f5af2451377feca7ec82bbda87834/images/Picture1.png",
 			"name": "Lin Qiu",
 			"jobTitle": "undergrad",
@@ -224,17 +224,6 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/lin-qiu-866600220/",
 				"github_url": "https://github.com/linqiu0-0"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
-			"name": "Tony Li",
-			"jobTitle": "masters",
-			"bio": "Tony (he/him) is a master's student in the HCDE department at the UW. He is also the president of the HCDE Graduate Student Association. WIth industry experience in data engineering, Tony is interested in human-AI interaction and the intersection of data and HCI.",
-			"links": {
-				"website_url": "https://tonyli1.github.io/",
-				"github_url": "https://github.com/tonyli1"
 			},
 			"@type": "Person"
 		},
@@ -255,6 +244,28 @@
 			"bio": "Kianna Bolante is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, social computing, and education.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/kiannabolante/"
+			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@97d84dd2eecea72890b70adc3fa50c1fec371177/images/alice.png",
+			"name": "Alice Zhang",
+			"jobTitle": "intern",
+			"bio": "Alice Zhang is an undergraduate student at the University of Minnesota-Twin Cities studying computer science. Her research interests are in the intersection of human-computer interaction, education, and communication.",
+			"links": {
+				"website_url": "https://yjqian02.github.io/Personal-Website/",
+				"github_url": "https://github.com/yjqian02"
+			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@387e54089160a41ac355e097bf776dec1080d148/images/IMG-2178(1).jpg",
+			"name": "Sarah Fredrickson",
+			"jobTitle": "undergrad",
+			"bio": "Sarah is an undergraduate student at the University of Washington studying computer science. Her research interests are in content moderation, online communities, and addressing misinformation.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/sarah-fredrickson-0a79601a5/",
+				"github_url": "https://github.com/sarahfredrickson"
 			},
 			"@type": "Person"
 		},
@@ -286,17 +297,6 @@
 			"bio": "Pranati is an undergraduate student at UW studying Computer Science and minoring in Business Administration. She is extremely interested in the connection between communication and education with computing, and is working on the bridge between asynchronous and synchronous communication.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/pranati-dani/"
-			},
-			"@type": "Person"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@387e54089160a41ac355e097bf776dec1080d148/images/IMG-2178(1).jpg",
-			"name": "Sarah Fredrickson",
-			"jobTitle": "undergrad",
-			"bio": "Sarah is an undergraduate student at the University of Washington studying computer science. Her research interests are in content moderation, online communities, and addressing misinformation.",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/sarah-fredrickson-0a79601a5/",
-				"github_url": "https://github.com/sarahfredrickson"
 			},
 			"@type": "Person"
 		}
