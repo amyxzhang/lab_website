@@ -1,6 +1,5 @@
 {
-	"member": [
-		{
+	"member": [{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
@@ -25,8 +24,7 @@
 			"@type": "Person",
 			"links": {
 				"website_url": "https://www.jiajiahu.me"
-			},
-			
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bf379ae221456347fbc7d3deb0c6b09ea2dcad30/images/profile%20(2)%20(1).jpg",
@@ -35,8 +33,7 @@
 			"@type": "Person",
 			"links": {
 				"website_url": "http://stanford.edu/~rickygv/"
-			},
-			
+			}
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fe3a35759a4bd67aba01a50c506e3e7e0e59d5e7/images/savanna.jpg",
