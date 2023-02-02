@@ -87,6 +87,12 @@
 			"@type": "Person"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6babd26531e8fc583365e76c46f2dadda0c96825/images/IMG_2173.jpg",
+			"name": "Tara Sirosh",
+			"jobTitle": "undergrad",
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@97d84dd2eecea72890b70adc3fa50c1fec371177/images/alice.png",
 			"name": "Alice Zhang",
 			"jobTitle": "intern",
