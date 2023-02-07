@@ -267,6 +267,17 @@
 				"website_url": "https://www.linkedin.com/in/pranati-dani/"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@49635732bd12a3367cc99cc2a4c7b5900bc7b273/images/Profile%20Photo%20Suit.jpeg",
+			"name": "Lawrence Tan",
+			"jobTitle": "undergrad",
+			"bio": "Lawrence Tan is an undergraduate student at the University of Washington studying Computer Science. His research interests are in human-computer interaction and novel applications of machine learning.",
+			"links": {
+				"website_url": "https://lawrencetan.ca/",
+				"github_url": "https://github.com/lawtancool"
+			},
+			"@type": "Person"
 		}
 	]
 }
