@@ -278,6 +278,16 @@
 				"github_url": "https://github.com/lawtancool"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@864edf70b6f54ef44209b5bed85512dacc66437d/images/IMG_8846.JPG",
+			"name": "Bingcan(Gloria) Guo",
+			"jobTitle": "undergrad",
+			"bio": "Bingcan(Gloria) Guo is an exchange student at the University of Washington. She is an undergraduate student at The Hong Kong University of Science and Technology studying Data Science and Computer Science. Her research interests are gamification and understanding online communities.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/gloria-guo/"
+			},
+			"@type": "Person"
 		}
 	]
 }
