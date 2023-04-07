@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@30731f6fd9d36967a72d194ab3859ceb3af77d17/images/ux-collab-cover.png",
+			"title": "Understanding Collaborative Practices and Tools of Professional UX Practitioners in Software Organizations",
+			"id": "ux-collaboration",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Tony Li"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference": "CHI",
+			"year": "2023",
+			"short_abstract": "<p>Given the recent collaborative shift in UX practice, we conducted a survey study 114 industry UX practitioners to understand opportunities and challenges in collaborative UX practices and tools.</p>",
+			"abstract": "User experience (UX) has undergone a revolution in collaborative practices, due to tools that enable quick feedback and continuous collaboration with a varied team across a design’s lifecycle. However, it is unclear how this shift in collaboration has been received in professional UX practice, and whether new pain points have arisen. To this end, we conducted a survey (N=114) with UX practitioners at software organizations based in the U.S. to better understand their collaborative practices and tools used throughout the design process. We found that while an increase in collaborative activity enhanced many aspects of UX work, some long-standing challenges—such as handing off designs to developers—still persist. Moreover, we observed new challenges emerging from activities enabled by collaborative tools such as design system management. Based on our findings, we discuss how UX practices can improve collaboration moving forward and provide concrete design implications for collaborative UX tools.",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2302.11845",
+				"video_url": "https://www.youtube.com/watch?v=s7i8XZUy_zQ"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ca6149de5365367361e734c2b8a3b30ce44acdae/images/trustnet.jpg",
 			"title": "Leveraging Structured Trusted-Peer Assessments to Combat Misinformation",
 			"id": "trustnet",
