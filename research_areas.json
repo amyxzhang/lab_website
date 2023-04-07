@@ -111,6 +111,11 @@
 					"project_url": "http://tildachat.com/",
 					"project_name": "Tilda",
 					"@type": "item"
+				},
+				{
+					"project_url": "https://arxiv.org/abs/2302.11845",
+					"project_name": "UX Collaboration",
+					"@type": "item"
 				}
 			],
 			"author2": [
