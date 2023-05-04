@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@179e774c97d077ddd97ab7246856f15b608a5584/images/chi2023.jpg",
+			"title": "SFL at CHI 2023 in Hamburg",
+			"date": "April 2023",
+			"description": "Five members of SFL attended CHI 2023 in Hamburg! Kevin gave a presentation on his paper with Tony on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3581273\">Understanding Collaborative Practices and Tools of Professional UX Practitioners in Software Organizations</a>\". Jina presented a poster on her late-breaking work on&nbsp; \"Virtual Fidgets: Opportunities and Design Principles for Bringing Fidgeting to Online Learning\". Amy co-organized a workshop on \"<a href=\"https://safevsp.github.io/\">Building Credibility, Trust, and Safety on Video-Sharing Platforms</a>\" and also had <a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3580841\">two</a> <a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3580847\">papers</a> with collaborators at Semantic Scholar (one of which won a <a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3580847\">best paper award</a>). Finally, Gloria, Jina, and Kevin served as student volunteers.",
+			"link": {
+				"link_url": "https://chi2023.acm.org/",
+				"link_text": "CHI website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4a25ed7afaef2d43134d45906caef228c002a06a/images/IMG_0683.jpg",
 			"title": "Jina presented at the \"Beyond Moderation\" workshop at Yale Law",
 			"date": "March 2023",
