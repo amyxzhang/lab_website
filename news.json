@@ -11,6 +11,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7ab48930980492333a03997b360852ba633c1ded/images/KFAI-social-card-updated.jpeg",
+			"title": "Kevin presented at the Knight Institute Symposium on Algorithmic Amplification",
+			"date": "April 2023",
+			"description": "Kevin presented his in-progress work on \"Teachable Agents for End-User Empowerment in Personalized Feed Curation\" at the \"<a href=\"https://knightcolumbia.org/events/optimizing-for-what-algorithmic-amplification-and-society\">Optimizing for What? Algorithmic Amplification and Society</a>\" Symposium hosted by the Knight First Amendment Institute at Columbia University.",
+			"link": {
+				"link_url": "https://knightcolumbia.org/events/optimizing-for-what-algorithmic-amplification-and-society",
+				"link_text": "Symposium"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4a25ed7afaef2d43134d45906caef228c002a06a/images/IMG_0683.jpg",
 			"title": "Jina presented at the \"Beyond Moderation\" workshop at Yale Law",
 			"date": "March 2023",
