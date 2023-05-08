@@ -288,6 +288,16 @@
 				"website_url": "https://www.linkedin.com/in/gloria-guo/"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f811ab7321a863d0b7d72ecc8363f61854046b5a/images/Judy_Kang.jpg",
+			"name": "Judy Kang",
+			"jobTitle": "undergrad",
+			"bio": "Judy Kang is an undergraduate student at the University of Washington studying Computer Science. Her research interests are UX design, HCI and accessibility and inclusive design.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/judy-kang"
+			},
+			"@type": "Person"
 		}
 	]
 }
