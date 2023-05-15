@@ -1,6 +1,42 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e9286659fc9e78472af24665138ab27a80f43137/images/relatedly.jpg",
+			"title": "Relatedly: Scaffolding Literature Reviews with Existing Related Work Sections",
+			"id": "relatedly",
+			"author": [
+				{
+					"author_name": "Srishti Palani"
+				},
+				{
+					"author_name": "Aakanksha Naik"
+				},
+				{
+					"author_name": "Doug Downey"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2023.acm.org/",
+			"conference": "CHI",
+			"year": "2023",
+			"short_abstract": "<p>In this work, we design a system, Relatedly, that scaffolds exploring and reading multiple related work paragraphs on a topic, with features including dynamic re-ranking and highlighting to spotlight unexplored dissimilar information, auto-generated descriptive paragraph headings, and low-lighting of redundant information.</p>",
+			"abstract": "Scholars who want to research a scientific topic must take time to read, extract meaning, and identify connections across many papers. As scientific literature grows, this becomes increasingly challenging. Meanwhile, authors summarize prior research in papers’ related work sections, though this is scoped to support a single paper. A formative study found that while reading multiple related work paragraphs helps overview a topic, it is hard to navigate overlapping and diverging references and research foci. In this work, we design a system, Relatedly, that scaffolds exploring and reading multiple related work paragraphs on a topic, with features including dynamic re-ranking and highlighting to spotlight unexplored dissimilar information, auto-generated descriptive paragraph headings, and low-lighting of redundant information. From a within-subjects user study (n=15), we found that scholars generate more coherent, insightful, and comprehensive topic outlines using Relatedly compared to a baseline paper list.",
+			"bibtex": "@inproceedings{10.1145/3544548.3580841,\nauthor = {Palani, Srishti and Naik, Aakanksha and Downey, Doug and Zhang, Amy X. and Bragg, Jonathan and Chang, Joseph Chee},\ntitle = {Relatedly: Scaffolding Literature Reviews with Existing Related Work Sections},\nyear = {2023},\nisbn = {9781450394215},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3544548.3580841},\ndoi = {10.1145/3544548.3580841},\nabstract = {Scholars who want to research a scientific topic must take time to read, extract meaning, and identify connections across many papers. As scientific literature grows, this becomes increasingly challenging. Meanwhile, authors summarize prior research in papers’ related work sections, though this is scoped to support a single paper. A formative study found that while reading multiple related work paragraphs helps overview a topic, it is hard to navigate overlapping and diverging references and research foci. In this work, we design a system, Relatedly, that scaffolds exploring and reading multiple related work paragraphs on a topic, with features including dynamic re-ranking and highlighting to spotlight unexplored dissimilar information, auto-generated descriptive paragraph headings, and low-lighting of redundant information. From a within-subjects user study (n=15), we found that scholars generate more coherent, insightful, and comprehensive topic outlines using Relatedly compared to a baseline paper list.},\nbooktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},\narticleno = {742},\nnumpages = {20},\nkeywords = {Scientific Discovery, Sensemaking, Exploratory Search, Literature Review},\nlocation = {Hamburg, Germany},\nseries = {CHI '23}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2302.06754.pdf",
+				"video_url": "https://www.youtube.com/watch?v=hO8BiTLUemY"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5381c80e448cd251768ecb79deb47261f4048b7d/images/citesee.jpg",
 			"title": "CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context",
 			"id": "citesee",
