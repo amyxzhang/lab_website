@@ -1,6 +1,46 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5381c80e448cd251768ecb79deb47261f4048b7d/images/citesee.jpg",
+			"title": "CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context",
+			"id": "citesee",
+			"author": [
+				{
+					"author_name": "Joseph Chee Chang"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Andrew Head"
+				},
+				{
+					"author_name": "Kyle Lo"
+				},
+				{
+					"author_name": "Doug Downey"
+				},
+				{
+					"author_name": "Dan Weld"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2023.acm.org/",
+			"conference": "CHI",
+			"year": "2023",
+			"award": "Best Paper Award",
+			"short_abstract": "<p>This paper introduces CiteSee, a paper reading tool that leverages a user&rsquo;s publishing, reading, and saving activities to provide personalized visual augmentations and context around citations.</p>",
+			"abstract": "When reading a scholarly article, inline citations help researchers contextualize the current article and discover relevant prior work. However, it can be challenging to prioritize and make sense of the hundreds of citations encountered during literature reviews. This paper introduces CiteSee, a paper reading tool that leverages a user’s publishing, reading, and saving activities to provide personalized visual augmentations and context around citations. First, CiteSee connects the current paper to familiar contexts by surfacing known citations a user had cited or opened. Second, CiteSee helps users prioritize their exploration by highlighting relevant but unknown citations based on saving and reading history. We conducted a lab study that suggests CiteSee is significantly more effective for paper discovery than three baselines. A field deployment study shows CiteSee helps participants keep track of their explorations and leads to better situational awareness and increased paper discovery via inline citation when conducting real-world literature reviews.",
+			"bibtex": "@inproceedings{10.1145/3544548.3580847,\nauthor = {Chang, Joseph Chee and Zhang, Amy X. and Bragg, Jonathan and Head, Andrew and Lo, Kyle and Downey, Doug and Weld, Daniel S.},\ntitle = {CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context},\nyear = {2023},\nisbn = {9781450394215},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3544548.3580847},\ndoi = {10.1145/3544548.3580847},\nabstract = {When reading a scholarly article, inline citations help researchers contextualize the current article and discover relevant prior work. However, it can be challenging to prioritize and make sense of the hundreds of citations encountered during literature reviews. This paper introduces CiteSee, a paper reading tool that leverages a user’s publishing, reading, and saving activities to provide personalized visual augmentations and context around citations. First, CiteSee connects the current paper to familiar contexts by surfacing known citations a user had cited or opened. Second, CiteSee helps users prioritize their exploration by highlighting relevant but unknown citations based on saving and reading history. We conducted a lab study that suggests CiteSee is significantly more effective for paper discovery than three baselines. A field deployment study shows CiteSee helps participants keep track of their explorations and leads to better situational awareness and increased paper discovery via inline citation when conducting real-world literature reviews.},\nbooktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},\narticleno = {737},\nnumpages = {15},\nkeywords = {reading interfaces, personalization, scientific papers},\nlocation = {Hamburg, Germany},\nseries = {CHI '23}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2302.07302.pdf",
+				"video_url": "https://www.youtube.com/watch?v=rDzdz9KsNiE"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@30731f6fd9d36967a72d194ab3859ceb3af77d17/images/ux-collab-cover.png",
 			"title": "Understanding Collaborative Practices and Tools of Professional UX Practitioners in Software Organizations",
 			"id": "ux-collaboration",
@@ -23,7 +63,8 @@
 			"links": {
 				"pdf_url": "https://arxiv.org/abs/2302.11845",
 				"video_url": "https://www.youtube.com/watch?v=s7i8XZUy_zQ"
-			}
+			},
+			"bibtex": "@inproceedings{10.1145/3544548.3581273,\nauthor = {Feng, K. J. Kevin and Li, Tony W and Zhang, Amy X.},\ntitle = {Understanding Collaborative Practices and Tools of Professional UX Practitioners in Software Organizations},\nyear = {2023},\nisbn = {9781450394215},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3544548.3581273},\ndoi = {10.1145/3544548.3581273},\nabstract = {User experience (UX) has undergone a revolution in collaborative practices, due to tools that enable quick feedback and continuous collaboration with a varied team across a design’s lifecycle. However, it is unclear how this shift in collaboration has been received in professional UX practice, and whether new pain points have arisen. To this end, we conducted a survey (N = 114) with UX practitioners at software organizations based in the U.S. to better understand their collaborative practices and tools used throughout the design process. We found that while an increase in collaborative activity enhanced many aspects of UX work, some long-standing challenges—such as handing off designs to developers—still persist. Moreover, we observed new challenges emerging from activities enabled by collaborative tools such as design system management. Based on our findings, we discuss how UX practices can improve collaboration moving forward and provide concrete design implications for collaborative UX tools.},\nbooktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},\narticleno = {764},\nnumpages = {20},\nkeywords = {collaboration, design practice, user experience},\nlocation = {Hamburg, Germany},\nseries = {CHI '23}\n}"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ca6149de5365367361e734c2b8a3b30ce44acdae/images/trustnet.jpg",
