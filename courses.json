@@ -2,9 +2,9 @@
 	"course_item": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@42e7399a5effb58dac196c9c92c2047c77d2765d/images/p011v8vl.jpeg",
-			"course_url": "https://social.cs.washington.edu/cse481social/",
+			"course_url": "http://courses.cs.washington.edu/courses/cse481p/23sp/",
 			"title": "CSE 481p: Social Computing Capstone",
-			"quarter": "Winter 2022",
+			"quarter": "Spring 2023, Winter 2022",
 			"description": "<span style=\"color: #111111; font-family: Assistant, 'Helvetica Neue', Helvetica, Arial, sans-serif;\">In this capstone course, senior undergraduate students work in groups to apply software engineering and system design skills they have learned over their four years in computer science towards building a novel social computing system to address a social challenge. We follow a human-centered design process for groups to ideate, prototype, test, implement, and showcase their novel system. Along the way, students will gain a broad understanding of the current major pressing issues and state of the art of knowledge in social computing, while taking a critical lens toward social computing systems they use every day. Along with the capstone project, we have readings, group discussions, reflections, and guest speakers working in social computing.</span>"
 		},
 		{
