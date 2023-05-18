@@ -1,6 +1,39 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a5f309335128485c139d2b137b146b5fc4e88d9c/images/easset_upload_file13810_262604_e.png",
+			"title": "GitHub OSS Governance File Dataset",
+			"id": "github-governance-dataset",
+			"author": [
+				{
+					"author_name": "Yibo Yan"
+				},
+				{
+					"author_name": "Seth Frey"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Vladimir Filkov"
+				},
+				{
+					"author_name": "Likang Yin"
+				}
+			],
+			"conference_full_name": "International Conference on Mining Software Repositories",
+			"conference url": "https://conf.researchr.org/home/msr-2023",
+			"conference": "MSR",
+			"year": "2023",
+			"short_abstract": "<p>To facilitate the study of the impact and effectiveness of formal governance documents on OSS projects and communities, we present a longitudinal dataset of 710 GitHub-hosted OSS projects with GOVERNANCE.MD governance files.</p>",
+			"abstract": "Open-source Software (OSS) has become a valuable resource in both industry and academia over the last few decades. Despite the innovative structures they develop to support the projects, OSS projects and their communities have complex needs and face risks such as getting abandoned. To manage the internal social dynamics and community evolution, OSS developer communities have started relying on written governance documents that assign roles and responsibilities to different community actors. To facilitate the study of the impact and effectiveness of formal governance documents on OSS projects and communities, we present a longitudinal dataset of 710 GitHub-hosted OSS projects with GOVERNANCE.MD governance files. This dataset includes all commits made to the repository, all issues and comments created on GitHub, and all revisions made to the governance file. We hope its availability will foster more research interest in studying how OSS communities govern their projects and the impact of governance files on communities.",
+			"bibtex": "@inproceedings{yan2023github,\n  title={GitHub OSS Governance File Dataset},\n  author={Yan, Yibo and Frey, Seth and Zhang, Amy and Filkov, Vladimir and Yin, Likang},\n  booktitle={Proceedings of the International Conference on Mining Software Repositories},\n  series={MSR '23},\n  year={2023}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2304.00460.pdf",
+				"data_url": "https://zenodo.org/record/7530768"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@e9286659fc9e78472af24665138ab27a80f43137/images/relatedly.jpg",
 			"title": "Relatedly: Scaffolding Literature Reviews with Existing Related Work Sections",
 			"id": "relatedly",
