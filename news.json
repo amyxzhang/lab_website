@@ -6,7 +6,7 @@
 			"date": "April 2023",
 			"description": "Five members of SFL attended CHI 2023 in Hamburg! Kevin gave a presentation on his paper with Tony on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3581273\">Understanding Collaborative Practices and Tools of Professional UX Practitioners in Software Organizations</a>\". Jina presented a poster on her late-breaking work on&nbsp; \"<a href=\"https://arxiv.org/pdf/2304.09299.pdf\">Virtual Fidgets: Opportunities and Design Principles for Bringing Fidgeting to Online Learning</a>\". Amy co-organized a workshop on \"<a href=\"https://safevsp.github.io/\">Building Credibility, Trust, and Safety on Video-Sharing Platforms</a>\" and also had <a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3580841\">two</a> <a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3580847\">papers</a> with collaborators at Semantic Scholar (one of which won a <a href=\"https://dl.acm.org/doi/abs/10.1145/3544548.3580847\">best paper award</a>). Finally, Gloria, Jina, and Kevin served as student volunteers.",
 			"link": {
-				"link_url": "https://chi2023.acm.org/",
+				"link_url": "",
 				"link_text": "CHI website"
 			}
 		},
@@ -98,7 +98,7 @@
 			"date": "July 2022",
 			"description": "Our 2-year NSF proposal in collaboration with UCDavis and UCBoulder titled \"Collaborative Research: DASS: Transitioning open-source software projects to accountable community governance\" was funded by the NSF Designing Accountable Software Systems program.<br />",
 			"link": {
-				"link_url": "https://beta.nsf.gov/funding/opportunities/designing-accountable-software-systems-dass",
+				"link_url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217654&HistoricalAwards=false",
 				"link_text": "NSF DASS"
 			}
 		},
@@ -123,10 +123,7 @@
 			"title": "Amy received a Google Research Scholar Award on personalized content moderation",
 			"date": "June 2022",
 			"description": "Amy received a Google Research Scholar Award which will provide funding for the lab's research on \"Designing End User Tools for Personalized Content Moderation\".",
-			"link": {
-				"link_url": "https://research.google/outreach/research-scholar-program/recipients/",
-				"link_text": "Googe Research Scholar Program"
-			},
+			"link": {},
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@35b3d1dd7d3b9c02cb2ed0310a2f93e63dd9a2fe/images/share-9cd7266ef5001b20f98e01062c26189fa69ed6c784df04caf809668887fd339a.png"
 		},
 		{
