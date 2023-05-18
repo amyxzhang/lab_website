@@ -28,6 +28,16 @@
 			"link": {}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@08b5d25f72110708756a1be9a2edc3c86b080e3f/images/featured.jpeg",
+			"title": "Amy receives NSF CAREER award",
+			"date": "Feb 2023",
+			"description": "Amy received the NSF CAREER award on a project titled \"Tools for User and Community-Led Social Media Curation\". This award will fund research on learning from and designing for those who face the greatest challenges and barriers from current social media designs. We will then develop new strategies to lower barriers for users to participate in social curation, so that anyone who does not have technical skills or lots of time to dedicate can still benefit.",
+			"link": {
+				"link_url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236618&HistoricalAwards=false",
+				"link_text": "Award page"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1f5939d9e2ca5e28f1fcd0df4acacea41641eddf/images/Screen%20Shot%202023-01-04%20at%202.04.12%20PM.png",
 			"title": "Welcome to our new postdocs Xinyi, Nick, and Jim!",
 			"date": "Jan 2023",
