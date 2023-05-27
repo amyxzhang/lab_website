@@ -1,6 +1,13 @@
 {
 	"lecture_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c8caca16935fcdeea4e7d59aa894683558329124/images/socialslide.jpg",
+			"module_url": "https://social.cs.washington.edu/sfl-curriculum/",
+			"title": "Social Computing Middle and High School Curriculum",
+			"taught_when": "Given at Seattle middle and high schools",
+			"description": "We created different learning and activity modules that revolve around different subtopics within social computing, including data management, online behavior, encryption, misinformation, machine learning and bias, and HCI careers. These materials were designed specifically for middle school and high school students. We have deployed these materials in local middle school and high school classrooms and after-school clubs in the greater Seattle area and have also used them in training materials for K12 educators."
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@13d1ef34a80c19798853e75ec328bb5ed4cbac53/images/guestlecture_contentmoderation.001.jpeg",
 			"title": "Building technology for society (and all of its complications and messy consequences): case study on automated content moderation",
 			"taught_when": "Gave to <a href=\"https://courses.cs.washington.edu/courses/cse143/20au/\">UW CSE 143: Programming with Data Structures (Autumn 2020)</a>",
