@@ -1,6 +1,34 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@99c598a655f743b53aca74e1b5e481ff9fa99788/images/faact.jpg",
+			"title": "Skin Deep: Investigating Subjectivity in Skin Tone Annotations for Computer Vision Benchmark Datasets",
+			"id": "skin-deep",
+			"author": [
+				{
+					"author_name": "Teanna Barrett"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Conference on Fairness, Accountability, and Transparency",
+			"conference url": "https://facctconference.org/2023/",
+			"conference": "FAccT",
+			"year": "2023",
+			"short_abstract": "<p>Our work is the first to investigate the skin tone annotation process as a sociotechnical project. We surveyed recent skin tone annotation procedures and conducted annotation experiments to examine how subjective understandings of skin tone are embedded in skin tone annotation procedures.</p>",
+			"abstract": "To investigate the well-observed racial disparities in computer vision systems that analyze images of humans, researchers have turned to skin tone as more objective annotation than race metadata for fairness performance evaluations. However, the current state of skin tone annotation procedures is highly varied. For instance, researchers use a range of untested scales and skin tone categories, have unclear annotation procedures, and provide inadequate analyses of uncertainty. In addition, little attention is paid to the positionality of the humans involved in the annotation process--both designers and annotators alike--and the historical and sociological context of skin tone in the United States. Our work is the first to investigate the skin tone annotation process as a sociotechnical project. We surveyed recent skin tone annotation procedures and conducted annotation experiments to examine how subjective understandings of skin tone are embedded in skin tone annotation procedures. Our systematic literature review revealed the uninterrogated association between skin tone and race and the limited effort to analyze annotator uncertainty in current procedures for skin tone annotation in computer vision evaluation. Our experiments demonstrated that design decisions in the annotation procedure such as the order in which the skin tone scale is presented or additional context in the image (i.e., presence of a face) significantly affected the resulting inter-annotator agreement and individual uncertainty of skin tone annotations. We call for greater reflexivity in the design, analysis, and documentation of procedures for evaluation using skin tone.",
+			"bibtex": "@inproceedings{barrett2023skin, title={Skin Deep: Investigating Subjectivity in Skin Tone Annotations for Computer Vision Benchmark Datasets},\n  author={Barrett, Teanna and Chen, Quan Ze and Zhang, Amy X}, booktitle={Proceedings of the ACM Conference on Fairness, Accountability, and Transparency}, series={FAccT '23}, year={2023}}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2305.09072.pdf",
+				"code_url": "https://github.com/Social-Futures-Lab/skin-deep",
+				"data_url": "https://github.com/Social-Futures-Lab/skin-deep/tree/main/study_data"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a5f309335128485c139d2b137b146b5fc4e88d9c/images/easset_upload_file13810_262604_e.png",
 			"title": "GitHub OSS Governance File Dataset",
 			"id": "github-governance-dataset",
