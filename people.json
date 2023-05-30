@@ -298,6 +298,16 @@
 				"website_url": "https://www.linkedin.com/in/judy-kang"
 			},
 			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@edf5b594571632c48ecd51e64e63492c65e641c3/images/Khushi%20Khandelwal.jpeg",
+			"name": "Khushi Khandelwal ",
+			"jobTitle": "undergrad",
+			"bio": "<span style=\"color: #1d1c1d; font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; background-color: #f8f8f8;\">Khushi Khandelwal is an undergraduate student at the University of Washington studying Computer Science. Her research interests are in human-computer interaction, online misinformation, and artificial intelligence.</span>",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/khushi-khandelwal-232224193/"
+			},
+			"@type": "Person"
 		}
 	]
 }
