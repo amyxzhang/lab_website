@@ -1,6 +1,13 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1a936c2be21f02bc852841859552b502c5b6371b/images/social.jpg",
+			"title": "Undergrads presented at UW Research Symposium and Allen School Research Showcase",
+			"date": "May 2023",
+			"description": "Andre gave a presentation on medical image uncertainty modeling at the UW Research Symposium and via a poster at the Allen School showcase. Simona presented on understanding and designing against sexual harassment in social VR at the UW Research Symposium and via a poster at the Allen School showcase. Ryan, Lin, and Gloria gave a poster on misinformation believability classification at the Allen School showcase. And Khushi, Shreya, and Pranati gave a poster on a new remote work tool for connecting conversations across platforms at the UW Research Symposium.",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@179e774c97d077ddd97ab7246856f15b608a5584/images/chi2023.jpg",
 			"title": "SFL at CHI 2023 in Hamburg: 3 papers, 1 poster, and a workshop",
 			"date": "April 2023",
