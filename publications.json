@@ -1,6 +1,29 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c2381c5bb5f6023fe7b64b58f4c94266300a27f0/images/judgmentsieve.jpg",
+			"title": "Judgment Sieve: Reducing Uncertainty in Group Judgments through Interventions Targeting Ambiguity versus Disagreement",
+			"id": "judgment-sieve",
+			"author": [
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2023/",
+			"conference": "CSCW",
+			"year": "2023",
+			"short_abstract": "<p>We introduce a new workflow, Judgment Sieve, to reduce uncertainty in tasks involving group judgment in a targeted manner. By utilizing measurements that separate different sources of uncertainty during an initial round of judgment elicitation, we can then select a targeted intervention adding context or deliberation to most effectively reduce uncertainty on each item being judged.</p>",
+			"abstract": "When groups of people are tasked with making a judgment, the issue of uncertainty often arises. Existing methods to reduce uncertainty typically focus on iteratively improving specificity in the overall task instruction. However, uncertainty can arise from multiple sources, such as ambiguity of the item being judged due to limited context, or disagreements among the participants due to different perspectives and an under-specified task. A one-size-fits-all intervention may be ineffective if it is not targeted to the right source of uncertainty. In this paper we introduce a new workflow, Judgment Sieve, to reduce uncertainty in tasks involving group judgment in a targeted manner. By utilizing measurements that separate different sources of uncertainty during an initial round of judgment elicitation, we can then select a targeted intervention adding context or deliberation to most effectively reduce uncertainty on each item being judged. We test our approach on two tasks: rating word pair similarity and toxicity of online comments, showing that targeted interventions reduced uncertainty for the most uncertain cases. In the top 10% of cases, we saw an ambiguity reduction of 21.4% and 25.7%, and a disagreement reduction of 22.2% and 11.2% for the two tasks respectively. We also found through a simulation that our targeted approach reduced the average uncertainty scores for both sources of uncertainty as opposed to uniform approaches where reductions in average uncertainty from one source came with an increase for the other.",
+			"bibtex": "@article{chen2023judgment,\n  title={Judgment Sieve: Reducing Uncertainty in Group Judgments through Interventions Targeting Ambiguity versus Disagreement},\n  author={Chen, Quan Ze and Zhang, Amy X},\n  journal={Proceedings of the ACM on Human-Computer Interaction},\n  year={2023}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2305.01615.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@99c598a655f743b53aca74e1b5e481ff9fa99788/images/faact.jpg",
 			"title": "Skin Deep: Investigating Subjectivity in Skin Tone Annotations for Computer Vision Benchmark Datasets",
 			"id": "skin-deep",
