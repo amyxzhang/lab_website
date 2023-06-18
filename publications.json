@@ -1,6 +1,41 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a9e09697f5e1e0657c4306e8ebb5cd349c13ef6f/images/sliders.jpg",
+			"title": "Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor",
+			"id": "personalizing-content-moderation",
+			"author": [
+				{
+					"author_name": "Shagun Jhaver"
+				},
+				{
+					"author_name": "Alice Zhang"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Nikhila Natarajan"
+				},
+				{
+					"author_name": "Ruotong Wang"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2023/",
+			"conference": "CSCW",
+			"year": "2023",
+			"short_abstract": "<p>This paper investigates end users' perspectives on personal content moderation tools by conducting an interview study with a diverse sample of 24 active social media users.&nbsp;</p>",
+			"abstract": "Social media platforms moderate content for each user by incorporating the outputs of both platform-wide content moderation systems and, in some cases, user-configured personal moderation preferences. However, it is unclear (1) how end users perceive the choices and affordances of different kinds of personal content moderation tools, and (2) how the introduction of personalization impacts user perceptions of platforms' content moderation responsibilities. This paper investigates end users' perspectives on personal content moderation tools by conducting an interview study with a diverse sample of 24 active social media users. We probe interviewees' preferences using simulated personal moderation interfaces, including word filters, sliders for toxicity levels, and boolean toxicity toggles. We also examine the labor involved for users in choosing moderation settings and present users' attitudes about the roles and responsibilities of social media platforms and other stakeholders towards moderation. We discuss how our findings can inform design solutions to improve transparency and controllability in personal content moderation tools.",
+			"bibtex": "@article{jhaver2023personalizing,\n  title={Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor},\n  author={Jhaver, Shagun and Zhang, Alice Qian and Chen, Quanze and Natarajan, Nikhila and Wang, Ruotong and Zhang, Amy},\n  journal={Proceedings of the ACM on Human-Computer Interaction},\n  year={2023}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2305.10374.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c2381c5bb5f6023fe7b64b58f4c94266300a27f0/images/judgmentsieve.jpg",
 			"title": "Judgment Sieve: Reducing Uncertainty in Group Judgments through Interventions Targeting Ambiguity versus Disagreement",
 			"id": "judgment-sieve",
