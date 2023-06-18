@@ -1,6 +1,38 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@66cbb363c8cad6684beabfa9bd2769ddf651e7d0/images/provenance.jpg",
+			"title": "Examining the Impact of Provenance-Enabled Media on Trust and Accuracy Perceptions",
+			"id": "provenance-enabled-media",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Nick Ritchie"
+				},
+				{
+					"author_name": "Pia Blumenthal"
+				},
+				{
+					"author_name": "Andy Parsons"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2023/",
+			"conference": "CSCW",
+			"year": "2023",
+			"short_abstract": "<p>We conducted an online experiment with 595 participants from the US and UK to investigate how provenance information altered users' accuracy perceptions and trust in visual content shared on social media.</p>",
+			"abstract": "In recent years, industry leaders and researchers have proposed to use technical provenance standards to address visual misinformation spread through digitally altered media. By adding immutable and secure provenance information such as authorship and edit date to media metadata, social media users could potentially better assess the validity of the media they encounter. However, it is unclear how end users would respond to provenance information, or how to best design provenance indicators to be understandable to laypeople. We conducted an online experiment with 595 participants from the US and UK to investigate how provenance information altered users' accuracy perceptions and trust in visual content shared on social media. We found that provenance information often lowered trust and caused users to doubt deceptive media, particularly when it revealed that the media was composited. We additionally tested conditions where the provenance information itself was shown to be incomplete or invalid, and found that these states have a significant impact on participants' accuracy perceptions and trust in media, leading them, in some cases, to disbelieve honest media. Our findings show that provenance, although enlightening, is still not a concept well-understood by users, who confuse media credibility with the orthogonal (albeit related) concept of provenance credibility. We discuss how design choices may contribute to provenance (mis)understanding, and conclude with implications for usable provenance systems, including clearer interfaces and user education.",
+			"bibtex": "@article{feng2023examining,\n  title={Examining the Impact of Provenance-Enabled Media on Trust and Accuracy Perceptions},\n  author={Feng, KJ and Ritchie, Nick and Blumenthal, Pia and Parsons, Andy and Zhang, Amy X},\n  journal={Proceedings of the ACM on Human-Computer Interaction},\n  year={2023}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2303.12118.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a9e09697f5e1e0657c4306e8ebb5cd349c13ef6f/images/sliders.jpg",
 			"title": "Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor",
 			"id": "personalizing-content-moderation",
@@ -28,7 +60,7 @@
 			"conference url": "https://cscw.acm.org/2023/",
 			"conference": "CSCW",
 			"year": "2023",
-			"short_abstract": "<p>This paper investigates end users' perspectives on personal content moderation tools by conducting an interview study with a diverse sample of 24 active social media users.&nbsp;</p>",
+			"short_abstract": "<p>This paper investigates end users' perspectives on&nbsp; tools that allow users to personalize their content moderation by conducting an interview study with a diverse sample of 24 active social media users.&nbsp;</p>",
 			"abstract": "Social media platforms moderate content for each user by incorporating the outputs of both platform-wide content moderation systems and, in some cases, user-configured personal moderation preferences. However, it is unclear (1) how end users perceive the choices and affordances of different kinds of personal content moderation tools, and (2) how the introduction of personalization impacts user perceptions of platforms' content moderation responsibilities. This paper investigates end users' perspectives on personal content moderation tools by conducting an interview study with a diverse sample of 24 active social media users. We probe interviewees' preferences using simulated personal moderation interfaces, including word filters, sliders for toxicity levels, and boolean toxicity toggles. We also examine the labor involved for users in choosing moderation settings and present users' attitudes about the roles and responsibilities of social media platforms and other stakeholders towards moderation. We discuss how our findings can inform design solutions to improve transparency and controllability in personal content moderation tools.",
 			"bibtex": "@article{jhaver2023personalizing,\n  title={Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor},\n  author={Jhaver, Shagun and Zhang, Alice Qian and Chen, Quanze and Natarajan, Nikhila and Wang, Ruotong and Zhang, Amy},\n  journal={Proceedings of the ACM on Human-Computer Interaction},\n  year={2023}\n}",
 			"links": {
@@ -51,7 +83,7 @@
 			"conference url": "https://cscw.acm.org/2023/",
 			"conference": "CSCW",
 			"year": "2023",
-			"short_abstract": "<p>We introduce a new workflow, Judgment Sieve, to reduce uncertainty in tasks involving group judgment in a targeted manner. By utilizing measurements that separate different sources of uncertainty during an initial round of judgment elicitation, we can then select a targeted intervention adding context or deliberation to most effectively reduce uncertainty on each item being judged.</p>",
+			"short_abstract": "<p>We introduce a new workflow, Judgment Sieve, to reduce uncertainty in tasks involving group judgment in a targeted manner. By using measurements that separate different sources of uncertainty during an initial round of judgment, we can select a targeted intervention adding context or deliberation to most effectively reduce uncertainty.</p>",
 			"abstract": "When groups of people are tasked with making a judgment, the issue of uncertainty often arises. Existing methods to reduce uncertainty typically focus on iteratively improving specificity in the overall task instruction. However, uncertainty can arise from multiple sources, such as ambiguity of the item being judged due to limited context, or disagreements among the participants due to different perspectives and an under-specified task. A one-size-fits-all intervention may be ineffective if it is not targeted to the right source of uncertainty. In this paper we introduce a new workflow, Judgment Sieve, to reduce uncertainty in tasks involving group judgment in a targeted manner. By utilizing measurements that separate different sources of uncertainty during an initial round of judgment elicitation, we can then select a targeted intervention adding context or deliberation to most effectively reduce uncertainty on each item being judged. We test our approach on two tasks: rating word pair similarity and toxicity of online comments, showing that targeted interventions reduced uncertainty for the most uncertain cases. In the top 10% of cases, we saw an ambiguity reduction of 21.4% and 25.7%, and a disagreement reduction of 22.2% and 11.2% for the two tasks respectively. We also found through a simulation that our targeted approach reduced the average uncertainty scores for both sources of uncertainty as opposed to uniform approaches where reductions in average uncertainty from one source came with an increase for the other.",
 			"bibtex": "@article{chen2023judgment,\n  title={Judgment Sieve: Reducing Uncertainty in Group Judgments through Interventions Targeting Ambiguity versus Disagreement},\n  author={Chen, Quan Ze and Zhang, Amy X},\n  journal={Proceedings of the ACM on Human-Computer Interaction},\n  year={2023}\n}",
 			"links": {
@@ -77,7 +109,7 @@
 			"conference url": "https://facctconference.org/2023/",
 			"conference": "FAccT",
 			"year": "2023",
-			"short_abstract": "<p>Our work is the first to investigate the skin tone annotation process as a sociotechnical project. We surveyed recent skin tone annotation procedures and conducted annotation experiments to examine how subjective understandings of skin tone are embedded in skin tone annotation procedures.</p>",
+			"short_abstract": "<p>We surveyed recent skin tone annotation procedures used in computer vision papers for fairness evaluation and conducted annotation experiments to examine how subjective understandings of skin tone are embedded in skin tone annotation procedures.</p>",
 			"abstract": "To investigate the well-observed racial disparities in computer vision systems that analyze images of humans, researchers have turned to skin tone as more objective annotation than race metadata for fairness performance evaluations. However, the current state of skin tone annotation procedures is highly varied. For instance, researchers use a range of untested scales and skin tone categories, have unclear annotation procedures, and provide inadequate analyses of uncertainty. In addition, little attention is paid to the positionality of the humans involved in the annotation process--both designers and annotators alike--and the historical and sociological context of skin tone in the United States. Our work is the first to investigate the skin tone annotation process as a sociotechnical project. We surveyed recent skin tone annotation procedures and conducted annotation experiments to examine how subjective understandings of skin tone are embedded in skin tone annotation procedures. Our systematic literature review revealed the uninterrogated association between skin tone and race and the limited effort to analyze annotator uncertainty in current procedures for skin tone annotation in computer vision evaluation. Our experiments demonstrated that design decisions in the annotation procedure such as the order in which the skin tone scale is presented or additional context in the image (i.e., presence of a face) significantly affected the resulting inter-annotator agreement and individual uncertainty of skin tone annotations. We call for greater reflexivity in the design, analysis, and documentation of procedures for evaluation using skin tone.",
 			"bibtex": "@inproceedings{barrett2023skin, title={Skin Deep: Investigating Subjectivity in Skin Tone Annotations for Computer Vision Benchmark Datasets},\n  author={Barrett, Teanna and Chen, Quan Ze and Zhang, Amy X}, booktitle={Proceedings of the ACM Conference on Fairness, Accountability, and Transparency}, series={FAccT '23}, year={2023}}",
 			"links": {
