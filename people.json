@@ -12,7 +12,8 @@
 				"github_url": "http://github.com/amyxzhang",
 				"twitter_url": "https://twitter.com/amyxzh",
 				"email": "axz@cs.uw.edu"
-			}
+			},
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
@@ -26,7 +27,8 @@
 				"twitter_url": "https://twitter.com/cquanze",
 				"email": "cqz@cs.washington.edu"
 			},
-			"bio": "Quan Ze (Jim) is a former PhD student, now postdoc in SFL. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows."
+			"bio": "Quan Ze (Jim) is a former PhD student, now postdoc in SFL. He is interested in understading disagreement and ambiguity in human annotation and building&nbsp; crowdsourcing and human-in-the loop workflows.",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cc28dc209f67cb4f793bef32a287011d75a937e7/images/XinyiZhou-square.jpg",
@@ -39,7 +41,8 @@
 				"twitter_url": "https://twitter.com/XinyiZhouXZ",
 				"email": "xzhou@cs.washington.edu"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://www.nickmvincent.com/static/Headshots-916_Small.jpg",
@@ -53,7 +56,8 @@
 				"twitter_url": "https://twitter.com/nickmvincent",
 				"email": "nvince@cs.washington.edu"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@661d87850d41c1ce34e4fbe4987bcd0ff0cf8fd6/images/25200741.jpeg",
@@ -67,7 +71,8 @@
 				"email": "ruotongw@cs.washington.edu",
 				"website_url": "https://homes.cs.washington.edu/~ruotongw/"
 			},
-			"bio": "Ruotong Wang is a Ph.D. student at University of Washington CSE. She is interested in understanding and developing sociotechnical systems that facilitate communication and collaboration among diverse community members.&nbsp;"
+			"bio": "Ruotong Wang is a Ph.D. student at University of Washington CSE. She is interested in understanding and developing sociotechnical systems that facilitate communication and collaboration among diverse community members.&nbsp;",
+			"alum": false
 		},
 		{
 			"name": "Galen Weld",
@@ -81,7 +86,8 @@
 				"email": "gweld@cs.washington.edu"
 			},
 			"@type": "Person",
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3697dc8a51230af4fafc065877dc65e8f9713770/images/galen.jpg"
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3697dc8a51230af4fafc065877dc65e8f9713770/images/galen.jpg",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@229785752fd0a46bd19eb162ecc7e13e3495613b/images/kjfeng.jpeg",
@@ -94,7 +100,8 @@
 				"twitter_url": "https://twitter.com/kjfeng_",
 				"email": "kjfeng@uw.edu"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@444548a9cb445695d2a9a8c916c0b101f10f6bb7/images/profile-pic%20(23).jpeg",
@@ -108,7 +115,8 @@
 				"twitter_url": "https://twitter.com/jinayoon_",
 				"email": "jyoon963@cs.washington.edu"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ee247b48cb37c011bd6bb81b61e88f6dc72283b6/images/17DB189C-678A-446E-BFBA-447C7E834FD2_1_201_a.jpeg",
@@ -121,7 +129,8 @@
 				"twitter_url": "https://twitter.com/leijiewang17",
 				"email": "leijiew@cs.washington.edu"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
@@ -132,7 +141,8 @@
 				"website_url": "https://www.emeliahughes.com/",
 				"email": "emhughes@uw.edu"
 			},
-			"bio": "Emelia Hughes graduated from UW in June with degrees in Informatics and Drawing &amp; Painting. Her research interests are in human-computer interaction, and she is currently focusing on the UX surrounding credibility. Next fall, she will be a PhD student at Notre Dame."
+			"bio": "Emelia Hughes graduated from UW in June with degrees in Informatics and Drawing &amp; Painting. Her research interests are in human-computer interaction, and she is currently focusing on the UX surrounding credibility. Next fall, she will be a PhD student at Notre Dame.",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bc1557d93ecfd628d0229d1c82931deb67a8eda0/images/jenny.jpg",
@@ -144,7 +154,8 @@
 				"github_url": "https://github.com/jennyfan",
 				"twitter_url": "https://twitter.com/jennyjfan"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@96db881daba3941b0e0b43f836454b670c921c11/images/PeipeiNie.jpg",
@@ -157,7 +168,8 @@
 				"github_url": "https://github.com/peipei-nie",
 				"twitter_url": "https://twitter.com/PeipeiNie"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a5b23abf11ce42fb911c0440c23de840bc19ab5/images/thumbnail_tony.jpg",
@@ -168,7 +180,8 @@
 				"website_url": "https://tonyli1.github.io/",
 				"github_url": "https://github.com/tonyli1"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@defdf2abf1c8c871062e531a6dcba6e50211c557/images/Simona.jpg",
@@ -179,7 +192,8 @@
 				"website_url": "https://www.linkedin.com/in/simonaliao/?locale=en_US",
 				"github_url": "https://github.com/SimonaLiao"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"name": "Anson Huang",
@@ -191,7 +205,8 @@
 				"twitter_url": "https://twitter.com/ansonjhuang"
 			},
 			"@type": "Person",
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6a491b95a80a47c607bfe5cfb6d3a66909e6b65e/images/headshot%202.png"
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6a491b95a80a47c607bfe5cfb6d3a66909e6b65e/images/headshot%202.png",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9a25b9c247a69e121c56e5eb651a8cf6c93f90b7/images/sqry.png",
@@ -203,7 +218,8 @@
 				"twitter_url": "https://twitter.com/RyanLi91583606",
 				"website_url": "https://www.linkedin.com/in/ryan-li-a9b2761b8"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"name": "Andre Ye",
@@ -214,7 +230,8 @@
 				"github_url": "https://github.com/andre-ye"
 			},
 			"@type": "Person",
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg"
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8208ad7ad1b7f12148f4a62b2405b8d84682bf04/images/indoors-window-cropped.jpeg",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@44a55ee5ba2f5af2451377feca7ec82bbda87834/images/Picture1.png",
@@ -225,7 +242,8 @@
 				"website_url": "https://www.linkedin.com/in/lin-qiu-866600220/",
 				"github_url": "https://github.com/linqiu0-0"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7c66f10446f861c0979ded595120ff5b7caf5a52/images/Shreya%20Sathyanarayanan.jpg",
@@ -235,7 +253,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/shreya-s-427807202/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@2c705ad655a27a0f646965050878edd375993dc7/images/kianna_s_picture.jpeg",
@@ -245,7 +264,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/kiannabolante/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@387e54089160a41ac355e097bf776dec1080d148/images/IMG-2178(1).jpg",
@@ -256,7 +276,8 @@
 				"website_url": "https://www.linkedin.com/in/sarah-fredrickson-0a79601a5/",
 				"github_url": "https://github.com/sarahfredrickson"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c6ba0522d070469925a8c1ff7cd1aa73beb0e810/images/IMG_4618.jpg",
@@ -266,7 +287,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/pranati-dani/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@49635732bd12a3367cc99cc2a4c7b5900bc7b273/images/Profile%20Photo%20Suit.jpeg",
@@ -277,7 +299,8 @@
 				"website_url": "https://lawrencetan.ca/",
 				"github_url": "https://github.com/lawtancool"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@864edf70b6f54ef44209b5bed85512dacc66437d/images/IMG_8846.JPG",
@@ -287,7 +310,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/gloria-guo/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f811ab7321a863d0b7d72ecc8363f61854046b5a/images/Judy_Kang.jpg",
@@ -297,7 +321,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/judy-kang"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@edf5b594571632c48ecd51e64e63492c65e641c3/images/Khushi%20Khandelwal.jpeg",
@@ -307,7 +332,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/khushi-khandelwal-232224193/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		}
 	]
 }
