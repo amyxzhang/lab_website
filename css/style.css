@@ -170,6 +170,10 @@ hr {
 	display: none;
 }
 
+.fix-alum-height {
+	height: 250px;
+}
+
 [property="author_name"]  {
     vertical-align: text-bottom;
 }
