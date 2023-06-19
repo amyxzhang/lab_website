@@ -300,7 +300,7 @@
 				"github_url": "https://github.com/lawtancool"
 			},
 			"@type": "Person",
-			"alum": false
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@864edf70b6f54ef44209b5bed85512dacc66437d/images/IMG_8846.JPG",
@@ -311,7 +311,7 @@
 				"website_url": "https://www.linkedin.com/in/gloria-guo/"
 			},
 			"@type": "Person",
-			"alum": false
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f811ab7321a863d0b7d72ecc8363f61854046b5a/images/Judy_Kang.jpg",
@@ -322,7 +322,7 @@
 				"website_url": "https://www.linkedin.com/in/judy-kang"
 			},
 			"@type": "Person",
-			"alum": false
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@edf5b594571632c48ecd51e64e63492c65e641c3/images/Khushi%20Khandelwal.jpeg",
