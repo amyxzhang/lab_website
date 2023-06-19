@@ -91,32 +91,36 @@
 											<option value="intern">Summer Intern</option>
 										</select>
 									</p>
+								
+									<span class="hide-on-read">Alumni?: <input property="alum" type="checkbox" /><BR></span>
 									
-									<span property="bio" class="tinymce">Bio</span><BR>
+									<span class="[if(alum == true, hide-author, )]">
+										<span property="bio" class="tinymce">Bio</span><BR>
+
+										<span property="links">
+											<a href="mailto:[email]" class="button" mv-if="email">
+												<img src="img/email2.png"> <span property="email"> Email</span>
+											</a>
+
+											<a href="null" property="website_url" class="button">
+												<img src="img/earth4.png"><span> Website</span>
+											</a>
+
+											<a href="null" property="scholar_url" class="button">
+												<img src="img/scholar2.png"><span>GScholar</span>
+											</a>
+
+											<a href="null" property="github_url" class="button">
+												<img src="img/github5.png"><span> Github</span>
+											</a>
+
+											<a href="null" property="twitter_url" class="button">
+												<img src="img/twitter4.png"><span> Twitter</span>
+											</a>
+										</span>
 													
-									<span property="links">
-										<a href="mailto:[email]" class="button" mv-if="email">
-											<img src="img/email2.png"> <span property="email"> Email</span>
-										</a>
-									
-										<a href="null" property="website_url" class="button">
-											<img src="img/earth4.png"><span> Website</span>
-										</a>
-										
-										<a href="null" property="scholar_url" class="button">
-											<img src="img/scholar2.png"><span>GScholar</span>
-										</a>
-										
-										<a href="null" property="github_url" class="button">
-											<img src="img/github5.png"><span> Github</span>
-										</a>
-										
-										<a href="null" property="twitter_url" class="button">
-											<img src="img/twitter4.png"><span> Twitter</span>
-										</a>
+										<BR><BR>
 									</span>
-													
-									<BR><BR>
 							</div>
 									
 						</div>
