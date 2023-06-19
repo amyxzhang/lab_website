@@ -166,6 +166,9 @@ hr {
 	display: none;
 }
 
+.hide-author {
+	display: none;
+}
 
 [property="author_name"]  {
     vertical-align: text-bottom;
