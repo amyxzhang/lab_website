@@ -342,7 +342,8 @@
 			"links": {
 				"website_url": "https://shagunjhaver.com/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@18a26f70bfcc65f05f616c05f775b6c7d01b8195/images/IMG_0028.jpg",
@@ -351,7 +352,8 @@
 			"@type": "Person",
 			"links": {
 				"website_url": "https://gezhangrp.com"
-			}
+			},
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fb7e2e24e18ae51c1526fd3793dd771d0e32b3a2/images/IMG_4463.jpg",
@@ -360,7 +362,8 @@
 			"@type": "Person",
 			"links": {
 				"website_url": "https://www.jiajiahu.me"
-			}
+			},
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bf379ae221456347fbc7d3deb0c6b09ea2dcad30/images/profile%20(2)%20(1).jpg",
@@ -369,7 +372,8 @@
 			"@type": "Person",
 			"links": {
 				"website_url": "http://stanford.edu/~rickygv/"
-			}
+			},
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fe3a35759a4bd67aba01a50c506e3e7e0e59d5e7/images/savanna.jpg",
@@ -378,7 +382,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/savanna-yee/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1eeb9e3b7a52d24b3059c7303ad8d17766c2c0c6/images/IMG_5145.jpg",
@@ -387,7 +392,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/felicia-y/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@af6bd65e571b1972863cf7376c5360dda5fb71a3/images/Picture1%202.jpg",
@@ -396,7 +402,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/malhi-simran/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9b2fe03d216895171b44263776ca74c4c0cef8d9/images/sqadit.png",
@@ -405,7 +412,8 @@
 			"links": {
 				"website_url": "https://github.com/streams1/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@56bd97ce19ef5bc454b2c8a2c3f2257b17a0483f/images/Screen%20Shot%202021-08-04%20at%2010.53.48%20PM.png",
@@ -414,7 +422,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/renee-wang/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5fbe89570329de717baca0ac1b685a68f7f84148/images/Skyler%20Hallinan%20(2).jpg",
@@ -423,7 +432,8 @@
 			"links": {
 				"website_url": "https://skylerhallinan.com/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b9ae1f732433410793325bca1c17ae7c61a8a7f1/images/detlef.png",
@@ -432,7 +442,8 @@
 			"links": {
 				"website_url": "https://github.com/Detinator10"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6babd26531e8fc583365e76c46f2dadda0c96825/images/IMG_2173.jpg",
@@ -441,7 +452,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/tarasirosh/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@97d84dd2eecea72890b70adc3fa50c1fec371177/images/alice.png",
@@ -450,7 +462,8 @@
 			"links": {
 				"website_url": "https://yjqian02.github.io/Personal-Website/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
@@ -459,7 +472,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/teanna-barrett-483376189/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8e63892820e3f4de635ef99af81ad5d05ba5541d/images/IMG_4397.jpg",
@@ -468,7 +482,8 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/kevich/"
 			},
-			"@type": "Person"
+			"@type": "Person",
+			"alum": true
 		}
 	]
 }
