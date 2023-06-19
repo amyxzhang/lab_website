@@ -1,6 +1,19 @@
 {
 	"thesis": [
 		{
+			"title": "Evaluating the Harm of Online Misinformation",
+			"author": [
+				{
+					"author_name": "Ryan Li"
+				}
+			],
+			"type": "Undergraduate Honors Thesis",
+			"date": "June 2023",
+			"links": {
+				"pdf_url": "https://drive.google.com/file/d/1dAl7D6r25bg09hsnt9sSEZ2wXphff2Yy/view?usp=sharing"
+			}
+		},
+		{
 			"title": "Understanding and Addressing Uncertainty of the Crowd",
 			"author": [
 				{
