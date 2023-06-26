@@ -336,6 +336,17 @@
 			"alum": false
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@edf5b594571632c48ecd51e64e63492c65e641c3/images/BrookeNelson2_ed - Copy.jpg",
+			"name": "Brooke Nelson",
+			"jobTitle": "undergrad",
+			"bio": "Brooke Nelson is an undergraduate student at the University of Colorado: Boulder majoring in computer science. Her research interests are to better understand online communities and effective content moderation.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/brooke-nelson-124375280/"
+			},
+			"@type": "Person",
+			"alum": false
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
 			"jobTitle": "postdoc",
