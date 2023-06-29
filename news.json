@@ -4,7 +4,7 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b66b09c12092b22504b83ce3ad8936a12531e2be/images/jim-graduation.jpg",
 			"title": "Jim graduated from his PhD!",
 			"date": "June 2023",
-			"description": "Jim officially walked in the graduation ceremony and received his PhD degree! His dissertation is \"Understanding and Addressing Uncertainty of the Crowd\", now available <a style=\"background-color: #ffffff;\" href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>.&nbsp;",
+			"description": "Jim officially walked in the graduation ceremony and received his PhD degree! His dissertation is \"Understanding and Addressing Uncertainty of the Crowd\" available <a style=\"background-color: #ffffff;\" href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>.",
 			"link": {
 				"link_url": "https://homes.cs.washington.edu/~cqz/dissertation.pdf",
 				"link_text": "Dissertation"
