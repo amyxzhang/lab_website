@@ -16,12 +16,6 @@
 			"alum": false
 		},
 		{
-			"jobTitle": "phd",
-			"alum": false,
-			"links": {},
-			"@type": "Person"
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
 			"name": "Quan Ze (Jim) Chen",
 			"jobTitle": "postdoc",
