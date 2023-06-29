@@ -372,7 +372,7 @@
 				"website_url": "https://www.linkedin.com/in/anisa-callis/"
 			},
 			"@type": "Person",
-			"alum": false,
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17f8e2aefc653a087ae53d0513fe6508f671b704/images/philip_sfl_pic.jpg",
@@ -383,7 +383,7 @@
 				"website_url": "https://www.linkedin.com/in/pabaill/"
 			},
 			"@type": "Person",
-			"alum": false,
+			"alum": false
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
