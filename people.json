@@ -16,6 +16,12 @@
 			"alum": false
 		},
 		{
+			"jobTitle": "phd",
+			"alum": false,
+			"links": {},
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba2cbdece3ea2254d103068bae79db7badf1abb4/images/cqz.png",
 			"name": "Quan Ze (Jim) Chen",
 			"jobTitle": "postdoc",
@@ -497,20 +503,34 @@
 			"alum": true
 		},
 		{
-			"jobTitle": "phd",
+			"jobTitle": "intern",
 			"alum": false,
-			"links": {},
-			"@type": "Person"
+			"links": {
+				"website_url": "https://www.linkedin.com/in/kathryn-yurechko"
+			},
+			"@type": "Person",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cf982ac9df254554acf8283b5e93dd766bfd001b/images/SIX_71205014-4F87-4423-8725-CDE7D4F404BA.jpg",
+			"name": "Kathryn Yurechko",
+			"bio": "<span style=\"color: #1d1c1d; font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; background-color: #f8f8f8;\">Kathryn Yurechko is an undergraduate student at Washington and Lee University studying Computer Science, Philosophy, and Poverty and Human Capability Studies. Her research interests are in content moderation and the support of marginalized communities on social media.</span>"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@57eb8e8fab4c4f4a9fa93cc8788c161deee7fe2a/images/Image%20from%20iOS.jpg",
-			"name": "Anisa Callis",
+			"name": " ",
 			"jobTitle": "intern",
 			"alum": false,
 			"bio": "<span style=\"color: #1d1c1d; font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; background-color: #f8f8f8;\">Hi! My name is Anisa Callis, and I am from Pittsburgh PA so I am pretty far from home right now. I currently am a rising 4th year at Penn State University in State College PA where I major in Human Centered Design and Development. I am also involved in an HCI lab on Penn State&rsquo;s campus where I am currently doing research on how visually impaired people interact with TikTok. Doing that project helped me find one area of research that I am interested in which is how we can create better technology that can support people in all ways but especially people with disabilities. In the Social Futures Lab, I am currently working with Ruotong Wang on a project regarding groups and their interactions with artificial intelligence (AI).&nbsp; We are specifically interested in exploring the idea that groups using AI can increase their ability to make better decisions. I am very excited to be working at UW this summer and look forward to developing this project!</span>",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/anisa-callis/"
 			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17f8e2aefc653a087ae53d0513fe6508f671b704/images/philip_sfl_pic.jpg",
+			"name": "Philip Baillargeon",
+			"jobTitle": "intern",
+			"alum": false,
+			"bio": "<span style=\"color: #1d1c1d; font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; background-color: #f8f8f8;\">Philip Baillargeon (he/him) is an undergraduate student at Stanford University studying Computer Science and Human-Computer Interaction. His interests include social computing, neurodiversity in social computing systems, accessible education technology, and public interest technology.</span>",
+			"links": {},
 			"@type": "Person"
 		}
 	]
