@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b66b09c12092b22504b83ce3ad8936a12531e2be/images/jim-graduation.jpg",
+			"title": "Jim graduated from his PhD!",
+			"date": "June 2023",
+			"description": "Jim officially walked in the graduation ceremony and received his PhD degree! His dissertation is \"Understanding and Addressing Uncertainty of the Crowd\", now available <a style=\"background-color: #ffffff;\" href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>.&nbsp;",
+			"link": {
+				"link_url": "https://homes.cs.washington.edu/~cqz/dissertation.pdf",
+				"link_text": "Dissertation"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1f74be4bea5a2ea4c7ec84acd27e1036c3b3ed77/images/skindeep.jpg",
 			"title": "Teanna presented a paper with Jim at ACM FAccT on skin tone annotations",
 			"date": "June 2023",
@@ -69,7 +79,7 @@
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@81f91c9d33afa0c6de37be3f999f8503a8d8fe89/images/capture-title.PNG",
 			"title": "Congratulations to Jim Chen, Ph.D. for finishing his thesis!",
 			"date": "Dec 2022",
-			"description": "Jim is the first official Ph.D. graduate of the Social Futures Lab! Congratulations to him for finishing his thesis on \"Understanding and Addressing Uncertainty of the Crowd\", now available&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>. Jim will continue being part of SFL as a postdoc this quarter. He will be joining the ARTT peer misinformation response project.&nbsp;",
+			"description": "Jim is the first official Ph.D. graduate of the Social Futures Lab! Congratulations to him for finishing his thesis on \"Understanding and Addressing Uncertainty of the Crowd\", now available&nbsp;<a style=\"background-color: #ffffff;\" href=\"https://homes.cs.washington.edu/~cqz/dissertation.pdf\">here</a>. Jim will continue being part of SFL as a postdoc this quarter. He will be joining the ARTT peer misinformation response project.",
 			"link": {
 				"link_url": "https://homes.cs.washington.edu/~cqz/dissertation.pdf",
 				"link_text": "Link"
