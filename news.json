@@ -1,6 +1,13 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@869b5502ea1593c7438954596606d7a6b5726e75/images/summerinterns.jpg",
+			"title": "Welcome REU summer interns Katie, Anisa, and Phil and HS intern Brooke!",
+			"date": "June 2023",
+			"description": "We are excited to welcome three summer REU interns through the DUB Summer REU program - Katie, Anisa, and Phil! Katie will be working on tools that leverage LLMS to help combat online harassment, Anisa will be conducting experiments to understand team-AI interaction for decision-support systems, and Phil will be investigating neurodiversity and social computing research. Additionally, we welcome Brooke, a high school intern who will be starting at CUBoulder in the fall, and will work this summer on teens and social media.",
+			"link": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b66b09c12092b22504b83ce3ad8936a12531e2be/images/jim-graduation.jpg",
 			"title": "Jim graduated from his PhD!",
 			"date": "June 2023",
