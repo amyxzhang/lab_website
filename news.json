@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0f57a4f5da71058716a78c5791f6f34bdc197130/images/RE1Mu3b.png",
+			"title": "We received an award from Microsoft's AI and the New Future of Work initiative",
+			"date": "July 2023",
+			"description": "We are excited to be one of the recipients of an award from Microsoft's AI and the New Future of Work program. We will use the funds to work on a research project on \"Interactive Personalized Information Artifacts to Summarize Team Communication\".&nbsp;",
+			"link": {
+				"link_url": "https://www.microsoft.com/en-us/research/academic-program/ai-and-the-new-future-of-work/recipients/",
+				"link_text": "Website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@869b5502ea1593c7438954596606d7a6b5726e75/images/summerinterns.jpg",
 			"title": "Welcome REU summer interns Katie, Anisa, and Phil and HS intern Brooke!",
 			"date": "June 2023",
