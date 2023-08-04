@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@246fc4bd742014bf534c9f1f6e75f51e9f101dc1/images/download%20(4).jpeg",
+			"title": "We received a grant from OpenAI's Democratic Inputs to AI program",
+			"date": "July 2023",
+			"description": "We were selected as one of 10 projects to conduct a democratic process to provide input into policies for how generative AI models should behave in different contexts. Our proposed democratic process will be an effort to carry out \"Case Law for AI Policy\" at scale.&nbsp;",
+			"link": {
+				"link_url": "https://openai.com/blog/democratic-inputs-to-ai",
+				"link_text": "Grant call"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0f57a4f5da71058716a78c5791f6f34bdc197130/images/RE1Mu3b.png",
 			"title": "We received an award from Microsoft's AI and the New Future of Work initiative",
 			"date": "July 2023",
