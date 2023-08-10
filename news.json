@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1144c2e6b77bc87af10decaeb5320ac2264b59/images/IMG_5198.jpg",
+			"title": "Leijie presented his work on reporting and privacy in E2EE apps at SOUPS",
+			"date": "Aug 2023",
+			"description": "Leijie presented work in collaboration with Ruotong and Cornell Tech researchers Sanketh and Sterling on <a href=\"https://arxiv.org/abs/2306.10478\">privacy considerations when considering whether to report messages in E2EE platforms</a>. The work was presented in Anaheim, CA at the Symposium on Usable Privacy and Security (SOUPS) conference. Leijie&nbsp;",
+			"link": {
+				"link_url": "https://arxiv.org/abs/2306.10478",
+				"link_text": "Link to paper"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@246fc4bd742014bf534c9f1f6e75f51e9f101dc1/images/download%20(4).jpeg",
 			"title": "We received a grant from OpenAI's Democratic Inputs to AI program",
 			"date": "July 2023",
@@ -8,6 +18,16 @@
 			"link": {
 				"link_url": "https://openai.com/blog/democratic-inputs-to-ai",
 				"link_text": "Grant call"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8ca2668d69aa91e83ee6ea037f9718919e15975a/images/Screenshot-2023-07-09-at-5.32.13-PM-e1689002431480.png",
+			"title": "Jina presented her research on teen mods on Discord at TrustCon",
+			"date": "July 2023",
+			"description": "Jina presented her ongoing work interviewing teen mods on Discord at TrustCon, a conference dedicated to trust and safety professionals and practitioners.",
+			"link": {
+				"link_url": "https://www.trustcon.net/trustcon2023/agenda",
+				"link_text": "Link to program"
 			}
 		},
 		{
