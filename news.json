@@ -2,9 +2,9 @@
 	"news_item": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1144c2e6b77bc87af10decaeb5320ac2264b59/images/IMG_5198.jpg",
-			"title": "Leijie presented his work on reporting and privacy in E2EE apps at SOUPS",
+			"title": "Leijie presented his work on reporting and privacy in E2EE apps at SOUPS and at Trust and Safety Research Conference",
 			"date": "Aug 2023",
-			"description": "Leijie presented work in collaboration with Ruotong and Cornell Tech researchers Sanketh and Sterling on <a href=\"https://arxiv.org/abs/2306.10478\">privacy considerations when considering whether to report messages in E2EE platforms</a>. The work was presented in Anaheim, CA at the Symposium on Usable Privacy and Security (SOUPS) conference. Leijie&nbsp;",
+			"description": "Leijie presented work in collaboration with Ruotong and Cornell Tech researchers Sanketh and Sterling on <a href=\"https://arxiv.org/abs/2306.10478\">privacy considerations when considering whether to report messages in E2EE platforms</a>. The work was presented in Anaheim, CA at the Symposium on Usable Privacy and Security (SOUPS) conference. Leijie also presented this work a month later at the Trust and Safety Research Conference",
 			"link": {
 				"link_url": "https://arxiv.org/abs/2306.10478",
 				"link_text": "Link to paper"
