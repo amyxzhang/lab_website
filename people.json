@@ -133,7 +133,7 @@
       "alum": false
     },
     {
-      "image": "../images/Alicia.png",
+      "image": "https://www.aliciaguo.com/images/Alicia.png",
       "name": "Alicia Guo",
       "jobTitle": "phd",
       "bio": "Alicia is a PhD student at the University of Washington CSE. Her research interests are in creativity support tools and representations of generated content in human-AI systems.",
