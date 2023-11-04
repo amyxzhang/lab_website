@@ -542,6 +542,16 @@
       },
       "@type": "Person",
       "alum": true
+    },
+    {
+      "image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8e63892820e3f4de635ef99af81ad5d05ba5541d/images/kuhlsydney.jpg",
+      "name": "Sydney Kuhl",
+      "jobTitle": "undergrad",
+      "links": {
+        "website_url": "https://www.linkedin.com/in/sydneykuhl/"
+      },
+      "@type": "Person",
+      "alum": false
     }
   ]
 }
