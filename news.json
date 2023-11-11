@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b738c3060061b5efc5778d9a290ac987f37f6174/images/IMG_2461%20(2).jpg",
+			"title": "SFL Case Law for AI Policy team visits OpenAI",
+			"date": "Sept 2023",
+			"description": "The SFL Case Law for AI Policy team consisting of Jim, Kevin, Inyoung, King, and Amy visited OpenAI along with all the other OpenAI Democratic Inputs team, where Jim gave a talk about our ongoing pilot.",
+			"link": {
+				"link_url": "https://social.cs.washington.edu/case-law-ai-policy/",
+				"link_text": "Project page"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1144c2e6b77bc87af10decaeb5320ac2264b59/images/IMG_5198.jpg",
 			"title": "Leijie presented his work on reporting and privacy in E2EE apps at SOUPS and at Trust and Safety Research Conference",
 			"date": "Aug 2023",
