@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3c823783fe5313282d27981550f1f60477f1deb3/images/kjkf.jpg",
+			"title": "SFL at CSCW in Minneapolis: 3 paper talks",
+			"date": "Oct 2023",
+			"description": "Shagun gave a talk on <a href=\"https://dl.acm.org/doi/abs/10.1145/3610080\">personalizing content moderation</a> and user perspectives. Kevin gave a talk in collaboration with the C2PA on <a href=\"https://dl.acm.org/doi/abs/10.1145/3610061\">the impact of media provenance indicators</a> on trust and accuracy.&nbsp; And Jim gave a talk on <a href=\"https://arxiv.org/abs/2305.01615\">Judgment Sieve</a>, a workflow for targeted interventions to reduce uncertainty in group judgments. Ruotong and Jina each attended a workshop, and Leijie was also in attendance. Amy was DEI co-chair and helped organize the DEI lunch and field trip to the George Floyd Memorial. SFL also helped host a crafting table on Tuesday!",
+			"link": {
+				"link_url": "https://cscw.acm.org/2023/",
+				"link_text": "CSCW 2023"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b738c3060061b5efc5778d9a290ac987f37f6174/images/IMG_2461%20(2).jpg",
 			"title": "SFL Case Law for AI Policy team visits OpenAI",
 			"date": "Sept 2023",
