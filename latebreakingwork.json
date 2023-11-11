@@ -1,6 +1,28 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@924eb9a17eeb68ff07acaa4d35eddf43c2b7987f/images/knight-paper-cover.png",
+			"title": "Teachable Agents for End-User Empowerment in Personalized Feed Curation",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "David W. McDonald"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "https://knightcolumbia.org/events/optimizing-for-what-algorithmic-amplification-and-society",
+			"conference": "Algorithmic Amplification and Society, Knight 1st Amendment Institute",
+			"year": "2023",
+			"links": {
+				"website_url": "https://knightcolumbia.org/content/teachable-agents-for-end-user-empowerment-in-personalized-feed-curation"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9cdc8f8b61adbf29da93a0d359381235322911ee/images/Screen%20Shot%202022-04-27%20at%209.49.27%20AM.png",
 			"title": "From Handoffs to Co-Creation: Deepening Collaboration between Designers, Developers, and Data Science Workers in UX Design",
 			"author": [
