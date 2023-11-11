@@ -1,10 +1,6 @@
 {
 	"news_item": [
 		{
-			"title": "test test",
-			"link": {}
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1144c2e6b77bc87af10decaeb5320ac2264b59/images/IMG_5198.jpg",
 			"title": "Leijie presented his work on reporting and privacy in E2EE apps at SOUPS and at Trust and Safety Research Conference",
 			"date": "Aug 2023",
