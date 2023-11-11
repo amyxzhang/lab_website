@@ -1,6 +1,48 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0c876d0c60188bcb44a357400da3acb4a64128d1/images/Peer-Misinfo-Fig-1.jpeg",
+			"title": "User Experiences and Needs when Responding to Misinformation on Social Media",
+			"id": "responding-to-misinformation",
+			"author": [
+				{
+					"author_name": "Pranav Malhotra"
+				},
+				{
+					"author_name": "Ruican Zhong"
+				},
+				{
+					"author_name": "Victor Kuan"
+				},
+				{
+					"author_name": "Gargi Panatula"
+				},
+				{
+					"author_name": "Michelle Weng"
+				},
+				{
+					"author_name": "Andrea Bras"
+				},
+				{
+					"author_name": "Connie Moon Sehat"
+				},
+				{
+					"author_name": "Franzi Roesner"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Harvard Kennedy School Misinformation Review",
+			"conference url": "https://misinforeview.hks.harvard.edu/",
+			"year": "2023",
+			"short_abstract": "<p>This study examines the experiences of those who participate in bottom-up user-led responses to misinformation on social media and outlines how they can be better supported via software tools.</p>",
+			"abstract": "This study examines the experiences of those who participate in bottom-up user-led responses to misinformation on social media and outlines how they can be better supported via software tools. Findings show that users desire support tools designed to minimize time and effort in identifying misinformation and provide tailored suggestions for crafting responses to misinformation that account for emotional and relational context. Academics and practitioners interested in designing misinformation interventions that harness user participation can draw upon these findings.",
+			"links": {
+				"pdf_url": "https://misinforeview.hks.harvard.edu/article/user-experiences-and-needs-when-responding-to-misinformation-on-social-media/"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1b14ebd162cded1f6be0f2d15bf4cbc8524176b0/images/multilevel.jpg",
 			"title": "Decentralizing Platform Power: A Design Space of Multi-level Governance in Online Social Platforms",
 			"id": "decentralizing-platform-power",
@@ -16,7 +58,7 @@
 				}
 			],
 			"conference_full_name": "Social Media+ Society",
-			"conference": "SM+S",
+			"conference url": "https://journals.sagepub.com/home/sms",
 			"year": "2023",
 			"short_abstract": "<p>Drawing from literature on federalism and polycentricity in analogous offline institutions, we scrutinize the landscape of existing platforms through the lens of multi-level governance.</p>",
 			"abstract": "Many have criticized the centralized and unaccountable governance of prominent online social platforms, leading to renewed interest in platform governance that incorporates multiple centers of power. Decentralization of power can arise horizontally, through parallel communities, each with local administration, and vertically, through multiple hierarchies of overlapping jurisdiction. Drawing from literature on federalism and polycentricity in analogous offline institutions, we scrutinize the landscape of existing platforms through the lens of multi-level governance. Our analysis describes how online platforms incorporate varying forms and degrees of decentralized governance. In particular, we propose a framework that characterizes the general design space and the various ways that middle levels of governance vary in how they can interact with a centralized governance system above and end users below. This focus provides a starting point for new lines of inquiry between platform- and community-governance scholarship. By engaging themes of decentralization, hierarchy, power, and responsibility, while discussing concrete examples, we connect designers and theorists of online spaces.",
