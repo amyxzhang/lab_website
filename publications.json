@@ -1,6 +1,33 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ad778f93842b5ae6e85f74b7c20abe25c7a67497/images/conconf.jpg",
+			"title": "Confidence Contours: Uncertainty-Aware Annotation for Medical Semantic Segmentation",
+			"id": "confidence-contours",
+			"author": [
+				{
+					"author_name": "Andre Ye"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Conference on Human Computation and Crowdsourcing",
+			"conference url": "https://www.humancomputation.com/",
+			"conference": "HCOMP",
+			"year": "2023",
+			"award": "Best Paper Honorable Mention",
+			"short_abstract": "<p>We propose a novel segmentation representation, Confidence Contours, which uses high-and low-confidence \"contours\" to capture uncertainty directly, and develop a novel annotation system for collecting contours.</p>",
+			"abstract": "Medical image segmentation modeling is a high-stakes task where understanding of uncertainty is crucial for addressing visual ambiguity. Prior work has developed segmentation models utilizing probabilistic or generative mechanisms to infer uncertainty from labels where annotators draw a singular boundary. However, as these annotations cannot represent an individual annotator's uncertainty, models trained on them produce uncertainty maps that are difficult to interpret. We propose a novel segmentation representation, Confidence Contours, which uses high-and low-confidence \"contours\" to capture uncertainty directly, and develop a novel annotation system for collecting contours. We conduct an evaluation on the Lung Image Dataset Consortium (LIDC) and a synthetic dataset. From an annotation study with 30 participants, results show that Confidence Contours provide high representative capacity without considerably higher annotator effort. We also find that general-purpose segmentation models can learn Confidence Contours at the same performance level as standard singular annotations. Finally, from interviews with 5 medical experts, we find that Confidence Contour maps are more interpretable than Bayesian maps due to representation of structural uncertainty.",
+			"bibtex": "@inproceedings{ye2023confidence,\n  title={Confidence Contours: Uncertainty-Aware Annotation for Medical Semantic Segmentation},\n  author={Ye, Andre and Chen, Quan Ze and Zhang, Amy},\n  booktitle={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing},\n  volume={11},\n  number={1},\n  pages={186--197},\n  year={2023}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2308.07528.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f44e3d5061d947281859d471efd08eb5a3fdb662/images/F2qCqQcaIAA1-WN.jpeg",
 			"title": "\"Is Reporting Worth the Sacrifice of Revealing What I Have Sent?\": Privacy Considerations When Reporting on End-to-End Encrypted Platforms",
 			"id": "reporting-privacy-e2ee",
