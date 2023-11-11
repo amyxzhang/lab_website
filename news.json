@@ -1,6 +1,26 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c1ea180d8a6197e147f53f8270321c7fdc885adc/images/20231107_201234.jpg",
+			"title": "Andre and Jim win Best Paper Honorable Mention at HCOMP, Amy participates in a panel",
+			"date": "Nov 2023",
+			"description": "Andre gives a talk on Confidence Contours, a new method for uncertainty-aware annotation for medical semantic segmentation, which ended up winning a Best Paper Honorable Mention award! Amy also participated in a panel session on Decision-Making.",
+			"link": {
+				"link_url": "https://ojs.aaai.org/index.php/HCOMP/article/view/27559",
+				"link_text": "Paper link"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0d8f5b2a7ca0cd082b7e326290b7190e8e6fd950/images/warren-4l-e7U6c5ek-unsplash-scaled.jpeg",
+			"title": "Amy was interviewed in a story for UW News",
+			"date": "Oct 2023",
+			"description": "Amy was interviewed alongside Amanda Baughan, Katherine Cross, and Martin Saveski on \"How can social media be better?\".&nbsp;",
+			"link": {
+				"link_url": "https://www.washington.edu/news/2023/10/24/better-social-media-research-twitter-bluesky-linkedin-threads/",
+				"link_text": "Article link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3c823783fe5313282d27981550f1f60477f1deb3/images/kjkf.jpg",
 			"title": "SFL at CSCW in Minneapolis: 3 paper talks",
 			"date": "Oct 2023",
