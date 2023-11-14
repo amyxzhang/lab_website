@@ -1,6 +1,23 @@
 {
 	"paper": [
 		{
+			"title": "Leveraging communication data to support workers’ learning in collaborative complex work",
+			"author": [
+				{
+					"author_name": "Ruotong Wang"
+				},
+				{
+					"author_name": "Ye Yuan"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Supporting Workers in Developing Effective Collaboration Skills for Complex Work",
+			"conference url": "https://cscw.acm.org/2023/",
+			"links": {}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@924eb9a17eeb68ff07acaa4d35eddf43c2b7987f/images/knight-paper-cover.png",
 			"title": "Teachable Agents for End-User Empowerment in Personalized Feed Curation",
 			"author": [
