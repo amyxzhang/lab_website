@@ -14,8 +14,10 @@
 				}
 			],
 			"publication_type": "Supporting Workers in Developing Effective Collaboration Skills for Complex Work",
-			"conference url": "https://cscw.acm.org/2023/",
-			"links": {}
+			"conference url": "https://cscw.acm.org/2023",
+			"links": {},
+			"conference": "Supporting Workers in Developing Effective Collaboration Skills for Complex Work",
+			"year": "CSCW 2023"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@924eb9a17eeb68ff07acaa4d35eddf43c2b7987f/images/knight-paper-cover.png",
