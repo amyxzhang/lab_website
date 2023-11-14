@@ -15,9 +15,13 @@
 			],
 			"publication_type": "Supporting Workers in Developing Effective Collaboration Skills for Complex Work",
 			"conference url": "https://cscw.acm.org/2023",
-			"links": {},
+			"links": {
+				"pdf_url": "https://social.cs.washington.edu/papers/Communication_data_learning.pdf",
+				"website_url": "https://learning-collaboration-cscw23-workshop.vercel.app/#overview"
+			},
 			"conference": "CSCW",
-			"year": "2023"
+			"year": "2023",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@eb2c9dde5893fb8eca4cfa25bb410861608aee1e/images/_1fd5c53f-69e5-4233-8b7e-d4e3e782b8c6.jpeg"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@924eb9a17eeb68ff07acaa4d35eddf43c2b7987f/images/knight-paper-cover.png",
