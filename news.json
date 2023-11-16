@@ -41,6 +41,16 @@
 			}
 		},
 		{
+			"image": "https://www.aliciaguo.com/images/Alicia.png",
+			"title": "Welcome Alicia to SFL!",
+			"date": "Sept 2023",
+			"description": "Alicia Guo joins us in SFL as a new PhD student co-advised by Amy and Jeff Heer. Her research interests are in creativity support tools, new interactions for text, and collaboration tools. She comes to Seattle by way of Cambridge, specifically MIT Media Lab and MIT CSAIL.",
+			"link": {
+				"link_url": "https://www.aliciaguo.com/",
+				"link_text": "Alicia's website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1144c2e6b77bc87af10decaeb5320ac2264b59/images/IMG_5198.jpg",
 			"title": "Leijie presented his work on reporting and privacy in E2EE apps at SOUPS and at Trust and Safety Research Conference",
 			"date": "Aug 2023",
