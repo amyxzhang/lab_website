@@ -1,6 +1,36 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c3d3d866d1e8d8c8e4aa0dd5c6a6a1df62dc8204/images/Screen%20Shot%202023-12-01%20at%2010.42.26%20AM.png",
+			"title": "Case Repositories: Toward Case-Based Reasoning for AI Alignment",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "King Xia"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "AI Meets Moral Philosophy and Psychology (MP2) Workshop",
+			"conference url": "https://neurips.cc/",
+			"conference": "NeurIPS",
+			"year": "2023",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2311.10934.pdf",
+				"website_url": "https://social.cs.washington.edu/case-law-ai-policy/",
+				"code_url": "https://github.com/Social-Futures-Lab/case-law-ai-policy"
+			}
+		},
+		{
 			"title": "Leveraging communication data to support workers’ learning in collaborative complex work",
 			"author": [
 				{
