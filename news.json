@@ -71,6 +71,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5116099e0a7672ec3ac047dd9fb17597bde50afe/images/screenshotyt.jpg",
+			"title": "Our Social Computing Capstone was featured by UW CSE",
+			"date": "July 2023",
+			"description": "Our Social Computing Capstone course, now in its 2nd year, is a course offered to senior undergraduates as a capstone project before they graduate, where they form teams to build a new social computing system. The recent Spring '23 offering was just featured as a video by UW CSE.",
+			"link": {
+				"link_url": "https://www.youtube.com/watch?v=9AWkEKRuDZg",
+				"link_text": "Link to video"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@246fc4bd742014bf534c9f1f6e75f51e9f101dc1/images/download%20(4).jpeg",
 			"title": "We received a grant from OpenAI's Democratic Inputs to AI program",
 			"date": "July 2023",
