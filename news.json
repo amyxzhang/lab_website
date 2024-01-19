@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a2a5e27e8264415bb6e9448dc003d25252b16124/images/crawinners2.jpg",
+			"title": "Kianna wins CRA's Outstanding Undergraduate Research Award, Andre is a finalist",
+			"date": "Jan 2024",
+			"description": "Faculty from institutions across North America nominated undergraduate researchers who demonstrate strong research capabilities and a commitment to advancing the field. This year, Kianna was selected as one of 4 winners of the award in the nation, and Andre was selected as one of 16 finalists.",
+			"link": {
+				"link_url": "https://cra.org/crn/2024/01/outstanding-undergraduate-research-awards-winners-announcement/",
+				"link_text": "CRA award announcement"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0305a6291d00389a3f58e61f58349b2afacce491/images/d1fbf34d-536c-4dd7-9428-38e627d3f40f_1456x1048.webp",
 			"title": "New_Public covers our work on PolicyKit, a toolkit for governing online communities",
 			"date": "Nov 2023",
@@ -56,8 +66,8 @@
 			"date": "Sept 2023",
 			"description": "The SFL Case Law for AI Policy team consisting of Jim, Kevin, Inyoung, King, and Amy visited OpenAI along with all the other OpenAI Democratic Inputs team, where Jim gave a talk about our ongoing pilot.",
 			"link": {
-				"link_url": "https://social.cs.washington.edu/case-law-ai-policy/",
-				"link_text": "Project page"
+				"link_url": "https://openai.com/blog/democratic-inputs-to-ai-grant-program-update",
+				"link_text": "OpenAI grant update"
 			}
 		},
 		{
