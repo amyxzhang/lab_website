@@ -1,6 +1,40 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a6aa70435dd7952ae53c73aff1c90fab436a9687/images/papeo.jpg",
+			"title": "Papeos: Augmenting Research Papers with Talk Videos",
+			"id": "papeos",
+			"author": [
+				{
+					"author_name": "Tae Soo Kim"
+				},
+				{
+					"author_name": "Matt Latzke"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				}
+			],
+			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
+			"conference url": "https://uist.acm.org/2023/",
+			"conference": "UIST",
+			"year": "2023",
+			"short_abstract": "<p>In this work, we explore the design space and benefits for combining academic papers and talk videos to leverage their complementary nature to provide a rich and fluid research consumption experience. Based on formative and co-design studies, we present Papeos, a novel reading and authoring interface that allow authors to augment their papers by segmenting and localizing talk videos alongside relevant paper passages with automatically generated suggestions.</p>",
+			"abstract": "Research consumption has been traditionally limited to the reading of academic papers—a static, dense, and formally written format. Alternatively, pre-recorded conference presentation videos, which are more dynamic, concise, and colloquial, have recently become more widely available but potentially under-utilized. In this work, we explore the design space and benefits for combining academic papers and talk videos to leverage their complementary nature to provide a rich and fluid research consumption experience. Based on formative and co-design studies, we present Papeos, a novel reading and authoring interface that allow authors to augment their papers by segmenting and localizing talk videos alongside relevant paper passages with automatically generated suggestions. With Papeos, readers can visually skim a paper through clip thumbnails, and fluidly switch between consuming dense text in the paper or visual summaries in the video. In a comparative lab study (n=16), Papeos reduced mental load, scaffolded navigation, and facilitated more comprehensive reading of papers.",
+			"bibtex": "@inproceedings{10.1145/3586183.3606770,\nauthor = {Kim, Tae Soo and Latzke, Matt and Bragg, Jonathan and Zhang, Amy X. and Chang, Joseph Chee},\ntitle = {Papeos: Augmenting Research Papers with Talk Videos},\nyear = {2023},\nisbn = {9798400701320},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3586183.3606770},\ndoi = {10.1145/3586183.3606770},\nbooktitle = {Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology},\narticleno = {15},\nnumpages = {19},\nkeywords = {Videos, Scientific Papers, Reading Interfaces, Interactive Documents},\nlocation = {<conf-loc>, <city>San Francisco</city>, <state>CA</state>, <country>USA</country>, </conf-loc>},\nseries = {UIST '23}\n}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3586183.3606770",
+				"website_url": "https://papeo.app/",
+				"video_url": "https://papeo.app/demo"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b5f8c3e84e307e8130252e991f66c1397742ba20/images/thirdperson.jpg",
 			"title": "Do users want platform moderation or individual control? Examining the role of third-person effects and free speech support in shaping moderation preferences",
 			"id": "third-person-effects",
@@ -14,7 +48,7 @@
 			],
 			"conference_full_name": "New Media & Society",
 			"conference url": "https://journals.sagepub.com/home/NMS",
-			"conference": "NM&S",
+			"conference": "New Media & Society",
 			"year": "2023",
 			"short_abstract": "<p>Via a nationally representative survey of 984 US adults, we explore the influence of third-person effects and support for freedom of expression on this choice. We find that perceived negative effects on others negatively predict while free speech support positively predicts a preference for having personal moderation settings over platform-directed moderation for regulating each speech category.</p>",
 			"abstract": "This study examines social media users’ preferences for the use of platform-wide moderation in comparison to user-controlled, personalized moderation tools to regulate three categories of norm-violating content—hate speech, sexually explicit content, and violent content. Via a nationally representative survey of 984 US adults, we explore the influence of third-person effects and support for freedom of expression on this choice. We find that perceived negative effects on others negatively predict while free speech support positively predicts a preference for having personal moderation settings over platform-directed moderation for regulating each speech category. Our findings show that platform governance initiatives need to account for both actual and perceived media effects of norm-violating speech categories to increase user satisfaction. Our analysis also suggests that users do not view personal moderation tools as an infringement on others’ free speech but as a means to assert greater agency over their social media feeds.",
