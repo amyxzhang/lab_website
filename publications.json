@@ -1,6 +1,30 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b5f8c3e84e307e8130252e991f66c1397742ba20/images/thirdperson.jpg",
+			"title": "Do users want platform moderation or individual control? Examining the role of third-person effects and free speech support in shaping moderation preferences",
+			"id": "third-person-effects",
+			"author": [
+				{
+					"author_name": "Shagun Jhaver"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "New Media & Society",
+			"conference url": "https://journals.sagepub.com/home/NMS",
+			"conference": "NM&S",
+			"year": "2023",
+			"short_abstract": "<p>Via a nationally representative survey of 984 US adults, we explore the influence of third-person effects and support for freedom of expression on this choice. We find that perceived negative effects on others negatively predict while free speech support positively predicts a preference for having personal moderation settings over platform-directed moderation for regulating each speech category.</p>",
+			"abstract": "This study examines social media users’ preferences for the use of platform-wide moderation in comparison to user-controlled, personalized moderation tools to regulate three categories of norm-violating content—hate speech, sexually explicit content, and violent content. Via a nationally representative survey of 984 US adults, we explore the influence of third-person effects and support for freedom of expression on this choice. We find that perceived negative effects on others negatively predict while free speech support positively predicts a preference for having personal moderation settings over platform-directed moderation for regulating each speech category. Our findings show that platform governance initiatives need to account for both actual and perceived media effects of norm-violating speech categories to increase user satisfaction. Our analysis also suggests that users do not view personal moderation tools as an infringement on others’ free speech but as a means to assert greater agency over their social media feeds.",
+			"bibtex": "@article{doi:10.1177/14614448231217993,\nauthor = {Shagun Jhaver and Amy X. Zhang},\ntitle ={Do users want platform moderation or individual control? Examining the role of third-person effects and free speech support in shaping moderation preferences},\njournal = {New Media \\& Society},\nvolume = {0},\nnumber = {0},\npages = {14614448231217993},\nyear = {0},\ndoi = {10.1177/14614448231217993},\nURL = { \n        https://doi.org/10.1177/14614448231217993\n},\neprint = { \n        https://doi.org/10.1177/14614448231217993\n}\n}\n\n\n",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2301.02208.pdf",
+				"website_url": "https://journals.sagepub.com/doi/abs/10.1177/14614448231217993"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0c876d0c60188bcb44a357400da3acb4a64128d1/images/Peer-Misinfo-Fig-1.jpeg",
 			"title": "User Experiences and Needs when Responding to Misinformation on Social Media",
 			"id": "responding-to-misinformation",
