@@ -1,6 +1,34 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d6f51e8244b964b215b8ccd1ca25010ce7f7ccf/images/k12.jpg",
+			"title": "Bringing Social Computing to Secondary School Classrooms",
+			"id": "k-12-social-computing",
+			"author": [
+				{
+					"author_name": "Kianna Bolante"
+				},
+				{
+					"author_name": "Kevin Chen"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Technical Symposium on Computer Science Education",
+			"conference": "SIGCSE",
+			"year": "2024",
+			"short_abstract": "<p>In this report, we present a series of six lessons combining presentations and hands-on activities covering topics within social computing and detail our experience teaching these lessons to approximately 1,405 students across 13 middle and high schools in our local school district.</p>",
+			"abstract": "Social computing is the study of how technology shapes human social interactions. This topic has become increasingly relevant to secondary school students (ages 11--18) as more of young people's everyday social experiences take place online, particularly with the continuing effects of the COVID-19 pandemic. However, social computing topics are rarely touched upon in existing middle and high school curricula. We seek to introduce concepts from social computing to secondary school students so they can understand how computing has wide-ranging social implications that touch upon their everyday lives, as well as think critically about both the positive and negative sides of different social technology designs. In this report, we present a series of six lessons combining presentations and hands-on activities covering topics within social computing and detail our experience teaching these lessons to approximately 1,405 students across 13 middle and high schools in our local school district. We developed lessons covering how social computing relates to the topics of Data Management, Encrypted Messaging, Human-Computer Interaction Careers, Machine Learning and Bias, Misinformation, and Online Behavior. We found that 81.13% of students expressed greater interest in the content of our lessons compared to their interest in STEM overall. We also found from pre- and post-lesson comprehension questions that 63.65% learned new concepts from the main activity. We release all lesson materials on a website for public use. From our experience, we observed that students were engaged in these topics and found enjoyment in finding connections between computing and their own lives.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2401.09591.pdf",
+				"website_url": "https://social.cs.washington.edu/sfl-curriculum/"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a6aa70435dd7952ae53c73aff1c90fab436a9687/images/papeo.jpg",
 			"title": "Papeos: Augmenting Research Papers with Talk Videos",
 			"id": "papeos",
