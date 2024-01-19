@@ -1,13 +1,23 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0305a6291d00389a3f58e61f58349b2afacce491/images/d1fbf34d-536c-4dd7-9428-38e627d3f40f_1456x1048.webp",
+			"title": "New_Public covers our work on PolicyKit, a toolkit for governing online communities",
+			"date": "Nov 2023",
+			"description": "New_Public's newsletter interviews Amy on the software toolkit <a href=\"https://dl.acm.org/doi/abs/10.1145/3379337.3415858\">PolicyKit</a> and ongoing work on the end-user-friendly system <a href=\"https://arxiv.org/abs/2310.04329\">Pika</a> towards empowering online communities to design and carry out different governance models of their choice.",
+			"link": {
+				"link_url": "https://newpublic.substack.com/p/democratizing-power-in-online-communities",
+				"link_text": "Article link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@65ffdc0228151866ea129bcf9dc2eef4def160c3/images/pile-3d-popular-social-media-logos-blog-hero.jpeg",
 			"title": "Our CSCW work was covered by UW Allen School News",
 			"date": "Nov 2023",
 			"description": "The title of the article is: \"&lsquo;The architects of our digital spaces&rsquo;: How researchers in the Allen School&rsquo;s Social Futures Lab are making social media better by design\" and covers research papers from this year's CSCW led by Kevin Feng and led by our former postdoc Shagun Jhaver.",
 			"link": {
 				"link_url": "https://news.cs.washington.edu/2023/11/30/the-architects-of-our-digital-spaces-how-researchers-in-the-allen-schools-social-futures-lab-are-making-social-media-better-by-design/",
-				"link_text": "Link to article"
+				"link_text": "Article link"
 			}
 		},
 		{
