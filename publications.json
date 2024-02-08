@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba20b630bdfb4c731d5e017021743ea2b56f0b74/images/taxonomy.png",
+			"title": "Making Online Communities' Better': A Taxonomy of Community Values on Reddit",
+			"id": "reddit-values-taxonomy",
+			"author": [
+				{
+					"author_name": "Galen Weld"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Tim Athoff"
+				}
+			],
+			"conference_full_name": "International Conference on Weblogs and Social Media",
+			"conference url": "https://www.icwsm.org/2024/index.html/",
+			"conference": "ICWSM",
+			"year": "2024",
+			"short_abstract": "<p>In this work, we ask 39 community members on reddit to describe their values for their communities. We gather 301 responses in members' own words, spanning 125 unique communities, and use iterative categorization to produce a taxonomy of 29 different community values across 9 major categories.</p>",
+			"abstract": "Many researchers studying online social communities seek to make such communities better. However, understanding what 'better' means is challenging, due to the divergent opinions of community members, and the multitude of possible community values which often conflict with one another. Community members' own values for their communities are not well understood, and how these values align with one another is an open question. Previous research has mostly focused on specific and comparatively well-defined harms within online communities, such as harassment, rule-breaking, and misinformation. In this work, we ask 39 community members on reddit to describe their values for their communities. We gather 301 responses in members' own words, spanning 125 unique communities, and use iterative categorization to produce a taxonomy of 29 different community values across 9 major categories. We find that members value a broad range of topics ranging from technical features to the diversity of the community, and most frequently prioritize content quality. We identify important understudied topics such as content quality and community size, highlight where values conflict with one another, and call for research into governance methods for communities that protect vulnerable members.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2109.05152.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d6f51e8244b964b215b8ccd1ca25010ce7f7ccf/images/k12.jpg",
 			"title": "Bringing Social Computing to Secondary School Classrooms",
 			"id": "k-12-social-computing",
