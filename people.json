@@ -147,6 +147,19 @@
 			"alum": false
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
+			"name": "Inyoung Cheong",
+			"jobTitle": "phd",
+			"alum": false,
+			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
+			"links": {
+				"website_url": "https://inyoungcheong.github.io",
+				"github_url": "https://github.com/inyoungcheong",
+				"twitter_url": "https://twitter.com/inyoungcheong"
+			},
+			"@type": "Person"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
 			"name": "Emelia May Hughes",
 			"jobTitle": "visiting",
@@ -553,19 +566,6 @@
 			},
 			"@type": "Person",
 			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
-			"name": "Inyoung Cheong",
-			"jobTitle": "phd",
-			"alum": false,
-			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
-			"links": {
-				"website_url": "https://inyoungcheong.github.io",
-				"github_url": "https://github.com/inyoungcheong",
-				"twitter_url": "https://twitter.com/inyoungcheong"
-			},
-			"@type": "Person"
 		}
 	]
 }
