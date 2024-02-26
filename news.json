@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@83df952af62f1f162f68f7c1a2b15fce31c3b2c8/images/cip-header-img.png",
+			"title": "UW's Center for Informed Public publishes our blog post on provenance and media credibility",
+			"date": "February 2024",
+			"description": "Our work on investigating effects of provenance information on users' media credibility perceptions, which appeared as <a href=\"https://dl.acm.org/doi/abs/10.1145/3610061\">a paper at CSCW 2023</a>, is now summarized as a blog post, published by the Center for Informed Public at the University of Washington!&nbsp;",
+			"link": {
+				"link_url": "https://www.cip.uw.edu/2024/02/21/provenance-synthetic-media-trust-perceptions/",
+				"link_text": "Blog post link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a2a5e27e8264415bb6e9448dc003d25252b16124/images/crawinners2.jpg",
 			"title": "Kianna wins CRA's Outstanding Undergraduate Research Award, Andre is a finalist",
 			"date": "Jan 2024",
