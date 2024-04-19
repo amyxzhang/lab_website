@@ -1,6 +1,32 @@
 {
 	"paper": [
 		{
+			"title": "Pika: Empowering Non-Programmers to Author Executable Governance Policies in Online Communities",
+			"id": "pika",
+			"author": [
+				{
+					"author_name": "Leijie Wang"
+				},
+				{
+					"author_name": "Nick Vincent"
+				},
+				{
+					"author_name": "Julija Rukanskaitė "
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "CHI",
+			"conference url": "https://chi2024.acm.org/",
+			"year": "2024",
+			"short_abstract": "1-2 sentence summary",
+			"abstract": "Internet users have formed a wide array of online communities with diverse community goals and nuanced norms. However, most online platforms only offer a limited set of governance models in their software infrastructure and leave little room for customization. Consequently, technical proficiency becomes a prerequisite for online communities to build governance policies in code, excluding non-programmers from participation in designing community governance. In this paper, we present Pika, a system that empowers non-programmers to author a wide range of executable governance policies. At its core, Pika incorporates a declarative language that decomposes governance policies into modular components, thereby facilitating expressive policy authoring through a user-friendly, form-based web interface. Our user studies with 10 non-programmers and 7 programmers show that Pika can empower non-programmers to author policies approximately 2.5 times faster than programmers who author in code. We also provide insights about Pika's expressivity in supporting diverse policies online communities want.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2310.04329.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@88f1c2bae1507da5b3ac46a2b21247da2a763d1b/images/Abstract%20figure%20-%20CameraReady%20-%20Twitter%20copy.png",
 			"title": "Meeting Bridges: Designing Information Artifacts that Bridge from Synchronous Meetings to Asynchronous Collaboration",
 			"id": "meeting-bridges",
