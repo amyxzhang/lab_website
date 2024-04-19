@@ -1,7 +1,7 @@
 {
 	"paper": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cba79f76eea5f26ce62fb84e7c9e5ee6b6284f18/images/Viblio%20Logo.png",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@42bb05cd06be5d7fbde528be09aaae5a88bda191/images/Viblio%20Logo.png",
 			"title": "Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms",
 			"id": "viblio",
 			"author": [
@@ -12,7 +12,7 @@
 					"author_name": "Renee Wang"
 				},
 				{
-					"author_name": "Prerna Juneja"
+					"author_name": "Prena Juneja"
 				},
 				{
 					"author_name": "Tony Li"
