@@ -1,6 +1,41 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@cba79f76eea5f26ce62fb84e7c9e5ee6b6284f18/images/Viblio%20Logo.png",
+			"title": "Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms",
+			"id": "viblio",
+			"author": [
+				{
+					"author_name": "Emelia May Hughes"
+				},
+				{
+					"author_name": "Renee Wang"
+				},
+				{
+					"author_name": "Prerna Juneja"
+				},
+				{
+					"author_name": "Tony Li"
+				},
+				{
+					"author_name": "Tanu Mitra"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2024.acm.org/",
+			"conference": "CHI",
+			"year": "2024",
+			"short_abstract": "<p>Viblio is a system designed to allow YouTube users to add and view citations for information within the video they are watching.</p>",
+			"abstract": "As more users turn to video-sharing platforms like YouTube as an information source, they may consume misinformation despite their best efforts. In this work, we investigate ways that users can better assess the credibility of videos by first exploring how users currently determine credibility using existing signals on platforms and then by introducing and evaluating new credibility-based signals. We conducted 12 contextual inquiry interviews with YouTube users, determining that participants used a combination of existing signals, such as the channel name, the production quality, and prior knowledge, to evaluate credibility, yet sometimes stumbled in their efforts to do so. We then developed Viblio, a prototype system that enables YouTube users to view and add citations and related information while watching a video based on our participants' needs. From an evaluation with 12 people, all participants found Viblio to be intuitive and useful in the process of evaluating a video's credibility and could see themselves using Viblio in the future.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.17218.pdf",
+				"video_url": "https://www.youtube.com/watch?v=VNYnKQ-PV74"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6b0479cb10ddc1046176ca850ac34458cbd6b104/images/Screen%20Shot%202024-04-19%20at%209.15.01%20AM.png",
 			"title": "Pika: Empowering Non-Programmers to Author Executable Governance Policies in Online Communities",
 			"id": "pika",
@@ -21,7 +56,7 @@
 			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
 			"conference url": "https://chi2024.acm.org/",
 			"year": "2024",
-			"short_abstract": "<p>In this paper, we present Pika, a system that empowers non-programmers to author a wide range of executable governance policies. At its core, Pika incorporates a declarative language that decomposes governance policies into modular components, thereby facilitating expressive policy authoring through a user-friendly, form-based web interface.</p>",
+			"short_abstract": "<p>Pika is a system that empowers non-programmers to author a wide range of executable governance policies. Pika incorporates a declarative language that decomposes governance policies into modular components, thereby facilitating expressive policy authoring through a user-friendly, form-based web interface.</p>",
 			"abstract": "Internet users have formed a wide array of online communities with diverse community goals and nuanced norms. However, most online platforms only offer a limited set of governance models in their software infrastructure and leave little room for customization. Consequently, technical proficiency becomes a prerequisite for online communities to build governance policies in code, excluding non-programmers from participation in designing community governance. In this paper, we present Pika, a system that empowers non-programmers to author a wide range of executable governance policies. At its core, Pika incorporates a declarative language that decomposes governance policies into modular components, thereby facilitating expressive policy authoring through a user-friendly, form-based web interface. Our user studies with 10 non-programmers and 7 programmers show that Pika can empower non-programmers to author policies approximately 2.5 times faster than programmers who author in code. We also provide insights about Pika's expressivity in supporting diverse policies online communities want.",
 			"links": {
 				"pdf_url": "https://arxiv.org/pdf/2310.04329.pdf"
