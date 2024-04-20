@@ -101,6 +101,34 @@
 			"conference": "CHI"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4b9a5552effc0d0f156f375408a4194b7a7a632d/images/formfrom.jpg",
+			"title": "Form-From: A Design Space of Social Media Systems",
+			"id": "form-from",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Michael Bernstein"
+				},
+				{
+					"author_name": "David Karger"
+				},
+				{
+					"author_name": "Mark Ackerman"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2024/",
+			"conference": "CSCW",
+			"year": "2024",
+			"short_abstract": "<p>We characterize and then distill a concise design space of social media systems. Our model, which we call Form-From, characterizes social media based on (1) the form of the content, either threaded or flat, and (2) from where or from whom one might receive content, ranging from spaces to networks to the commons.</p>",
+			"abstract": "Social media systems are as varied as they are pervasive. They have been almost universally adopted for a broad range of purposes including work, entertainment, activism, and decision making. As a result, they have also diversified, with many distinct designs differing in content type, organization, delivery mechanism, access control, and many other dimensions. In this work, we aim to characterize and then distill a concise design space of social media systems that can help us understand similarities and differences, recognize potential consequences of design choice, and identify spaces for innovation. Our model, which we call Form-From, characterizes social media based on (1) the form of the content, either threaded or flat, and (2) from where or from whom one might receive content, ranging from spaces to networks to the commons. We derive Form-From inductively from a larger set of 62 dimensions organized into 10 categories. To demonstrate the utility of our model, we trace the history of social media systems as they traverse the Form-From space over time, and we identify common design patterns within cells of the model.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.05388.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@88f1c2bae1507da5b3ac46a2b21247da2a763d1b/images/Abstract%20figure%20-%20CameraReady%20-%20Twitter%20copy.png",
 			"title": "Meeting Bridges: Designing Information Artifacts that Bridge from Synchronous Meetings to Asynchronous Collaboration",
 			"id": "meeting-bridges",
