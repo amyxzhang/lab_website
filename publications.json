@@ -1,6 +1,43 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0be5ae133bae876795e34d277cbfa8aac01002ba/images/mero.jpg",
+			"title": "Mitigating Barriers to Public Social Interaction with Meronymous Communication",
+			"id": "meronymity",
+			"author": [
+				{
+					"author_name": "Nouran Soliman"
+				},
+				{
+					"author_name": "Hyeonsu Kang"
+				},
+				{
+					"author_name": "Matthew Latzke"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2024.acm.org/",
+			"conference": "CHI",
+			"year": "2024",
+			"short_abstract": "<p>We explore a design space of meronymous communication, where people can reveal carefully chosen aspects of their identity and also leverage trusted endorsers to gain credibility. We implemented these ideas in a system for scholars to meronymously seek and receive paper recommendations on Twitter and Mastodon.</p>",
+			"abstract": "In communities with social hierarchies, fear of judgment can discourage communication. While anonymity may alleviate some social pressure, fully anonymous spaces enable toxic behavior and hide the social context that motivates people to participate and helps them tailor their communication. We explore a design space of meronymous communication, where people can reveal carefully chosen aspects of their identity and also leverage trusted endorsers to gain credibility. We implemented these ideas in a system for scholars to meronymously seek and receive paper recommendations on Twitter and Mastodon. A formative study with 20 scholars confirmed that scholars see benefits to participating but are deterred due to social anxiety. From a month-long public deployment, we found that with meronymity, junior scholars could comfortably ask ``newbie'' questions and get responses from senior scholars who they normally found intimidating. Responses were also tailored to the aspects about themselves that junior scholars chose to reveal.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.17847.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@42bb05cd06be5d7fbde528be09aaae5a88bda191/images/Viblio%20Logo.png",
 			"title": "Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms",
 			"id": "viblio",
