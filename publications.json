@@ -101,6 +101,37 @@
 			"conference": "CHI"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@87486a8f5e263f934a89cb2672345f3f8522554c/images/fable.jpeg",
+			"title": "Misinformation as a Harm: Structured Approaches for Fact-Checking Prioritization",
+			"id": "misinfo-harms",
+			"author": [
+				{
+					"author_name": "Connie Moon Sehat"
+				},
+				{
+					"author_name": "Ryan Li"
+				},
+				{
+					"author_name": "Peipei Nie"
+				},
+				{
+					"author_name": "Tarunima Prabhakar"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2024/",
+			"conference": "CSCW",
+			"year": "2024",
+			"short_abstract": "<p>Our FABLE Framework of Misinformation Harms incorporates five dimensions of magnitude -- (social) Fragmentation, Actionability, Believability, Likelihood of spread, and Exploitativeness -- that can help determine the potential urgency of a specific message or claim when considering misinformation as harm.</p>",
+			"abstract": "In this work, we examine how fact-checkers prioritize which claims to fact-check and what tools may assist them in their efforts. Through a series of interviews with 23 professional fact-checkers from around the world, we validate that harm assessment is a central component of how fact-checkers triage their work. We also clarify the processes behind fact-checking prioritization, finding that they are typically ad hoc, and gather suggestions for tools that could help with these processes.\n\nTo address the needs articulated by fact-checkers, we present a structured framework of questions to help fact-checkers negotiate the priority of claims through assessing potential harms. Our FABLE Framework of Misinformation Harms incorporates five dimensions of magnitude -- (social) Fragmentation, Actionability, Believability, Likelihood of spread, and Exploitativeness -- that can help determine the potential urgency of a specific message or claim when considering misinformation as harm. The result is a practical and conceptual tool to support fact-checkers and others as they make strategic decisions to prioritize their efforts. We conclude with a discussion of computational approaches to support structured prioritization, as well as applications beyond fact-checking to content moderation and curation.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2312.11678.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4b9a5552effc0d0f156f375408a4194b7a7a632d/images/formfrom.jpg",
 			"title": "Form-From: A Design Space of Social Media Systems",
 			"id": "form-from",
