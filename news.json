@@ -11,6 +11,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61b280d0c57f6c6ad458af5222c8577472096209/images/citp-logo.png",
+			"title": "Amy gave a talk at the Princeton CITP Seminar",
+			"date": "Mar 2024",
+			"description": "The title of the talk was \"Sociotechnical Designs for Democratic and Pluralistic Governance of Social Media and AI\".",
+			"link": {
+				"link_url": "https://citp.princeton.edu/event/citp-seminar-zhang/",
+				"link_text": "Link to seminar"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f7a2b159e5abbe54fb9f62e8802e237042bcaecc/images/image%20(18).png",
 			"title": "Kianna presented her Social Computing K-12 curriculum at ACM SIGCSE",
 			"date": "Mar 2024",
