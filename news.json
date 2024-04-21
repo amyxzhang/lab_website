@@ -2,12 +2,22 @@
 	"news_item": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f7a2b159e5abbe54fb9f62e8802e237042bcaecc/images/image%20(18).png",
-			"title": "Kianna presents her Social Computing K-12 curriculum at ACM SIGCSE",
+			"title": "Kianna presented her Social Computing K-12 curriculum at ACM SIGCSE",
 			"date": "Mar 2024",
 			"description": "Kianna presented an experience report at ACM SIGCSE, the flagship forum for computer science educators, on her experience teaching social computing topics to secondary school students in the greater Seattle area. Kianna reached over 1.4K students with her lessons and also <a href=\"sfl-curriculum/\">released all her materials publicly</a>.&nbsp;",
 			"link": {
 				"link_url": "https://arxiv.org/abs/2401.09591",
 				"link_text": "Link to paper"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0573e2887fedcf92897426c6befe01c816666930/images/PK.jpg",
+			"title": "Leijie presented his project Pika at the PLATEAU workshop",
+			"date": "Feb 2024",
+			"description": "PLATEAU is a workshop dedicated to the intersection of HCI and PL and that was held this year at Berkeley. Leijie presented his work on <a href=\"https://arxiv.org/abs/2310.04329\">Pika, a system for non-programmers</a> to be able to write executable governance policies for their online community. Pika incorporates a declarative grammar, a policy library, a form-based UI, and a compiler that compiles the Pika grammar into a PolicyKit policy.",
+			"link": {
+				"link_url": "https://2024.plateau-workshop.org/",
+				"link_text": "Link to PLATEAU website"
 			}
 		},
 		{
