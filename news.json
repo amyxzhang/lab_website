@@ -21,6 +21,16 @@
 			}
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3c7ff8bf3e7c654b589d088101ea556b9a6b3377/images/Wikimedia_Research_Newsletter_Logo.svg.png",
+			"title": "Amy gave a talk at the Wikimedia Foundation Research Showcase",
+			"date": "Feb 2024",
+			"description": "Amy's talk was titled \"Sociotechnical Designs for Democratic and Pluralistic Governance of Social Media and AI\".&nbsp;",
+			"link": {
+				"link_url": "https://www.youtube.com/watch?v=Q1xYwRw1rHU",
+				"link_text": "Link to livestream"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@422f4a15f6d818bbb41738737df9c91b1f634795/images/PK2.jpg",
 			"title": "Leijie presented his project Pika at the PLATEAU workshop",
 			"date": "Feb 2024",
