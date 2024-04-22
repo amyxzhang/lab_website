@@ -18,12 +18,14 @@
 </head>
 
 <body>
+	<!-- Skip to content link -->
+	<a href="#main" class="skip-link" style="position: absolute; left: -9999px; opacity: 0;">Skip to main content</a>
 
   <!-- top nav -->
   <div class="container-fluid">
     <div class="row justify-content-md-center">
       <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
-        <a href="index.html"><img src="img/logo_long.png" class="logo"></a>
+        <a href="index.html"><img src="img/logo_long.png" class="logo" alt="Social Futures Lab"></a>
       </div>
 
       <div class="col-md-2 col-lg-2"></div>
@@ -38,7 +40,7 @@
   </div>
 
   <!-- main content -->
-  <div class="container-fluid">
+  <div class="container-fluid" id="main">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12">
         <h2>Courses</h2>
@@ -53,7 +55,7 @@
           </div>
 
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            <a property="course_url"><h4 property="title">Title</h4></a>
+            <a property="course_url" aria-label="[title]"><h4 property="title" aria-label="[title]">Title</h4></a>
 
             <p><span property="quarter">Quarter</span></p>
 
@@ -84,7 +86,7 @@
           </div>
 
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            <a property="module_url"><h4 property="title">Title</h4></a>
+            <a property="module_url" aria-label="[title]"><h4 property="title" aria-label="[title]">Title</h4></a>
 
             <p><span property="taught_when" class="tinymce">Taught When</span></p>
 
