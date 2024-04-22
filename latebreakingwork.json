@@ -1,6 +1,31 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a2bb5b62bef38b57e0f1fec5f1ac15a925900629/images/writing.png",
+			"title": "Preserving Writer Values in AI Writing Assistance Tools",
+			"author": [
+				{
+					"author_name": "Alicia Guo"
+				},
+				{
+					"author_name": "Leijie Wang"
+				},
+				{
+					"author_name": "Jeffrey Heer"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "https://in2writing.glitch.me/",
+			"conference": "CHI",
+			"year": "2024",
+			"links": {
+				"pdf_url": "https://www.aliciaguo.com/papers/writer_values.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c3d3d866d1e8d8c8e4aa0dd5c6a6a1df62dc8204/images/Screen%20Shot%202023-12-01%20at%2010.42.26%20AM.png",
 			"title": "Case Repositories: Toward Case-Based Reasoning for AI Alignment",
 			"author": [
