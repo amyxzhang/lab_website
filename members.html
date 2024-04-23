@@ -18,11 +18,14 @@
   </head>
 
   <body>
+		<!-- Skip to content link -->
+		<a href="#main" class="skip-link" style="position: absolute; left: -9999px; opacity: 0;">Skip to main content</a>
+
 	<!-- top nav -->
 	<div class="container-fluid">
 		<div class="row justify-content-md-center">
 			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
-				<a href="index.html"><img src="img/logo_long.png" class="logo"></a>
+				<a href="index.html"><img src="img/logo_long.png" class="logo" alt="Social Futures Lab"></a>
 			</div>
 
 			<div class="col-md-2 col-lg-2"></div>
@@ -37,7 +40,7 @@
 	</div>
 
 
-	<div class="container-fluid">
+	<div class="container-fluid" id="main">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">
 				<h2>Join us!</h2>
@@ -78,8 +81,8 @@
 
 							<!-- Bio -->
 							<div class="[if(alum, 'col-xs-12 col-sm-12 col-md-12 col-lg-12', 'col-xs-12 col-sm-12 col-md-8 col-lg-9')]">
-								<a href="[website_url]" property="homepage">
-									<h4><span property="name">Name</span></h4>
+								<a href="[website_url]" property="homepage" aria-label="[name]">
+									<h4><span property="name" aria-label="[name]">Name</span></h4>
 								</a>
 
 								<meta property="id" content="[name]">

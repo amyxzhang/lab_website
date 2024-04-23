@@ -16,11 +16,14 @@
 </head>
 
 <body>
+	<!-- Skip to content link -->
+	<a href="#main" class="skip-link" style="position: absolute; left: -9999px; opacity: 0;">Skip to main content</a>
+
 	<!-- top nav -->
 	<div class="container-fluid">
 		<div class="row justify-content-md-center">
 			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
-				<a href="index.html"><img src="img/logo_long.png" class="logo"></a>
+				<a href="index.html"><img src="img/logo_long.png" class="logo" alt="Social Futures Lab"></a>
 			</div>
 
 			<div class="col-md-2 col-lg-2"></div>
@@ -35,7 +38,7 @@
 	</div>
 
 	<!-- main content -->
-	<div class="container-fluid">
+	<div class="container-fluid" id="main">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12" id="news">
 				<h2>News</h2>
@@ -48,7 +51,7 @@
             </div>
 
             <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-              <h4 property="title">Title</h4>
+              <h4 property="title" aria-label="[title]">Title</h4>
               <p><span property="date">Date</span></p>
               <p><span property="description" class="tinymce">Description</span></p>
               <p><span property="link">
