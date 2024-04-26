@@ -139,10 +139,13 @@
 				<div mv-bar="none" mv-app="news" mv-source="https://github.com/Social-Futures-Lab/social-futures-lab.github.io">
 					<span property="news_item" mv-multiple mv-if="$index < 10">
 						<span property="date">Date</span>:
+						<span property="title">
+							Title
+						</span>
 						
 						<a href="[link.link_url]" class="button" mv-if="'link_url' in link and link.link_url != 'null' and link.link_url != ''">
-							<span property="title" aria-label="[title]">
-								Title
+							<span aria-label="[title]">
+								&rightarrow;
 							</span>
 						</a>
 						<br /><br />
