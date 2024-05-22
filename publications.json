@@ -1,6 +1,41 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7a608539a02d997fe1b6c8d9ce814a5e0e27719a/images/teachable-feeds-cover.png",
+			"title": "Mapping the Design Space of Teachable Social Media Feed Experiences ",
+			"id": "teachable-feeds",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Xander Koo"
+				},
+				{
+					"author_name": "Lawrence Tan"
+				},
+				{
+					"author_name": "Amy Bruckman"
+				},
+				{
+					"author_name": "David McDonald"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference": "CHI",
+			"year": "2024",
+			"short_abstract": "<p>We contribute a taxonomy of features and characteristics used by social media users to evaluate content on their feeds, and apply principles of interactive machine teaching to propose feed designs that enable more agentic curation of personalized feeds.</p>",
+			"abstract": "Social media feeds are deeply personal spaces that reflect individual values and preferences. However, top-down, platform-wide content algorithms can reduce users' sense of agency and fail to account for nuanced experiences and values. Drawing on the paradigm of interactive machine teaching (IMT), an interaction framework for non-expert algorithmic adaptation, we map out a design space for teachable social media feed experiences to empower agential, personalized feed curation. To do so, we conducted a think-aloud study (N=24) featuring four social media platforms -- Instagram, Mastodon, TikTok, and Twitter -- to understand key signals users leveraged to determine the value of a post in their feed. We synthesized users' signals into taxonomies that, when combined with user interviews, inform five design principles that extend IMT into the social media setting. We finally embodied our principles into three feed designs that we present as sensitizing concepts for teachable feed experiences moving forward.\n",
+			"bibtex": "@inproceedings{feng2024mapping,\n  title={Mapping the Design Space of Teachable Social Media Feed Experiences},\n  author={Feng, KJ Kevin and Koo, Xander and Tan, Lawrence and Bruckman, Amy and McDonald, David W and Zhang, Amy X},\n  booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems},\n  pages={1--20},\n  year={2024}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2401.14000",
+				"video_url": "https://youtu.be/GKXO6G6-Guk"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0be5ae133bae876795e34d277cbfa8aac01002ba/images/mero.jpg",
 			"title": "Mitigating Barriers to Public Social Interaction with Meronymous Communication",
 			"id": "meronymity",
