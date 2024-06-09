@@ -1,6 +1,48 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@31982aaade4ee3e741425cb1d278b0a0a29a66e8/images/mlsgov.png",
+			"title": "Private Hierarchical Governance for Encrypted Messaging",
+			"id": "MLSGov",
+			"author": [
+				{
+					"author_name": "Armin Namavari"
+				},
+				{
+					"author_name": "Barry Wang"
+				},
+				{
+					"author_name": "Sanketh Menda"
+				},
+				{
+					"author_name": "Ben Nassi"
+				},
+				{
+					"author_name": "Nirvan Tyagi"
+				},
+				{
+					"author_name": "James Grimmelmann"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Tom Ristenpart"
+				}
+			],
+			"conference_full_name": "IEEE Symposium on Security and Privacy",
+			"conference url": "https://sp2024.ieee-security.org/",
+			"conference": "S&P",
+			"year": "2024",
+			"short_abstract": "<p>It is unclear how one can realize hierarchical governance in the huge and increasing number of online communities that utilize end-to-end encrypted (E2EE) messaging for privacy. We build a prototype E2EE messaging system called MlsGov that supports private hierarchical governance systems.</p>",
+			"abstract": "The increasing harms caused by hate, harassment, and other forms of abuse online have motivated major platforms to explore hierarchical governance. The idea is to allow communities to have designated members take on moderation and leadership duties; meanwhile, members can still escalate issues to the platform. But these promising approaches have only been explored in plaintext settings where community content is public to the platform. It is unclear how one can realize hierarchical governance in the huge and increasing number of online communities that utilize end-to-end encrypted (E2EE) messaging for privacy. \n\nWe propose private hierarchical governance systems. These should enable similar levels of community governance as in plaintext settings, while maintaining cryptographic privacy of content and governance actions not reported to the platform. We design the first such system, taking a layered approach that adds governance logic on top of an encrypted messaging protocol; we show how an extension to the message layer security (MLS) protocol suffices for achieving a rich set of governance policies. Our approach allows developers to rapidly prototype new governance features, taking inspiration from a plaintext system called PolicyKit. We build a prototype E2EE messaging system called MlsGov that supports content-based community and platform moderation, elections of community moderators, votes to remove abusive users, and more.",
+			"bibtex": "@inproceedings{namavari2024private,\n  title={Private Hierarchical Governance for Encrypted Messaging},\n  author={Namavari, Armin and Wang, Barry and Menda, Sanketh and Nassi, Ben and Tyagi, Nirvan and Grimmelmann, James and Zhang, Amy and Ristenpart, Thomas},\n  booktitle={2024 IEEE Symposium on Security and Privacy (SP)},\n  pages={255--255},\n  year={2024},\n  organization={IEEE Computer Society}\n}",
+			"links": {
+				"pdf_url": "https://james.grimmelmann.net/files/articles/private-hierarchical-governance.pdf",
+				"code_url": "https://github.com/AME2E/MLSGov"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7a608539a02d997fe1b6c8d9ce814a5e0e27719a/images/teachable-feeds-cover.png",
 			"title": "Mapping the Design Space of Teachable Social Media Feed Experiences ",
 			"id": "teachable-feeds",
