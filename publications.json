@@ -1,6 +1,39 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5743f4eb58a1266f1d5d4022734f28afc95ad8c5/images/caselaw.png",
+			"title": "(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice",
+			"id": "legal-advice-llm",
+			"author": [
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "King Xia"
+				},
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Conference on Fairness, Accountability, and Transparency",
+			"conference url": "https://facctconference.org/2024/",
+			"conference": "FAccT",
+			"year": "2024",
+			"short_abstract": "<p>To explore when and why LLMs should or should not provide advice to users, we conducted workshops with 20 legal experts using methods inspired by case-based reasoning.</p>",
+			"abstract": "Large language models (LLMs) are increasingly capable of providing users with advice in a wide range of professional domains, including legal advice. However, relying on LLMs for legal queries raises concerns due to the significant expertise required and the potential real-world consequences of the advice. To explore when and why LLMs should or should not provide advice to users, we conducted workshops with 20 legal experts using methods inspired by case-based reasoning. The provided realistic queries (“cases”) allowed experts to examine granular, situation-specific concerns and overarching technical and legal constraints, producing a concrete set of contextual considerations for LLM developers. By synthesizing the factors that impacted LLM response appropriateness, we present a 4-dimension framework: (1) User attributes and behaviors, (2) Nature of queries, (3) AI capabilities, and (4) Social impacts. We share experts’ recommendations for LLM response strategies, which center around helping users identify ‘right questions to ask’ and relevant information rather than providing definitive legal judgments. Our findings reveal novel legal considerations, such as unauthorized practice of law, confidentiality, and liability for inaccurate advice, that have been overlooked in the literature. The case-based deliberation method enabled us to elicit fine-grained, practice-informed insights that surpass those from de-contextualized surveys or speculative principles. These findings underscore the applicability of our method for translating domain-specific professional knowledge and practices into policies that can guide LLM behavior in a more responsible direction.",
+			"bibtex": "@inproceedings{10.1145/3630106.3659048,\nauthor = {Cheong, Inyoung and Xia, King and Feng, K. J. Kevin and Chen, Quan Ze and Zhang, Amy X.},\ntitle = {(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice},\nyear = {2024},\nisbn = {9798400704505},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3630106.3659048},\ndoi = {10.1145/3630106.3659048},\nbooktitle = {Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency},\npages = {2454–2469},\nnumpages = {16},\nkeywords = {AI chatbots, AI ethics, AI policy, AI regulation, case-based reasoning, human-AI interaction, large language model (LLM), lawyers, legal advice, professional ethics, responsible AI},\nlocation = {<conf-loc>, <city>Rio de Janeiro</city>, <country>Brazil</country>, </conf-loc>},\nseries = {FAccT '24}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.01864",
+				"website_url": "https://social.cs.washington.edu/case-law-ai-policy/"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@31982aaade4ee3e741425cb1d278b0a0a29a66e8/images/mlsgov.png",
 			"title": "Private Hierarchical Governance for Encrypted Messaging",
 			"id": "MLSGov",
