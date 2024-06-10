@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d81c437a06d8c92ec729163a8bddbb87bbac30be/images/facct2024logo.png",
+			"title": "Inyoung and Ruotong present work at FAccT 2024",
+			"date": "June 2024",
+			"description": "Two SFL members presented work at FAccT this year in Rio de Janeiro. Inyoung remotely presented her paper on <a href=\"https://dl.acm.org/doi/abs/10.1145/3630106.3659048\">legal experts and their considerations for policies around LLM legal advice</a>. Ruotong also attended to present her MSR internship work on <a href=\"https://dl.acm.org/doi/abs/10.1145/3630106.3658984\">trust and LLMs for coding</a>.&nbsp;",
+			"link": {
+				"link_url": "https://facctconference.org/2024/",
+				"link_text": "FAccT 2024 website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bd0ca2dde9eff3494f3fe64a51c5933bf98d00a4/images/CHIphoto.png",
 			"title": "SFL at CHI 2024: Leijie, Kevin, Lawrence, Emelia, and Alicia present work",
 			"date": "May 2024",
