@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@15ceac9c803768edde01083092e7fa92ef257a65/images/husky100.png",
+			"title": "Khushi and Kianna are named to the Husky 100",
+			"date": "May 2024",
+			"description": "Two of our undergraduate researchers are named to the Husky 100! Congrats to Khushi and Kianna!",
+			"link": {
+				"link_url": "https://www.washington.edu/husky100/blog/announcing-the-2024-husky-100/",
+				"link_text": "Husky 100 2024"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@62b4fa2a13f103cdfdf649b8956e0b8fcff756ce/images/speaker-event-card-24--e87972cb-18c5-4e6b-9682-1d882748237c-1711391668174.png",
 			"title": "Kevin presents Case Repositories at the OpenAI Forum on Democratic Inputs to AI",
 			"date": "April 2024",
