@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4fc571722112a37f44a3ad04aada45b928b92e97/images/galenpresentation.png",
+			"title": "Galen presents work on online community values at ICWSM 2024",
+			"date": "June 2024",
+			"description": "Galen attended ICWSM in Buffalo, NY to present his work surveying Reddit users about the values they hold for their communities.",
+			"link": {
+				"link_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/31413",
+				"link_text": "Paper link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d81c437a06d8c92ec729163a8bddbb87bbac30be/images/facct2024logo.png",
 			"title": "Inyoung and Ruotong present work at FAccT 2024",
 			"date": "June 2024",
