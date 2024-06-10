@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d3ba7dffe91940acd94cbaf3dfd6631e63ccca3b/images/IMG_4718.png",
+			"title": "SFL at CHI 2024: Leijie, Kevin, Lawrence, Emelia, and Alicia present work",
+			"date": "May 2024",
+			"description": "SFL presented several projects at CHI in Hawaii this year and also met up with several alumni! Leijie presented his work on a <a href=\"https://dl.acm.org/doi/full/10.1145/3613904.3642012\">new governance authoring toolkit Pika</a>, Kevin and Lawrence presented their paper on <a href=\"https://dl.acm.org/doi/full/10.1145/3613904.3642120\">designing teachable social media feed agents</a>,&nbsp; Emelia presented her undergraduate research on <a href=\"https://dl.acm.org/doi/full/10.1145/3613904.3642490\">credibility signals and citations on video sharing platforms</a>, and Alicia presented her workshop paper on <a href=\"https://www.aliciaguo.com/papers/writer_values.pdf\">writer values in AI writing assistance tools</a>.&nbsp;&nbsp;",
+			"link": {
+				"link_url": "https://chi2024.acm.org/",
+				"link_text": "CHI 2024 website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@15ceac9c803768edde01083092e7fa92ef257a65/images/husky100.png",
 			"title": "Khushi and Kianna are named to the Husky 100",
 			"date": "May 2024",
