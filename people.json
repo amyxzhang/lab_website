@@ -550,12 +550,15 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
 			"name": "Teanna Barrett",
-			"jobTitle": "intern",
+			"jobTitle": "phd",
 			"links": {
-				"website_url": "https://www.linkedin.com/in/teanna-barrett-483376189/"
+				"website_url": "teannabarrett.com",
+				"scholar_url": "https://scholar.google.com/citations?user=hUfhQwcAAAAJ&hl=en&oi=ao",
+				"twitter_url": "https://x.com/bound4nostar"
 			},
 			"@type": "Person",
-			"alum": true
+			"alum": false,
+			"bio": "Teanna (she/her) is a PhD at the University of Washington Allen School. She is interested in building data scientists capacity to ethically reason through their work and challenge Western-centric data ethics paradigms through Black thought."
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8e63892820e3f4de635ef99af81ad5d05ba5541d/images/IMG_4397.jpg",
