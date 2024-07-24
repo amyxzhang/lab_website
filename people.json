@@ -159,6 +159,20 @@
 			},
 			"@type": "Person"
 		},
+    {
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
+			"name": "Teanna Barrett",
+			"jobTitle": "phd",
+      "bio": "Teanna (she/her) is a PhD at the University of Washington Allen School. She is interested in building data scientists capacity to ethically reason through their work and challenge Western-centric data ethics paradigms through Black thought.",
+			"links": {
+				"website_url": "teannabarrett.com",
+				"scholar_url": "https://scholar.google.com/citations?user=hUfhQwcAAAAJ&hl=en&oi=ao",
+				"twitter_url": "https://x.com/bound4nostar",
+        "email": "tb23@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": false
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
 			"name": "Emelia May Hughes",
@@ -548,19 +562,6 @@
 			"alum": true
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
-			"name": "Teanna Barrett",
-			"jobTitle": "phd",
-			"links": {
-				"website_url": "teannabarrett.com",
-				"scholar_url": "https://scholar.google.com/citations?user=hUfhQwcAAAAJ&hl=en&oi=ao",
-				"twitter_url": "https://x.com/bound4nostar"
-			},
-			"@type": "Person",
-			"alum": false,
-			"bio": "Teanna (she/her) is a PhD at the University of Washington Allen School. She is interested in building data scientists capacity to ethically reason through their work and challenge Western-centric data ethics paradigms through Black thought."
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@8e63892820e3f4de635ef99af81ad5d05ba5541d/images/IMG_4397.jpg",
 			"name": "Kevin Chen",
 			"jobTitle": "intern",
@@ -569,12 +570,6 @@
 			},
 			"@type": "Person",
 			"alum": true
-		},
-		{
-			"jobTitle": "phd",
-			"alum": false,
-			"links": {},
-			"@type": "Person"
 		}
 	]
 }
