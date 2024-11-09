@@ -1,6 +1,516 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5743f4eb58a1266f1d5d4022734f28afc95ad8c5/images/caselaw.png",
+			"title": "(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice",
+			"id": "legal-advice-llm",
+			"author": [
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "King Xia"
+				},
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM Conference on Fairness, Accountability, and Transparency",
+			"conference url": "https://facctconference.org/2024/",
+			"conference": "FAccT",
+			"year": "2024",
+			"short_abstract": "<p>To explore when and why LLMs should or should not provide advice to users, we conducted workshops with 20 legal experts using methods inspired by case-based reasoning.</p>",
+			"abstract": "Large language models (LLMs) are increasingly capable of providing users with advice in a wide range of professional domains, including legal advice. However, relying on LLMs for legal queries raises concerns due to the significant expertise required and the potential real-world consequences of the advice. To explore when and why LLMs should or should not provide advice to users, we conducted workshops with 20 legal experts using methods inspired by case-based reasoning. The provided realistic queries (“cases”) allowed experts to examine granular, situation-specific concerns and overarching technical and legal constraints, producing a concrete set of contextual considerations for LLM developers. By synthesizing the factors that impacted LLM response appropriateness, we present a 4-dimension framework: (1) User attributes and behaviors, (2) Nature of queries, (3) AI capabilities, and (4) Social impacts. We share experts’ recommendations for LLM response strategies, which center around helping users identify ‘right questions to ask’ and relevant information rather than providing definitive legal judgments. Our findings reveal novel legal considerations, such as unauthorized practice of law, confidentiality, and liability for inaccurate advice, that have been overlooked in the literature. The case-based deliberation method enabled us to elicit fine-grained, practice-informed insights that surpass those from de-contextualized surveys or speculative principles. These findings underscore the applicability of our method for translating domain-specific professional knowledge and practices into policies that can guide LLM behavior in a more responsible direction.",
+			"bibtex": "@inproceedings{10.1145/3630106.3659048,\nauthor = {Cheong, Inyoung and Xia, King and Feng, K. J. Kevin and Chen, Quan Ze and Zhang, Amy X.},\ntitle = {(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice},\nyear = {2024},\nisbn = {9798400704505},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3630106.3659048},\ndoi = {10.1145/3630106.3659048},\nbooktitle = {Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency},\npages = {2454–2469},\nnumpages = {16},\nkeywords = {AI chatbots, AI ethics, AI policy, AI regulation, case-based reasoning, human-AI interaction, large language model (LLM), lawyers, legal advice, professional ethics, responsible AI},\nlocation = {<conf-loc>, <city>Rio de Janeiro</city>, <country>Brazil</country>, </conf-loc>},\nseries = {FAccT '24}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.01864",
+				"website_url": "https://social.cs.washington.edu/case-law-ai-policy/"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@31982aaade4ee3e741425cb1d278b0a0a29a66e8/images/mlsgov.png",
+			"title": "Private Hierarchical Governance for Encrypted Messaging",
+			"id": "MLSGov",
+			"author": [
+				{
+					"author_name": "Armin Namavari"
+				},
+				{
+					"author_name": "Barry Wang"
+				},
+				{
+					"author_name": "Sanketh Menda"
+				},
+				{
+					"author_name": "Ben Nassi"
+				},
+				{
+					"author_name": "Nirvan Tyagi"
+				},
+				{
+					"author_name": "James Grimmelmann"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Tom Ristenpart"
+				}
+			],
+			"conference_full_name": "IEEE Symposium on Security and Privacy",
+			"conference url": "https://sp2024.ieee-security.org/",
+			"conference": "S&P",
+			"year": "2024",
+			"short_abstract": "<p>It is unclear how one can realize hierarchical governance in the huge and increasing number of online communities that utilize end-to-end encrypted (E2EE) messaging for privacy. We build a prototype E2EE messaging system called MlsGov that supports private hierarchical governance systems.</p>",
+			"abstract": "The increasing harms caused by hate, harassment, and other forms of abuse online have motivated major platforms to explore hierarchical governance. The idea is to allow communities to have designated members take on moderation and leadership duties; meanwhile, members can still escalate issues to the platform. But these promising approaches have only been explored in plaintext settings where community content is public to the platform. It is unclear how one can realize hierarchical governance in the huge and increasing number of online communities that utilize end-to-end encrypted (E2EE) messaging for privacy. \n\nWe propose private hierarchical governance systems. These should enable similar levels of community governance as in plaintext settings, while maintaining cryptographic privacy of content and governance actions not reported to the platform. We design the first such system, taking a layered approach that adds governance logic on top of an encrypted messaging protocol; we show how an extension to the message layer security (MLS) protocol suffices for achieving a rich set of governance policies. Our approach allows developers to rapidly prototype new governance features, taking inspiration from a plaintext system called PolicyKit. We build a prototype E2EE messaging system called MlsGov that supports content-based community and platform moderation, elections of community moderators, votes to remove abusive users, and more.",
+			"bibtex": "@inproceedings{namavari2024private,\n  title={Private Hierarchical Governance for Encrypted Messaging},\n  author={Namavari, Armin and Wang, Barry and Menda, Sanketh and Nassi, Ben and Tyagi, Nirvan and Grimmelmann, James and Zhang, Amy and Ristenpart, Thomas},\n  booktitle={2024 IEEE Symposium on Security and Privacy (SP)},\n  pages={255--255},\n  year={2024},\n  organization={IEEE Computer Society}\n}",
+			"links": {
+				"pdf_url": "https://james.grimmelmann.net/files/articles/private-hierarchical-governance.pdf",
+				"code_url": "https://github.com/AME2E/MLSGov"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@7a608539a02d997fe1b6c8d9ce814a5e0e27719a/images/teachable-feeds-cover.png",
+			"title": "Mapping the Design Space of Teachable Social Media Feed Experiences ",
+			"id": "teachable-feeds",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Xander Koo"
+				},
+				{
+					"author_name": "Lawrence Tan"
+				},
+				{
+					"author_name": "Amy Bruckman"
+				},
+				{
+					"author_name": "David McDonald"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference": "CHI",
+			"year": "2024",
+			"short_abstract": "<p>We contribute a taxonomy of features and characteristics used by social media users to evaluate content on their feeds, and apply principles of interactive machine teaching to propose feed designs that enable more agentic curation of personalized feeds.</p>",
+			"abstract": "Social media feeds are deeply personal spaces that reflect individual values and preferences. However, top-down, platform-wide content algorithms can reduce users' sense of agency and fail to account for nuanced experiences and values. Drawing on the paradigm of interactive machine teaching (IMT), an interaction framework for non-expert algorithmic adaptation, we map out a design space for teachable social media feed experiences to empower agential, personalized feed curation. To do so, we conducted a think-aloud study (N=24) featuring four social media platforms -- Instagram, Mastodon, TikTok, and Twitter -- to understand key signals users leveraged to determine the value of a post in their feed. We synthesized users' signals into taxonomies that, when combined with user interviews, inform five design principles that extend IMT into the social media setting. We finally embodied our principles into three feed designs that we present as sensitizing concepts for teachable feed experiences moving forward.\n",
+			"bibtex": "@inproceedings{feng2024mapping,\n  title={Mapping the Design Space of Teachable Social Media Feed Experiences},\n  author={Feng, KJ Kevin and Koo, Xander and Tan, Lawrence and Bruckman, Amy and McDonald, David W and Zhang, Amy X},\n  booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems},\n  pages={1--20},\n  year={2024}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2401.14000",
+				"video_url": "https://youtu.be/GKXO6G6-Guk"
+			},
+			"conference url": "https://chi2024.acm.org/"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0be5ae133bae876795e34d277cbfa8aac01002ba/images/mero.jpg",
+			"title": "Mitigating Barriers to Public Social Interaction with Meronymous Communication",
+			"id": "meronymity",
+			"author": [
+				{
+					"author_name": "Nouran Soliman"
+				},
+				{
+					"author_name": "Hyeonsu Kang"
+				},
+				{
+					"author_name": "Matthew Latzke"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "David Karger"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2024.acm.org/",
+			"conference": "CHI",
+			"year": "2024",
+			"short_abstract": "<p>We explore a design space of meronymous communication, where people can reveal carefully chosen aspects of their identity and also leverage trusted endorsers to gain credibility. We implemented these ideas in a system for scholars to meronymously seek and receive paper recommendations on Twitter and Mastodon.</p>",
+			"abstract": "In communities with social hierarchies, fear of judgment can discourage communication. While anonymity may alleviate some social pressure, fully anonymous spaces enable toxic behavior and hide the social context that motivates people to participate and helps them tailor their communication. We explore a design space of meronymous communication, where people can reveal carefully chosen aspects of their identity and also leverage trusted endorsers to gain credibility. We implemented these ideas in a system for scholars to meronymously seek and receive paper recommendations on Twitter and Mastodon. A formative study with 20 scholars confirmed that scholars see benefits to participating but are deterred due to social anxiety. From a month-long public deployment, we found that with meronymity, junior scholars could comfortably ask ``newbie'' questions and get responses from senior scholars who they normally found intimidating. Responses were also tailored to the aspects about themselves that junior scholars chose to reveal.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.17847.pdf"
+			},
+			"award": "Best Paper Award"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@42bb05cd06be5d7fbde528be09aaae5a88bda191/images/Viblio%20Logo.png",
+			"title": "Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms",
+			"id": "viblio",
+			"author": [
+				{
+					"author_name": "Emelia May Hughes"
+				},
+				{
+					"author_name": "Renee Wang"
+				},
+				{
+					"author_name": "Prena Juneja"
+				},
+				{
+					"author_name": "Tony Li"
+				},
+				{
+					"author_name": "Tanu Mitra"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2024.acm.org/",
+			"conference": "CHI",
+			"year": "2024",
+			"short_abstract": "<p>Viblio is a system designed to allow YouTube users to add and view citations for information within the video they are watching.</p>",
+			"abstract": "As more users turn to video-sharing platforms like YouTube as an information source, they may consume misinformation despite their best efforts. In this work, we investigate ways that users can better assess the credibility of videos by first exploring how users currently determine credibility using existing signals on platforms and then by introducing and evaluating new credibility-based signals. We conducted 12 contextual inquiry interviews with YouTube users, determining that participants used a combination of existing signals, such as the channel name, the production quality, and prior knowledge, to evaluate credibility, yet sometimes stumbled in their efforts to do so. We then developed Viblio, a prototype system that enables YouTube users to view and add citations and related information while watching a video based on our participants' needs. From an evaluation with 12 people, all participants found Viblio to be intuitive and useful in the process of evaluating a video's credibility and could see themselves using Viblio in the future.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.17218.pdf",
+				"video_url": "https://www.youtube.com/watch?v=VNYnKQ-PV74"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6b0479cb10ddc1046176ca850ac34458cbd6b104/images/Screen%20Shot%202024-04-19%20at%209.15.01%20AM.png",
+			"title": "Pika: Empowering Non-Programmers to Author Executable Governance Policies in Online Communities",
+			"id": "pika",
+			"author": [
+				{
+					"author_name": "Leijie Wang"
+				},
+				{
+					"author_name": "Nick Vincent"
+				},
+				{
+					"author_name": "Julija Rukanskaitė "
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "ACM CHI Conference on Human Factors in Computing Systems",
+			"conference url": "https://chi2024.acm.org/",
+			"year": "2024",
+			"short_abstract": "<p>Pika is a system that empowers non-programmers to author a wide range of executable governance policies. Pika incorporates a declarative language that decomposes governance policies into modular components, thereby facilitating expressive policy authoring through a user-friendly, form-based web interface.</p>",
+			"abstract": "Internet users have formed a wide array of online communities with diverse community goals and nuanced norms. However, most online platforms only offer a limited set of governance models in their software infrastructure and leave little room for customization. Consequently, technical proficiency becomes a prerequisite for online communities to build governance policies in code, excluding non-programmers from participation in designing community governance. In this paper, we present Pika, a system that empowers non-programmers to author a wide range of executable governance policies. At its core, Pika incorporates a declarative language that decomposes governance policies into modular components, thereby facilitating expressive policy authoring through a user-friendly, form-based web interface. Our user studies with 10 non-programmers and 7 programmers show that Pika can empower non-programmers to author policies approximately 2.5 times faster than programmers who author in code. We also provide insights about Pika's expressivity in supporting diverse policies online communities want.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2310.04329.pdf",
+				"video_url": "https://www.youtube.com/watch?v=-YiQRDvLIe4"
+			},
+			"conference": "CHI"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@87486a8f5e263f934a89cb2672345f3f8522554c/images/fable.jpeg",
+			"title": "Misinformation as a Harm: Structured Approaches for Fact-Checking Prioritization",
+			"id": "misinfo-harms",
+			"author": [
+				{
+					"author_name": "Connie Moon Sehat"
+				},
+				{
+					"author_name": "Ryan Li"
+				},
+				{
+					"author_name": "Peipei Nie"
+				},
+				{
+					"author_name": "Tarunima Prabhakar"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2024/",
+			"conference": "CSCW",
+			"year": "2024",
+			"short_abstract": "<p>Our FABLE Framework of Misinformation Harms incorporates five dimensions of magnitude -- (social) Fragmentation, Actionability, Believability, Likelihood of spread, and Exploitativeness -- that can help determine the potential urgency of a specific message or claim when considering misinformation as harm.</p>",
+			"abstract": "In this work, we examine how fact-checkers prioritize which claims to fact-check and what tools may assist them in their efforts. Through a series of interviews with 23 professional fact-checkers from around the world, we validate that harm assessment is a central component of how fact-checkers triage their work. We also clarify the processes behind fact-checking prioritization, finding that they are typically ad hoc, and gather suggestions for tools that could help with these processes.\n\nTo address the needs articulated by fact-checkers, we present a structured framework of questions to help fact-checkers negotiate the priority of claims through assessing potential harms. Our FABLE Framework of Misinformation Harms incorporates five dimensions of magnitude -- (social) Fragmentation, Actionability, Believability, Likelihood of spread, and Exploitativeness -- that can help determine the potential urgency of a specific message or claim when considering misinformation as harm. The result is a practical and conceptual tool to support fact-checkers and others as they make strategic decisions to prioritize their efforts. We conclude with a discussion of computational approaches to support structured prioritization, as well as applications beyond fact-checking to content moderation and curation.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2312.11678.pdf"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4b9a5552effc0d0f156f375408a4194b7a7a632d/images/formfrom.jpg",
+			"title": "Form-From: A Design Space of Social Media Systems",
+			"id": "form-from",
+			"author": [
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Michael Bernstein"
+				},
+				{
+					"author_name": "David Karger"
+				},
+				{
+					"author_name": "Mark Ackerman"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2024/",
+			"conference": "CSCW",
+			"year": "2024",
+			"short_abstract": "<p>We characterize and then distill a concise design space of social media systems. Our model, which we call Form-From, characterizes social media based on (1) the form of the content, either threaded or flat, and (2) from where or from whom one might receive content, ranging from spaces to networks to the commons.</p>",
+			"abstract": "Social media systems are as varied as they are pervasive. They have been almost universally adopted for a broad range of purposes including work, entertainment, activism, and decision making. As a result, they have also diversified, with many distinct designs differing in content type, organization, delivery mechanism, access control, and many other dimensions. In this work, we aim to characterize and then distill a concise design space of social media systems that can help us understand similarities and differences, recognize potential consequences of design choice, and identify spaces for innovation. Our model, which we call Form-From, characterizes social media based on (1) the form of the content, either threaded or flat, and (2) from where or from whom one might receive content, ranging from spaces to networks to the commons. We derive Form-From inductively from a larger set of 62 dimensions organized into 10 categories. To demonstrate the utility of our model, we trace the history of social media systems as they traverse the Form-From space over time, and we identify common design patterns within cells of the model.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.05388.pdf"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@88f1c2bae1507da5b3ac46a2b21247da2a763d1b/images/Abstract%20figure%20-%20CameraReady%20-%20Twitter%20copy.png",
+			"title": "Meeting Bridges: Designing Information Artifacts that Bridge from Synchronous Meetings to Asynchronous Collaboration",
+			"id": "meeting-bridges",
+			"author": [
+				{
+					"author_name": "Ruotong Wang"
+				},
+				{
+					"author_name": "Lin Qiu"
+				},
+				{
+					"author_name": "Justin Cranshaw"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Proceedings of the ACM on Human-Computer Interaction",
+			"conference url": "https://cscw.acm.org/2024/",
+			"conference": "CSCW",
+			"year": "2024",
+			"short_abstract": "<p>We identify key principles for the design of meeting bridges to support asynchronous collaboration goals. We also point to the opportunity of designing information artifacts that not only support users to access but also continue to transform and engage in meeting information post-meeting.</p>",
+			"abstract": "A recent surge in remote meetings has led to complaints of ``Zoom fatigue'' and ``collaboration overload,'' negatively impacting worker productivity and well-being. One way to alleviate the burden of meetings is to de-emphasize their synchronous participation by shifting work to and enabling sensemaking during post-meeting asynchronous activities. Towards this goal, we propose the design concept of meeting bridges, or information artifacts that can encapsulate meeting information towards bridging to and facilitating post-meeting activities. Through 13 interviews and a survey of 198 information workers, we learn how people use online meeting information after meetings are over, finding five main uses: as an archive, as task reminders, to onboard or support inclusion, for group sensemaking, and as a launching point for follow-on collaboration. However, we also find that current common meeting artifacts, such as notes and recordings, present challenges in serving as meeting bridges. After conducting co-design sessions with 16 participants, we distill key principles for the design of meeting bridges to optimally support asynchronous collaboration goals. Overall, our findings point to the opportunity of designing information artifacts that not only support users to access but also continue to transform and engage in meeting information post-meeting.",
+			"bibtex": "@article{Wang2024MeetingBD,\n  title={Meeting Bridges: Designing Information Artifacts that Bridge from Synchronous Meetings to Asynchronous Collaboration},\n  author={Ruotong Wang and Lin Qiu and Justin Cranshaw and Amy X. Zhang},\n  journal={ArXiv},\n  year={2024},\n  volume={abs/2402.03259},\n  url={https://api.semanticscholar.org/CorpusID:267411768}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2402.03259.pdf"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ba20b630bdfb4c731d5e017021743ea2b56f0b74/images/taxonomy.png",
+			"title": "Making Online Communities' Better': A Taxonomy of Community Values on Reddit",
+			"id": "reddit-values-taxonomy",
+			"author": [
+				{
+					"author_name": "Galen Weld"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Tim Athoff"
+				}
+			],
+			"conference_full_name": "International Conference on Weblogs and Social Media",
+			"conference url": "https://www.icwsm.org/2024/index.html/",
+			"conference": "ICWSM",
+			"year": "2024",
+			"short_abstract": "<p>We ask 39 community members on reddit to describe their values for their communities. We gather 301 responses in members' own words, spanning 125 unique communities, and use iterative categorization to produce a taxonomy of 29 different community values across 9 major categories.</p>",
+			"abstract": "Many researchers studying online social communities seek to make such communities better. However, understanding what 'better' means is challenging, due to the divergent opinions of community members, and the multitude of possible community values which often conflict with one another. Community members' own values for their communities are not well understood, and how these values align with one another is an open question. Previous research has mostly focused on specific and comparatively well-defined harms within online communities, such as harassment, rule-breaking, and misinformation. In this work, we ask 39 community members on reddit to describe their values for their communities. We gather 301 responses in members' own words, spanning 125 unique communities, and use iterative categorization to produce a taxonomy of 29 different community values across 9 major categories. We find that members value a broad range of topics ranging from technical features to the diversity of the community, and most frequently prioritize content quality. We identify important understudied topics such as content quality and community size, highlight where values conflict with one another, and call for research into governance methods for communities that protect vulnerable members.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2109.05152.pdf"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d6f51e8244b964b215b8ccd1ca25010ce7f7ccf/images/k12.jpg",
+			"title": "Bringing Social Computing to Secondary School Classrooms",
+			"id": "k-12-social-computing",
+			"author": [
+				{
+					"author_name": "Kianna Bolante"
+				},
+				{
+					"author_name": "Kevin Chen"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Technical Symposium on Computer Science Education",
+			"conference": "SIGCSE",
+			"year": "2024",
+			"short_abstract": "<p>We present a series of six lessons combining presentations and hands-on activities covering topics within social computing and detail our experience teaching these lessons to approximately 1,405 students across 13 middle and high schools in our local school district.</p>",
+			"abstract": "Social computing is the study of how technology shapes human social interactions. This topic has become increasingly relevant to secondary school students (ages 11--18) as more of young people's everyday social experiences take place online, particularly with the continuing effects of the COVID-19 pandemic. However, social computing topics are rarely touched upon in existing middle and high school curricula. We seek to introduce concepts from social computing to secondary school students so they can understand how computing has wide-ranging social implications that touch upon their everyday lives, as well as think critically about both the positive and negative sides of different social technology designs. In this report, we present a series of six lessons combining presentations and hands-on activities covering topics within social computing and detail our experience teaching these lessons to approximately 1,405 students across 13 middle and high schools in our local school district. We developed lessons covering how social computing relates to the topics of Data Management, Encrypted Messaging, Human-Computer Interaction Careers, Machine Learning and Bias, Misinformation, and Online Behavior. We found that 81.13% of students expressed greater interest in the content of our lessons compared to their interest in STEM overall. We also found from pre- and post-lesson comprehension questions that 63.65% learned new concepts from the main activity. We release all lesson materials on a website for public use. From our experience, we observed that students were engaged in these topics and found enjoyment in finding connections between computing and their own lives.",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2401.09591.pdf",
+				"website_url": "https://social.cs.washington.edu/sfl-curriculum/"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a6aa70435dd7952ae53c73aff1c90fab436a9687/images/papeo.jpg",
+			"title": "Papeos: Augmenting Research Papers with Talk Videos",
+			"id": "papeos",
+			"author": [
+				{
+					"author_name": "Tae Soo Kim"
+				},
+				{
+					"author_name": "Matt Latzke"
+				},
+				{
+					"author_name": "Jonathan Bragg"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				}
+			],
+			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
+			"conference url": "https://uist.acm.org/2023/",
+			"conference": "UIST",
+			"year": "2023",
+			"short_abstract": "<p>We present Papeos, a novel reading and authoring interface that allow authors to augment their papers by segmenting and localizing talk videos alongside relevant paper passages with automatically generated suggestions.</p>",
+			"abstract": "Research consumption has been traditionally limited to the reading of academic papers—a static, dense, and formally written format. Alternatively, pre-recorded conference presentation videos, which are more dynamic, concise, and colloquial, have recently become more widely available but potentially under-utilized. In this work, we explore the design space and benefits for combining academic papers and talk videos to leverage their complementary nature to provide a rich and fluid research consumption experience. Based on formative and co-design studies, we present Papeos, a novel reading and authoring interface that allow authors to augment their papers by segmenting and localizing talk videos alongside relevant paper passages with automatically generated suggestions. With Papeos, readers can visually skim a paper through clip thumbnails, and fluidly switch between consuming dense text in the paper or visual summaries in the video. In a comparative lab study (n=16), Papeos reduced mental load, scaffolded navigation, and facilitated more comprehensive reading of papers.",
+			"bibtex": "@inproceedings{10.1145/3586183.3606770,\nauthor = {Kim, Tae Soo and Latzke, Matt and Bragg, Jonathan and Zhang, Amy X. and Chang, Joseph Chee},\ntitle = {Papeos: Augmenting Research Papers with Talk Videos},\nyear = {2023},\nisbn = {9798400701320},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3586183.3606770},\ndoi = {10.1145/3586183.3606770},\nbooktitle = {Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology},\narticleno = {15},\nnumpages = {19},\nkeywords = {Videos, Scientific Papers, Reading Interfaces, Interactive Documents},\nlocation = {<conf-loc>, <city>San Francisco</city>, <state>CA</state>, <country>USA</country>, </conf-loc>},\nseries = {UIST '23}\n}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3586183.3606770",
+				"website_url": "https://papeo.app/",
+				"video_url": "https://papeo.app/demo"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b5f8c3e84e307e8130252e991f66c1397742ba20/images/thirdperson.jpg",
+			"title": "Do users want platform moderation or individual control? Examining the role of third-person effects and free speech support in shaping moderation preferences",
+			"id": "third-person-effects",
+			"author": [
+				{
+					"author_name": "Shagun Jhaver"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "New Media & Society",
+			"conference url": "https://journals.sagepub.com/home/NMS",
+			"conference": "New Media & Society",
+			"year": "2023",
+			"short_abstract": "<p>Via a nationally representative survey of 984 US adults, we explore the influence of third-person effects and support for freedom of expression on this choice. We find that perceived negative effects on others negatively predict while free speech support positively predicts a preference for having personal moderation settings over platform-directed moderation for regulating each speech category.</p>",
+			"abstract": "This study examines social media users’ preferences for the use of platform-wide moderation in comparison to user-controlled, personalized moderation tools to regulate three categories of norm-violating content—hate speech, sexually explicit content, and violent content. Via a nationally representative survey of 984 US adults, we explore the influence of third-person effects and support for freedom of expression on this choice. We find that perceived negative effects on others negatively predict while free speech support positively predicts a preference for having personal moderation settings over platform-directed moderation for regulating each speech category. Our findings show that platform governance initiatives need to account for both actual and perceived media effects of norm-violating speech categories to increase user satisfaction. Our analysis also suggests that users do not view personal moderation tools as an infringement on others’ free speech but as a means to assert greater agency over their social media feeds.",
+			"bibtex": "@article{doi:10.1177/14614448231217993,\nauthor = {Shagun Jhaver and Amy X. Zhang},\ntitle ={Do users want platform moderation or individual control? Examining the role of third-person effects and free speech support in shaping moderation preferences},\njournal = {New Media \\& Society},\nvolume = {0},\nnumber = {0},\npages = {14614448231217993},\nyear = {0},\ndoi = {10.1177/14614448231217993},\nURL = { \n        https://doi.org/10.1177/14614448231217993\n},\neprint = { \n        https://doi.org/10.1177/14614448231217993\n}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2301.02208.pdf",
+				"website_url": "https://journals.sagepub.com/doi/abs/10.1177/14614448231217993"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0c876d0c60188bcb44a357400da3acb4a64128d1/images/Peer-Misinfo-Fig-1.jpeg",
+			"title": "User Experiences and Needs when Responding to Misinformation on Social Media",
+			"id": "responding-to-misinformation",
+			"author": [
+				{
+					"author_name": "Pranav Malhotra"
+				},
+				{
+					"author_name": "Ruican Zhong"
+				},
+				{
+					"author_name": "Victor Kuan"
+				},
+				{
+					"author_name": "Gargi Panatula"
+				},
+				{
+					"author_name": "Michelle Weng"
+				},
+				{
+					"author_name": "Andrea Bras"
+				},
+				{
+					"author_name": "Connie Moon Sehat"
+				},
+				{
+					"author_name": "Franzi Roesner"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Harvard Kennedy School Misinformation Review",
+			"conference url": "https://misinforeview.hks.harvard.edu/",
+			"year": "2023",
+			"short_abstract": "<p>This study examines the experiences of those who participate in bottom-up user-led responses to misinformation on social media and outlines how they can be better supported via software tools.</p>",
+			"abstract": "This study examines the experiences of those who participate in bottom-up user-led responses to misinformation on social media and outlines how they can be better supported via software tools. Findings show that users desire support tools designed to minimize time and effort in identifying misinformation and provide tailored suggestions for crafting responses to misinformation that account for emotional and relational context. Academics and practitioners interested in designing misinformation interventions that harness user participation can draw upon these findings.",
+			"links": {
+				"pdf_url": "https://misinforeview.hks.harvard.edu/wp-content/uploads/2023/11/malhotra_user_experiences_needs_social_media_20231109.pdf",
+				"website_url": "https://misinforeview.hks.harvard.edu/article/user-experiences-and-needs-when-responding-to-misinformation-on-social-media/"
+			},
+			"conference": "HKS Misinfo Review"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@1b14ebd162cded1f6be0f2d15bf4cbc8524176b0/images/multilevel.jpg",
+			"title": "Decentralizing Platform Power: A Design Space of Multi-level Governance in Online Social Platforms",
+			"id": "decentralizing-platform-power",
+			"author": [
+				{
+					"author_name": "Shagun Jhaver"
+				},
+				{
+					"author_name": "Seth Frey"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Social Media + Society",
+			"conference url": "https://journals.sagepub.com/home/sms",
+			"year": "2023",
+			"short_abstract": "<p>Drawing from literature on federalism and polycentricity in analogous offline institutions, we scrutinize the landscape of existing platforms through the lens of multi-level governance.</p>",
+			"abstract": "Many have criticized the centralized and unaccountable governance of prominent online social platforms, leading to renewed interest in platform governance that incorporates multiple centers of power. Decentralization of power can arise horizontally, through parallel communities, each with local administration, and vertically, through multiple hierarchies of overlapping jurisdiction. Drawing from literature on federalism and polycentricity in analogous offline institutions, we scrutinize the landscape of existing platforms through the lens of multi-level governance. Our analysis describes how online platforms incorporate varying forms and degrees of decentralized governance. In particular, we propose a framework that characterizes the general design space and the various ways that middle levels of governance vary in how they can interact with a centralized governance system above and end users below. This focus provides a starting point for new lines of inquiry between platform- and community-governance scholarship. By engaging themes of decentralization, hierarchy, power, and responsibility, while discussing concrete examples, we connect designers and theorists of online spaces.",
+			"bibtex": "@article{doi:10.1177/20563051231207857,\nauthor = {Shagun Jhaver and Seth Frey and Amy X. Zhang},\ntitle ={Decentralizing Platform Power: A Design Space of Multi-Level Governance in Online Social Platforms},\njournal = {Social Media + Society},\nvolume = {9},\nnumber = {4},\npages = {20563051231207857},\nyear = {2023},\ndoi = {10.1177/20563051231207857},\nURL = {https://doi.org/10.1177/20563051231207857},\neprint = {https://doi.org/10.1177/20563051231207857}\n}",
+			"links": {
+				"pdf_url": "https://journals.sagepub.com/doi/epub/10.1177/20563051231207857",
+				"website_url": "https://journals.sagepub.com/doi/full/10.1177/20563051231207857"
+			},
+			"conference": "Social Media + Society"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@ad778f93842b5ae6e85f74b7c20abe25c7a67497/images/conconf.jpg",
+			"title": "Confidence Contours: Uncertainty-Aware Annotation for Medical Semantic Segmentation",
+			"id": "confidence-contours",
+			"author": [
+				{
+					"author_name": "Andre Ye"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Conference on Human Computation and Crowdsourcing",
+			"conference url": "https://www.humancomputation.com/",
+			"conference": "HCOMP",
+			"year": "2023",
+			"award": "Best Paper Honorable Mention",
+			"short_abstract": "<p>We propose a novel segmentation representation, Confidence Contours, which uses high-and low-confidence \"contours\" to capture uncertainty directly, and develop a novel annotation system for collecting contours.</p>",
+			"abstract": "Medical image segmentation modeling is a high-stakes task where understanding of uncertainty is crucial for addressing visual ambiguity. Prior work has developed segmentation models utilizing probabilistic or generative mechanisms to infer uncertainty from labels where annotators draw a singular boundary. However, as these annotations cannot represent an individual annotator's uncertainty, models trained on them produce uncertainty maps that are difficult to interpret. We propose a novel segmentation representation, Confidence Contours, which uses high-and low-confidence \"contours\" to capture uncertainty directly, and develop a novel annotation system for collecting contours. We conduct an evaluation on the Lung Image Dataset Consortium (LIDC) and a synthetic dataset. From an annotation study with 30 participants, results show that Confidence Contours provide high representative capacity without considerably higher annotator effort. We also find that general-purpose segmentation models can learn Confidence Contours at the same performance level as standard singular annotations. Finally, from interviews with 5 medical experts, we find that Confidence Contour maps are more interpretable than Bayesian maps due to representation of structural uncertainty.",
+			"bibtex": "@inproceedings{ye2023confidence,\n  title={Confidence Contours: Uncertainty-Aware Annotation for Medical Semantic Segmentation},\n  author={Ye, Andre and Chen, Quan Ze and Zhang, Amy},\n  booktitle={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing},\n  volume={11},\n  number={1},\n  pages={186--197},\n  year={2023}\n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2308.07528.pdf"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f44e3d5061d947281859d471efd08eb5a3fdb662/images/F2qCqQcaIAA1-WN.jpeg",
 			"title": "\"Is Reporting Worth the Sacrifice of Revealing What I Have Sent?\": Privacy Considerations When Reporting on End-to-End Encrypted Platforms",
 			"id": "reporting-privacy-e2ee",
