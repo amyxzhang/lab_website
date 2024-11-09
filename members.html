@@ -1,33 +1,33 @@
 <html>
 
-<head>
-	<title>Social Futures Lab - UW CSE</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="The Social Futures Lab is based out of the Allen School of Computer Science & Engineering at University of Washington. We are reimagining social and collaborative systems to empower people and improve society.">
-	
-	<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&family=Roboto+Mono:ital,wght@0,500;1,300&display=swap" rel="stylesheet">
+  <head>
+    <title>Social Futures Lab - UW CSE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The Social Futures Lab is based out of the Allen School of Computer Science & Engineering at University of Washington. We are reimagining social and collaborative systems to empower people and improve society.">
 
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/mavo.min.css">
-	<script src="js/mavo.es5.min.js"></script>
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="favicon.ico" type="image/x-icon"> 
-	<meta property="og:title" content="Social Futures Lab">
-	<meta property="og:image" content="cover.jpg">
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&family=Roboto+Mono:ital,wght@0,500;1,300&display=swap" rel="stylesheet">
 
-</head>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/mavo.min.css">
+    <script src="js/mavo.es5.min.js"></script>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta property="og:title" content="Social Futures Lab">
+    <meta property="og:image" content="cover.jpg">
+  </head>
 
-<body>
-
+  <body>
+		<!-- Skip to content link -->
+		<a href="#main" class="skip-link" style="position: absolute; left: -9999px; opacity: 0;">Skip to main content</a>
 
 	<!-- top nav -->
 	<div class="container-fluid">
 		<div class="row justify-content-md-center">
-			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5"> 
-				<a href="index.html"><img src="img/logo_long.png" class="logo"></a>
+			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+				<a href="index.html"><img src="img/logo_long.png" class="logo" alt="Social Futures Lab"></a>
 			</div>
-			
+
 			<div class="col-md-2 col-lg-2"></div>
 
 			<div class="col-xs-12 col-sm-7 col-md-5 col-lg-5 menu">
@@ -39,17 +39,17 @@
 		</div>
 	</div>
 
-	
-	<div class="container-fluid">
+
+	<div class="container-fluid" id="main">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">
 				<h2>Join us!</h2>
 
 				<p>We are excited to hear from motivated and passionate students and researchers who want to join and collaborate with us!</p>
 				<br />
-				
+
 				<ul>
-					<li><b>Prospective PhD students</b> should <a href="https://www.cs.washington.edu/academics/phd/admissions">apply to the PhD program</a> 
+					<li><b>Prospective PhD students</b> should <a href="https://www.cs.washington.edu/academics/phd/admissions">apply to the PhD program</a>
 					in the fall. You are welcome to reach out to one of the lab members to learn more about us.</p></li>
 
 			<li><b>Masters and Undergraduate students</b> should fill out <a href="https://forms.gle/WmkhM7eYA7SC19kV6">this form</a>, which asks you about your research interests, level of commitment, and availability. We review these applications regularly (at least once a quarter), but if there are any projects you are particularly interested in, feel free to reach out to the grad student(s) or postdoc(s) directly at any time.</li>
@@ -62,27 +62,27 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">
 				<h2>Members</h2>
-								
-				<div mv-bar="no-login" mv-app="people" mv-plugins="tinymce" mv-storage="https://github.com/amyxzhang/lab_website">
-						
+
+				<div mv-bar="no-login" mv-app="people" mv-plugins="tinymce" mv-storage="https://github.com/Social-Futures-Lab/social-futures-lab.github.io">
+
 				<div class="row">
 					<article class="member-page" property="member" typeof="Person" mv-multiple>
-						
-						
+
+
 						<div mv-if="name == 'Shagun Jhaver'" class="col-xs-12">
 							<h2>Alumni</h2>
 						</div>
-						
+
 						<div class="[if(alum, 'col-xs-6 col-md-2 fix-alum-height','col-xs-12 col-md-6 fix-member-height')]">
 							<!-- Thumbnail -->
-							<div class="[if(alum, 'col-xs-12 col-sm-12 col-md-12 col-lg-12','col-xs-12 col-sm-12 col-md-4 col-lg-3')]"> 
+							<div class="[if(alum, 'col-xs-12 col-sm-12 col-md-12 col-lg-12','col-xs-12 col-sm-12 col-md-4 col-lg-3')]">
 								<img src="null" class="person-img" property="image" alt="" />
 							</div>
-							
+
 							<!-- Bio -->
 							<div class="[if(alum, 'col-xs-12 col-sm-12 col-md-12 col-lg-12', 'col-xs-12 col-sm-12 col-md-8 col-lg-9')]">
-								<a href="[website_url]" property="homepage">
-									<h4><span property="name">Name</span></h4>
+								<a href="[website_url]" property="homepage" aria-label="[name]">
+									<h4><span property="name" aria-label="[name]">Name</span></h4>
 								</a>
 
 								<meta property="id" content="[name]">
@@ -97,9 +97,9 @@
 											<option value="intern">Summer Intern</option>
 										</select>
 									</p>
-								
+
 									<span class="hide-on-read">Alumni?: <input property="alum" type="checkbox" /><BR></span>
-									
+
 									<span class="[if(alum, hideauthor)]">
 										<span property="bio" class="tinymce">Bio</span><BR>
 
@@ -124,35 +124,29 @@
 												<img src="img/twitter4.png"><span> Twitter</span>
 											</a>
 										</span>
-													
+
 										<BR><BR>
 									</span>
 							</div>
-									
+
 						</div>
 					</article>
 				</div>
-								
+
 				</div>
 			</div>
 		</div>
-
-		
-		
-			
 	</div>
-	
-	
-	<!-- Footer -->
-	<div class="footer"><p>&copy; Social Futures Lab. <a href="https://github.com/amyxzhang/lab_website">Site</a> built by <a href="https://homes.cs.washington.edu/~axz/" target="_blank">Amy X. Zhang</a> and <a href="http://jennyfan.com" target="_blank">Jenny Fan</a>.</p>
 
+	<!-- Footer -->
+	<div class="footer"><p>&copy; Social Futures Lab. <a href="https://github.com/Social-Futures-Lab/social-futures-lab.github.io">Site</a> built by <a href="https://homes.cs.washington.edu/~axz/" target="_blank">Amy X. Zhang</a> and <a href="http://jennyfan.com" target="_blank">Jenny Fan</a>.</p>
 		<br />
 		<a href="https://www.cs.washington.edu/" target="_blank"><img src="cselogo.png" width="300px" border="0" /></a>
 		<br />
-		</div>
-	
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-	
+	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
 	</body>
-	</html>
+</html>

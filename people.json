@@ -133,6 +133,47 @@
 			"alum": false
 		},
 		{
+			"image": "https://www.aliciaguo.com/images/Alicia.png",
+			"name": "Alicia Guo",
+			"jobTitle": "phd",
+			"bio": "Alicia is a PhD student at the University of Washington CSE. Her research interests are in creativity support tools and representations of generated content in human-AI systems.",
+			"links": {
+				"website_url": "https://www.aliciaguo.com/",
+				"github_url": "https://github.com/axguo",
+				"twitter_url": "https://twitter.com/upcycledwords",
+				"email": "axguo@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": false
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4c5933b4006ae2eb427fbb8e9f9059a5f5281ea5/images/inyoung.png",
+			"name": "Inyoung Cheong",
+			"jobTitle": "phd",
+			"alum": false,
+			"bio": "Inyoung Cheong is a PhD student of Law at the University of Washington. Her research explores AI policy, governance, and regulatory approaches to mitigate foreseeable societal harms and developing interventions that promote accountability.",
+			"links": {
+				"website_url": "https://inyoungcheong.github.io",
+				"github_url": "https://github.com/inyoungcheong",
+				"twitter_url": "https://twitter.com/inyoungcheong"
+			},
+			"@type": "Person"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
+			"name": "Teanna Barrett",
+			"jobTitle": "phd",
+			"bio": "Teanna (she/her) is a PhD at the University of Washington CSE. She is interested in building data scientists' capacity to reason ethically through their work and challenge Western-centric data ethics paradigms through Black thought.",
+			"links": {
+				"website_url": "http://teannabarrett.com/",
+				"scholar_url": "https://scholar.google.com/citations?user=hUfhQwcAAAAJ&hl=en&oi=ao",
+				"twitter_url": "https://x.com/bound4nostar",
+				"email": "tb23@cs.washington.edu"
+			},
+			"@type": "Person",
+			"alum": false
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@17b5baf078d1563efd4ee9868057234dd9f08de1/images/7442AD2C-3E65-4CB4-90B3-C00403C9D5E9-621004EB-D235-4808-B840-B78AB5A706B6.JPG",
 			"name": "Emelia May Hughes",
 			"jobTitle": "visiting",
@@ -389,7 +430,18 @@
 			},
 			"@type": "Person",
 			"alum": false
-		}
+		},
+    {
+			"image": "images/kuhlsydney.jpg",
+			"name": "Sydney Kuhl",
+			"jobTitle": "undergrad",
+			"bio": "Sydney Kuhl is an undergraduate student at the University of Washington studying computer science. Her research interests are in machine learning, natural language processing, and online misinformation.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/sydneykuhl/"
+			},
+			"@type": "Person",
+			"alum": false
+		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
 			"name": "Shagun Jhaver",
@@ -516,16 +568,6 @@
 			"jobTitle": "intern",
 			"links": {
 				"website_url": "https://yjqian02.github.io/Personal-Website/"
-			},
-			"@type": "Person",
-			"alum": true
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@61c0a0d9c0b70967be3b925088696905b75f3a21/images/Professional_Headshot.jpg",
-			"name": "Teanna Barrett",
-			"jobTitle": "intern",
-			"links": {
-				"website_url": "https://www.linkedin.com/in/teanna-barrett-483376189/"
 			},
 			"@type": "Person",
 			"alum": true

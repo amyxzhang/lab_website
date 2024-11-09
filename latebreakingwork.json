@@ -1,6 +1,106 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a2bb5b62bef38b57e0f1fec5f1ac15a925900629/images/writing.png",
+			"title": "Preserving Writer Values in AI Writing Assistance Tools",
+			"author": [
+				{
+					"author_name": "Alicia Guo"
+				},
+				{
+					"author_name": "Leijie Wang"
+				},
+				{
+					"author_name": "Jeffrey Heer"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Workshop Paper",
+			"conference url": "https://in2writing.glitch.me/",
+			"conference": "CHI",
+			"year": "2024",
+			"links": {
+				"pdf_url": "https://www.aliciaguo.com/papers/writer_values.pdf"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c3d3d866d1e8d8c8e4aa0dd5c6a6a1df62dc8204/images/Screen%20Shot%202023-12-01%20at%2010.42.26%20AM.png",
+			"title": "Case Repositories: Toward Case-Based Reasoning for AI Alignment",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "Quan Ze (Jim) Chen"
+				},
+				{
+					"author_name": "Inyoung Cheong"
+				},
+				{
+					"author_name": "King Xia"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "AI Meets Moral Philosophy and Psychology (MP2) Workshop",
+			"conference url": "https://neurips.cc/",
+			"conference": "NeurIPS",
+			"year": "2023",
+			"links": {
+				"pdf_url": "https://arxiv.org/pdf/2311.10934.pdf",
+				"website_url": "https://social.cs.washington.edu/case-law-ai-policy/",
+				"code_url": "https://github.com/Social-Futures-Lab/case-law-ai-policy"
+			}
+		},
+		{
+			"title": "Leveraging communication data to support workers’ learning in collaborative complex work",
+			"author": [
+				{
+					"author_name": "Ruotong Wang"
+				},
+				{
+					"author_name": "Ye Yuan"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Supporting Workers in Developing Effective Collaboration Skills for Complex Work Workshop",
+			"conference url": "https://cscw.acm.org/2023",
+			"links": {
+				"pdf_url": "https://social.cs.washington.edu/papers/Communication_data_learning.pdf",
+				"website_url": "https://learning-collaboration-cscw23-workshop.vercel.app/#overview"
+			},
+			"conference": "CSCW",
+			"year": "2023",
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@eb2c9dde5893fb8eca4cfa25bb410861608aee1e/images/_1fd5c53f-69e5-4233-8b7e-d4e3e782b8c6.jpeg"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@924eb9a17eeb68ff07acaa4d35eddf43c2b7987f/images/knight-paper-cover.png",
+			"title": "Teachable Agents for End-User Empowerment in Personalized Feed Curation",
+			"author": [
+				{
+					"author_name": "Kevin Feng"
+				},
+				{
+					"author_name": "David W. McDonald"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"publication_type": "Algorithmic Amplification and Society Series",
+			"conference url": "https://knightcolumbia.org/events/optimizing-for-what-algorithmic-amplification-and-society",
+			"conference": "Knight 1st Amendment Institute",
+			"year": "2023",
+			"links": {
+				"website_url": "https://knightcolumbia.org/content/teachable-agents-for-end-user-empowerment-in-personalized-feed-curation"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@9cdc8f8b61adbf29da93a0d359381235322911ee/images/Screen%20Shot%202022-04-27%20at%209.49.27%20AM.png",
 			"title": "From Handoffs to Co-Creation: Deepening Collaboration between Designers, Developers, and Data Science Workers in UX Design",
 			"author": [

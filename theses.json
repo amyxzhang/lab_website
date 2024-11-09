@@ -1,6 +1,19 @@
 {
 	"thesis": [
 		{
+			"title": "Building Proactive and Instant-Reactive Safety Designs to Address Harassment in Social Virtual Reality",
+			"author": [
+				{
+					"author_name": "Simona Liao"
+				}
+			],
+			"type": "Masters Thesis",
+			"date": "June 2024",
+			"links": {
+				"pdf_url": "https://drive.google.com/file/d/1jO2COYmryAOzdheHyraBQzUjqtubwA5Y/view?usp=sharing"
+			}
+		},
+		{
 			"title": "Evaluating the Harm of Online Misinformation",
 			"author": [
 				{
