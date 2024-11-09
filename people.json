@@ -421,6 +421,17 @@
 			"alum": false
 		},
 		{
+			"image": "images/Andrew Shaw.jpg",
+			"name": "Andrew Shaw",
+			"jobTitle": "undergrad",
+			"bio": "Andrew Shaw (he/him) is an undergraduate student at the University of Washington studying computer science and philosophy. His resesarch interests are in computer and AI ethics, particularly regarding the impacts of sociotechnical systems on marginalized communities.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/andrew-b-shaw/"
+			},
+			"@type": "Person",
+			"alum": false
+		},
+    {
 			"image": "images/kuhlsydney.jpg",
 			"name": "Sydney Kuhl",
 			"jobTitle": "undergrad",
