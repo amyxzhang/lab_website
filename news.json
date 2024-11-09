@@ -1,6 +1,186 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4fc571722112a37f44a3ad04aada45b928b92e97/images/galenpresentation.png",
+			"title": "Galen presents work on online community values at ICWSM 2024",
+			"date": "June 2024",
+			"description": "Galen attended ICWSM in Buffalo, NY to present his work surveying Reddit users about the values they hold for their communities.",
+			"link": {
+				"link_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/31413",
+				"link_text": "Paper link"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@d81c437a06d8c92ec729163a8bddbb87bbac30be/images/facct2024logo.png",
+			"title": "Inyoung and Ruotong present work at FAccT 2024",
+			"date": "June 2024",
+			"description": "Two SFL members presented work at FAccT this year in Rio de Janeiro. Inyoung remotely presented her paper on <a href=\"https://dl.acm.org/doi/abs/10.1145/3630106.3659048\">legal experts and their considerations for policies around LLM legal advice</a>. Ruotong also attended to present her MSR internship work on <a href=\"https://dl.acm.org/doi/abs/10.1145/3630106.3658984\">trust and LLMs for coding</a>.&nbsp;",
+			"link": {
+				"link_url": "https://facctconference.org/2024/",
+				"link_text": "FAccT 2024 website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bd0ca2dde9eff3494f3fe64a51c5933bf98d00a4/images/CHIphoto.png",
+			"title": "SFL at CHI 2024: Leijie, Kevin, Lawrence, Emelia, and Alicia present work",
+			"date": "May 2024",
+			"description": "SFL presented several projects at CHI in Hawaii this year and also met up with several alumni! Leijie presented his work on a <a href=\"https://dl.acm.org/doi/full/10.1145/3613904.3642012\">new governance authoring toolkit Pika</a>, Kevin and Lawrence presented their paper on <a href=\"https://dl.acm.org/doi/full/10.1145/3613904.3642120\">designing teachable social media feed agents</a>,&nbsp; Emelia presented her undergraduate research on <a href=\"https://dl.acm.org/doi/full/10.1145/3613904.3642490\">credibility signals and citations on video sharing platforms</a>, and Alicia presented her workshop paper on <a href=\"https://www.aliciaguo.com/papers/writer_values.pdf\">writer values in AI writing assistance tools</a>. Amy also participated in a CHI workshop panel on <a href=\"https://genai-in-ugc.github.io/\">generative AI and user generated content</a> and was on another <a href=\"https://dl.acm.org/doi/full/10.1145/3613904.3642241\">paper on meronymous communication</a> in collaboration with AI2 and MIT which won a best paper award.",
+			"link": {
+				"link_url": "https://chi2024.acm.org/",
+				"link_text": "CHI 2024 website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@15ceac9c803768edde01083092e7fa92ef257a65/images/husky100.png",
+			"title": "Khushi and Kianna are named to the Husky 100",
+			"date": "May 2024",
+			"description": "Two of our undergraduate researchers are named to the Husky 100! Congrats to Khushi and Kianna!",
+			"link": {
+				"link_url": "https://www.washington.edu/husky100/blog/announcing-the-2024-husky-100/",
+				"link_text": "Husky 100 2024"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@62b4fa2a13f103cdfdf649b8956e0b8fcff756ce/images/speaker-event-card-24--e87972cb-18c5-4e6b-9682-1d882748237c-1711391668174.png",
+			"title": "Kevin presents Case Repositories at the OpenAI Forum on Democratic Inputs to AI",
+			"date": "April 2024",
+			"description": "OpenAI Forum hosted a virtual event on the Democratic Inputs to AI program, where Kevin was one of three speakers. He presented work done by members of our lab on case law inspired workflows for AI alignment.",
+			"link": {
+				"link_url": "https://forum.openai.com/public/events/collective-alignment-enabling-democratic-inputs-to-ai-2024-04-18",
+				"link_text": "Link to event"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@f7a2b159e5abbe54fb9f62e8802e237042bcaecc/images/image%20(18).png",
+			"title": "Kianna presented her Social Computing K-12 curriculum at ACM SIGCSE",
+			"date": "Mar 2024",
+			"description": "Kianna presented an experience report at ACM SIGCSE, the flagship forum for computer science educators, on her experience teaching social computing topics to secondary school students in the greater Seattle area. Kianna reached over 1.4K students with her lessons and also <a href=\"sfl-curriculum/\">released all her materials publicly</a>.&nbsp;",
+			"link": {
+				"link_url": "https://arxiv.org/abs/2401.09591",
+				"link_text": "Link to paper"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0de311deb1fb0d5b58e7d5be16956072cbcb9139/images/citp-logo.png",
+			"title": "Amy co-organized and Kevin also attended a workshop at Princeton on Decentralized Social Media",
+			"date": "Mar 2024",
+			"description": "Amy co-organized and Kevin attended a workshop co-hosted by Princeton CITP and DeCenter on the topic of decentralized social media, with a diverse group of scholars, engineers, and administrators who actively study, build, and manage decentralized social networks such as Mastodon, Bluesky, and Nostr.",
+			"link": {
+				"link_url": "https://freedom-to-tinker.com/2024/03/19/five-themes-discussed-at-princetons-workshop-on-decentralized-social-media/",
+				"link_text": "Blog post on takeaways"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3c7ff8bf3e7c654b589d088101ea556b9a6b3377/images/Wikimedia_Research_Newsletter_Logo.svg.png",
+			"title": "Amy gave a talk at the Wikimedia Foundation Research Showcase",
+			"date": "Feb 2024",
+			"description": "Amy's talk was titled \"Sociotechnical Designs for Democratic and Pluralistic Governance of Social Media and AI\". The talk was recorded and livestreamed.&nbsp;",
+			"link": {
+				"link_url": "https://www.youtube.com/watch?v=Q1xYwRw1rHU",
+				"link_text": "Link to livestream"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@422f4a15f6d818bbb41738737df9c91b1f634795/images/PK2.jpg",
+			"title": "Leijie presented his project Pika at the PLATEAU workshop",
+			"date": "Feb 2024",
+			"description": "PLATEAU is a workshop dedicated to the intersection of HCI and PL and that was held this year at Berkeley. Leijie presented his work on <a href=\"https://arxiv.org/abs/2310.04329\">Pika, a system for non-programmers</a> to be able to write executable governance policies for their online community. Pika incorporates a declarative grammar, a policy library, a form-based UI, and a compiler that compiles the Pika grammar into a PolicyKit policy.",
+			"link": {
+				"link_url": "https://2024.plateau-workshop.org/",
+				"link_text": "Link to PLATEAU website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@83df952af62f1f162f68f7c1a2b15fce31c3b2c8/images/cip-header-img.png",
+			"title": "Our blog post on provenance and media credibility is published by UW CIP",
+			"date": "Feb 2024",
+			"description": "Our work on investigating effects of provenance information on users' media credibility perceptions, which appeared as <a href=\"https://dl.acm.org/doi/abs/10.1145/3610061\">a paper at CSCW 2023</a>, is now summarized as a blog post, published by the Center for Informed Public (CIP) at the University of Washington!&nbsp;",
+			"link": {
+				"link_url": "https://www.cip.uw.edu/2024/02/21/provenance-synthetic-media-trust-perceptions/",
+				"link_text": "Blog post link"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a2a5e27e8264415bb6e9448dc003d25252b16124/images/crawinners2.jpg",
+			"title": "Kianna wins CRA's Outstanding Undergraduate Research Award, Andre is a finalist",
+			"date": "Jan 2024",
+			"description": "Faculty from institutions across North America nominated undergraduate researchers who demonstrate strong research capabilities and a commitment to advancing the field. This year, Kianna was selected as one of 4 winners of the award in the nation, and Andre was selected as one of 16 finalists.",
+			"link": {
+				"link_url": "https://cra.org/crn/2024/01/outstanding-undergraduate-research-awards-winners-announcement/",
+				"link_text": "CRA award announcement"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0305a6291d00389a3f58e61f58349b2afacce491/images/d1fbf34d-536c-4dd7-9428-38e627d3f40f_1456x1048.webp",
+			"title": "New_Public covers our work on PolicyKit, a toolkit for governing online communities",
+			"date": "Nov 2023",
+			"description": "New_Public's newsletter interviews Amy on the software toolkit <a href=\"https://dl.acm.org/doi/abs/10.1145/3379337.3415858\">PolicyKit</a> and ongoing work on the end-user-friendly system <a href=\"https://arxiv.org/abs/2310.04329\">Pika</a> towards empowering online communities to design and carry out different governance models of their choice.",
+			"link": {
+				"link_url": "https://newpublic.substack.com/p/democratizing-power-in-online-communities",
+				"link_text": "Article link"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@65ffdc0228151866ea129bcf9dc2eef4def160c3/images/pile-3d-popular-social-media-logos-blog-hero.jpeg",
+			"title": "Our CSCW work was covered by UW Allen School News",
+			"date": "Nov 2023",
+			"description": "The title of the article is: \"&lsquo;The architects of our digital spaces&rsquo;: How researchers in the Allen School&rsquo;s Social Futures Lab are making social media better by design\" and covers research papers from this year's CSCW led by Kevin Feng and led by our former postdoc Shagun Jhaver.",
+			"link": {
+				"link_url": "https://news.cs.washington.edu/2023/11/30/the-architects-of-our-digital-spaces-how-researchers-in-the-allen-schools-social-futures-lab-are-making-social-media-better-by-design/",
+				"link_text": "Article link"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@c1ea180d8a6197e147f53f8270321c7fdc885adc/images/20231107_201234.jpg",
+			"title": "Andre and Jim win Best Paper Honorable Mention at HCOMP, Amy participates in a panel",
+			"date": "Nov 2023",
+			"description": "Andre gives a talk on Confidence Contours, a new method for uncertainty-aware annotation for medical semantic segmentation, which ended up winning a Best Paper Honorable Mention award! Amy also participated in a panel session on Decision-Making.",
+			"link": {
+				"link_url": "https://ojs.aaai.org/index.php/HCOMP/article/view/27559",
+				"link_text": "Paper link"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@0d8f5b2a7ca0cd082b7e326290b7190e8e6fd950/images/warren-4l-e7U6c5ek-unsplash-scaled.jpeg",
+			"title": "Amy was interviewed in a story for UW News",
+			"date": "Oct 2023",
+			"description": "Amy was interviewed alongside Amanda Baughan, Katherine Cross, and Martin Saveski on \"How can social media be better?\".&nbsp;",
+			"link": {
+				"link_url": "https://www.washington.edu/news/2023/10/24/better-social-media-research-twitter-bluesky-linkedin-threads/",
+				"link_text": "Article link"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@3c823783fe5313282d27981550f1f60477f1deb3/images/kjkf.jpg",
+			"title": "SFL at CSCW in Minneapolis: 3 paper talks",
+			"date": "Oct 2023",
+			"description": "Shagun gave a talk on <a href=\"https://dl.acm.org/doi/abs/10.1145/3610080\">personalizing content moderation</a> and user perspectives. Kevin gave a talk in collaboration with the C2PA on <a href=\"https://dl.acm.org/doi/abs/10.1145/3610061\">the impact of media provenance indicators</a> on trust and accuracy.&nbsp; And Jim gave a talk on <a href=\"https://arxiv.org/abs/2305.01615\">Judgment Sieve</a>, a workflow for targeted interventions to reduce uncertainty in group judgments. Ruotong and Jina each attended a workshop, and Leijie was also in attendance. Amy was DEI co-chair and helped organize the DEI lunch and field trip to the George Floyd Memorial. SFL also helped host a crafting table on Tuesday!",
+			"link": {
+				"link_url": "https://cscw.acm.org/2023/",
+				"link_text": "CSCW 2023"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@b738c3060061b5efc5778d9a290ac987f37f6174/images/IMG_2461%20(2).jpg",
+			"title": "SFL Case Law for AI Policy team visits OpenAI",
+			"date": "Sept 2023",
+			"description": "The SFL Case Law for AI Policy team consisting of Jim, Kevin, Inyoung, King, and Amy visited OpenAI along with all the other OpenAI Democratic Inputs team, where Jim gave a talk about our ongoing pilot.",
+			"link": {
+				"link_url": "https://openai.com/blog/democratic-inputs-to-ai-grant-program-update",
+				"link_text": "OpenAI grant update"
+			}
+		},
+		{
+			"image": "https://www.aliciaguo.com/images/Alicia.png",
+			"title": "Welcome Alicia to SFL!",
+			"date": "Sept 2023",
+			"description": "Alicia Guo joins us in SFL as a new PhD student co-advised by Amy and Jeff Heer. Her research interests are in creativity support tools, new interactions for text, and collaboration tools. She comes to Seattle by way of Cambridge, specifically MIT Media Lab and MIT CSAIL.",
+			"link": {
+				"link_url": "https://www.aliciaguo.com/",
+				"link_text": "Alicia's website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1144c2e6b77bc87af10decaeb5320ac2264b59/images/IMG_5198.jpg",
 			"title": "Leijie presented his work on reporting and privacy in E2EE apps at SOUPS and at Trust and Safety Research Conference",
 			"date": "Aug 2023",
@@ -8,6 +188,16 @@
 			"link": {
 				"link_url": "https://arxiv.org/abs/2306.10478",
 				"link_text": "Link to paper"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5116099e0a7672ec3ac047dd9fb17597bde50afe/images/screenshotyt.jpg",
+			"title": "Our Social Computing Capstone was featured by UW CSE",
+			"date": "July 2023",
+			"description": "Our Social Computing Capstone course, now in its 2nd year, is a course offered to senior undergraduates as a capstone project before they graduate, where they form teams to build a new social computing system. The recent Spring '23 offering was just featured as a video by UW CSE.",
+			"link": {
+				"link_url": "https://www.youtube.com/watch?v=9AWkEKRuDZg",
+				"link_text": "Link to video"
 			}
 		},
 		{
