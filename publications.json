@@ -1,6 +1,35 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fa484763483a46f497ed5a62f9b40d67beab1337/images/Screenshot%202024-11-08%20at%2010.30.02 PM.png",
+			"title": "Language Models as Critical Thinking Tools: A Case Study of Philosophers",
+			"id": "critical-thinking-tools",
+			"author": [
+				{
+					"author_name": "Andre Ye"
+				},
+				{
+					"author_name": "Jared Moore"
+				},
+				{
+					"author_name": "Rose Novick"
+				},
+				{
+					"author_name": "Amy Zhang"
+				}
+			],
+			"conference_full_name": "Conference on Language Models",
+			"conference url": "https://colmweb.org/",
+			"conference": "COLM",
+			"year": "2024",
+			"short_abstract": "<p>We interview philosophers to understand how to design language models as critical thinking tools. We propose a framework and propose roles for language models.</p>",
+			"abstract": "Current work in language models (LMs) helps us speed up or even skip thinking by accelerating and automating cognitive work. But can LMs help us with critical thinking -- thinking in deeper, more reflective ways which challenge assumptions, clarify ideas, and engineer new concepts? We treat philosophy as a case study in critical thinking, and interview 21 professional philosophers about how they engage in critical thinking and on their experiences with LMs. We find that philosophers do not find LMs to be useful because they lack a sense of selfhood (memory, beliefs, consistency) and initiative (curiosity, proactivity). We propose the selfhood-initiative model for critical thinking tools to characterize this gap. Using the model, we formulate three roles LMs could play as critical thinking tools: the Interlocutor, the Monitor, and the Respondent. We hope that our work inspires LM researchers to further develop LMs as critical thinking tools and philosophers and other 'critical thinkers' to imagine intellectually substantive uses of LMs",
+			"bibtex": "@misc{ye2024languagemodelscriticalthinking,\n      title={Language Models as Critical Thinking Tools: A Case Study of Philosophers}, \n      author={Andre Ye and Jared Moore and Rose Novick and Amy X. Zhang},\n      year={2024},\n      eprint={2404.04516},\n      archivePrefix={arXiv},\n      primaryClass={cs.HC},\n      url={https://arxiv.org/abs/2404.04516}, \n}",
+			"links": {
+				"pdf_url": "https://arxiv.org/abs/2404.04516"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@5743f4eb58a1266f1d5d4022734f28afc95ad8c5/images/caselaw.png",
 			"title": "(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice",
 			"id": "legal-advice-llm",
