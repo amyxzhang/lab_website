@@ -1,6 +1,16 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@daf909cca4859d8d9e08af15965470ba35ba08db/images/madrona-prize-peoples-choice-prize-presentation_kristine-white-e1730441808548.jpg",
+			"title": "Ruotong wins the Madrona Prize at the Allen School Research Day",
+			"date": "Nov 2024",
+			"description": "The Madrona Prize is given by Madrona Ventures during the UW Allen School's Research Day where students and faculty present on their research work. The prize is intended for promising and innovative research that is also commercializable. Ruotong won this year for her work on designing AI-based systems to support collaborative remote work! Congrats Ruotong and collaborators!",
+			"link": {
+				"link_url": "https://www.geekwire.com/2024/the-winning-ideas-at-the-uw-computer-science-school-annual-research-showcase/",
+				"link_text": "Geekwire article"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6587c40cb647ea83be775b9fca7694d2c3ee4f3f/images/andre.jpg",
 			"title": "Andre presents his paper on language models for critical thinking at COLM 2024",
 			"date": "Oct 2024",
