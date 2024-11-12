@@ -1,6 +1,38 @@
 {
 	"paper": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4d1f37071d8353428b1fc13511717efbe8b53e7e/images/qlarify.jpg",
+			"title": "Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers",
+			"id": "qlarify",
+			"author": [
+				{
+					"author_name": "Raymond Fok"
+				},
+				{
+					"author_name": "Joseph Chee Chang"
+				},
+				{
+					"author_name": "Tal August"
+				},
+				{
+					"author_name": "Amy Zhang"
+				},
+				{
+					"author_name": "Dan Weld"
+				}
+			],
+			"conference_full_name": "ACM Symposium on User Interface Software and Technology",
+			"conference url": "https://uist.acm.org/2024/",
+			"conference": "UIST",
+			"year": "2024",
+			"short_abstract": "<p>We introduce recursively expandable abstracts, a novel interaction paradigm that dynamically expands abstracts by progressively incorporating additional information from the papers&rsquo; full text.&nbsp;</p>",
+			"abstract": "Navigating the vast scientific literature often starts with browsing a paper’s abstract. However, when a reader seeks additional information, not present in the abstract, they face a costly cognitive chasm during their dive into the full text. To bridge this gap, we introduce recursively expandable abstracts, a novel interaction paradigm that dynamically expands abstracts by progressively incorporating additional information from the papers’ full text. This lightweight interaction allows scholars to specify their information needs by quickly brushing over the abstract or selecting AI-suggested expandable entities. Relevant information is synthesized using a retrieval-augmented generation approach, presented as a fluid, threaded expansion of the abstract, and made efficiently verifiable via attribution to relevant source-passages in the paper. Through a series of user studies, we demonstrate the utility of recursively expandable abstracts and identify future opportunities to support low-effort and just-in-time exploration of long-form information contexts through LLM-powered interactions.",
+			"bibtex": "@inproceedings{10.1145/3654777.3676397,\nauthor = {Fok, Raymond and Chang, Joseph Chee and August, Tal and Zhang, Amy X. and Weld, Daniel S.},\ntitle = {Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers},\nyear = {2024},\nisbn = {9798400706288},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3654777.3676397},\ndoi = {10.1145/3654777.3676397},\nbooktitle = {Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology},\narticleno = {145},\nnumpages = {21},\nkeywords = {Information Retrieval, Interactive Documents, Large Language Models, Mixed-Initiative User Interfaces, Scientific Papers},\nlocation = {Pittsburgh, PA, USA},\nseries = {UIST '24}\n}",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/abs/10.1145/3654777.3676397"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fa484763483a46f497ed5a62f9b40d67beab1337/images/Screenshot%202024-11-08%20at%2010.30.02 PM.png",
 			"title": "Language Models as Critical Thinking Tools: A Case Study of Philosophers",
 			"id": "critical-thinking-tools",
