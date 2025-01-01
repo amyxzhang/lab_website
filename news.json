@@ -1,10 +1,20 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fcc58fe8878b46aec3bb199132fe2660ec427027/images/NeruIPS.jpg",
+			"title": "Pluralistic Alignment workshop at NeurIPS",
+			"date": "Dec 2024",
+			"description": "Amy co-organized a day long workshop at NeurIPS on pluralistic alignment. As part of the workshop, Kevin presented a poster on \"<a href=\"https://arxiv.org/abs/2411.10534\">chain of alignment</a>\", a process incorporating both experts and public input towards AI alignment.",
+			"link": {
+				"link_url": "https://pluralistic-alignment.github.io/",
+				"link_text": "Workshop website"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@aed659643b542eeaf04bdd3703304646d55cee7f/images/LOGO-CSCW-e1703866772172.png",
 			"title": "SFL at CSCW 2024",
 			"date": "Nov 2024",
-			"description": "SFL had 3 papers at CSCW 2024! Ruotong led one paper on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3637312\">meeting bridges</a>\", information Artifacts that bridge synchronous and asynchronous collaboration. Amy had two papers, one on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3641006\">Form-From</a>\", a design space for social media systems, and one on the <a href=\"https://dl.acm.org/doi/abs/10.1145/3641010\">FABLE framework</a> for measuring misinformation harms. In addition, Galen co-organized a <a href=\"https://dl.acm.org/doi/abs/10.1145/3678884.3687141\">SIG on community-driven models</a> for research on social platforms",
+			"description": "SFL had 3 papers at CSCW 2024! Ruotong led one paper on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3637312\">meeting bridges</a>\", information artifacts that bridge synchronous and asynchronous collaboration. Amy had two papers, one on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3641006\">Form-From</a>\", a design space for social media systems, and one on the <a href=\"https://dl.acm.org/doi/abs/10.1145/3641010\">FABLE framework</a> for measuring misinformation harms. In addition, Galen co-organized a <a href=\"https://dl.acm.org/doi/abs/10.1145/3678884.3687141\">SIG on community-driven models</a> for research on social platforms",
 			"link": {
 				"link_url": "https://cscw.acm.org/2024/",
 				"link_text": "CSCW website"
