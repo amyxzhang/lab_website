@@ -41,6 +41,15 @@
 			}
 		},
 		{
+			"title": "Amy appeared on the Techdirt podcast",
+			"date": "May 2024",
+			"description": "Amy spoke with Mike Masnick of Techdirt on his podcast, on content moderation and decentralization. The episode is - Episode 392: Platform Moderation Or Individual Control?",
+			"link": {
+				"link_url": "https://www.techdirt.com/2024/05/21/techdirt-podcast-episode-392-platform-moderation-or-individual-control/",
+				"link_text": "Podcast link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bd0ca2dde9eff3494f3fe64a51c5933bf98d00a4/images/CHIphoto.png",
 			"title": "SFL at CHI 2024: Leijie, Kevin, Lawrence, Emelia, and Alicia present work",
 			"date": "May 2024",
