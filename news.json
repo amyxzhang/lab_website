@@ -1,6 +1,46 @@
 {
 	"news_item": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@fcc58fe8878b46aec3bb199132fe2660ec427027/images/NeruIPS.jpg",
+			"title": "Pluralistic Alignment workshop at NeurIPS",
+			"date": "Dec 2024",
+			"description": "Amy co-organized a day long workshop at NeurIPS on pluralistic alignment. As part of the workshop, Kevin presented a poster on \"<a href=\"https://arxiv.org/abs/2411.10534\">chain of alignment</a>\", a process incorporating both experts and public input towards AI alignment.",
+			"link": {
+				"link_url": "https://pluralistic-alignment.github.io/",
+				"link_text": "Workshop website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@aed659643b542eeaf04bdd3703304646d55cee7f/images/LOGO-CSCW-e1703866772172.png",
+			"title": "SFL presents three papers at CSCW 2024, plus a SIG and a workshop",
+			"date": "Nov 2024",
+			"description": "SFL had 3 papers at CSCW 2024! Ruotong led one paper on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3637312\">meeting bridges</a>\", information artifacts that bridge synchronous and asynchronous collaboration. Amy had two papers, one on \"<a href=\"https://dl.acm.org/doi/abs/10.1145/3641006\">Form-From</a>\", a design space for social media systems, and one on the <a href=\"https://dl.acm.org/doi/abs/10.1145/3641010\">FABLE framework</a> for measuring misinformation harms. In addition, Galen co-organized a <a href=\"https://dl.acm.org/doi/abs/10.1145/3678884.3687141\">SIG on community-driven models</a> for research on social platforms",
+			"link": {
+				"link_url": "https://cscw.acm.org/2024/",
+				"link_text": "CSCW website"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@daf909cca4859d8d9e08af15965470ba35ba08db/images/madrona-prize-peoples-choice-prize-presentation_kristine-white-e1730441808548.jpg",
+			"title": "Ruotong wins the Madrona Prize at the Allen School Research Day",
+			"date": "Nov 2024",
+			"description": "The Madrona Prize is given by Madrona Ventures during the UW Allen School's Research Day where students and faculty present on their research work. The prize is intended for promising and innovative research that is also commercializable. Ruotong won this year for her work on designing AI-based systems to support collaborative remote work! Congrats Ruotong and collaborators!",
+			"link": {
+				"link_url": "https://www.geekwire.com/2024/the-winning-ideas-at-the-uw-computer-science-school-annual-research-showcase/",
+				"link_text": "Geekwire article"
+			}
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@6587c40cb647ea83be775b9fca7694d2c3ee4f3f/images/andre.jpg",
+			"title": "Andre presents his paper on language models for critical thinking at COLM 2024",
+			"date": "Oct 2024",
+			"description": "Andre attended the first COLM in Philadelphia, PA to present his paper where he interviewed philosophers to understand how they might use language models in their work as critical thinkers (spoiler alert: they don't find them very helpful!).&nbsp;",
+			"link": {
+				"link_url": "https://arxiv.org/abs/2404.04516",
+				"link_text": "Paper link"
+			}
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@4fc571722112a37f44a3ad04aada45b928b92e97/images/galenpresentation.png",
 			"title": "Galen presents work on online community values at ICWSM 2024",
 			"date": "June 2024",
@@ -19,6 +59,16 @@
 				"link_url": "https://facctconference.org/2024/",
 				"link_text": "FAccT 2024 website"
 			}
+		},
+		{
+			"title": "Amy appeared on the Techdirt podcast",
+			"date": "May 2024",
+			"description": "Amy spoke with Mike Masnick of Techdirt on his podcast, on content moderation and decentralization. The episode is - Episode 392: Platform Moderation Or Individual Control?",
+			"link": {
+				"link_url": "https://www.techdirt.com/2024/05/21/techdirt-podcast-episode-392-platform-moderation-or-individual-control/",
+				"link_text": "Podcast link"
+			},
+			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@037afa4e2c60d28b4bf1976d546dddebf7bc9ab8/images/600x600bb.jpeg"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@bd0ca2dde9eff3494f3fe64a51c5933bf98d00a4/images/CHIphoto.png",
