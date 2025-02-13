@@ -1,14 +1,17 @@
 {
 	"area": [
 		{
-			"title": "New Mediums for Discourse",
-			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for exchange. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
+			"title": "Foundations of New Sociotechnical Systems",
+			"description": "<span style=\"font-size: 14px;\">We explore and innovate future social media platforms that are inclusive, safe, and tailored to diverse user needs.</span>",
 			"author2": [
 				{
 					"author_name2": "Ruotong Wang"
 				},
 				{
-					"author_name2": "Simran Malhi"
+					"author_name2": "Kevin Feng"
+				},
+                {
+					"author_name2": "Leijie Wang"
 				}
 			],
 			"project": [
@@ -28,14 +31,19 @@
 			}
 		},
 		{
-			"title": "Community Self-Governance",
-			"description": "<span style=\"font-size: 14px;\">Despite their growth, online communities have few tools to shape their own norms and rules, resulting in top-down governance structures that cause burn out and strife. We design democratic structures that support community resilience as well as tools for self-governance.</span>",
+			"title": "Participatory Governance",
+			"description": "<span style=\"font-size: 14px;\">We design democratic structures that support community resilience as well as tools for self-governance.</span>",
 			"project": [
 				{
 					"project_url": "http://policykit.org/",
 					"project_name": "PolicyKit",
 					"@type": "item"
 				},
+                {
+                    "project_url": "http://policykit.org/",
+					"project_name": "Pika",
+					"@type": "item"
+                },
 				{
 					"project_url": "http://digitaljuries.com/",
 					"project_name": "Digital Juries",
@@ -44,139 +52,124 @@
 			],
 			"author2": [
 				{
-					"author_name2": "Ricky Grannis-Vu"
-				},
-				{
-					"author_name2": "Jenny Fan"
-				},
-				{
-					"author_name2": "Peipei Nie"
-				},
-				{
 					"author_name2": "Galen Weld"
+				},
+				{
+					"author_name2": "Leijie Wang"
+				},
+				{
+					"author_name2": "Jina Yoon"
 				}
 			]
 		},
 		{
-			"title": "End User Empowerment and Localization",
-			"description": "<span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Many applications and models today follow a one-size-fits-all approach, leaving marginalized groups with no recourse. Instead, we consider tools that give power back to end users so they can build solutions that suit them. And we design new applications and models that can take into account social nuances and different perspectives.</span>",
+			"title": "Interpersonal Online Trust and Safety  ",
+			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">We reimagine social media to push against online harassment and promote pro-social interactions.</span>",
 			"project": [
 				{
+					"@type": "item",
+					"project_url": "",
+					"project_name": "Online Reporting Systems"
+				},
+				{
+					"project_url": "",
+					"project_name": "FilterBuddy",
+					"@type": "item"
+				},
+                {
 					"project_url": "https://squadbox.org/",
 					"project_name": "Squadbox",
 					"@type": "item"
-				},
-				{
-					"project_url": "http://murmur.csail.mit.edu/",
-					"project_name": "Murmur",
-					"@type": "item"
-				},
-				{
-					"project_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf",
-					"project_name": "Goldilocks",
-					"@type": "item"
 				}
 			],
 			"author2": [
 				{
-					"author_name2": "Shagun Jhaver"
+					"author_name2": "Leijie Wang"
 				},
-				{
+                {
 					"author_name2": "Quan Ze (Jim) Chen"
 				},
-				{
-					"author_name2": "Ruotong Wang"
-				},
-				{
-					"author_name2": "Adithi Raghavan"
-				},
-				{
-					"author_name2": "Alice Zhang"
-				},
-				{
-					"author_name2": "Andre Ye"
-				}
+                {
+                    "author_name2": "Jina Yoon"
+                }
 			]
 		},
-		{
-			"title": "Collaboration and Knowledge Management",
-			"description": "<span style=\"font-size: 14px;\">Production and knowledge management is increasingly done by (sometimes large) groups of people working together with different skill sets and domain expertise. We design new software tools and human-AI hybrid systems to help groups achieve goals and collectively organize information.</span>",
+        {
+			"title": "Improving Online Discourse",
+			"description": "<span style=\"font-size: 14px;\">The tools we use for online discussion have changed little in decades. But these designs bake in assumptions about discussion that limit our capabilities for exchange. How can we design new mediums for online discourse that make it easier to listen, share, and create?</span>",
 			"project": [
-				{
-					"@type": "item",
-					"project_name": "DS Collaboration",
-					"project_url": "https://arxiv.org/pdf/2001.06684.pdf"
+                {
+					"project_name": "Tilda",
+					"project_url": "http://tildachat.com/",
+					"@type": "item"
 				},
 				{
-					"project_url": "http://tildachat.com/",
-					"project_name": "Tilda",
+					"project_url": "http://wikum.org/",
+					"project_name": "Wikum",
 					"@type": "item"
 				}
 			],
 			"author2": [
-				{
-					"author_name2": "Ruotong Wang"
-				},
 				{
 					"author_name2": "Kevin Feng"
 				},
-				{
-					"author_name2": "Ge Zhang"
+                {
+					"author_name2": "Ruotong Wang"
 				}
 			]
 		},
-		{
-			"title": "Pro-Social Platform Design",
-			"description": "<!--?xml version=\"1.0\" encoding=\"UTF-8\"?--> <span style=\"/* font-family: -webkit-standard; */font-size: 14px;\">Online platforms find themselves host to harassing behavior, polarizing discourse, and disinformation campaigns. How can we reimagine social media to push back against bad actors, promote pro-social interaction and credible information, and respect privacy? How do we guard against negative emergent properties?</span>",
+        {
+			"title": "Information Management and Creativity Support",
+			"description": "<span style=\"font-size: 14px;\">We design new software tools and human-AI hybrid systems to support group collaboration and creative work.</span>",
 			"project": [
+
+			],
+			"author2": [
 				{
-					"@type": "item",
-					"project_url": "https://credibilitycoalition.org/",
-					"project_name": "Credibility Coalition"
+					"author_name2": "Kevin Feng"
 				},
-				{
-					"project_url": "http://eyebrowse.csail.mit.edu/",
-					"project_name": "Eyebrowse",
+                {
+					"author_name2": "Alicia Guo"
+				}
+			]
+		},
+        {
+			"title": "Socially Situated AI",
+			"description": "<span style=\"font-size: 14px;\">We create AI tools that capture socially-constructed concepts as well as AI agents for everyday use of social media.</span>",
+			"project": [
+                {
+					"project_url": "https://homes.cs.washington.edu/~cqz/pubs/goldilocks_preprint.pdf",
+					"project_name": "Goldilocks",
 					"@type": "item"
-				}
+				},
+                {
+                    "@type": "item",
+					"project_name": "Case Law",
+					"project_url": ""
+                },
+                {
+                    "@type": "item",
+					"project_name": "Confidence Contours",
+					"project_url": ""
+                },
+                {
+                    "@type": "item",
+					"project_name": "Skin Tone",
+					"project_url": ""
+                }
 			],
 			"author2": [
 				{
-					"author_name2": "Shagun Jhaver"
+					"author_name2": "Quan Ze (Jim) Chen"
 				},
-				{
-					"author_name2": "Wenjia Hu"
+                {
+					"author_name2": "Kevin Feng"
 				},
-				{
-					"author_name2": "Emelia May Hughes"
+                {
+					"author_name2": "Teanna Barrett"
 				},
-				{
-					"author_name2": "Renee Wang"
-				},
-				{
-					"author_name2": "Ryan Li"
-				},
-				{
-					"author_name2": "Alice Zhang"
-				},
-				{
-					"author_name2": "Peipei Nie"
-				}
-			]
-		},
-		{
-			"title": "Public Interest Technology",
-			"description": "<span style=\"font-size: 14px;\">Technology presents exciting opportunities but also many challenges for strengthening public institutions and civil society. How can technology help with broadening participation in civic activity, connecting people at the local level with support, and getting broad access to public resources and information?</span>",
-			"project": [
-				{
-					"@type": "item",
-					"project_url": "https://social.cs.washington.edu/pub_details.html?id=communityclick",
-					"project_name": "CommunityClick"
-				}
-			],
-			"author2": [
-				{
-					"author_name2": "Anson Huang"
+                {
+					"author_name2": "Andre Ye"
 				}
 			]
 		}
