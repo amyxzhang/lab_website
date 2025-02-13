@@ -1,6 +1,54 @@
 {
 	"paper": [
 		{
+			"title": "Community-Driven Models for Research on Social Platforms",
+			"author": [
+				{
+					"author_name": "Sanjay Kairam"
+				},
+				{
+					"author_name": "Michael S. Bernstein"
+				},
+				{
+					"author_name": "Amy S. Bruckman"
+				},
+				{
+					"author_name": "Stevie Chancellor"
+				},
+        {
+					"author_name": "Eshwar Chandrasekharan"
+				},
+        {
+					"author_name": "Munmun De Choudhury"
+				},
+        {
+					"author_name": "Casey Fiesler"
+				},
+        {
+					"author_name": "Hanlin Li"
+				},
+        {
+					"author_name": "Nicholas Proferes"
+				},
+        {
+					"author_name": "Manoel Horta Ribeiro"
+				},
+        {
+					"author_name": "C. Estelle Smith"
+				},
+        {
+					"author_name": "Galen Weld"
+				}
+			],
+			"publication_type": "Special Interest Group",
+			"conference url": "https://cscw.acm.org/2024/",
+			"conference": "CSCW",
+			"year": "2024",
+			"links": {
+				"pdf_url": "https://dl.acm.org/doi/10.1145/3678884.3687141"
+			}
+		},
+    {
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@a2bb5b62bef38b57e0f1fec5f1ac15a925900629/images/writing.png",
 			"title": "Preserving Writer Values in AI Writing Assistance Tools",
 			"author": [
